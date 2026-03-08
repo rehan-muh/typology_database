@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TypoVerse 3000 — Planetary Linguistic Inference Array</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="nebula"></div>
+    <header class="hero">
+      <section>
+        <p class="eyebrow">Interstellar Typological Command Deck</p>
+        <h1>TypoVerse 3000</h1>
+        <p>
+          Federation-scale language intelligence platform unifying typological databases
+          for spatial, phylogenetic, feature-level, inferential and simulation analysis.
+        </p>
+      </section>
+      <section id="stats" class="stats"></section>
+    </header>
+
+    <main>
+      <section class="panel grid-4">
+        <article>
+          <h2>Federated Sources</h2>
+          <div id="dbChips" class="chips"></div>
+          <div id="connectorHealth" class="mini-log"></div>
+        </article>
+        <article>
+          <h2>Data Filters</h2>
+          <label>Family <select id="familyFilter"></select></label>
+          <label>Macroarea <select id="macroareaFilter"></select></label>
+          <label>Min temperature <input id="minTemp" type="range" min="-15" max="35" value="-15" /><span id="minTempVal">-15</span></label>
+          <label>Max humidity <input id="maxHumidity" type="range" min="20" max="95" value="95" /><span id="maxHumidityVal">95</span></label>
+        </article>
+        <article>
+          <h2>Feature Axes</h2>
+          <label>X <select id="xFeature"></select></label>
+          <label>Y <select id="yFeature"></select></label>
+          <label>Color <select id="colorFeature"></select></label>
+          <label>Size <select id="sizeFeature"></select></label>
+        </article>
+        <article>
+          <h2>Clustering & Export</h2>
+          <label>Method <select id="clusterMethod"><option value="kmeans">k-means</option><option value="ward">Ward-like</option><option value="dbscan">DBSCAN-like</option><option value="spectral">Spectral-lite</option></select></label>
+          <label>k <input id="kClusters" type="range" min="2" max="12" value="5" /><span id="kValue">5</span></label>
+          <label>eps <input id="eps" type="range" min="0.3" max="3.2" step="0.1" value="1.5" /><span id="epsVal">1.5</span></label>
+          <button id="recompute">Recompute</button>
+          <button id="exportCsv">Export current view CSV</button>
+        </article>
+      </section>
+
+      <section class="panel grid-2">
+        <article>
+          <h2>Spatial Atlas</h2>
+          <div id="map"></div>
+        </article>
+        <article>
+          <h2>Feature Scatter + Regression</h2>
+          <svg id="scatter" viewBox="0 0 760 460"></svg>
+          <div id="scatterStats" class="inline"></div>
+        </article>
+      </section>
+
+      <section class="panel grid-2">
+        <article>
+          <h2>Phylogenetic Tree</h2>
+          <svg id="phylo" viewBox="0 0 760 440"></svg>
+        </article>
+        <article>
+          <h2>PCA Feature Space</h2>
+          <svg id="pca" viewBox="0 0 760 440"></svg>
+          <div id="pcaStats" class="inline"></div>
+        </article>
+      </section>
+
+      <section class="panel grid-2">
+        <article>
+          <h2>Correlation Matrix</h2>
+          <canvas id="corr" width="760" height="460"></canvas>
+        </article>
+        <article>
+          <h2>Feature Network</h2>
+          <svg id="network" viewBox="0 0 760 460"></svg>
+        </article>
+      </section>
+
+      <section class="panel grid-2">
+        <article>
+          <h2>Covariate Lab</h2>
+          <div id="covariates" class="stack"></div>
+          <h3>Permutation Test</h3>
+          <label>Feature <select id="permFeature"></select></label>
+          <label>Covariate <select id="permCovariate"><option value="temperature">temperature</option><option value="humidity">humidity</option><option value="elevation">elevation</option><option value="precipitation">precipitation</option><option value="forestCover">forestCover</option></select></label>
+          <label>Iterations <input id="permN" type="range" min="200" max="2000" step="100" value="800" /><span id="permNVal">800</span></label>
+          <button id="runPerm">Run permutation</button>
+          <div id="permOutput" class="metric"></div>
+        </article>
+        <article>
+          <h2>Hypothesis Workbench</h2>
+          <label>Hypothesis A feature <select id="hypA"></select></label>
+          <label>Hypothesis B feature <select id="hypB"></select></label>
+          <label>Control covariate <select id="hypControl"><option value="temperature">temperature</option><option value="humidity">humidity</option><option value="elevation">elevation</option><option value="precipitation">precipitation</option><option value="forestCover">forestCover</option></select></label>
+          <button id="runHypothesis">Evaluate partial relationship</button>
+          <div id="hypOutput" class="metric"></div>
+
+          <h3>Nearest-Neighbour Query</h3>
+          <label>Language <select id="nnLanguage"></select></label>
+          <label>Neighbours <input id="nnK" type="range" min="1" max="8" value="4" /><span id="nnKVal">4</span></label>
+          <button id="runNN">Find nearest languages</button>
+          <div id="nnOutput" class="stack"></div>
+        </article>
+      </section>
+
+      <section class="panel grid-2">
+        <article>
+          <h2>Cluster Table</h2>
+          <table id="clusterTable">
+            <thead><tr><th>Language</th><th>Family</th><th>Area</th><th>Cluster</th><th>Silhouette</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </article>
+        <article>
+          <h2>Temporal Scenario Simulator</h2>
+          <p>Project feature shifts under climate drift assumptions (demo model).</p>
+          <label>Years ahead <input id="yearsAhead" type="range" min="10" max="300" step="10" value="120" /><span id="yearsAheadVal">120</span></label>
+          <label>Temperature drift (°C) <input id="tempDrift" type="range" min="-5" max="8" step="0.5" value="2" /><span id="tempDriftVal">2.0</span></label>
+          <label>Humidity drift (%) <input id="humDrift" type="range" min="-30" max="30" step="1" value="4" /><span id="humDriftVal">4</span></label>
+          <button id="runSim">Run simulation</button>
+          <div id="simOutput" class="stack"></div>
+          <h3>Distance Matrix (top pairs)</h3>
+          <div id="distanceGrid" class="mono"></div>
+        </article>
+      </section>
+
+      <section class="panel">
+        <h2>Harmonization / QA / Model Log</h2>
+        <pre id="qa"></pre>
+      </section>
+    </main>
+
+    <footer>
+      TypoVerse 3000 demo uses synthetic data with real-style schemas. Replace adapters in
+      <code>app.js</code> with live ETL for production.
+    </footer>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
