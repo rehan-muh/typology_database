@@ -28,6 +28,8 @@ const FEATURE_META = {
 const FEATURE_KEYS = Object.keys(FEATURE_META);
 const COVARIATES = ["temperature", "humidity", "elevation", "precipitation", "forestCover"];
 const MAX_ANALYSIS_ROWS = 800;
+const DATA_CACHE_KEY = "typoverse-live-cache-v1";
+const CACHE_MAX_AGE_MS = 1000 * 60 * 60 * 24 * 180;
 
 const FALLBACK_ROWS = [
   mk("Quechua", "quy", "Quechuan", "South America", -13.5, -71.9, "quec1387", ["Quechuan", "Southern", "Cusco"]),
@@ -82,9 +84,28 @@ async function init() {
   bindUI();
   bindPageControls();
   bindCollapsibles();
-  await loadLiveData();
+  await loadDataOnce();
   initSelectors();
   recompute();
+}
+
+async function loadDataOnce() {
+  const cached = await readCacheBundle();
+  if (cached?.rows?.length) {
+    ALL_ROWS = cached.rows;
+    const ageMs = Date.now() - cached.cachedAt;
+    const ageDays = Math.floor(ageMs / (1000 * 60 * 60 * 24));
+    STATE.liveInfo = `Using stored local dataset (${ALL_ROWS.length.toLocaleString()} langs, ${ageDays}d old)`;
+    setDb("Glottolog", "ok", cached.glottologCount || ALL_ROWS.length, "cached");
+    setDb("WALS", "ok", cached.walsCount || 0, "cached");
+    renderDatabasePanel();
+
+    if (ageMs <= CACHE_MAX_AGE_MS) {
+      return;
+    }
+  }
+
+  await loadLiveData();
 }
 
 function bindPageControls() {
@@ -167,10 +188,20 @@ function bind(id, evt, fn) {
 }
 
 async function loadLiveData() {
-  const glottologUrl = "https://raw.githubusercontent.com/glottolog/glottolog-cldf/main/cldf/languoids.csv";
-  const walsUrl = "https://raw.githubusercontent.com/cldf-datasets/wals/main/cldf/languages.csv";
+  const glottologCandidates = [
+    "https://cdn.jsdelivr.net/gh/glottolog/glottolog-cldf@master/cldf/languoids.csv",
+    "https://raw.githubusercontent.com/glottolog/glottolog-cldf/master/cldf/languoids.csv",
+    "https://raw.githubusercontent.com/glottolog/glottolog-cldf/main/cldf/languoids.csv"
+  ];
+  const walsCandidates = [
+    "https://cdn.jsdelivr.net/gh/cldf-datasets/wals@main/cldf/languages.csv",
+    "https://raw.githubusercontent.com/cldf-datasets/wals/main/cldf/languages.csv"
+  ];
   try {
-    const [gText, wText] = await Promise.all([fetchText(glottologUrl), fetchText(walsUrl)]);
+    const [gText, wText] = await Promise.all([
+      fetchFirstAvailable(glottologCandidates),
+      fetchFirstAvailable(walsCandidates)
+    ]);
     const glottologRows = parseCsv(gText);
     const walsRows = parseCsv(wText);
 
@@ -205,12 +236,75 @@ async function loadLiveData() {
     STATE.liveInfo = `Live OK: ${transformed.length.toLocaleString()} languages`;
     setDb("Glottolog", "ok", transformed.length, "live@HEAD");
     setDb("WALS", "ok", walsRows.length, "live@HEAD");
+    await writeCacheBundle({
+      rows: transformed,
+      glottologCount: transformed.length,
+      walsCount: walsRows.length,
+      cachedAt: Date.now()
+    });
   } catch (err) {
     STATE.liveInfo = `Live sync failed, fallback active: ${String(err.message || err)}`;
-    setDb("Glottolog", "warn", FALLBACK_ROWS.length, "fallback");
-    setDb("WALS", "warn", 0, "fallback");
+    const cached = await readCacheBundle();
+    if (cached?.rows?.length) {
+      ALL_ROWS = cached.rows;
+      STATE.liveInfo = `Live failed; using stored dataset (${ALL_ROWS.length.toLocaleString()} langs)`;
+      setDb("Glottolog", "warn", cached.glottologCount || ALL_ROWS.length, "cached");
+      setDb("WALS", "warn", cached.walsCount || 0, "cached");
+    } else {
+      setDb("Glottolog", "warn", FALLBACK_ROWS.length, "fallback");
+      setDb("WALS", "warn", 0, "fallback");
+    }
   }
   renderDatabasePanel();
+}
+
+function openCacheDb() {
+  return new Promise((resolve, reject) => {
+    const req = indexedDB.open("TypoVerseCache", 1);
+    req.onupgradeneeded = () => {
+      const db = req.result;
+      if (!db.objectStoreNames.contains("kv")) {
+        db.createObjectStore("kv");
+      }
+    };
+    req.onsuccess = () => resolve(req.result);
+    req.onerror = () => reject(req.error);
+  });
+}
+
+async function readCacheBundle() {
+  if (!window.indexedDB) return null;
+  try {
+    const db = await openCacheDb();
+    const result = await new Promise((resolve, reject) => {
+      const tx = db.transaction("kv", "readonly");
+      const store = tx.objectStore("kv");
+      const req = store.get(DATA_CACHE_KEY);
+      req.onsuccess = () => resolve(req.result || null);
+      req.onerror = () => reject(req.error);
+    });
+    db.close();
+    return result;
+  } catch {
+    return null;
+  }
+}
+
+async function writeCacheBundle(bundle) {
+  if (!window.indexedDB) return;
+  try {
+    const db = await openCacheDb();
+    await new Promise((resolve, reject) => {
+      const tx = db.transaction("kv", "readwrite");
+      const store = tx.objectStore("kv");
+      const req = store.put(bundle, DATA_CACHE_KEY);
+      req.onsuccess = () => resolve();
+      req.onerror = () => reject(req.error);
+    });
+    db.close();
+  } catch {
+    // no-op: app still works with live/fallback paths
+  }
 }
 
 function fetchText(url) {
@@ -218,6 +312,18 @@ function fetchText(url) {
     if (!r.ok) throw new Error(`${url} -> HTTP ${r.status}`);
     return r.text();
   });
+}
+
+async function fetchFirstAvailable(urls) {
+  let lastError = null;
+  for (const url of urls) {
+    try {
+      return await fetchText(url);
+    } catch (err) {
+      lastError = err;
+    }
+  }
+  throw lastError || new Error("No reachable data URL");
 }
 
 function parseCsv(text) {
