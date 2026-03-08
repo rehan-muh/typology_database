@@ -1,0 +1,157 @@
+:root {
+  --bg: #050816;
+  --panel: #0e1631cc;
+  --accent: #7af5ff;
+  --accent2: #8c6dff;
+  --text: #f3f9ff;
+  --muted: #b6c5d8;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  color: var(--text);
+  background: radial-gradient(circle at top right, #1f2f71, #050816 45%);
+}
+
+.hero {
+  padding: 2.2rem clamp(1rem, 4vw, 3.5rem);
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1rem;
+  align-items: center;
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+h1 {
+  margin: 0.3rem 0;
+  font-size: clamp(2rem, 5vw, 3.2rem);
+}
+
+main {
+  padding: 0 1rem 2rem;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.panel {
+  background: var(--panel);
+  backdrop-filter: blur(8px);
+  border: 1px solid #6dc6ff44;
+  border-radius: 18px;
+  padding: 1rem;
+  margin: 0.8rem 0;
+  box-shadow: 0 8px 32px #01041177;
+}
+
+.grid-2 {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+#map {
+  height: 420px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.stats {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.stat {
+  background: #132245;
+  border: 1px solid #6f8fdd66;
+  padding: 0.75rem;
+  border-radius: 12px;
+}
+
+.db-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.db-chip {
+  background: linear-gradient(120deg, #16396f, #2f246f);
+  color: white;
+  border: 1px solid #95b9ff66;
+  border-radius: 999px;
+  padding: 0.35rem 0.7rem;
+  font-size: 0.85rem;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.85rem;
+  color: var(--muted);
+}
+
+select,
+input[type="range"] {
+  width: 100%;
+  margin-top: 0.3rem;
+  background: #0f1c3d;
+  color: var(--text);
+  border: 1px solid #5f7fbb66;
+  border-radius: 8px;
+  padding: 0.45rem;
+}
+
+#coOccurrence {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 0.35rem;
+}
+
+.co-cell {
+  padding: 0.5rem;
+  border-radius: 8px;
+  font-size: 0.8rem;
+  border: 1px solid #ffffff24;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+th,
+td {
+  padding: 0.4rem;
+  border-bottom: 1px solid #ffffff26;
+  text-align: left;
+}
+
+#covariates .metric {
+  margin: 0.5rem 0;
+  background: #102347;
+  border: 1px solid #81b4ff44;
+  border-radius: 10px;
+  padding: 0.6rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  color: var(--muted);
+}
+
+@media (max-width: 850px) {
+  .hero {
+    grid-template-columns: 1fr;
+  }
+}
