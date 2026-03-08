@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TypoVerse 3000</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Linguistic Intelligence Console</p>
+        <h1>TypoVerse 3000</h1>
+        <p>
+          A sleek cross-database language lab unifying WALS, PHOIBLE, Glottolog,
+          AUTOTYP, D-PLACE, ASJP, IDS, and Lexibank-style features into one
+          exploratory interface.
+        </p>
+      </div>
+      <div class="stats" id="stats"></div>
+    </header>
+
+    <main>
+      <section class="panel grid-2">
+        <article>
+          <h2>Data Fusion</h2>
+          <p>
+            The harmonizer ingests typological and lexical features, aligns language
+            IDs, and computes derived analytics.
+          </p>
+          <div class="db-chips" id="dbChips"></div>
+        </article>
+        <article>
+          <h2>Controls</h2>
+          <label>
+            Family Filter
+            <select id="familyFilter"></select>
+          </label>
+          <label>
+            Clustering Method
+            <select id="clusterMethod">
+              <option value="kmeans">K-Means (feature space)</option>
+              <option value="ward">Ward-like Agglomerative</option>
+            </select>
+          </label>
+          <label>
+            Number of Clusters: <span id="kValue">3</span>
+            <input type="range" id="kClusters" min="2" max="6" value="3" />
+          </label>
+        </article>
+      </section>
+
+      <section class="panel">
+        <h2>Spatial Linguistic Landscape</h2>
+        <div id="map"></div>
+      </section>
+
+      <section class="panel grid-2">
+        <article>
+          <h2>Phylogenetic Structure</h2>
+          <svg id="tree" viewBox="0 0 700 420"></svg>
+        </article>
+        <article>
+          <h2>Feature Co-occurrence Matrix</h2>
+          <div id="coOccurrence"></div>
+        </article>
+      </section>
+
+      <section class="panel grid-2">
+        <article>
+          <h2>Clustering Output</h2>
+          <table id="clusterTable">
+            <thead>
+              <tr><th>Language</th><th>Family</th><th>Cluster</th></tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </article>
+        <article>
+          <h2>Covariate Relationships</h2>
+          <div id="covariates"></div>
+        </article>
+      </section>
+    </main>
+
+    <footer>
+      <p>
+        Built for exploratory research. Replace demo JSON endpoints with full API
+        connectors for production-scale typological mining.
+      </p>
+    </footer>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
