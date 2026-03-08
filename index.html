@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>TypoVerse 3000</title>
+    <title>TypoVerse 3000 — Hyperdimensional Linguistic Observatory</title>
     <link
       rel="stylesheet"
       href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -19,87 +19,150 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
+    <div class="aurora"></div>
     <header class="hero">
       <div>
-        <p class="eyebrow">Linguistic Intelligence Console</p>
+        <p class="eyebrow">Planetary Linguistic Systems Interface</p>
         <h1>TypoVerse 3000</h1>
         <p>
-          A sleek cross-database language lab unifying WALS, PHOIBLE, Glottolog,
-          AUTOTYP, D-PLACE, ASJP, IDS, and Lexibank-style features into one
-          exploratory interface.
+          A 30th-century workbench for typological science: harmonize many databases,
+          visualize language data across space, phylogeny and features, model
+          covariates, infer clusters, and interrogate co-occurrence dynamics.
         </p>
       </div>
       <div class="stats" id="stats"></div>
     </header>
 
     <main>
-      <section class="panel grid-2">
+      <section class="panel grid-3 controls-panel">
         <article>
-          <h2>Data Fusion</h2>
+          <h2>Data Federation</h2>
           <p>
-            The harmonizer ingests typological and lexical features, aligns language
-            IDs, and computes derived analytics.
+            Simulated pipelines for WALS, PHOIBLE, Glottolog, AUTOTYP, D-PLACE,
+            ASJP, IDS, Lexibank, APiCS, SAILS, and URIEL with connector health status.
           </p>
-          <div class="db-chips" id="dbChips"></div>
+          <div id="dbChips" class="db-chips"></div>
         </article>
+
         <article>
-          <h2>Controls</h2>
-          <label>
-            Family Filter
-            <select id="familyFilter"></select>
-          </label>
+          <h2>Filters & Feature Space</h2>
+          <label>Family <select id="familyFilter"></select></label>
+          <label>Macroarea <select id="macroareaFilter"></select></label>
+          <label>X Feature <select id="xFeature"></select></label>
+          <label>Y Feature <select id="yFeature"></select></label>
+          <label>Color Feature <select id="colorFeature"></select></label>
+        </article>
+
+        <article>
+          <h2>Model Settings</h2>
           <label>
             Clustering Method
             <select id="clusterMethod">
-              <option value="kmeans">K-Means (feature space)</option>
-              <option value="ward">Ward-like Agglomerative</option>
+              <option value="kmeans">K-means</option>
+              <option value="ward">Ward-like agglomerative</option>
+              <option value="dbscan">DBSCAN-like density</option>
             </select>
           </label>
           <label>
-            Number of Clusters: <span id="kValue">3</span>
-            <input type="range" id="kClusters" min="2" max="6" value="3" />
+            Cluster count (k): <span id="kValue">4</span>
+            <input id="kClusters" type="range" min="2" max="10" value="4" />
           </label>
-        </article>
-      </section>
-
-      <section class="panel">
-        <h2>Spatial Linguistic Landscape</h2>
-        <div id="map"></div>
-      </section>
-
-      <section class="panel grid-2">
-        <article>
-          <h2>Phylogenetic Structure</h2>
-          <svg id="tree" viewBox="0 0 700 420"></svg>
-        </article>
-        <article>
-          <h2>Feature Co-occurrence Matrix</h2>
-          <div id="coOccurrence"></div>
+          <label>
+            Density epsilon: <span id="epsValue">1.4</span>
+            <input id="densityEps" type="range" min="0.4" max="3" step="0.1" value="1.4" />
+          </label>
+          <button id="rerunBtn">Recompute all analytics</button>
         </article>
       </section>
 
       <section class="panel grid-2">
         <article>
-          <h2>Clustering Output</h2>
+          <h2>Spatial Typological Atlas</h2>
+          <div id="map"></div>
+        </article>
+        <article>
+          <h2>Feature Scatter & Trendline</h2>
+          <svg id="featureScatter" viewBox="0 0 700 440"></svg>
+          <div id="scatterStats" class="inline-metrics"></div>
+        </article>
+      </section>
+
+      <section class="panel grid-2">
+        <article>
+          <h2>Phylogenetic Signal Tree</h2>
+          <svg id="tree" viewBox="0 0 720 440"></svg>
+        </article>
+        <article>
+          <h2>Co-occurrence Correlation Matrix</h2>
+          <canvas id="corrCanvas" width="720" height="440"></canvas>
+          <div id="coOccurrenceLegend" class="inline-metrics"></div>
+        </article>
+      </section>
+
+      <section class="panel grid-2">
+        <article>
+          <h2>Feature Network Graph</h2>
+          <svg id="network" viewBox="0 0 720 420"></svg>
+        </article>
+        <article>
+          <h2>Covariate Diagnostics</h2>
+          <div id="covariates"></div>
+          <h3>Permutation Test</h3>
+          <label>
+            Feature
+            <select id="permFeature"></select>
+          </label>
+          <label>
+            Covariate
+            <select id="permCovariate">
+              <option value="temperature">temperature</option>
+              <option value="humidity">humidity</option>
+              <option value="elevation">elevation</option>
+              <option value="precipitation">precipitation</option>
+            </select>
+          </label>
+          <label>
+            Iterations: <span id="permNVal">400</span>
+            <input id="permN" type="range" min="100" max="1200" step="100" value="400" />
+          </label>
+          <button id="runPermBtn">Run permutation test</button>
+          <div id="permOutput" class="metric"></div>
+        </article>
+      </section>
+
+      <section class="panel grid-2">
+        <article>
+          <h2>Cluster Membership Table</h2>
           <table id="clusterTable">
             <thead>
-              <tr><th>Language</th><th>Family</th><th>Cluster</th></tr>
+              <tr>
+                <th>Language</th>
+                <th>Family</th>
+                <th>Macroarea</th>
+                <th>Cluster</th>
+                <th>Silhouette*</th>
+              </tr>
             </thead>
             <tbody></tbody>
           </table>
         </article>
+
         <article>
-          <h2>Covariate Relationships</h2>
-          <div id="covariates"></div>
+          <h2>Distance Matrix (Feature Space)</h2>
+          <div id="distanceMatrix" class="mono-grid"></div>
+          <p class="footnote">*Approximate silhouette computed from nearest-cluster contrast.</p>
         </article>
+      </section>
+
+      <section class="panel">
+        <h2>Data Quality & Harmonization Log</h2>
+        <pre id="qaLog" class="qa-log"></pre>
       </section>
     </main>
 
     <footer>
-      <p>
-        Built for exploratory research. Replace demo JSON endpoints with full API
-        connectors for production-scale typological mining.
-      </p>
+      TypoVerse 3000 demo uses embedded synthetic records for transparent reproducibility.
+      Swap the connectors in <code>app.js</code> for live APIs / snapshots.
     </footer>
 
     <script type="module" src="app.js"></script>
