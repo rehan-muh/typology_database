@@ -1,0 +1,79 @@
+:root {
+  --bg: #030713;
+  --panel: #0e1d41d6;
+  --line: #97c2ff40;
+  --text: #eaf7ff;
+  --muted: #a9c0d7;
+  --aqua: #69f6ff;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  color: var(--text);
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  background: radial-gradient(1000px 450px at 95% -10%, #2a48a0, transparent), radial-gradient(900px 600px at -15% 110%, #204f6d, transparent), var(--bg);
+}
+.bg-glow { position: fixed; inset: -12%; background: conic-gradient(from 65deg, #6adfff25, #8d71ff23, #76ffc821); filter: blur(80px); z-index: -1; pointer-events: none; }
+
+.topbar {
+  max-width: 1500px;
+  margin: 1rem auto 0;
+  padding: 1rem;
+  display: grid;
+  grid-template-columns: 1.2fr 0.9fr 1.3fr;
+  gap: 1rem;
+}
+.eyebrow { margin: 0; text-transform: uppercase; letter-spacing: 0.14em; color: var(--aqua); font-size: 0.78rem; font-weight: 800; }
+h1 { margin: 0.4rem 0; font-size: clamp(2rem, 4vw, 3.4rem); }
+
+main { max-width: 1500px; margin: 0 auto; padding: 0 1rem 2rem; }
+.panel { background: linear-gradient(165deg, #152a59cd, #0d1736d8); border: 1px solid var(--line); border-radius: 18px; box-shadow: inset 0 1px 0 #d2e6ff1c, 0 16px 58px #000a1f78; margin: 0.85rem 0; padding: 1rem; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 0.45rem; }
+.stat { border: 1px solid #9ec5ff43; border-radius: 11px; padding: 0.5rem; background: #14244f; font-size: 0.86rem; }
+
+.controls .grid-4,
+.grid-2,
+.grid-3 { display: grid; gap: 1rem; }
+.controls .grid-4 { grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); }
+.grid-2 { grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); }
+.grid-3 { grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); }
+
+label { display: block; margin-bottom: 0.6rem; color: var(--muted); font-size: 0.9rem; }
+select, input[type='range'], button { width: 100%; margin-top: 0.2rem; }
+select, input[type='range'] { border: 1px solid #789fdc66; border-radius: 9px; background: #0a1739; color: var(--text); padding: 0.44rem; }
+button { border: 1px solid #93f5ff66; border-radius: 10px; background: linear-gradient(120deg, #2b548f, #59359e); color: #fff; padding: 0.5rem; font-weight: 700; cursor: pointer; margin-bottom: 0.35rem; }
+button:hover { filter: brightness(1.06); }
+
+.chips { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.chip { border: 1px solid #b0cbff55; border-radius: 999px; padding: 0.27rem 0.64rem; font-size: 0.78rem; background: linear-gradient(120deg, #1e3d73, #3e2f73); }
+.chip.ok { box-shadow: inset 0 0 0 1px #8effd15f; }
+.chip.warn, .chip.pending { box-shadow: inset 0 0 0 1px #ffdca75a; }
+.chip.loading { box-shadow: inset 0 0 0 1px #88d3ff5a; }
+.mini { font-size: 0.8rem; margin-top: 0.55rem; color: #d6e8ff; }
+
+.page { display: none; }
+.page.active { display: block; }
+
+.collapsible .panel-head { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #ffffff1a; padding-bottom: 0.45rem; margin-bottom: 0.75rem; }
+.collapsible .panel-head h2 { margin: 0; }
+.collapse-btn { width: auto; padding: 0.2rem 0.7rem; margin: 0; }
+.collapsible.collapsed .panel-body { display: none; }
+
+#map { height: 470px; border-radius: 12px; overflow: hidden; }
+svg, canvas { width: 100%; max-width: 100%; border: 1px solid #93beff26; border-radius: 12px; background: #091734c8; }
+.inline { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.55rem; }
+.pill { border: 1px solid #a7c9ff44; border-radius: 999px; padding: 0.23rem 0.62rem; font-size: 0.79rem; background: #102247; }
+.stack { display: grid; gap: 0.45rem; }
+.metric { border: 1px solid #8db2ff4e; border-radius: 9px; background: #102347; padding: 0.55rem; font-size: 0.88rem; }
+
+#clusterTable { width: 100%; border-collapse: collapse; font-size: 0.86rem; }
+#clusterTable th, #clusterTable td { text-align: left; border-bottom: 1px solid #ffffff24; padding: 0.36rem; }
+.mono { display: grid; grid-template-columns: repeat(auto-fit, minmax(85px, 1fr)); gap: 0.28rem; }
+.mono-cell { border: 1px solid #ffffff1f; border-radius: 7px; padding: 0.23rem; text-align: center; font-size: 0.73rem; }
+pre { margin: 0; border: 1px solid #93bbff42; border-radius: 10px; background: #0a1738; max-height: 260px; overflow: auto; padding: 0.72rem; }
+
+footer { text-align: center; color: var(--muted); padding: 0.2rem 1rem 1.4rem; }
+
+@media (max-width: 1100px) {
+  .topbar { grid-template-columns: 1fr; }
+}
