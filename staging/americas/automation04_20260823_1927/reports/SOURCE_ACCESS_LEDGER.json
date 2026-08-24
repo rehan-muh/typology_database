@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {"source_id": "herold1996_kaingang_central", "rows": 49, "access": "complete searchable 186-page dissertation; screenshots attempted and failed", "scope": "Central dialect plus explicit dialect comparison"},
+    {"source_id": "fleck2003_matses", "rows": 58, "access": "author-uploaded searchable dissertation/TOC plus later Fleck restatement for exact allophony/stress", "scope": "Chapter 2 pp.69–201 exhausted at exact/body or explicit process-family granularity"},
+    {"source_id": "kroeber1907_washo", "rows": 39, "access": "searchable 71-page primary archival sketch; screenshots attempted and failed", "scope": "phonetics, phonotactics, morphophonology, reduplication"}
+  ],
+  "deferred": [
+    {"source": "Jacobsen 1964 Washo grammar", "status": "702-page image-only scan recovered; pdftotext yielded no body text", "action": "deferred rather than bulk OCR; chapter TOC located for next run"},
+    {"source": "Nivacle 2020 grammar", "status": "high-yield TOC discovered but not atomized in this run", "action": "next-run candidate"}
+  ],
+  "shared_curated_denominator_edits": 0
+}
