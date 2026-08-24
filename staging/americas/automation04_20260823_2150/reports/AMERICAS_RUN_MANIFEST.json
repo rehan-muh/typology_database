@@ -1,0 +1,21 @@
+{
+  "worker_shard":"AMERICAS",
+  "valid_new_observations":149,
+  "source_streams":3,
+  "language_identities":3,
+  "batch_counts":{"Nez Perce / Aoki 1970":52,"Awa Pit / Curnow 1997":58,"Mam / England 1983":39},
+  "confidence_counts":{"high":140,"medium":9},
+  "broken_dependency_links":0,
+  "semantic_candidate_pairs_at_078":3,
+  "automatic_deletions":0,
+  "shared_curated_denominator_edits":0,
+  "remote_source_commits":{"Nez Perce":"a468b651c7455dbe3eca6016552ef295caf3675d","Awa Pit":"ecd51fb5bc3dfd899f67b97ceb0b6baee9c7a2ce","Mam":"cc18cd56a3bcab5e6e64d1cd1d8e3fef16ed2992"},
+  "validation_commits":{"wrapper_validator":"96ce4ac7a10b498d0ed57cd2091bbe1397cbcc2d","wrapped_validation":"69032fec23394128cf83766b749e7b84b1eb8c2a","semantic_audit":"f39deb5e138f106e4b50cfa71f57ef0ffe15115d","source_ledger":"812795e829168f6be9a6e352a1104249fbb58803"},
+  "next_run_queue":[
+    "Nez Perce: Rude/Aoki dictionary and later phonetics for speaker- and age-resolved vowel harmony, glottalized continuants, stress, and Salish-contact claims.",
+    "Awa Pit: direct Calvache Duenas, Henriksen & Henriksen, Obando, and Montaluisa reconciliation for /r~t/, fricatives, final nasal versus nasal vowel, and voiceless-vowel chronology.",
+    "Mam: recover clean pp.25-41 phonetic tables/rules plus Maldonado et al. and dialect surveys for glottalized-series phonetics, syllable canon, unstressed-vowel neutralization, and town-level variation.",
+    "Open one fresh North American family and one unrelated South American family in parallel; prefer complete searchable primary grammars.",
+    "Keep all rows staging-only until source/lect/time reconciliation is complete."
+  ]
+}
