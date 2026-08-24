@@ -1,0 +1,44 @@
+{
+  "run_id": "AMERICAS_20260824_0003",
+  "valid_new_observations": 164,
+  "batch_counts": {
+    "hup_epps2005": 49,
+    "arapaho_cowell_moss2008": 23,
+    "arapaho_gleim2019": 15,
+    "kashaya_oswalt1961": 30,
+    "kashaya_buckley2015_fleeting": 7,
+    "kashaya_buckley2014_stress": 8,
+    "iquito_michael2010": 32
+  },
+  "language_identities": 4,
+  "source_streams": 7,
+  "confidence_counts": {"high": 157, "medium": 7},
+  "source_sequences": {
+    "buckley2014_kashaya_stress": {"rows": 8, "contiguous": true},
+    "buckley2015_kashaya_fleeting": {"rows": 7, "contiguous": true},
+    "cowell_moss2008_arapaho": {"rows": 23, "contiguous": true},
+    "epps2005_hup": {"rows": 49, "contiguous": true},
+    "gleim2019_arapaho_epenthesis": {"rows": 15, "contiguous": true},
+    "michael2010_iquito_prosody": {"rows": 32, "contiguous": true},
+    "oswalt1961_kashaya": {"rows": 30, "contiguous": true}
+  },
+  "unique_ids": true,
+  "unique_dedup_keys": true,
+  "broken_dependency_links": [],
+  "bundle_rehydration": {
+    "hup_epps2005.bundle.json": {"rows": 49, "sha256": "9ec661a05b1797cdc9ed4d193605695b20df8a533c627c57b1ad2f6fca9b7b8a", "bytes": 62724, "valid": true},
+    "arapaho_cowell_moss2008.bundle.json": {"rows": 23, "sha256": "0c4a229c649281359ea977eea8d38d032daeeca39abdf214e9401a05e0073e91", "bytes": 29362, "valid": true},
+    "arapaho_gleim2019.bundle.json": {"rows": 15, "sha256": "ec656bc5e148e584d697d37268ca0b9c922d744a9e2305b3216421274279f1fb", "bytes": 17486, "valid": true},
+    "kashaya_oswalt1961.bundle.json": {"rows": 30, "sha256": "13bbe8b36ad158797aaa691ce09e08e2719f3fb43e62da6c1059e0dd7f140462", "bytes": 38660, "valid": true},
+    "kashaya_buckley2015_fleeting.bundle.json": {"rows": 7, "sha256": "76800868b287f94ea249905d39092bc0e34f842a053127781dc23c31d9823c94", "bytes": 8673, "valid": true},
+    "kashaya_buckley2014_stress.bundle.json": {"rows": 8, "sha256": "6c170cc25ed3b524ce10f29835923110b86cbd04310f26a22a650ffcda38cbbe", "bytes": 8517, "valid": true},
+    "iquito_michael2010.bundle.json": {"rows": 32, "sha256": "ac60005949a0ba1e2cf66008ef65f9c89e4434dba1bf07346524753d8001df2b", "bytes": 41368, "valid": true}
+  },
+  "semantic_threshold": 0.78,
+  "semantic_candidate_pairs": [{"a":"hupd1244_epps2005_020","b":"hupd1244_epps2005_021","score":0.943,"decision":"retain_distinct"}],
+  "semantic_manual_review_complete": true,
+  "automatic_deletions": 0,
+  "shared_curated_denominator_edits": 0,
+  "errors": [],
+  "valid": true
+}
