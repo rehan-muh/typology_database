@@ -1,0 +1,83 @@
+{
+  "shard": "eurasia",
+  "staging_root": "staging/eurasia/automation01_20260824_0005",
+  "branch": "agent/phonology-eurasia-worker-20260824-0005",
+  "totals": {
+    "jsonl_files": 7,
+    "rows": 98,
+    "core_language_or_lect_complexes": 6,
+    "source_works": 7,
+    "families": 6
+  },
+  "sources": [
+    {
+      "file": "sources/hewrami_mohammadirad2026.jsonl",
+      "source_id": "mohammadirad2026_hewrami_grammar",
+      "language": "Hewramî (Tekht)",
+      "family": "Indo-European > Iranian > West Iranian",
+      "rows": 12,
+      "coverage": ["inventory", "vowel quantity", "syllable structure", "cluster repair", "stress", "allophony", "onset/coda phonotactics"],
+      "provenance": "pp. 11–20, 41–95; named sections/tables within grammar",
+      "doi": "10.5281/zenodo.17140766"
+    },
+    {
+      "file": "sources/hewrami_mohammadirad_karim2025_diachrony.jsonl",
+      "source_id": "mohammadirad_karim2025_hewrami_ipfv_subj",
+      "language": "Hewramî / Goranî varieties",
+      "family": "Indo-European > Iranian > West Iranian",
+      "rows": 9,
+      "coverage": ["regular sound change", "relative chronology", "prefix erosion", "morphologized stress", "ongoing generational change", "areal comparison", "analytical ambiguity"],
+      "provenance": "Linguistics 63(5):1265–1292; article sections explicitly named in rows",
+      "doi": "10.1515/ling-2023-0247"
+    },
+    {
+      "file": "sources/hinuq_forker2013.jsonl",
+      "source_id": "forker2013_hinuq_grammar",
+      "language": "Hinuq",
+      "family": "Nakh-Daghestanian > Tsezic",
+      "rows": 12,
+      "coverage": ["vowels", "vowel allophony", "syllable template", "superheavy syllables", "cluster repair", "minimal word", "geminates", "consonant distribution", "morphophonology/stress candidate scopes"],
+      "provenance": "chapter 2, pp.23–53; exact page or subsection per row",
+      "doi": "10.1515/9783110303971"
+    },
+    {
+      "file": "sources/udihe_kazama2022.jsonl",
+      "source_id": "kazama2022_udihe",
+      "language": "Udihe",
+      "family": "Tungusic",
+      "rows": 21,
+      "coverage": ["consonants", "vowels", "allophony", "harmony", "assimilation", "loan adaptation", "historical consonant loss", "creaky/breathy vowel decline", "syllable template", "length", "stress", "reduplication"],
+      "provenance": "Kazama 2022 grammar article, printed pp.5–7 plus scope; table and page provenance in rows"
+    },
+    {
+      "file": "sources/basque_hualde_ortiz2003.jsonl",
+      "source_id": "hualde_ortiz2003_basque_grammar",
+      "language": "Basque",
+      "family": "Language isolate",
+      "rows": 13,
+      "coverage": ["onsets", "codas", "nuclei", "loan phonotactics", "historical cluster emergence", "stop allophony", "neutralization", "old loan sound changes", "stress and dialect prosody"],
+      "provenance": "chapter 2, pp.15–112; exact subsection/page ranges in rows",
+      "doi": "10.1515/9783110895285"
+    },
+    {
+      "file": "sources/ket_georg2007.jsonl",
+      "source_id": "georg2007_ket_grammar",
+      "language": "Ket",
+      "family": "Yeniseian",
+      "rows": 19,
+      "coverage": ["four monosyllabic tonemes", "disyllabic/polysyllabic prosody", "vowel inventory and tone-conditioned allophony", "consonant inventory", "phoneme-analysis disagreements", "initial/final clusters", "morphophonology", "tone-only plurals", "contractive plurals"],
+      "provenance": "chapter 3 pp.47–87 and morphology pp.94–100; exact page/section per row"
+    },
+    {
+      "file": "sources/eastern_khanty_filchenko2007.jsonl",
+      "source_id": "filchenko2007_eastern_khanty",
+      "language": "Eastern Khanty (Vasyugan/Alexandrovo)",
+      "family": "Uralic > Ugric > Khanty",
+      "rows": 12,
+      "coverage": ["vowel inventory", "full/reduced contrast", "epenthesis", "backness vowel harmony", "harmony domain", "areal comparison", "syllable templates", "stress conditioning and noncontrastivity"],
+      "provenance": "phonology chapter; pp.20–21, 30, 73–75 and named sections/figure"
+    }
+  ],
+  "write_policy": "All outputs are shard-local staging artifacts. No shared curated denominator or canonical table was edited.",
+  "validation_tool": "tools/validate_jsonl.py"
+}
