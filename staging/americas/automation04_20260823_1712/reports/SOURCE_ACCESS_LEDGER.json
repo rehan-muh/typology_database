@@ -1,0 +1,41 @@
+{
+  "sources": [
+    {
+      "source_id": "haurholm_larsen2016_garifuna",
+      "rows": 56,
+      "access": "full searchable Chapter 2 pp.16–32; official Bern record located",
+      "visual": "no successful screenshot"
+    },
+    {
+      "source_id": "everett2006_karitiana",
+      "rows": 64,
+      "access": "complete searchable 486-page dissertation; Part I sampled exhaustively across chapters 1–10",
+      "visual": "representative screenshot attempts failed with cache miss"
+    },
+    {
+      "source_id": "rood1971_wichita_unusual_phonology",
+      "rows": 29,
+      "access": "complete searchable specialist paper inside 67-page ERIC proceedings PDF",
+      "visual": "screenshot attempt failed"
+    },
+    {
+      "source_id": "einaudi1976_biloxi",
+      "rows": 43,
+      "access": "full indexed Chapter I pp.14–52; historical/source-lineage normalization",
+      "visual": "not required because retrieved text page was HTML indexing, not PDF analyzer"
+    }
+  ],
+  "blocked_or_deferred": [
+    {
+      "source": "Jarawara Dixon 2004 Chapter 2",
+      "status": "OUP chapter abstract accessible but PDF redirected to unsafe/minimal endpoint",
+      "action": "staged no details beyond discovery; retry alternate complete text next run"
+    },
+    {
+      "source": "Kutenai/Ktunaxa primary full grammar",
+      "status": "available local PDFs were image-only and web PDF rendering failed",
+      "action": "deferred rather than OCR bulk extraction"
+    }
+  ],
+  "shared_curated_denominator_edits": 0
+}
