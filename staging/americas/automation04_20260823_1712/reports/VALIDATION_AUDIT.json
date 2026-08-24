@@ -1,0 +1,27 @@
+{
+  "rows": 192,
+  "counts": {
+    "garifuna": 56,
+    "karitiana": 64,
+    "wichita": 29,
+    "biloxi": 43
+  },
+  "confidence": {
+    "high": 182,
+    "medium": 10
+  },
+  "errors": [],
+  "broken_dependency_links": [],
+  "semantic_threshold": 0.78,
+  "semantic_candidate_pairs": [
+    {
+      "a": "wich1260_rood1971_006",
+      "b": "wich1260_rood1971_007",
+      "score": 0.842,
+      "decision": "retain_distinct"
+    }
+  ],
+  "automatic_deletions": 0,
+  "shared_curated_denominator_edits": 0,
+  "bundle_roundtrip_ok": true
+}
