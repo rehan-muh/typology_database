@@ -1,0 +1,22 @@
+{
+  "worker_shard":"AMERICAS",
+  "run_id":"20260824_0003",
+  "valid_new_observations":164,
+  "source_streams":7,
+  "language_identities":4,
+  "batch_counts":{"hup_epps2005":49,"arapaho_cowell_moss2008":23,"arapaho_gleim2019":15,"kashaya_oswalt1961":30,"kashaya_buckley2015_fleeting":7,"kashaya_buckley2014_stress":8,"iquito_michael2010":32},
+  "confidence_counts":{"high":157,"medium":7},
+  "broken_dependency_links":0,
+  "semantic_candidate_pairs_at_078":1,
+  "automatic_deletions":0,
+  "shared_curated_denominator_edits":0,
+  "tooling_improvements":["canonical UTF-8 JSONL plus gzip/base64 connector-safe wrappers pinned by SHA-256 and byte count","cross-source dependency mapping for explicit representational conflicts and specialist reanalyses","same-language semantic duplicate screen after dependency reconciliation"],
+  "next_run_queue":[
+    "Hup: exact §2.5 morpheme-boundary rules and §2.6 dialect tables; Ramirez 2006 and direct recent Naduhup tonogenesis/acoustic data for dialect and historical reconciliation.",
+    "Arapaho: recover full Cowell & Moss pp.13–50 and variation chapter; atomize intermorphemic rules, pitch-accent morphology, Initial Change and Oklahoma/Wyoming variation.",
+    "Kashaya: direct Oswalt 1961 PDF/archival phonology and Buckley 1992 for exact segment inventories, glottalized-sonorant versus sequence analysis, stress and vowel-length derivations.",
+    "Iquito: finish Michael 2010 tone section through phrase-level tonal interactions and integrate Sullón Acosta 2005/Grohman 2007 plus ILDP dictionary for segmental chronology.",
+    "Open one fresh Mesoamerican family and one unrelated South American family in parallel; pivot immediately from image-only sources.",
+    "Keep every row staging-only until source, lect, time and representational conflicts are reconciled."
+  ]
+}
