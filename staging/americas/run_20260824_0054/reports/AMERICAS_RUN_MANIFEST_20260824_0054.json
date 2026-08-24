@@ -1,0 +1,28 @@
+{
+  "worker_shard": "AMERICAS",
+  "run_id": "20260824_0054",
+  "valid_new_observations": 205,
+  "source_streams": 4,
+  "language_identities": 4,
+  "batch_counts": {"huamelultec_waterhouse1967":51,"eseejja_vuillermet2012":63,"kwakwala_sabakirchner2010":40,"oneida_abbott2006":51},
+  "confidence_counts": {"high":200,"medium":5},
+  "broken_dependency_links": 0,
+  "semantic_candidate_pairs_at_078": 2,
+  "automatic_deletions": 0,
+  "shared_curated_denominator_edits": 0,
+  "next_run_queue": [
+    "Huamelultec: Waterhouse & Morrison 1950 plus modern Maddieson/Avelino/O'Connor acoustic work; reconcile set symbols, glottalized sonorants, multiple stress, and current Astata/Huamelula change.",
+    "Ese Ejja: finish §5 loan adaptation and §7 exact segment-analysis tables; Key 1968/Wyma 1964 and sister-Tacanan comparison for implosives, glottal stop, diphthongs, and dialect chronology.",
+    "Kwak'wala: direct Boas 1947/1948, Grubb 1977, Wilson 1986, Bach et al. 2005 and modern dialect/acoustic work for vowel inventory, schwa provenance, weight and coda-laryngeal restrictions.",
+    "Oneida: complete remaining sound-rule summary and whispering classes; reconcile with Lounsbury/Michelson and community recordings, preserving Wisconsin/New York/Canada lect differences.",
+    "Open one fresh South American family and one fresh Mesoamerican family in parallel; immediately pivot from inaccessible image-only sources.",
+    "Keep every observation staging-only until source, lect, time and representation conflicts are independently reconciled."
+  ],
+  "source_checkpoint_commits": {
+    "huamelultec_waterhouse1967":"bd5beabab615fc2e9454915f7dcd67ad16d9fbd7",
+    "eseejja_vuillermet2012":"54446c9e9499a8dba2fdb2276ec0063a64d4a08a",
+    "kwakwala_sabakirchner2010":"907430b761027a9a73768c48391f5a19d84badd7",
+    "oneida_abbott2006":"d5efe70fc37f4d460607316b53157a3fe7a10fd6"
+  },
+  "branch":"agent/phonology-americas-worker-20260824-0054"
+}
