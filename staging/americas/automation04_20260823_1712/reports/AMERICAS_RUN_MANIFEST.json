@@ -1,0 +1,31 @@
+{
+  "run_label": "automation04_20260823_1712",
+  "worker_shard": "AMERICAS",
+  "valid_new_observations": 192,
+  "source_streams": 4,
+  "language_identities": 4,
+  "batch_counts": {
+    "garifuna": 56,
+    "karitiana": 64,
+    "wichita": 29,
+    "biloxi": 43
+  },
+  "confidence_counts": {
+    "high": 182,
+    "medium": 10
+  },
+  "unique_ids": true,
+  "unique_dedup_keys": true,
+  "broken_dependency_links": 0,
+  "semantic_candidate_pairs_at_078": 1,
+  "automatic_deletions": 0,
+  "shared_curated_denominator_edits": 0,
+  "validation_errors": [],
+  "next_run_queue": [
+    "Direct Taylor 1955/1956 and Suazo/Munro reconciliation for Garifuna: historical stop voicing, nasality, /p~f/ loan chronology, /h/ fluctuation, quantity, and stress by dialect/speaker.",
+    "Direct Storto 1999 plus later Karitiana acoustic work: test Everett’s incipient /b,d/ analysis, nasal timing, young-female vowel movement, stop lenition, length and stress.",
+    "Direct Rood 1976 Wichita Grammar plus Garvin 1950: exact 10-consonant/3-vowel surface inventory, three-way quantity, pitch derivations, cluster morphophonology, and time-slice differences.",
+    "Dorsey-Swanton 1912 and Haas 1968 Biloxi reconciliation: resolve corrupted legacy symbols, nasal vowels, length, marginal segments, and all 24 morphophonemic rules.",
+    "Open one fresh Central/South American primary grammar and one fresh North American family in parallel; retain staging-only status until independent reconciliation."
+  ]
+}
