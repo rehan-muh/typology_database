@@ -1,0 +1,15 @@
+{
+  "run_id": "AMERICAS_20260824_0054",
+  "sources": [
+    {"source_id":"waterhouse1967_huamelultec","rows":51,"access":"complete 19-page Handbook chapter","visual":"PDF screenshot attempted; cache miss","scope":"inventory through all seven morphophonemic processes"},
+    {"source_id":"vuillermet2012_eseejja","rows":63,"access":"complete 756-page searchable dissertation downloaded","visual":"web PDF renderer could not open source copy","scope":"Chapter 4 segmentals, phonotactics, analysis, morphophonology, nominal accent and intonation"},
+    {"source_id":"sabakirchner2010_kwakwala","rows":40,"access":"complete 237-page searchable dissertation","visual":"screenshot attempted; renderer/content-type failure","scope":"Chapter 2 source-lineage phonology, syllable weight, epenthesis, hardening/weakening, -mut reduplication"},
+    {"source_id":"abbott2006_oneida_teaching","rows":51,"access":"complete 163-page UW-Green Bay Teaching Grammar PDF downloaded","visual":"full PDF too large for web renderer; current UWGB page verifies source/provenance","scope":"segmental introduction, rhythms, prefix/stem rules, accent and whispering"}
+  ],
+  "blocked_or_deferred": [
+    {"source":"Kwak'wala direct Boas/Grubb/Wilson primary layers","status":"specialist chapter provides exact source provenance but earlier books not separately exhausted","action":"next-run reconciliation priority"},
+    {"source":"Ese Ejja loans §5 item-level adaptation table","status":"chapter located but not fully atomized in this run","action":"next run extract loan strata/adaptation examples"},
+    {"source":"Oneida full stem/suffix rule inventory after PDF p.149 summary","status":"major rules identified; many lexical/morphological allomorph details remain","action":"next run atomize rule-specific examples and independent Lounsbury/Michelson sources"}
+  ],
+  "shared_curated_denominator_edits": 0
+}
