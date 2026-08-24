@@ -1,0 +1,16 @@
+{
+  "run_id": "automation04_20260823_2252",
+  "sources": [
+    {"source_id":"crippen2010_tlingit","rows":42,"access":"complete searchable draft grammar Chapter 3","scope":"pan-dialectal synthesis with communilect/time distinctions","visual_check":"screenshot attempted; web renderer failed"},
+    {"source_id":"smeets2008_mapuche","rows":60,"access":"complete 613-page searchable grammar; Part II chapters 4–9 exhausted","scope":"central Cautín/Luis Quinchavil with named-informant differences","visual_check":"three representative screenshots attempted; renderer failed"},
+    {"source_id":"huff2023_xavante","rows":44,"access":"complete 47-page primary MA thesis","scope":"Pimentel Barbosa, fieldwork 2019/2022","visual_check":"three screenshots attempted; renderer returned internal errors"},
+    {"source_id":"romero2020_warao_contact","rows":33,"access":"complete author-uploaded contact study text","scope":"multi-region delta corpus, 1986–2015+; includes explicit comparison to 1960s Osborn data","legacy_fonts":"IPA table extraction corrupt; only prose-secure categories normalized"},
+    {"source_id":"romero2021_warao_ideophones","rows":10,"access":"author-uploaded article metadata/abstract and exposed phonology excerpts","scope":"independent ideophone/contact reconciliation layer"}
+  ],
+  "blocked_or_deferred": [
+    {"source":"Romero-Figueroa 1997 Warao grammar","status":"metadata and quoted pp.105–112 recoverable through later author paper, but direct full grammar body not opened reliably","action":"no direct 1997 rows fabricated; later paper quotes are source-lineage tagged"},
+    {"source":"unfinished Tlingit draft process subsections","status":"several headings/editorial placeholders lack completed rule text","action":"not converted into observations"},
+    {"source":"PDF screenshots for Tlingit/Mapuche/Xavante","status":"renderer errors/cache failures","action":"text-layer provenance retained; no visual-verification claim"}
+  ],
+  "shared_curated_denominator_edits": 0
+}
