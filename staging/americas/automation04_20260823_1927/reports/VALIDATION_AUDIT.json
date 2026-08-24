@@ -1,0 +1,32 @@
+{
+  "valid_new_observations": 146,
+  "batch_counts": {
+    "Kaingang / Herold 1996": 49,
+    "Matses / Fleck 2003": 58,
+    "Washo / Kroeber 1907": 39
+  },
+  "confidence_counts": {
+    "high": 137,
+    "medium": 9
+  },
+  "validator": {
+    "rows": 146,
+    "sources": {
+      "herold1996_kaingang_central": {"rows": 49, "contiguous": true},
+      "fleck2003_matses": {"rows": 58, "contiguous": true},
+      "kroeber1907_washo": {"rows": 39, "contiguous": true}
+    },
+    "unique_ids": true,
+    "unique_dedup_keys": true,
+    "broken_dependency_links": [],
+    "valid": true,
+    "errors": []
+  },
+  "semantic_threshold": 0.78,
+  "semantic_candidate_pairs": [
+    {"a": "mats1244_fleck2003_010", "b": "mats1244_fleck2003_011", "score": 0.825, "decision": "retain_distinct"},
+    {"a": "wash1253_kroeber1907_023", "b": "wash1253_kroeber1907_024", "score": 0.953, "decision": "retain_distinct"}
+  ],
+  "automatic_deletions": 0,
+  "shared_curated_denominator_edits": 0
+}
