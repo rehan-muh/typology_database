@@ -1,0 +1,13 @@
+{
+  "sources": [
+    {"source_id":"aoki1970_nez_perce","rows":52,"access":"complete searchable 266-page grammar/dissertation reproduction; Chapter 1 phonology and morphophonemics exhausted","visual_check":"PDF screenshot attempted; renderer cache miss"},
+    {"source_id":"curnow1997_awa_pit","rows":58,"access":"complete thesis body exposed in searchable full-text reproduction; ANU metadata independently verified","scope":"Chapter 2 phonetics and phonology exhausted at page-resolved level"},
+    {"source_id":"england1983_mam","rows":39,"access":"complete searchable book text; Chapters 1-2 plus selected derivational phonology","scope":"San Ildefonso Ixtahuacan lect kept separate from other Mam dialect evidence"}
+  ],
+  "blocked_or_deferred": [
+    {"source":"Jacobsen 1964 Washo","status":"known image-only 702-page scan from prior run","action":"not retried; targeted visual extraction remains queued"},
+    {"source":"Hup / Epps","status":"publisher and dissertation routes did not expose a usable full primary text","action":"pivoted immediately"},
+    {"source":"Kadiweu / Sandalo","status":"bibliography/inventory references accessible but primary body not securely exposed","action":"no weak rows staged"}
+  ],
+  "shared_curated_denominator_edits": 0
+}
