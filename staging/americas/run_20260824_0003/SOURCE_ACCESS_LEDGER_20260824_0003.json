@@ -1,0 +1,18 @@
+{
+  "run_id": "AMERICAS_20260824_0003",
+  "sources": [
+    {"source_id":"epps2005_hup","rows":49,"access":"complete searchable UVA dissertation + exact indexed chapter text","visual":"PDF screenshot unavailable; no visual-verification claim","scope":"segmentals through dialect differences plus comparative tone/contact layer"},
+    {"source_id":"cowell_moss2008_arapaho","rows":23,"access":"publisher metadata plus page-cited chapter facts reproduced in specialist literature","visual":"publisher chapter PDF body access-limited","scope":"inventory, quantity, syllabification, tone, selected morphophonology"},
+    {"source_id":"gleim2019_arapaho_epenthesis","rows":15,"access":"complete CC BY 4.0 article text","scope":"epenthesis-tone opacity and consonantal traces; explicitly dependent on Cowell & Moss"},
+    {"source_id":"oswalt1961_kashaya","rows":30,"access":"official eScholarship/Glottolog metadata plus exact Oswalt-derived summaries and specialist source-lineage evidence","visual":"direct eScholarship body blocked by JS","scope":"inventory, quantity, syllables, age/contact phonetics, stress and competing representations"},
+    {"source_id":"buckley2015_kashaya_fleeting","rows":7,"access":"complete open specialist article text","scope":"evidential final-vowel deletion and prosodic-domain effects"},
+    {"source_id":"buckley2014_kashaya_stress","rows":8,"access":"complete open metrical paper","scope":"iambic stress, extrametricality and later lexical/post-accent analyses"},
+    {"source_id":"michael2010_iquito_prosody","rows":32,"access":"complete 23-page UC Berkeley Phonology Lab PDF text","visual":"screenshot calls attempted; renderer returned internal errors","scope":"inventory, syllables, prepausal processes, minimum word, instrumental stress, moraic tone"}
+  ],
+  "blocked_or_deferred": [
+    {"source":"Oswalt 1961 Kashaya direct eScholarship PDF body","status":"JS/robot gate prevented direct primary PDF-body extraction","action":"no unseen page claims fabricated; direct archival recovery remains queued"},
+    {"source":"Cowell & Moss 2008 full Arapaho chapter PDF","status":"publisher body not directly available","action":"used page-cited specialist reproduction and publisher metadata; no unexposed rules invented"},
+    {"source":"Kadiwéu/Sandalo","status":"bibliography and secondary inventory accessible, primary body not cleanly exposed during parallel discovery","action":"deferred rather than staging weak rows"}
+  ],
+  "shared_curated_denominator_edits": 0
+}
