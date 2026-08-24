@@ -1,0 +1,32 @@
+{
+  "worker_shard": "AMERICAS",
+  "run_id": "automation04_20260823_2252",
+  "valid_new_observations": 189,
+  "source_streams": 5,
+  "language_identities": 4,
+  "batch_counts": {"tlingit_crippen2010":42,"mapuche_smeets2008":60,"xavante_huff2023":44,"warao_romero2020":33,"warao_romero2021_ideophones":10},
+  "confidence_counts": {"high":183,"medium":6},
+  "broken_dependency_links": 0,
+  "semantic_candidate_pairs_at_078": 0,
+  "automatic_deletions": 0,
+  "shared_curated_denominator_edits": 0,
+  "source_payloads": {
+    "tlingit_crippen2010": {"rows":42,"sha256":"c89a0640fccceabda1f7c881f27fa42596a70f9e1a43a3ac0f3a4617cc7673f5","bytes":57701},
+    "mapuche_smeets2008": {"rows":60,"sha256":"2af766219389578a62d3ff2858906c0dbd130664b2ea850ea2879931eebf3a10","bytes":74889},
+    "xavante_huff2023": {"rows":44,"sha256":"c30b1b369af01afbbfa0d74f515284e45eb347dfcd31547f6f77eb4ebb2221ba","bytes":53873},
+    "warao_romero2020": {"rows":33,"sha256":"9c0251526adad18161443baffbd2cf210cc4f8cd1ba6d130ef78ecbfa2ba3755","bytes":46281},
+    "warao_romero2021_ideophones": {"rows":10,"sha256":"2125c2cc365f49fa5f813c6ac834c2041eed831b2cd30dbd4d897ac9c8d2543f","bytes":12757}
+  },
+  "tooling_improvements": [
+    "gzip+base64 canonical JSONL wrapper with exact SHA-256/byte-count rehydration validation",
+    "strict cross-source dependency validation for Warao source-lineage and within-source representational dependencies",
+    "semantic screen retained as non-destructive review rather than fuzzy automatic deletion"
+  ],
+  "next_run_queue": [
+    "Tlingit: Maddieson et al. 2001 plus Leer/Dauenhauer primary dialect sources for acoustic aspiration/ejection, Tongass register, marginal /m/, /ʔʷ hʷ/, and item-level /ɰ→j,w/ chronology.",
+    "Mapuche: Salas, Echeverría & Contreras, Augusta, and modern acoustic/dialect work for historical interdental contrast, /sh/ marginality, stress, and loan-age stratification.",
+    "Xavante: Quintino 2000/2012/2018 and Lapierre/Carrick follow-up for dialect comparison, younger-speaker palatalization, coda-labial syllabification, and nasal timing.",
+    "Warao: direct Romero-Figueroa 1997 and Osborn 1966 for exact consonant/vowel tables, nasalization blockers, contrast-loss chronology, and regional loan adaptation.",
+    "Open one fresh North American family and one fresh South/Central American family in parallel; pivot immediately from blocked/image-only sources."
+  ]
+}
