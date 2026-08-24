@@ -1,0 +1,20 @@
+{
+  "rows": 149,
+  "wrappers": {
+    "awa_pit_curnow1997_20260823_2150.bundle.json": {"rows": 58, "declared_rows": 58, "sha256": "722c3e192c9e921a675a3748b740dbfbc931caeffe18864b0010097cdecbc3d2", "declared_sha256": "722c3e192c9e921a675a3748b740dbfbc931caeffe18864b0010097cdecbc3d2", "bytes": 79711, "declared_bytes": 79711},
+    "mam_england1983_20260823_2150.bundle.json": {"rows": 39, "declared_rows": 39, "sha256": "44ef24f64cc01c3b0c4ca73dafd60038160789cbd98c05ed86898f8eecdf6a59", "declared_sha256": "44ef24f64cc01c3b0c4ca73dafd60038160789cbd98c05ed86898f8eecdf6a59", "bytes": 53205, "declared_bytes": 53205},
+    "nez_perce_aoki1970_20260823_2150.bundle.json": {"rows": 52, "declared_rows": 52, "sha256": "90e8f855ce99d1b6edfa9f34313f3ee2d5d857b6042e61f3e6162a93998680a1", "declared_sha256": "90e8f855ce99d1b6edfa9f34313f3ee2d5d857b6042e61f3e6162a93998680a1", "bytes": 70380, "declared_bytes": 70380}
+  },
+  "sources": {
+    "curnow1997_awa_pit": {"rows": 58, "contiguous": true, "first": "awac1239_curnow1997_001", "last": "awac1239_curnow1997_058"},
+    "england1983_mam": {"rows": 39, "contiguous": true, "first": "mamm1241_england1983_001", "last": "mamm1241_england1983_039"},
+    "aoki1970_nez_perce": {"rows": 52, "contiguous": true, "first": "nezp1238_aoki1970_001", "last": "nezp1238_aoki1970_052"}
+  },
+  "unique_ids": true,
+  "unique_dedup_keys": true,
+  "broken_dependency_links": [],
+  "all_AMERICAS": true,
+  "all_staging_only": true,
+  "errors": [],
+  "valid": true
+}
