@@ -1,0 +1,43 @@
+{
+  "run_id": "automation04_20260823_2252",
+  "valid_new_observations": 189,
+  "source_streams": 5,
+  "language_identities": 4,
+  "batch_counts": {
+    "tlingit_crippen2010": 42,
+    "mapuche_smeets2008": 60,
+    "xavante_huff2023": 44,
+    "warao_romero2020": 33,
+    "warao_romero2021_ideophones": 10
+  },
+  "confidence_counts": {"high": 183, "medium": 6},
+  "validator": {
+    "rows": 189,
+    "files": {
+      "tlingit_crippen2010.bundle.json": {"rows":42,"sha256":"c89a0640fccceabda1f7c881f27fa42596a70f9e1a43a3ac0f3a4617cc7673f5","expected_sha256":"c89a0640fccceabda1f7c881f27fa42596a70f9e1a43a3ac0f3a4617cc7673f5","bytes":57701},
+      "mapuche_smeets2008.bundle.json": {"rows":60,"sha256":"2af766219389578a62d3ff2858906c0dbd130664b2ea850ea2879931eebf3a10","expected_sha256":"2af766219389578a62d3ff2858906c0dbd130664b2ea850ea2879931eebf3a10","bytes":74889},
+      "xavante_huff2023.bundle.json": {"rows":44,"sha256":"c30b1b369af01afbbfa0d74f515284e45eb347dfcd31547f6f77eb4ebb2221ba","expected_sha256":"c30b1b369af01afbbfa0d74f515284e45eb347dfcd31547f6f77eb4ebb2221ba","bytes":53873},
+      "warao_romero2020.bundle.json": {"rows":33,"sha256":"9c0251526adad18161443baffbd2cf210cc4f8cd1ba6d130ef78ecbfa2ba3755","expected_sha256":"9c0251526adad18161443baffbd2cf210cc4f8cd1ba6d130ef78ecbfa2ba3755","bytes":46281},
+      "warao_romero2021_ideophones.bundle.json": {"rows":10,"sha256":"2125c2cc365f49fa5f813c6ac834c2041eed831b2cd30dbd4d897ac9c8d2543f","expected_sha256":"2125c2cc365f49fa5f813c6ac834c2041eed831b2cd30dbd4d897ac9c8d2543f","bytes":12757}
+    },
+    "sources": {
+      "crippen2010_tlingit": {"rows":42,"contiguous":true,"first":"tlin1245_crippen2010_001","last":"tlin1245_crippen2010_042"},
+      "smeets2008_mapuche": {"rows":60,"contiguous":true,"first":"mapu1245_smeets2008_001","last":"mapu1245_smeets2008_060"},
+      "huff2023_xavante": {"rows":44,"contiguous":true,"first":"xava1240_huff2023_001","last":"xava1240_huff2023_044"},
+      "romero2020_warao_contact": {"rows":33,"contiguous":true,"first":"wara1303_romero2020_001","last":"wara1303_romero2020_033"},
+      "romero2021_warao_ideophones": {"rows":10,"contiguous":true,"first":"wara1303_romero2021_001","last":"wara1303_romero2021_010"}
+    },
+    "unique_ids": true,
+    "unique_dedup_keys": true,
+    "broken_dependency_links": [],
+    "all_AMERICAS": true,
+    "all_staging_only": true,
+    "errors": [],
+    "valid": true
+  },
+  "semantic_threshold": 0.78,
+  "semantic_candidate_pairs": [],
+  "semantic_manual_review_complete": true,
+  "automatic_deletions": 0,
+  "shared_curated_denominator_edits": 0
+}
