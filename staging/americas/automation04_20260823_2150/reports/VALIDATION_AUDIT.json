@@ -1,0 +1,17 @@
+{
+  "valid_new_observations": 149,
+  "batch_counts": {"Nez Perce / Aoki 1970": 52, "Awa Pit / Curnow 1997": 58, "Mam / England 1983": 39},
+  "confidence_counts": {"high": 140, "medium": 9},
+  "wrapper_validation_file": "WRAPPED_VALIDATION.json",
+  "semantic_threshold": 0.78,
+  "semantic_candidate_pairs": [
+    {"a":"nezp1238_aoki1970_047","b":"nezp1238_aoki1970_048","score":0.909,"decision":"retain_distinct","reason":"parallel vowel-harmony allomorphs with different output categories"},
+    {"a":"mamm1241_england1983_031","b":"mamm1241_england1983_032","score":0.815,"decision":"retain_distinct","reason":"productive vowel-lengthening versus glottal-stop derivation"},
+    {"a":"awac1239_curnow1997_008","b":"awac1239_curnow1997_009","score":0.8,"decision":"retain_distinct","reason":"parallel but distinct post-fricative stop allophony"}
+  ],
+  "semantic_manual_review_complete": true,
+  "automatic_deletions": 0,
+  "broken_dependency_links": 0,
+  "shared_curated_denominator_edits": 0,
+  "valid": true
+}
