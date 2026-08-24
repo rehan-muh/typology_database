@@ -3,81 +3,39 @@
   "staging_root": "staging/eurasia/automation01_20260824_0005",
   "branch": "agent/phonology-eurasia-worker-20260824-0005",
   "totals": {
-    "jsonl_files": 7,
-    "rows": 98,
-    "core_language_or_lect_complexes": 6,
-    "source_works": 7,
-    "families": 6
+    "jsonl_files": 12,
+    "rows": 197,
+    "core_language_or_lect_complexes": 10,
+    "source_works": 11,
+    "major_genealogical_lineages": 7,
+    "shared_curated_files_edited": 0
+  },
+  "count_reconciliation": {
+    "previous_reported_rows": 98,
+    "previous_actual_rows_from_git_diff": 100,
+    "reason": "The earlier manifest undercounted udihe_kazama2022.jsonl by 1 row and basque_hualde_ortiz2003.jsonl by 1 row. GitHub per-file additions establish 22 Udihe rows and 14 Basque rows. The corrected pre-expansion baseline is therefore 100, not 98.",
+    "rows_added_this_expansion": 97,
+    "current_exact_rows": 197
   },
   "sources": [
-    {
-      "file": "sources/hewrami_mohammadirad2026.jsonl",
-      "source_id": "mohammadirad2026_hewrami_grammar",
-      "language": "Hewramî (Tekht)",
-      "family": "Indo-European > Iranian > West Iranian",
-      "rows": 12,
-      "coverage": ["inventory", "vowel quantity", "syllable structure", "cluster repair", "stress", "allophony", "onset/coda phonotactics"],
-      "provenance": "pp. 11–20, 41–95; named sections/tables within grammar",
-      "doi": "10.5281/zenodo.17140766"
-    },
-    {
-      "file": "sources/hewrami_mohammadirad_karim2025_diachrony.jsonl",
-      "source_id": "mohammadirad_karim2025_hewrami_ipfv_subj",
-      "language": "Hewramî / Goranî varieties",
-      "family": "Indo-European > Iranian > West Iranian",
-      "rows": 9,
-      "coverage": ["regular sound change", "relative chronology", "prefix erosion", "morphologized stress", "ongoing generational change", "areal comparison", "analytical ambiguity"],
-      "provenance": "Linguistics 63(5):1265–1292; article sections explicitly named in rows",
-      "doi": "10.1515/ling-2023-0247"
-    },
-    {
-      "file": "sources/hinuq_forker2013.jsonl",
-      "source_id": "forker2013_hinuq_grammar",
-      "language": "Hinuq",
-      "family": "Nakh-Daghestanian > Tsezic",
-      "rows": 12,
-      "coverage": ["vowels", "vowel allophony", "syllable template", "superheavy syllables", "cluster repair", "minimal word", "geminates", "consonant distribution", "morphophonology/stress candidate scopes"],
-      "provenance": "chapter 2, pp.23–53; exact page or subsection per row",
-      "doi": "10.1515/9783110303971"
-    },
-    {
-      "file": "sources/udihe_kazama2022.jsonl",
-      "source_id": "kazama2022_udihe",
-      "language": "Udihe",
-      "family": "Tungusic",
-      "rows": 21,
-      "coverage": ["consonants", "vowels", "allophony", "harmony", "assimilation", "loan adaptation", "historical consonant loss", "creaky/breathy vowel decline", "syllable template", "length", "stress", "reduplication"],
-      "provenance": "Kazama 2022 grammar article, printed pp.5–7 plus scope; table and page provenance in rows"
-    },
-    {
-      "file": "sources/basque_hualde_ortiz2003.jsonl",
-      "source_id": "hualde_ortiz2003_basque_grammar",
-      "language": "Basque",
-      "family": "Language isolate",
-      "rows": 13,
-      "coverage": ["onsets", "codas", "nuclei", "loan phonotactics", "historical cluster emergence", "stop allophony", "neutralization", "old loan sound changes", "stress and dialect prosody"],
-      "provenance": "chapter 2, pp.15–112; exact subsection/page ranges in rows",
-      "doi": "10.1515/9783110895285"
-    },
-    {
-      "file": "sources/ket_georg2007.jsonl",
-      "source_id": "georg2007_ket_grammar",
-      "language": "Ket",
-      "family": "Yeniseian",
-      "rows": 19,
-      "coverage": ["four monosyllabic tonemes", "disyllabic/polysyllabic prosody", "vowel inventory and tone-conditioned allophony", "consonant inventory", "phoneme-analysis disagreements", "initial/final clusters", "morphophonology", "tone-only plurals", "contractive plurals"],
-      "provenance": "chapter 3 pp.47–87 and morphology pp.94–100; exact page/section per row"
-    },
-    {
-      "file": "sources/eastern_khanty_filchenko2007.jsonl",
-      "source_id": "filchenko2007_eastern_khanty",
-      "language": "Eastern Khanty (Vasyugan/Alexandrovo)",
-      "family": "Uralic > Ugric > Khanty",
-      "rows": 12,
-      "coverage": ["vowel inventory", "full/reduced contrast", "epenthesis", "backness vowel harmony", "harmony domain", "areal comparison", "syllable templates", "stress conditioning and noncontrastivity"],
-      "provenance": "phonology chapter; pp.20–21, 30, 73–75 and named sections/figure"
-    }
+    {"file":"sources/hewrami_mohammadirad2026.jsonl","source_id":"mohammadirad2026_hewrami_grammar","language":"Hewramî (Tekht)","rows":12},
+    {"file":"sources/hewrami_mohammadirad_karim2025_diachrony.jsonl","source_id":"mohammadirad_karim2025_hewrami_ipfv_subj","language":"Hewramî / Goranî varieties","rows":9},
+    {"file":"sources/hinuq_forker2013.jsonl","source_id":"forker2013_hinuq_grammar","language":"Hinuq","rows":12},
+    {"file":"sources/udihe_kazama2022.jsonl","source_id":"kazama2022_udihe","language":"Udihe","rows":22},
+    {"file":"sources/basque_hualde_ortiz2003.jsonl","source_id":"hualde_ortiz2003_basque_grammar","language":"Basque","rows":14},
+    {"file":"sources/ket_georg2007.jsonl","source_id":"georg2007_ket_grammar","language":"Ket","rows":19},
+    {"file":"sources/eastern_khanty_filchenko2007.jsonl","source_id":"filchenko2007_eastern_khanty","language":"Eastern Khanty (Vasyugan/Alexandrovo)","rows":12},
+    {"file":"sources/eastern_khanty_filchenko2007_run2_consonants.jsonl","source_id":"filchenko2007_eastern_khanty","language":"Eastern Khanty (Vasyugan/Alexandrovo)","rows":18,"coverage":["consonant inventory structure","distribution","vowel-conditioned place allophony","palatalization","reductive assimilation","consonant epenthesis/deletion","loan-cluster repair","gemination","internal syllable-template disagreement","multiple stress"]},
+    {"file":"sources/svan_tuite2004_phonology.jsonl","source_id":"tuite2004_svan_short_grammar","language":"Svan","rows":31,"coverage":["dialect inventories","phonotactics","loan cluster repair","historical mobile accent","reduction","umlaut","metathesis","dissimilation","ablaut","chronology","analyst disagreement"]},
+    {"file":"sources/shughni_arno2007_phonology.jsonl","source_id":"arno2007_shughni_phonology_handout","language":"Shughni","rows":10,"coverage":["consonant/vowel inventory","positional attestation","short-vowel allophony","syllable shapes","complex onsets/codas"]},
+    {"file":"sources/kamkata_kamviri_strand_nuristan_phonology.jsonl","source_id":"strand_nuristan_phonology_web","language":"Kâmviri (Kâmkata-vari)","rows":26,"coverage":["field-data reliability","vowel contrasts","nasalization history","distinctive length/accent","on-glides","positional voicing","final devoicing","loan adaptation","retroflexes","place assimilation","lenition","intonation","juncture","expressive lengthening"]},
+    {"file":"sources/selkup_endangered_languages_siberia_phonology.jsonl","source_id":"lingsib_selkup_description","language":"Selkup","rows":12,"coverage":["inventory","allophony","edge phonotactics","segment distribution","nasal alternation","stress","absence of general harmony","subdialect suffix assimilation","syllable types","dialect scope warning"]}
   ],
-  "write_policy": "All outputs are shard-local staging artifacts. No shared curated denominator or canonical table was edited.",
-  "validation_tool": "tools/validate_jsonl.py"
+  "write_policy": "All outputs are shard-local staging artifacts on the EURASIA worker branch. No shared curated denominator or canonical table was edited.",
+  "validation": {
+    "tool": "tools/validate_jsonl.py",
+    "git_diff_line_count_verified": true,
+    "required_provenance_policy": "Each row has page/pages, printed/pdf page, section, or table provenance; source/lect/time scope and confidence are explicit where relevant.",
+    "remote_execution_note": "The GitHub connector cannot execute repository scripts; do not treat validator presence as a claimed remote run. New batches were constructed with unique IDs/dedup keys and JSON serialization where available, and per-file row counts were reconciled against GitHub's compare output."
+  }
 }
