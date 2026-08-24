@@ -1,0 +1,41 @@
+{
+  "run_id": "AMERICAS_20260824_0054",
+  "valid_new_observations": 205,
+  "batch_counts": {
+    "huamelultec_waterhouse1967": 51,
+    "eseejja_vuillermet2012": 63,
+    "kwakwala_sabakirchner2010": 40,
+    "oneida_abbott2006": 51
+  },
+  "source_streams": 4,
+  "language_identities": 4,
+  "confidence_counts": {
+    "high": 200,
+    "medium": 5
+  },
+  "source_sequences": {
+    "abbott2006_oneida_teaching": {"rows": 51, "contiguous": true},
+    "sabakirchner2010_kwakwala": {"rows": 40, "contiguous": true},
+    "vuillermet2012_eseejja": {"rows": 63, "contiguous": true},
+    "waterhouse1967_huamelultec": {"rows": 51, "contiguous": true}
+  },
+  "unique_ids": true,
+  "unique_dedup_keys": true,
+  "broken_dependency_links": [],
+  "bundle_rehydration": {
+    "huamelultec_waterhouse1967.bundle.json": {"valid": true, "rows": 51, "sha256": "c7bf4385bf44ecec331c527ef95ccab6786ba3bc4357bca0aa49e4eb0416587f", "bytes": 70355},
+    "eseejja_vuillermet2012.bundle.json": {"valid": true, "rows": 63, "sha256": "647b6dd4998a0f051e448d77e9870fbda045e425a1d0765f18c1eecb7fee6bcd", "bytes": 84190},
+    "kwakwala_sabakirchner2010.bundle.json": {"valid": true, "rows": 40, "sha256": "7363e8290a705e15d4bcaf61ee44da039c3c81e1dd554b5615ea990f73db867c", "bytes": 52479},
+    "oneida_abbott2006.bundle.json": {"valid": true, "rows": 51, "sha256": "8793990bcb8e07b8a20424206c5f59efc1d6686d8918e6cd29dc58f206fdcff3", "bytes": 69277}
+  },
+  "semantic_threshold": 0.78,
+  "semantic_candidate_pairs": [
+    {"a": "onei1249_abbott2006_036", "b": "onei1249_abbott2006_037", "score": 0.834, "decision": "retain_distinct"},
+    {"a": "onei1249_abbott2006_015", "b": "onei1249_abbott2006_016", "score": 0.816, "decision": "retain_distinct"}
+  ],
+  "semantic_manual_review_complete": true,
+  "automatic_deletions": 0,
+  "shared_curated_denominator_edits": 0,
+  "errors": [],
+  "valid": true
+}
