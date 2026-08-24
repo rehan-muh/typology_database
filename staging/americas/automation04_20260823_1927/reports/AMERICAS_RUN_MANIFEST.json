@@ -1,0 +1,23 @@
+{
+  "worker_shard": "AMERICAS",
+  "valid_new_observations": 146,
+  "source_streams": 3,
+  "language_identities": 3,
+  "batch_counts": {"Kaingang / Herold 1996": 49, "Matses / Fleck 2003": 58, "Washo / Kroeber 1907": 39},
+  "confidence_counts": {"high": 137, "medium": 9},
+  "broken_dependency_links": 0,
+  "semantic_candidate_pairs_at_078": 2,
+  "automatic_deletions": 0,
+  "shared_curated_denominator_edits": 0,
+  "tooling_improvements": [
+    "gzip+base64 JSONL wrapper validation with SHA-256 integrity",
+    "page-ranker v2 adds explicit analytical-uncertainty scoring so competing analyses are not crowded out by inventory pages"
+  ],
+  "next_run_queue": [
+    "Recover direct D'Angelis/Cavalcante/Wiesemann sources for Kaingang: glottal status, pre/postnasalized stops, dialect vowel inventories, stress and Portuguese loans.",
+    "Matses: extract exact environments/examples from Fleck pp.117–180 for place/voice/nasal assimilation, V-V repair, insertion/deletion, harmony and stress movement; add borrowing chronology.",
+    "Washo: targeted visual/manual extraction from Jacobsen 1964 phonemics pp.51ff, phonotactics pp.81ff and morphophonemics pp.225ff; reconcile Kroeber's uncertain stop/quantity analysis.",
+    "Open Nivacle 2020 Chapter 2 and one fresh South American source outside Panoan/Je in parallel.",
+    "Keep all observations staging-only pending source/lect/time reconciliation."
+  ]
+}
