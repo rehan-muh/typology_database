@@ -1,22 +1,38 @@
 {
   "branch": "agent/historical-phonology-worker-20260825-0450",
   "scope": "historical-processes shard only; no shared curated denominators modified",
-  "records_staged": 81,
-  "unique_dedup_keys": 81,
-  "confidence_counts": {"high": 75, "medium": 6, "low": 0},
-  "contact_status_counts": {"inheritance": 80, "areal diffusion": 1},
+  "records_staged": 114,
+  "unique_dedup_keys": 114,
+  "confidence_counts": {"high": 103, "medium": 11, "low": 0},
+  "contact_status_counts": {
+    "inheritance": 102,
+    "areal diffusion": 1,
+    "contact-induced: substrate + dialect diffusion": 1,
+    "contact-induced context; lexical behavior irregular": 1,
+    "contact-induced FVL; tonal outcome inherited/restructured": 1,
+    "inheritance/areal history; FVL itself contact-induced": 2,
+    "contact-induced/dialect diffusion": 1,
+    "dialect diffusion": 2,
+    "substrate influence from extinct/pre-Bantu hunter-gatherer languages": 1,
+    "dialectal diffusion": 1,
+    "prestige-driven dialectal diffusion": 1
+  },
   "source_counts": {
     "blust2004_t_to_k": 16,
     "lynch2009_malakula_postvelars": 10,
     "blust2012_hawu_metathesis": 18,
     "blust2013_austronesian_sound_change": 24,
-    "sen2012_latin_vowel_reduction": 13
+    "sen2012_latin_vowel_reduction": 13,
+    "pacchiarotti_maselli_bostoen2021_ngwi": 22,
+    "pacchiarotti_bostoen2021_lower_kasai_fvl": 11
   },
   "files": [
     "data/grammar_extractions_staging/historical_worker_2026-08-25_austronesian_batch1.jsonl",
     "data/grammar_extractions_staging/historical_worker_2026-08-25_blust2012_hawu_metathesis.jsonl",
     "data/grammar_extractions_staging/historical_worker_2026-08-25_blust2013_sound_change.jsonl",
-    "data/grammar_extractions_staging/historical_worker_2026-08-25_sen2012_latin.jsonl"
+    "data/grammar_extractions_staging/historical_worker_2026-08-25_sen2012_latin.jsonl",
+    "data/grammar_extractions_staging/historical_worker_2026-08-25_ngwi_pacchiarotti_maselli_bostoen2021.jsonl",
+    "data/grammar_extractions_staging/historical_worker_2026-08-25_lower_kasai_fvl_pacchiarotti_bostoen2021.jsonl"
   ],
   "source_provenance": [
     {
@@ -46,22 +62,43 @@
       "citation": "Ranjan Sen. 2012. Reconstructing Phonological Change: Duration and Syllable Structure in Latin Vowel Reduction. Phonology 29(3):465–504.",
       "doi": "10.1017/S0952675712000231",
       "page_mapping_note": "Extraction used the White Rose accepted manuscript. To avoid inventing journal pagination, provenance stores exact accepted-manuscript/PDF pages rather than guessed final-layout pages."
+    },
+    {
+      "source_id": "pacchiarotti_maselli_bostoen2021_ngwi",
+      "citation": "Sara Pacchiarotti, Lorenzo Maselli & Koen Bostoen. 2021. The emergence of interior vowels and heterosyllabic vowel sequences in Ngwi (Bantu B861, DRC). Papers in Historical Phonology 6:107–146.",
+      "doi": "10.2218/pihph.6.2021.6693",
+      "page_mapping_note": "Open-access journal PDF; rows preserve printed pages 119–138 and PDF-page positions for §§4.1–4.4 and conclusions. Explicit chains, lexical exceptions, relative ordering, and the authors' competing dissimilation analysis are separated into atomic records."
+    },
+    {
+      "source_id": "pacchiarotti_bostoen2021_lower_kasai_fvl",
+      "citation": "Sara Pacchiarotti & Koen Bostoen. 2021. Final Vowel Loss in Lower Kasai Bantu (DRC) as a Contact-Induced Change. Journal of Language Contact 14(2):438–476.",
+      "doi": "10.1163/19552629-14020007",
+      "page_mapping_note": "UGent open-access published PDF; rows preserve printed pages and PDF pages, including §4 seriation, §5 quantitative diffusion classes, §6 contact scenarios, and §7 conclusions. The 1640s Bushong prestige narrative is explicitly attributed to Vansina and marked medium confidence rather than treated as a direct dating fact."
     }
   ],
   "validation": {
     "jsonl_rows_constructed_as_independent_json_objects": true,
-    "dedup_key_collision_check": "PASS: 81/81 unique across this run",
+    "dedup_key_collision_check": "PASS: 114/114 unique across current worker checkpoint",
     "required_provenance_policy": "printed/accepted-manuscript page, PDF page, and section/table recorded for every staged row",
-    "remote_presence_check": "PASS: all four staging JSONL files visible on worker branch after commits",
+    "remote_presence_check": "PASS: all six staging JSONL files visible on worker branch after commits; both 2026-08-25 Bantu additions re-fetched successfully",
+    "new_batch_counts": {"ngwi": 22, "lower_kasai_fvl": 11, "total_new": 33},
     "validator_added": "scripts/historical_worker_validate_staging.py",
-    "note": "The connector does not execute repository code; the validator is committed for local/CI use. Counts and collision checks were independently recomputed during staging."
+    "note": "The connector does not execute repository code; the committed validator remains available for local/CI use. New JSONL was independently parsed and dedup-key uniqueness checked before commit."
   },
+  "new_batch_highlights": [
+    "Ngwi ordering: Proto-Bantu 7>5 merger precedes conditioned *i centralization; final-vowel loss removes the conditioning V2 and phonologizes /ə, ɤ/.",
+    "Ngwi lexical diffusion is retained explicitly: suitable *i>ə targets can escape and the change can extend irregularly outside its conditioning environment.",
+    "Ngwi vowel-sequence chains preserve pre-NC lengthening, NC reduction, long-vowel diphthongization, syllabification, intervocalic consonant loss, exceptions, and the competing dissimilation analysis.",
+    "Lower Kasai FVL is seriated after intervocalic consonant/NC loss and classified by systematic/pervasive/frequent lexical penetration rather than flattened into one categorical event.",
+    "Lower Kasai contact history is represented as two proposed stages (substrate-associated emergence, then dialect diffusion), with Bushong prestige diffusion kept as a separately attributed historical hypothesis."
+  ],
   "high_yield_next_queue": [
     {"priority": 1, "target": "Ross 1988 Proto Oceanic / Western Melanesian historical phonology", "focus": "nasal/oral grade, lenition, mergers, ordered innovations, subgroup scope"},
-    {"priority": 2, "target": "Sneddon Proto-Sangiric and Talaud historical phonology", "focus": "metathesis, assimilation alternatives, reflex tables, chronology"},
-    {"priority": 3, "target": "Loyalty Islands and New Caledonia historical phonologies", "focus": "independent *t>k, *k loss, palatalization, intervocalic deletion"},
-    {"priority": 4, "target": "Cser 2020 Latin high-vowel/rhotic analysis plus primary handbook loci", "focus": "separate genuine Old Latin weakening from rejected *ir>*er / *ur>*or formulations and preserve competing analyses"},
-    {"priority": 5, "target": "open-access Germanic historical grammars", "focus": "ordered Grimm/Verner developments, West Germanic gemination, High German shift, dialect/time-slice conditioning"},
-    {"priority": 6, "target": "open-access Indo-Aryan historical grammars", "focus": "cluster simplification, intervocalic stop lenition/loss, sibilant mergers, quantity reorganization with period and dialect scope"}
+    {"priority": 2, "target": "open-access Germanic historical grammars and primary papers", "focus": "Grimm/Verner ordering and conditioning, West Germanic gemination, High German consonant shift, dialect and date scope"},
+    {"priority": 3, "target": "open-access Indo-Aryan historical grammars", "focus": "cluster simplification, intervocalic stop lenition/loss, sibilant mergers, quantity reorganization, Middle Indo-Aryan period/dialect scope"},
+    {"priority": 4, "target": "Holopainen 2023 Ugric etymology plus cited primary Ugric sound-law literature", "focus": "loan chronology, disputed sibilant correspondences, substrate status, competing Proto-Ugric reconstructions"},
+    {"priority": 5, "target": "Sneddon Proto-Sangiric and Talaud historical phonology", "focus": "metathesis, assimilation alternatives, reflex tables, chronology"},
+    {"priority": 6, "target": "Loyalty Islands and New Caledonia historical phonologies", "focus": "independent *t>k, *k loss, palatalization, intervocalic deletion"},
+    {"priority": 7, "target": "Cser 2020 Latin high-vowel/rhotic analysis plus primary handbook loci", "focus": "separate genuine Old Latin weakening from rejected *ir>*er / *ur>*or formulations and preserve competing analyses"}
   ]
 }
