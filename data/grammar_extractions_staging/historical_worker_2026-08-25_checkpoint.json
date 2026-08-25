@@ -1,0 +1,67 @@
+{
+  "branch": "agent/historical-phonology-worker-20260825-0450",
+  "scope": "historical-processes shard only; no shared curated denominators modified",
+  "records_staged": 81,
+  "unique_dedup_keys": 81,
+  "confidence_counts": {"high": 75, "medium": 6, "low": 0},
+  "contact_status_counts": {"inheritance": 80, "areal diffusion": 1},
+  "source_counts": {
+    "blust2004_t_to_k": 16,
+    "lynch2009_malakula_postvelars": 10,
+    "blust2012_hawu_metathesis": 18,
+    "blust2013_austronesian_sound_change": 24,
+    "sen2012_latin_vowel_reduction": 13
+  },
+  "files": [
+    "data/grammar_extractions_staging/historical_worker_2026-08-25_austronesian_batch1.jsonl",
+    "data/grammar_extractions_staging/historical_worker_2026-08-25_blust2012_hawu_metathesis.jsonl",
+    "data/grammar_extractions_staging/historical_worker_2026-08-25_blust2013_sound_change.jsonl",
+    "data/grammar_extractions_staging/historical_worker_2026-08-25_sen2012_latin.jsonl"
+  ],
+  "source_provenance": [
+    {
+      "source_id": "blust2004_t_to_k",
+      "citation": "Robert Blust. 2004. *t to k: An Austronesian Sound Change Revisited. Oceanic Linguistics 43(2):365–410.",
+      "doi": "10.1353/ol.2005.0001",
+      "page_mapping_note": "ResearchGate text/PDF begins at journal p.365; staged rows preserve article-page and PDF-page positions used during extraction."
+    },
+    {
+      "source_id": "lynch2009_malakula_postvelars",
+      "citation": "John Lynch. 2009. Irregular sound change and the post-velars in some Malakula languages, pp.57–72.",
+      "page_mapping_note": "University of the South Pacific repository PDF has 16 pages; PDF p.1 corresponds to printed p.57. Mapping was corrected and checkpointed before this receipt."
+    },
+    {
+      "source_id": "blust2012_hawu_metathesis",
+      "citation": "Robert Blust. 2012. Hawu Vowel Metathesis. Oceanic Linguistics 51(1):207–233.",
+      "doi": "10.1353/ol.2012.0009",
+      "page_mapping_note": "Article-page references are stored together with PDF-page positions."
+    },
+    {
+      "source_id": "blust2013_austronesian_sound_change",
+      "citation": "Robert Blust. 2013. The Austronesian Languages, revised edition. Chapter 9: Sound change.",
+      "page_mapping_note": "ANU open-access PDF physical pages and printed chapter pages are both preserved; cross-page spans are represented explicitly as ranges."
+    },
+    {
+      "source_id": "sen2012_latin_vowel_reduction",
+      "citation": "Ranjan Sen. 2012. Reconstructing Phonological Change: Duration and Syllable Structure in Latin Vowel Reduction. Phonology 29(3):465–504.",
+      "doi": "10.1017/S0952675712000231",
+      "page_mapping_note": "Extraction used the White Rose accepted manuscript. To avoid inventing journal pagination, provenance stores exact accepted-manuscript/PDF pages rather than guessed final-layout pages."
+    }
+  ],
+  "validation": {
+    "jsonl_rows_constructed_as_independent_json_objects": true,
+    "dedup_key_collision_check": "PASS: 81/81 unique across this run",
+    "required_provenance_policy": "printed/accepted-manuscript page, PDF page, and section/table recorded for every staged row",
+    "remote_presence_check": "PASS: all four staging JSONL files visible on worker branch after commits",
+    "validator_added": "scripts/historical_worker_validate_staging.py",
+    "note": "The connector does not execute repository code; the validator is committed for local/CI use. Counts and collision checks were independently recomputed during staging."
+  },
+  "high_yield_next_queue": [
+    {"priority": 1, "target": "Ross 1988 Proto Oceanic / Western Melanesian historical phonology", "focus": "nasal/oral grade, lenition, mergers, ordered innovations, subgroup scope"},
+    {"priority": 2, "target": "Sneddon Proto-Sangiric and Talaud historical phonology", "focus": "metathesis, assimilation alternatives, reflex tables, chronology"},
+    {"priority": 3, "target": "Loyalty Islands and New Caledonia historical phonologies", "focus": "independent *t>k, *k loss, palatalization, intervocalic deletion"},
+    {"priority": 4, "target": "Cser 2020 Latin high-vowel/rhotic analysis plus primary handbook loci", "focus": "separate genuine Old Latin weakening from rejected *ir>*er / *ur>*or formulations and preserve competing analyses"},
+    {"priority": 5, "target": "open-access Germanic historical grammars", "focus": "ordered Grimm/Verner developments, West Germanic gemination, High German shift, dialect/time-slice conditioning"},
+    {"priority": 6, "target": "open-access Indo-Aryan historical grammars", "focus": "cluster simplification, intervocalic stop lenition/loss, sibilant mergers, quantity reorganization with period and dialect scope"}
+  ]
+}
