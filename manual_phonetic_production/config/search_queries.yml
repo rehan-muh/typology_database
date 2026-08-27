@@ -1,0 +1,30 @@
+journals:
+  - Journal of Phonetics
+  - Laboratory Phonology
+  - Phonetica
+  - Journal of the International Phonetic Association
+  - Journal of the Acoustical Society of America
+  - Language and Speech
+  - Speech Communication
+  - Language Variation and Change
+  - Journal of Speech, Language, and Hearing Research
+repositories:
+  - OSF
+  - Zenodo
+  - GitHub
+positive_terms:
+  - manually annotated
+  - manually segmented
+  - hand-corrected
+  - manually corrected
+  - hand aligned
+  - manually measured
+negative_terms:
+  - forced aligned
+  - Montreal Forced Aligner
+  - WebMAUS
+  - BAS
+  - automatic segmentation
+  - Speech Accent Archive
+  - Buckeye
+  - UCLA Phonetics Lab Archive
