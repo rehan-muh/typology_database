@@ -1,8 +1,9 @@
 {
   "created": "2026-08-27",
-  "accepted_records": 9,
-  "excluded_records": 9,
-  "review_queue": 6,
+  "last_updated": "2026-08-28",
+  "accepted_records": 12,
+  "excluded_records": 10,
+  "review_queue": 9,
   "core_policy": "primary production + manual/exhaustively corrected annotations",
   "target_repository": "rehan-muh/typology_database:manual_phonetic_production/"
 }
