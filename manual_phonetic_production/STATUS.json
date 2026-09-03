@@ -1,9 +1,9 @@
 {
   "created": "2026-08-27",
-  "last_updated": "2026-09-02",
-  "accepted_records": 19,
-  "excluded_records": 14,
-  "review_queue": 22,
+  "last_updated": "2026-09-03",
+  "accepted_records": 21,
+  "excluded_records": 15,
+  "review_queue": 23,
   "core_policy": "primary production + manual/exhaustively corrected annotations",
   "target_repository": "rehan-muh/typology_database:manual_phonetic_production/",
   "registry_note": "Base registries are supplemented by dated increment CSVs under data/registry/increments/."
