@@ -1,0 +1,22 @@
+name: PAVOQUE temporal analysis
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'manual_phonetic_production/scripts/pavoque_temporal_analysis.py'
+      - '.github/workflows/pavoque-temporal.yml'
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pandas numpy requests pyyaml
+      - run: python manual_phonetic_production/scripts/pavoque_temporal_analysis.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pavoque-temporal-output
+          path: pavoque_output/
+          retention-days: 14
