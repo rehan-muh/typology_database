@@ -1,0 +1,11 @@
+phenomenon_code,label,target_unit,required_context,preferred_measures,preferred_window,min_timepoints,audio_reextraction_allowed
+VV_CARRYOVER,V-to-V carryover,vowel,preceding vowel,F1_HZ|F2_HZ,0.00-0.50,3,TRUE
+VV_ANTICIPATORY,V-to-V anticipatory,vowel,following vowel,F1_HZ|F2_HZ,0.50-1.00,3,TRUE
+CV_PLACE,C-to-V place effects,vowel,preceding consonant with place,F2_HZ|F3_HZ,0.00-0.30,3,TRUE
+VC_EFFECT,V-to-C acoustic effects,consonant,preceding vowel,COG_HZ|SPECTRAL_SLOPE_DB_OCT|SPECTRAL_SKEWNESS|SPECTRAL_KURTOSIS|BURST_PEAK_HZ,0.00-1.00,1,TRUE
+NASAL,Nasal coarticulation,vowel,adjacent nasal/oral contrast,A1P0_DB|A1P1_DB|NASALANCE,0.00-1.00,3,TRUE
+LARYNGEAL,Laryngeal coarticulation,vowel,preceding consonant with laryngeal class,F0_HZ|F0_ST|H1H2_DB|CPP_DB,0.00-0.30,3,TRUE
+VOT_VOWEL,VOT-vowel interaction,stop+vowel,burst/release plus voicing onset and following vowel,VOT_MS|F0_HZ|F1_HZ|F2_HZ|DURATION_MS,release-to-0.30-vowel,1,TRUE
+LABIALIZATION,Labialization/rounding coarticulation,vowel,adjacent labial/rounded/labialized segment,F2_HZ|F3_HZ,0.00-1.00,3,TRUE
+RHOTIC_LATERAL,Rhotic/lateral coarticulation,vowel,adjacent rhotic or lateral,F2_HZ|F3_HZ,0.00-1.00,3,TRUE
+TEMPORAL,Temporal coarticulation,segment sequence,manual/human-corrected adjacent boundaries,DURATION_MS|boundary_events,full sequence,1,FALSE
