@@ -1,0 +1,29 @@
+name: Coarticulation open-data audit
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'manual_phonetic_production/scripts/audit_open_data.py'
+      - '.github/workflows/coarticulation-audit.yml'
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install pandas numpy requests pyyaml openpyxl
+      - name: Audit and analyze public data
+        run: python manual_phonetic_production/scripts/audit_open_data.py
+      - name: Upload audit outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: coarticulation-audit-output
+          path: audit_output/
+          retention-days: 14
