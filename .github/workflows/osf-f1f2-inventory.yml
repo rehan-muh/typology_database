@@ -1,0 +1,22 @@
+name: OSF F1F2 inventory
+on:
+  push:
+    paths:
+      - 'manual_phonetic_production/scripts/osf_f1f2_inventory.py'
+      - '.github/workflows/osf-f1f2-inventory.yml'
+  workflow_dispatch:
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pandas requests openpyxl pyreadr
+      - run: python manual_phonetic_production/scripts/osf_f1f2_inventory.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: f1f2-inventory
+          path: f1f2_inventory/
+          retention-days: 14
