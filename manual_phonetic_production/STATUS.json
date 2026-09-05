@@ -6,5 +6,15 @@
   "review_queue": 24,
   "core_policy": "primary production + manual/exhaustively corrected annotations",
   "target_repository": "rehan-muh/typology_database:manual_phonetic_production/",
-  "registry_note": "Base registries are supplemented by dated increment CSVs under data/registry/increments/."
+  "registry_note": "Base registries are supplemented by dated increment CSVs under data/registry/increments/.",
+  "analysis_schema": "coarticulation-v1",
+  "analysis_targets": 10,
+  "canonical_tables": [
+    "coarticulation_tokens.csv",
+    "coarticulation_trajectories.csv",
+    "coarticulation_events.csv"
+  ],
+  "source_capability_matrix": "data/coarticulation/source_capabilities.csv",
+  "ingestion_queue": "data/coarticulation/ingestion_queue.csv",
+  "validator": "scripts/validate_coarticulation.py"
 }
