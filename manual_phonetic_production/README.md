@@ -8,15 +8,35 @@ A dataset enters the core only when the relevant token boundaries, landmarks, la
 
 The decision is made at the annotation/measurement level, not only at the paper level. A study may therefore contribute one eligible tier while another tier is rejected.
 
+## Primary analysis target: coarticulation
+
+The harmonized analysis layer is now designed specifically for ten phenomena:
+
+- V→V carryover
+- V→V anticipatory
+- C→V place effects
+- V→C acoustic effects
+- nasal coarticulation
+- laryngeal coarticulation
+- VOT/following-vowel interaction
+- labialization/rounding coarticulation
+- rhotic/lateral effects
+- temporal coarticulation
+
+Rate, style, task and speaker metadata are retained as moderators/covariates rather than treated as separate coarticulation outcomes.
+
+See `docs/coarticulation_schema.md` for the canonical analysis contract. Every usable source is mapped into three linked long-format tables under `data/coarticulation/`: target/context tokens, acoustic trajectories, and temporal landmarks/events. `data/coarticulation/source_capabilities.csv` records whether each accepted source is `READY`, `REEXTRACT`, `POSSIBLE`, `NOT_SUPPORTED`, `RESTRICTED`, or `SPECIALIZED` for each of the ten analyses. `data/coarticulation/ingestion_queue.csv` is the prioritized conversion backlog.
+
+Future derived batches must pass `scripts/validate_coarticulation.py` before they are treated as analysis-ready.
+
 ## Repository layout
 
 - `data/registry/sources.csv` — accepted/conditionally accepted primary sources.
 - `data/registry/exclusions.csv` — rejected sources with explicit reasons.
 - `data/registry/review_queue.csv` — promising sources needing provenance/access adjudication.
-- `data/examples/` — small normalized examples used to test parsers.
-- `data/derived/` — harmonized token/segment/landmark tables generated from source data.
+- `data/coarticulation/` — canonical analysis schema, source capabilities, ingestion queue, templates and derived batches.
 - `data/raw/` — local source downloads; intentionally gitignored.
-- `docs/` — inclusion criteria, schema, provenance policy, and licensing policy.
+- `docs/` — inclusion criteria, schema, provenance policy, licensing policy, and coarticulation specification.
 - `scripts/` — harvesters, parsers, normalizers, validators, and daily discovery runner.
 - `logs/` — dated discovery/adjudication logs.
 
@@ -37,8 +57,8 @@ The core excludes analyses whose underlying recordings come from a previously es
 
 This repository does not republish source audio by default. `scripts/` records source URLs, repository identifiers, file checksums, licenses, and retrieval dates. Raw material is downloaded locally into `data/raw/` only when licensing/access permits. Derived data retain source-specific licensing metadata and attribution.
 
-## First-pass status (2026-08-27)
+## Analysis safeguards
 
-The initial crawl has validated primary human-grounded sources for Swedish, Standard Thai, Twi, German expressive speech, American English read speech, and several experimental production datasets. It also records hard exclusions for secondary-database reuse and unverified forced alignment.
+Study/source, language and speaker are always kept as separate identifiers. Speaker IDs are globally namespaced as `source_id::source_speaker_id`; bilingual speakers retain one speaker UID with token-level production language. Specialized singing sources are not pooled with ordinary speech by default, and clinical/L2 domains remain explicit for sensitivity analyses. A source may be accepted into MPPD but contribute to none of the ten coarticulation analyses if its validated annotation tier lacks the required context or measurement.
 
-This is a living registry. All inclusion decisions are auditable in the CSVs and daily logs.
+This is a living registry and harmonized analysis database. All inclusion and analysis-eligibility decisions are auditable in the CSVs and daily logs.
