@@ -1,35 +1,32 @@
-# Canonical coarticulation analysis schema
+# Canonical vowel-coarticulation analysis schema
 
-This project now treats the following ten phenomena as the only primary coarticulation targets:
+The scientific target of this subtree is now **coarticulatory displacement of vowel F1 and F2 only**. Other acoustic measures (F0, A1-P0, CPP, spectral tilt, VOT, duration, etc.) may be retained as source metadata/covariates but are not target outcomes.
 
-1. `VV_CARRYOVER` — V→V carryover
-2. `VV_ANTICIPATORY` — V→V anticipatory
-3. `CV_PLACE` — consonant-to-vowel place effects
-4. `VC_EFFECT` — vowel-to-consonant acoustic effects
-5. `NASAL` — nasal coarticulation
-6. `LARYNGEAL` — laryngeal coarticulation
-7. `VOT_VOWEL` — VOT/following-vowel interaction
-8. `LABIALIZATION` — rounding/labialization coarticulation
-9. `RHOTIC_LATERAL` — rhotic/lateral effects on adjacent vowels
-10. `TEMPORAL` — temporal coarticulation from segment durations and boundary timing
+## Core estimands
 
-Speech rate, speaking style, task, age, sex/gender when supplied, bilingual status, clinical status, and similar variables are covariates/moderators, not separate coarticulation outcomes.
+Every analysis should target one or more of:
+
+1. **MAGNITUDE** — contextual displacement of vowel F1/F2 relative to a context-neutral or internally matched reference.
+2. **TEMPORAL EXTENT** — the trajectory of that displacement over normalized vowel time, including onset/offset, peak location, decay/growth, and optionally area under the absolute contextual-effect curve.
+3. **FLEXIBILITY** — within-speaker changes in magnitude or temporal extent across speaking style, rate, task, language mode, or other moderators.
+
+For C→V effects, prioritize early-vowel F1/F2 and contrasts in preceding consonant place/manner. For anticipatory effects of following consonants, prioritize late-vowel F1/F2. For V→V carryover and anticipatory effects, retain adjacent/following vowel identity and use early/late trajectory regions as appropriate.
+
+Midpoint-only F1/F2 data can support **MAGNITUDE** when contextual predictors are recoverable, but cannot identify **TEMPORAL EXTENT**.
 
 ## Analysis hierarchy
 
-Every analysis-ready observation must preserve:
+Every observation preserves:
 
-`study/source -> dataset -> language -> speaker -> recording -> utterance -> target token -> time point/event`
+`study/source -> dataset -> language -> speaker -> recording -> utterance -> target vowel token -> time point`
 
-Speaker IDs are globally namespaced as `source_id::source_speaker_id`. Bilingual speakers retain one speaker UID while each token receives its actual production language and Glottocode. Study/source is always modeled separately from language because protocol and language are often partially confounded.
+Speaker IDs are globally namespaced as `source_id::source_speaker_id`. Bilingual speakers retain one speaker UID; each token retains its actual production language when supplied. Study/source is modeled separately from language because protocol and language are often partially confounded.
 
 ## Canonical tables
 
 ### 1. `coarticulation_tokens.csv`
 
-One row per target segment token. It stores the target plus immediately adjacent phonetic context, segment timing, speaker/language/study identifiers, and experimental covariates.
-
-Required identifiers:
+One row per target vowel token. Required identifiers are:
 
 - `source_id`
 - `dataset_id`
@@ -41,109 +38,80 @@ Required identifiers:
 - `utterance_id`
 - `token_id`
 
-Required phonetic context:
+Core phonetic/context fields are:
 
 - `prev_segment_ipa`, `target_segment_ipa`, `next_segment_ipa`
 - `prev_start_s`, `prev_end_s`
 - `target_start_s`, `target_end_s`
 - `next_start_s`, `next_end_s`
 - `target_duration_ms`
+- stress, syllable/word position, preceding/following vowel identity where available
+- source-native context labels when canonical IPA cannot be established without inference
 
-Recommended derived context features:
+Missing IPA/context remains empty/NA. Never reconstruct IPA from orthography unless the source provides a documented mapping.
 
-- vowel/consonant class
-- place and manner
-- laryngeal class
-- nasal status
-- labial/rounded status
-- rhotic/lateral status
-- vowel height/backness/rounding
-- stress, syllable position, word position
-
-Missing context is represented as empty/NA, never inferred from orthography unless a documented source-to-IPA mapping exists.
+Recommended moderators include speaking rate, style, task, bilingual/language mode, clinical status, age, sex/gender, and other demographics supplied by the source.
 
 ### 2. `coarticulation_trajectories.csv`
 
-One row per token × acoustic measure × time point. This is the primary input for trajectory GAMMs/hierarchical models.
+One row per target vowel token × F1/F2 × normalized time point.
 
 Required fields:
 
 - `source_id`, `dataset_id`, `speaker_uid`, `token_id`
-- `measure`
-- `time_norm` on [0,1] relative to the target interval
+- `measure` (`F1_HZ` or `F2_HZ` for target analyses)
+- `time_norm` in [0,1]
 - `time_s` where recoverable
 - `value`, `unit`
 - `measurement_origin` = `ORIGINAL` or `RECOMPUTED`
 - `algorithm`, `settings_json`
 - `manual_verification`
 - `quality_flag`
+- `source_measure_name`
 
-Canonical measure vocabulary includes:
-
-`F0_HZ`, `F0_ST`, `F1_HZ`, `F2_HZ`, `F3_HZ`, `H1H2_DB`, `H2H4_DB`, `CPP_DB`, `A1P0_DB`, `A1P1_DB`, `NASALANCE`, `RMS_DB`, `COG_HZ`, `SPECTRAL_SLOPE_DB_OCT`, `SPECTRAL_SKEWNESS`, `SPECTRAL_KURTOSIS`, `BURST_PEAK_HZ`.
-
-Original source variable names are retained in `source_measure_name`.
-
-For newly extracted trajectories, default normalized sampling points are 0.05, 0.10, ..., 0.95 of the target interval. Existing source trajectories are retained at their native sample points and may later be interpolated only in analysis code.
+For newly re-extracted trajectories, use standardized samples at 0.05, 0.10, ..., 0.95 of the manually verified vowel interval unless source-specific constraints require otherwise. Existing source trajectories remain at their native measurement points/windows. If a source reports windows rather than points, retain the native window bounds and use the window midpoint as `time_norm`.
 
 ### 3. `coarticulation_events.csv`
 
-One row per temporal landmark or interval event. This supports VOT and temporal analyses and anchors acoustic measurements to manually verified segmentation.
+This table is retained only to preserve manual/human-corrected segmentation landmarks needed to anchor vowel acoustics. Relevant canonical events include `SEGMENT_ONSET` and `SEGMENT_OFFSET`; other source landmarks may remain as provenance/covariates but are not target outcomes.
 
-Canonical event vocabulary:
+## Eligibility tiers
 
-`SEGMENT_ONSET`, `SEGMENT_OFFSET`, `CLOSURE_ONSET`, `CLOSURE_OFFSET`, `BURST`, `VOICING_ONSET`, `FRICATION_ONSET`, `FRICATION_OFFSET`, `ASPIRATION_ONSET`, `ASPIRATION_OFFSET`, `NASAL_ONSET`, `NASAL_OFFSET`.
+A source is eligible only when the relevant target-vowel boundaries, adjacent segment labels/context, or original acoustic measurements were manually created or exhaustively human-verified/corrected.
 
-Events may be point landmarks (`event_time_s`) or intervals (`event_start_s`, `event_end_s`). Each event retains annotation provenance, manual scope, and whether it was original or recomputed.
+- **READY** — released F1/F2 plus sufficient source context for at least one contextual analysis.
+- **REEXTRACT** — audio plus valid manual/human-corrected vowel/phone boundaries permit standardized F1/F2 extraction.
+- **POSSIBLE** — F1/F2 exist but contextual mapping requires further verified source documentation.
+- **NOT_SUPPORTED** — no defensible F1/F2 vowel-coarticulation analysis can be constructed.
+- **RESTRICTED** — potentially eligible but files are not currently accessible.
+- **SPECIALIZED** — retained only for a non-default domain sensitivity analysis (e.g. singing).
 
-## Eligibility rules by phenomenon
+## Source prioritization
 
-### `VV_CARRYOVER`
-Target must be a vowel and preceding segment/context must contain a vowel. Preferred evidence is target F1/F2 trajectory with >=3 time points; analysis emphasizes early target time.
+Highest priority goes to sources with:
 
-### `VV_ANTICIPATORY`
-Target must be a vowel and following segment/context must contain a vowel. Preferred evidence is target F1/F2 trajectory with >=3 time points; analysis emphasizes late target time.
+1. speaker ID and language;
+2. manually verified vowel or phone boundaries;
+3. explicit preceding/following segment or vowel context;
+4. F1 and F2 at three or more within-vowel time points, or audio permitting re-extraction;
+5. repeated contexts or moderator conditions within speakers.
 
-### `CV_PLACE`
-Target vowel must have a preceding consonant whose place is recoverable. Preferred measures are early-vowel F2/F3 trajectories, approximately the first 30% of the vowel.
-
-### `VC_EFFECT`
-Target consonant must have a preceding vowel whose identity/features are recoverable. Preferred consonant measures are burst peak/spectrum for stops and COG/slope/skewness/kurtosis for fricatives.
-
-### `NASAL`
-Target is normally a vowel adjacent to a nasal/oral contrast. Preferred measures are A1-P0, A1-P1, nasalance, and/or a validated nasalization measure across normalized vowel time.
-
-### `LARYNGEAL`
-Target vowel follows a consonant with recoverable laryngeal category. Preferred early-vowel measures are F0, H1-H2, CPP, and related voice-quality trajectories.
-
-### `VOT_VOWEL`
-Requires stop release/burst and voicing-onset landmarks or an original manually verified VOT value, plus following-vowel acoustics and/or duration. VOT is derived from event timing when both landmarks are present.
-
-### `LABIALIZATION`
-Requires an adjacent segment with recoverable labial/rounded/labialized status. Preferred target-vowel evidence is F2/F3 trajectory.
-
-### `RHOTIC_LATERAL`
-Requires adjacent rhotic/lateral identity. Preferred target-vowel evidence is F2/F3 trajectory, with F3 particularly important for rhotic effects.
-
-### `TEMPORAL`
-Requires manually produced or exhaustively human-corrected segment boundaries. Outcomes include target duration, adjacent-segment duration, inter-landmark intervals, normalized timing, and overlap/proximity measures that can be justified from the annotation scheme.
+Midpoint-only datasets are secondary because they estimate magnitude but not temporal extent.
 
 ## Pooling rules
 
-A source may be accepted into MPPD but excluded from a particular coarticulation analysis. Eligibility is determined per phenomenon and per annotation/measurement tier.
-
-Default pooled speech analyses exclude specialized singing data and retain clinical or L2 sources with explicit domain indicators so sensitivity analyses can include/exclude them. Single-speaker datasets may contribute token-level evidence but cannot independently identify speaker-level variance.
+Default pooled analyses include ordinary speech and retain explicit domain indicators for L2, bilingual, and clinical data so sensitivity analyses can exclude them. Singing sources are not mixed into default speech analyses. Single-speaker sources can contribute token-level evidence but cannot identify population speaker variance independently.
 
 ## Future ingestion contract
 
-Every newly accepted source must receive:
+Every accepted source should receive:
 
-1. a registry entry with provenance;
-2. a source-capability assessment for all ten phenomena;
-3. a mapping from source variable names/labels to canonical fields;
-4. analysis-ready token/context rows when enough metadata exist;
-5. trajectory rows for any usable acoustic measure;
-6. event rows for any usable landmarks/intervals;
-7. explicit `NOT_SUPPORTED` rather than silently missing data for unsupported phenomena.
+1. a provenance registry entry;
+2. a source-capability assessment;
+3. a mapping from source variable names to canonical fields;
+4. canonical token rows when enough metadata exist;
+5. canonical `F1_HZ`/`F2_HZ` trajectory rows for usable measurements;
+6. event rows only where manual landmarks help anchor vowel acoustics;
+7. validation with `scripts/validate_coarticulation.py`.
 
-Do not force a source into the schema by inventing phones, contexts, speaker IDs, or acoustic measures. If raw audio plus valid manual boundaries allow a missing measure to be recomputed, mark the capability `REEXTRACT`; if the needed context/boundary is absent, mark it `NOT_SUPPORTED`.
+Do not force a source into the schema by inventing phones, IPA, contexts, speakers, or acoustic measurements. Preserve source-native labels whenever canonicalization would otherwise require inference.
