@@ -1,0 +1,3 @@
+source_id,layer,file_or_resource,size_bytes,checksum_type,checksum,access,redistribution_policy,provenance,notes
+jaeger_daeglau_2026_unscripted_monologues,annotation,Speech_annotations_of_unscripted_monologues.zip,6200000,md5,c4202756dc7973bb325cbc19c1596e92,public,REFERENCE_ONLY_LICENSE_PENDING,"Zenodo 17578693; corrected linguistic annotation layer","Contains per-subject/per-take event.tsv, event.json and HED.tsv files according to repository documentation"
+jaeger_daeglau_2026_unscripted_monologues,primary_recordings,Zenodo 8082844 audiovisual corpus,,DOI,10.5281/zenodo.8082844,public,REFERENCE_ONLY_LARGE_ARCHIVE,"Primary audiovisual recordings from same project","More than 300 minutes from six speakers across 60 takes; do not mirror large audiovisual archive"
