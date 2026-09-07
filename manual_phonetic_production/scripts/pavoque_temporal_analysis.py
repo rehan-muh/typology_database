@@ -4,7 +4,7 @@ import csv
 import hashlib
 import json
 import os
-import subprocess
+import shutil
 from pathlib import Path
 
 import requests
@@ -24,6 +24,7 @@ FILES = [
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "warehouse" / "pavoque"
 OUT.mkdir(parents=True, exist_ok=True)
+ARTIFACT_OUT = Path("pavoque_output")
 
 
 def get_text(url: str) -> str:
@@ -59,7 +60,9 @@ for declared_style, fn, blob_sha, scope in FILES:
             raise ValueError(f"Unexpected utterance object in {fn} at {ui}")
         raw_variable_names.update(utt.keys())
         prompt = utt.get("prompt")
-        uid = f"{SOURCE_ID}::{fn}::{prompt if prompt is not None else ui}"
+        # Source prompts are not globally unique (especially in outtakes), so the
+        # source-file row index is part of the stable namespaced warehouse key.
+        uid = f"{SOURCE_ID}::{fn}::utt{ui:05d}"
         ustart = float(utt.get("start")) if utt.get("start") is not None else None
         uend = float(utt.get("end")) if utt.get("end") is not None else None
         style_original = utt.get("style")
@@ -159,7 +162,6 @@ vd = [
     {"original_variable": "segments.end", "standardized_variable": "segment_end_s_local", "variable_domain": "temporal", "description": "Cumulative segment endpoint within utterance", "units": "seconds", "datatype": "float", "coding_levels": "continuous", "missing_value_conventions": "YAML null/absent", "measurement_annotation_method": "manually corrected phone segmentation per corpus documentation", "time_reference_window": "utterance-local timeline", "anatomical_acoustic_target": "phone boundary", "provenance": "PAVOQUE YAML", "notes": "segment starts/durations are derived separately; original endpoint retained"},
 ]
 for r in vd:
-    r = r
     r["source_id"] = SOURCE_ID
     r["file_table"] = "PAVOQUE YAML / parsed linked tables"
 write_csv(
@@ -186,16 +188,15 @@ summary = {
         "nonnegative_segment_durations": all(float(s["segment_duration_s_derived"]) >= 0 for s in segments),
     },
 }
+if not all(summary["integrity"].values()):
+    raise ValueError(f"PAVOQUE relational-integrity failure: {summary['integrity']}")
 (OUT / "ingestion_status.json").write_text(json.dumps(summary, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 print(json.dumps(summary, indent=2, ensure_ascii=False))
 
-# The existing Actions workflow runs this script after pushes to this file. In CI,
-# commit only generated PAVOQUE warehouse outputs back under the permitted subtree.
+# CI has read-only repository contents permission. Preserve a complete run artifact
+# instead of attempting an unauthorized push; durable warehouse materialization is
+# performed via an authenticated ingest environment/connector.
 if os.getenv("GITHUB_ACTIONS") == "true":
-    subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=True)
-    subprocess.run(["git", "config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"], check=True)
-    subprocess.run(["git", "add", str(OUT.relative_to(Path.cwd()))], check=True)
-    diff = subprocess.run(["git", "diff", "--cached", "--quiet"])
-    if diff.returncode != 0:
-        subprocess.run(["git", "commit", "-m", "Ingest PAVOQUE YAML annotations into warehouse"], check=True)
-        subprocess.run(["git", "push"], check=True)
+    if ARTIFACT_OUT.exists():
+        shutil.rmtree(ARTIFACT_OUT)
+    shutil.copytree(OUT, ARTIFACT_OUT)
