@@ -1,0 +1,3 @@
+source_id,resource,url,format_or_scope,access,license,checksum,status,notes
+mandi_zhao_chodroff_2022,OSF project,https://osf.io/fgv4w/,corpus repository,public,CC BY-NC 3.0,,REFERENCE_ONLY_PENDING_DEEP_AUDIT,"357 primary recordings (~9.6 h) from 36 speakers reported in corpus paper. Do not mirror audio until file-level inventory and redistribution/size review are complete."
+mandi_zhao_chodroff_2022,LREC paper,https://aclanthology.org/2022.lrec-1.213/,documentation,public,CC BY-NC 4.0,,DOCUMENTATION_VERIFIED,"Primary source for collection design and annotation provenance."
