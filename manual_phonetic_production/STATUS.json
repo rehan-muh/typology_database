@@ -3,7 +3,7 @@
   "last_updated": "2026-09-07",
   "accepted_records": 38,
   "excluded_records": 19,
-  "review_queue": 36,
+  "review_queue": 37,
   "core_policy": "primary non-singing production + manual/manually corrected/exhaustively human-verified relevant annotations or measurements",
   "target_repository": "rehan-muh/typology_database:manual_phonetic_production/",
   "registry_note": "Base registries are supplemented by dated increment CSVs under data/registry/increments/.",
