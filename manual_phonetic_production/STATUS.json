@@ -2,7 +2,7 @@
   "created": "2026-08-27",
   "last_updated": "2026-09-07",
   "accepted_records": 31,
-  "excluded_records": 16,
+  "excluded_records": 17,
   "review_queue": 31,
   "core_policy": "primary non-singing production + manual/manually corrected/exhaustively human-verified relevant annotations or measurements",
   "target_repository": "rehan-muh/typology_database:manual_phonetic_production/",
