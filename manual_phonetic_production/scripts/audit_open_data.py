@@ -27,6 +27,7 @@ OSF_PROJECTS = {
     'cox_dideriksen_kerenportnoy_2023_danish_ids': 'ywf9m',
     'oschkinat_reinisch_hoole_2026': 'rsytu',
     'carignan_earbuds_nasalance_2024': '3wq9t',
+    'tang_parrell_niziolek_2022_variability': 'stjc9',
 }
 
 TAB_EXTS = {'.csv', '.tsv', '.txt', '.xlsx', '.xls', '.json'}
