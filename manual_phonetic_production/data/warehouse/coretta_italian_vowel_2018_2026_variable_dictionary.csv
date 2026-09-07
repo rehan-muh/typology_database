@@ -1,0 +1,53 @@
+source_id,file_table,original_variable,standardized_variable,variable_domain,description_meaning,units,datatype,coding_levels,missing_value_conventions,measurement_annotation_method,time_reference_window,anatomical_acoustic_target,provenance,notes
+coretta_italian_vowel_2018_2026,ita_egg,speaker,speaker_id,participant,Source speaker identifier,,string,,,source metadata,,speaker,SOURCE,"Namespace as coretta_italian_vowel_2018_2026::source_speaker_id."
+coretta_italian_vowel_2018_2026,ita_egg,ipu,ipu_index,recording,IPU index,,integer,,,source annotation,,utterance,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,stimulus,stimulus_text,lexical_stimulus,Sentence stimulus,,string,,,source metadata,,stimulus,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,sentence_ons,sentence_onset_s,interval_landmark,Sentence onset,s,numeric,,,manual-corrected alignment,absolute recording time,sentence,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,sentence_off,sentence_offset_s,interval_landmark,Sentence offset,s,numeric,,,manual-corrected alignment,absolute recording time,sentence,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,word_ons,word_onset_s,interval_landmark,Word onset (= C1 onset),s,numeric,,,manual-corrected alignment,absolute recording time,word/SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,word_off,word_offset_s,interval_landmark,Word offset (= V2 offset),s,numeric,,,manual-corrected alignment,absolute recording time,word,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,v1_ons,vowel1_onset_s,interval_landmark,V1 onset (= C1 offset),s,numeric,,,manual-corrected alignment,absolute recording time,V1,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,c2_ons,c2_onset_s,interval_landmark,C2 onset (= V1 offset),s,numeric,,,manual-corrected alignment,absolute recording time,C2,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,v2_ons,vowel2_onset_s,interval_landmark,V2 onset (= C2 offset),s,numeric,,,manual-corrected alignment,absolute recording time,V2,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,voice_ons,voicing_onset_s,interval_landmark,Voice onset,s,numeric,,,manual-corrected acoustic landmark,absolute recording time,voicing,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,voice_off,voicing_offset_s,interval_landmark,Voice offset,s,numeric,,,manual-corrected acoustic landmark,absolute recording time,voicing,SOURCE,"Source Rd description appears to repeat 'voice onset'; derived formulas establish this field as offset. Preserve original name and flag documentation discrepancy."
+coretta_italian_vowel_2018_2026,ita_egg,c1_rel,c1_release_s,interval_landmark,C1 release,s,numeric,,,manual-corrected acoustic landmark,absolute recording time,C1,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,c2_rel,c2_release_s,interval_landmark,C2 release,s,numeric,,,manual-corrected acoustic landmark,absolute recording time,C2,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,stimulus_id,stimulus_id,lexical_stimulus,Stimulus sentence index,,integer,,,source metadata,,stimulus,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,sentence,sentence_text,lexical_stimulus,Frame sentence,,string,,,source metadata,,stimulus,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,word,word,lexical_stimulus,Target word,,string,,,source metadata,,word,SOURCE,"Do not infer IPA from orthography."
+coretta_italian_vowel_2018_2026,ita_egg,c1,preceding_segment_label,segment_context,C1 label,,categorical,"p;t;k",,source stimulus coding,,C1,SOURCE,"Explicit source label; retain original transcription."
+coretta_italian_vowel_2018_2026,ita_egg,vowel,vowel_label,segment_context,V1 vowel label,,categorical,"i;e;a;o;u",,source stimulus coding,,V1,SOURCE,"Retain original label; normalized IPA only where explicit source mapping permits."
+coretta_italian_vowel_2018_2026,ita_egg,c2,following_segment_label,segment_context,C2 label,,categorical,"p;t;k",,source stimulus coding,,C2,SOURCE,"Explicit following-consonant context."
+coretta_italian_vowel_2018_2026,ita_egg,backness,vowel_backness,segment_feature,Vowel backness,,categorical,,,source stimulus coding,,V1,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,height,vowel_height,segment_feature,Vowel height,,categorical,"low;mid-low;mid-high;high",,source stimulus coding,,V1,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,c1_place,preceding_place,segment_feature,C1 place of articulation,,categorical,"labial;coronal;velar",,source stimulus coding,,C1,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,c2_place,following_place,segment_feature,C2 place of articulation,,categorical,"labial;coronal;velar",,source stimulus coding,,C2,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,v1_duration,vowel_duration_ms,temporal,V1 duration,ms,numeric,,,derived from manually corrected landmarks,"V1 onset to C2 onset",V1,DERIVED_SOURCE,"Formula: (c2_ons-v1_ons)*1000."
+coretta_italian_vowel_2018_2026,ita_egg,c2_clos_duration,c2_closure_duration_ms,temporal,C2 closure duration,ms,numeric,,,derived from manually corrected landmarks,"C2 onset to C2 release",C2,DERIVED_SOURCE,"Formula in source pipeline: (c2_rel-c2_ons)*1000. Source Rd text calls this C1 closure; preserve variable and flag documentation inconsistency."
+coretta_italian_vowel_2018_2026,ita_egg,rel_voff,c1_release_to_v1_offset_ms,temporal,C1 release to V1 offset duration,ms,numeric,,,derived from manually corrected landmarks,"C1 release to C2 onset/V1 offset",C1/V1,DERIVED_SOURCE,"Formula: (c2_ons-c1_rel)*1000."
+coretta_italian_vowel_2018_2026,ita_egg,sent_duration,sentence_duration_s,temporal,Sentence duration,s,numeric,,,derived from corrected sentence landmarks,"sentence onset to offset",sentence,DERIVED_SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,speech_rate,speech_rate_syll_s,prosody_rate,Speech rate,syllables/s,numeric,,,derived,"8 syllables / sentence duration",utterance,DERIVED_SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,speech_rate_c,speech_rate_centered,prosody_rate,Centered speech rate,syllables/s,numeric,,,derived,"speech_rate - source-table mean",utterance,DERIVED_SOURCE,"Retain raw speech_rate separately."
+coretta_italian_vowel_2018_2026,ita_egg,voice_duration,voicing_duration_ms,temporal,Duration of voiced interval of V1,ms,numeric,,,derived from manual-corrected landmarks,"voice onset to voice offset",voicing,DERIVED_SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,vot,vot_ms,temporal,Voice onset time,ms,numeric,,,derived from manual-corrected landmarks,"C1 release to voice onset",C1/voicing,DERIVED_SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,voi_clo,c2_closure_voicing_ms,temporal,Duration of voicing during C2 closure,ms,numeric,,,derived from manual-corrected landmarks,"C2 onset to voice offset",C2/voicing,DERIVED_SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,rel_rel,c1_to_c2_release_ms,temporal,C1 release to C2 release duration,ms,numeric,,,derived from manual-corrected landmarks,"C1 release to C2 release",C1-C2,DERIVED_SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,file,source_formant_file,file_provenance,File name used in FastTrack formant tracking,,string,,,source processing metadata,,acoustic file,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,fo,f0_hz,acoustic_f0,F0 at vowel midpoint,Hz,numeric,,,acoustic extraction,"vowel midpoint",V1,F0_SOURCE,"Source variable is spelled fo; retain original name."
+coretta_italian_vowel_2018_2026,ita_egg,cutoff,fasttrack_max_frequency_hz,acoustic_extraction,Upper frequency cutoff selected for FastTrack,Hz,numeric,,,FastTrack setting manually checked/adjusted,"per token/file as supplied",formant tracking,SOURCE,
+coretta_italian_vowel_2018_2026,ita_egg,f11,f1_hz_t1,acoustic_formant,F1 timepoint 1,Hz,numeric,,,FastTrack + manual checking,"0-20% of V1",V1/F1,SOURCE_MEASUREMENT,"Preserve source window; optional normalized center 0.1 is a separate derived field."
+coretta_italian_vowel_2018_2026,ita_egg,f21,f2_hz_t1,acoustic_formant,F2 timepoint 1,Hz,numeric,,,FastTrack + manual checking,"0-20% of V1",V1/F2,SOURCE_MEASUREMENT,"Preserve source window; optional normalized center 0.1 is a separate derived field."
+coretta_italian_vowel_2018_2026,ita_egg,f31,f3_hz_t1,acoustic_formant,F3 timepoint 1,Hz,numeric,,,FastTrack + manual checking,"0-20% of V1",V1/F3,SOURCE_MEASUREMENT,
+coretta_italian_vowel_2018_2026,ita_egg,f12,f1_hz_t2,acoustic_formant,F1 timepoint 2,Hz,numeric,,,FastTrack + manual checking,"20-40% of V1",V1/F1,SOURCE_MEASUREMENT,"Optional normalized center 0.3 in derived trajectory view."
+coretta_italian_vowel_2018_2026,ita_egg,f22,f2_hz_t2,acoustic_formant,F2 timepoint 2,Hz,numeric,,,FastTrack + manual checking,"20-40% of V1",V1/F2,SOURCE_MEASUREMENT,"Optional normalized center 0.3 in derived trajectory view."
+coretta_italian_vowel_2018_2026,ita_egg,f32,f3_hz_t2,acoustic_formant,F3 timepoint 2,Hz,numeric,,,FastTrack + manual checking,"20-40% of V1",V1/F3,SOURCE_MEASUREMENT,
+coretta_italian_vowel_2018_2026,ita_egg,f13,f1_hz_t3,acoustic_formant,F1 timepoint 3,Hz,numeric,,,FastTrack + manual checking,"40-60% of V1",V1/F1,SOURCE_MEASUREMENT,"Optional normalized center 0.5 in derived trajectory view."
+coretta_italian_vowel_2018_2026,ita_egg,f23,f2_hz_t3,acoustic_formant,F2 timepoint 3,Hz,numeric,,,FastTrack + manual checking,"40-60% of V1",V1/F2,SOURCE_MEASUREMENT,"Optional normalized center 0.5 in derived trajectory view."
+coretta_italian_vowel_2018_2026,ita_egg,f33,f3_hz_t3,acoustic_formant,F3 timepoint 3,Hz,numeric,,,FastTrack + manual checking,"40-60% of V1",V1/F3,SOURCE_MEASUREMENT,
+coretta_italian_vowel_2018_2026,ita_egg,f14,f1_hz_t4,acoustic_formant,F1 timepoint 4,Hz,numeric,,,FastTrack + manual checking,"60-80% of V1",V1/F1,SOURCE_MEASUREMENT,"Optional normalized center 0.7 in derived trajectory view."
+coretta_italian_vowel_2018_2026,ita_egg,f24,f2_hz_t4,acoustic_formant,F2 timepoint 4,Hz,numeric,,,FastTrack + manual checking,"60-80% of V1",V1/F2,SOURCE_MEASUREMENT,"Optional normalized center 0.7 in derived trajectory view."
+coretta_italian_vowel_2018_2026,ita_egg,f34,f3_hz_t4,acoustic_formant,F3 timepoint 4,Hz,numeric,,,FastTrack + manual checking,"60-80% of V1",V1/F3,SOURCE_MEASUREMENT,
+coretta_italian_vowel_2018_2026,ita_egg,f15,f1_hz_t5,acoustic_formant,F1 timepoint 5,Hz,numeric,,,FastTrack + manual checking,"80-100% of V1",V1/F1,SOURCE_MEASUREMENT,"Optional normalized center 0.9 in derived trajectory view."
+coretta_italian_vowel_2018_2026,ita_egg,f25,f2_hz_t5,acoustic_formant,F2 timepoint 5,Hz,numeric,,,FastTrack + manual checking,"80-100% of V1",V1/F2,SOURCE_MEASUREMENT,"Optional normalized center 0.9 in derived trajectory view."
+coretta_italian_vowel_2018_2026,ita_egg,f35,f3_hz_t5,acoustic_formant,F3 timepoint 5,Hz,numeric,,,FastTrack + manual checking,"80-100% of V1",V1/F3,SOURCE_MEASUREMENT,
