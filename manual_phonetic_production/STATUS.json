@@ -1,7 +1,7 @@
 {
   "created": "2026-08-27",
-  "last_updated": "2026-09-07T07:11:00-07:00",
-  "accepted_records": 39,
+  "last_updated": "2026-09-07T08:09:00-07:00",
+  "accepted_records": 40,
   "excluded_records": 19,
   "review_queue": 40,
   "core_policy": "primary non-singing production + manual/manually corrected/exhaustively human-verified relevant annotations or measurements",
