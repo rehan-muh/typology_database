@@ -1,9 +1,9 @@
 {
   "created": "2026-08-27",
-  "last_updated": "2026-09-07T10:19:00-07:00",
+  "last_updated": "2026-09-07T11:08:00-07:00",
   "accepted_records": 39,
   "excluded_records": 21,
-  "review_queue": 42,
+  "review_queue": 44,
   "core_policy": "primary non-singing production + manual/manually corrected/exhaustively human-verified relevant annotations or measurements",
   "target_repository": "rehan-muh/typology_database:manual_phonetic_production/",
   "registry_note": "Base registries are supplemented by dated increment CSVs under data/registry/increments/. Append-only policy-correction increments supersede earlier decisions when scope conflicts are found.",
@@ -14,7 +14,7 @@
   "warehouse_current_variable_records": 855,
   "warehouse_current_parsed_tables": 70,
   "warehouse_policy": "preserve all source variables before harmonization; public download is not assumed to grant redistribution rights",
-  "warehouse_count_note": "Current row/table counters include the validated PAVOQUE core parse (5 canonical YAML files; 5,442 core utterance rows + 246,386 manually corrected segment rows). The 1,892 PAVOQUE outtake utterance records are parsed and lineage-preserved but excluded from the core row counter. Full PAVOQUE observation tables were validated in workflow artifact 10027976609; durable in-repository generator/checksums/status are retained because CI contents permission is read-only.",
+  "warehouse_count_note": "Current row/table counters include the validated PAVOQUE core parse (5 canonical YAML files; 5,442 core utterance rows + 246,386 manually corrected segment rows). The 1,892 PAVOQUE outtake utterance records are parsed and lineage-preserved but excluded from the core row counter. Full PAVOQUE observation tables were validated in workflow artifact 10027976609; durable in-repository generator/checksums/status are retained because CI contents permission is read-only. VoxAngeles decile trajectories are now explicitly canonical and quartile trajectories explicitly overlapping alternates; pending large TSV materialization is not yet added to warehouse counts.",
   "analysis_schema": "coarticulation-v1-derived-view",
   "analysis_targets": 10,
   "canonical_tables": [
