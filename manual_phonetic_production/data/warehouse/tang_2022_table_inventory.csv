@@ -1,0 +1,11 @@
+source_id,source_path,rows,columns,layer,notes
+tang_parrell_niziolek_2022_variability,varMod/acousticdata/table_in.csv,216,20,acoustic_summary,"condition/vowel/subject summary table"
+tang_parrell_niziolek_2022_variability,varMod/acousticdata/table_inout.csv,180,20,acoustic_summary,"condition/vowel/subject summary table"
+tang_parrell_niziolek_2022_variability,varMod/acousticdata/table_out.csv,198,20,acoustic_summary,"condition/vowel/subject summary table"
+tang_parrell_niziolek_2022_variability,varMod/acousticdata/table_out2.csv,189,20,acoustic_summary,"condition/vowel/subject summary table"
+tang_parrell_niziolek_2022_variability,varMod/acousticdata/table_control.csv,225,20,acoustic_summary,"condition/vowel/subject summary table"
+tang_parrell_niziolek_2022_variability,varMod/acousticdata/reg_in.csv,72,3,derived_regression,"baseline/normalized distance by vowel"
+tang_parrell_niziolek_2022_variability,varMod/acousticdata/reg_inout.csv,60,4,derived_regression,"baseline plus in/out normalized distances by vowel"
+tang_parrell_niziolek_2022_variability,varMod/acousticdata/reg_out.csv,66,3,derived_regression,"baseline/normalized distance by vowel"
+tang_parrell_niziolek_2022_variability,varMod/acousticdata/reg_out2.csv,63,3,derived_regression,"baseline/normalized distance by vowel"
+tang_parrell_niziolek_2022_variability,varMod/acousticdata/reg_null.csv,75,3,derived_regression,"null-condition baseline/normalized distance by vowel"
