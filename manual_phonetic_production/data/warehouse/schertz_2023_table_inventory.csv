@@ -1,0 +1,6 @@
+source_id,source_path,table_role,rows,columns,ingestion_scope
+schertz_adil_kravchuk_2023,data.zip::macro_production.txt,production,5219,29,"retain all variables; production core"
+schertz_adil_kravchuk_2023,data.zip::micro_production.txt,production,582,7,"retain all variables; production core"
+schertz_adil_kravchuk_2023,data.zip::sub_info.txt,speaker_metadata,42,8,"retain all demographic/language variables"
+schertz_adil_kravchuk_2023,data.zip::macro_perception.txt,perception_covariate,4032,17,"retain source-faithfully as linked moderator/covariate table; never treat as production outcome"
+schertz_adil_kravchuk_2023,data.zip::micro_perception.txt,perception_covariate,1302,10,"retain source-faithfully as linked moderator/covariate table; never treat as production outcome"
