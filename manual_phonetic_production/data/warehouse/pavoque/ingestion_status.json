@@ -1,0 +1,36 @@
+{
+  "source_id": "pavoque_expressive_german",
+  "files_parsed": 6,
+  "core_files": 5,
+  "outtake_files": 1,
+  "utterance_rows": 7334,
+  "segment_rows": 246386,
+  "core_utterance_rows": 5442,
+  "core_segment_rows": 246386,
+  "variable_dictionary_rows": 7,
+  "raw_variables_observed": [
+    "end",
+    "prompt",
+    "segments",
+    "segments.end",
+    "segments.lab",
+    "start",
+    "style",
+    "text"
+  ],
+  "integrity": {
+    "unique_utterance_ids": true,
+    "unique_segment_ids": true,
+    "all_segment_utterance_ids_resolve": true,
+    "nonnegative_segment_durations": true
+  },
+  "artifact": {
+    "workflow_run_id": 34146856834,
+    "artifact_id": 10027976609,
+    "artifact_name": "pavoque-temporal-output",
+    "artifact_zip_sha256": "a91fe69e42d94ab57a7d6f3f0f1b7705436855297efc7ccded0b1a54753d364a",
+    "artifact_size_bytes": 8536344,
+    "artifact_expires": "2026-09-21T17:16:34Z"
+  },
+  "durable_materialization_note": "The validated source-faithful observation tables were generated successfully in CI. GitHub Actions has contents:read permission only, so the 110 MB segment table and 2.6 MB utterance table could not be pushed by CI. The authenticated source script and checksummed manifest/status are durable in-repository and exactly regenerate these tables; the full run artifact is retained temporarily for verification."
+}
