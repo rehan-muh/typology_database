@@ -42,9 +42,12 @@ Aggressive discovery + backlog pass for primary non-singing phonetic production 
 ## Backlog work
 
 ### Tang et al. 2022 perturbation data
-- Added OSF STJC9 to the existing recursive open-data auditor and triggered a deep inventory/profile pass.
-- Companion `carrien/free-speech` code confirms source structures include within-vowel F1/F2 tracks (and intensity) bounded by vowel onset/offset indices, supporting richer ingestion than paper-level summaries.
-- The recursive audit was still executing at the close of this pass; no Tang row/table counts are reported here and warehouse parsed totals were deliberately not inflated.
+- Added OSF STJC9 to the recursive open-data auditor; audit completed successfully.
+- Discovered 83 files. Ten directly readable CSV tables were parsed, totaling 1,344 rows and 116 table-variable records (27 unique source variable names).
+- Five acoustic summary tables contain `dura`, `stddura`, `RT`, `stdRT`, `stdf1_mid`, `stdf2_mid`, `stdf1_init`, `stdf2_init`, `medf1`, `medf2`, `initdists`, `middists`, `area`, `centering`, `centperc`, `cond`, `vowel`, `subj`, `stdmajor`, and `stdminor`. Conditions observed include baseline, hold2, washout, holdIn and holdOut.
+- Five regression/normalization tables contain baseline and normalized distance measures by vowel.
+- Participant-level `dataVals.mat` files (many ~34–69 MB) and `expt.mat` files remain the highest-value next layer. Released `free-speech` code shows that `dataVals` stores within-vowel F1/F2 tracks and intensity bounded by onset/offset indices, so those MAT files should be parsed rather than reducing the source to the 1,344 summary rows.
+- Added `tang_2022_table_inventory.csv` and a semantic `tang_2022_variable_dictionary.csv`; source CSV contents remain reference-layer data until redistribution terms are confirmed.
 
 ### Mitra-Dutta audit resilience
 - Prior deep crawl failure was traced to a transient OSF GitHub-provider 502 at `nodes/dsb2x/files/github/draft_BLC/`. Existing 340-file manifest/parsed reference layer remains valid; future deep traversal should add retry/continue behavior rather than discarding partial progress.
@@ -53,11 +56,11 @@ Aggressive discovery + backlog pass for primary non-singing phonetic production 
 - Accepted records: 31.
 - Excluded records: 17.
 - Review queue: 31.
-- Confirmed parsed warehouse totals remain 430,407 observations / 54 source tables / 730 parsed variable records pending completion of the active Tang audit.
-- New documented dictionaries/manifests are not falsely counted as parsed observations.
+- Confirmed parsed warehouse totals: 431,751 observations / 64 source tables / 846 parsed table-variable records.
+- New documented dictionaries/manifests are not counted as parsed observations unless source tables were actually opened and profiled.
 
 ## Next highest-yield actions
-1. Inspect the completed Tang audit artifact; parse trial-level/public tables and, if data are primarily MAT files, add a source-specific MAT parser informed by the released `free-speech` structures.
+1. Parse Tang participant-level `dataVals.mat` / `expt.mat` files into source-faithful trial/trajectory structures; preserve F1/F2/intensity tracks and corrected landmark lineage.
 2. Parse the 6.2 MB Jaeger-Daeglau annotation ZIP into recording/event/lexical tables and preserve source X-SAMPA alongside any defensible future IPA mapping.
 3. Inventory the MIT-licensed 3D MRI Figshare hierarchy and capture speaker/phoneme/task/volume/mask linkage without double-counting the earlier MRI corpus.
 4. Continue Schertz 5,801 production-row harmonization, preserving unresolved macro/micro VOT scales separately.
