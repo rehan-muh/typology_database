@@ -1,5 +1,5 @@
 from __future__ import annotations
-import io, os, re, json, tempfile
+import io, os, re, tempfile, zipfile
 from pathlib import Path
 import pandas as pd
 import requests
@@ -51,32 +51,46 @@ def read_table(raw,name):
         except Exception: pass
     return out
 
+def iter_payloads(raw,path):
+    if path.lower().endswith('.zip'):
+        try:
+            with zipfile.ZipFile(io.BytesIO(raw)) as z:
+                for n in z.namelist():
+                    if n.endswith('/'): continue
+                    try: yield f'{path}::{n}',z.read(n)
+                    except Exception: pass
+        except Exception: return
+    else:
+        yield path,raw
+
 files=walk(f'https://api.osf.io/v2/nodes/{NODE}/files/osfstorage/')
 pd.DataFrame(files).to_csv(OUT/'file_manifest.csv',index=False)
-profiles=[]; candidates=[]; vardict=[]
-pat=re.compile(r'burst|period|voic|vot|vowel|offset|onset|duration|dur|f1|f2|f3|f0|formant|speaker|subject|participant|word|item|condition|trial|repetition|accent|imit',re.I)
+profiles=[]; candidates=[]; vardict=[]; archive_manifest=[]
+pat=re.compile(r'burst|period|voic|vot|vowel|offset|onset|duration|dur|f1|f2|f3|f0|formant|speaker|subject|participant|word|item|condition|trial|repetition|accent|imit|error|response',re.I)
 for f in files:
     p=f['path']; size=f.get('size') or 0
-    if not re.search(r'\.(csv|tsv|txt|xlsx|xls|rds|rda|rdata)$',p,re.I) or size>100_000_000: continue
+    if size>150_000_000: continue
     try:
-        raw=S.get(f['download_url'],timeout=120).content
-        objs=read_table(raw,p)
-        for sh,d in objs.items():
-            profiles.append({'source_id':SOURCE_ID,'path':p,'sheet':sh,'rows':len(d),'cols':len(d.columns),'columns':' | '.join(map(str,d.columns))})
-            for c in d.columns:
-                s=d[c]
-                vardict.append({'source_id':SOURCE_ID,'path':p,'sheet':sh,'original_variable':c,'dtype':str(s.dtype),'n_nonmissing':int(s.notna().sum()),'n_unique':int(s.nunique(dropna=True)),'sample_values':' | '.join(map(str,s.dropna().astype(str).unique()[:8]))})
-            hits=[str(c) for c in d.columns if pat.search(str(c))]
-            if hits:
-                candidates.append({'source_id':SOURCE_ID,'path':p,'sheet':sh,'rows':len(d),'matched_columns':' | '.join(hits)})
-                # save manageable candidate tables source-faithfully for inspection artifact only
-                safe=re.sub(r'[^A-Za-z0-9_.-]+','_',p+'__'+sh)[:180]
-                if len(d)<=200000:
-                    d.to_csv(OUT/(safe+'.csv'),index=False)
+        raw=S.get(f['download_url'],timeout=180).content
+        for inner,blob in iter_payloads(raw,p):
+            archive_manifest.append({'source_id':SOURCE_ID,'container':p,'member':inner,'size':len(blob)})
+            if not re.search(r'\.(csv|tsv|txt|xlsx|xls|rds|rda|rdata)$',inner,re.I): continue
+            objs=read_table(blob,inner)
+            for sh,d in objs.items():
+                profiles.append({'source_id':SOURCE_ID,'path':inner,'sheet':sh,'rows':len(d),'cols':len(d.columns),'columns':' | '.join(map(str,d.columns))})
+                for c in d.columns:
+                    s=d[c]
+                    vardict.append({'source_id':SOURCE_ID,'path':inner,'sheet':sh,'original_variable':c,'dtype':str(s.dtype),'n_nonmissing':int(s.notna().sum()),'n_unique':int(s.nunique(dropna=True)),'sample_values':' | '.join(map(str,s.dropna().astype(str).unique()[:8]))})
+                hits=[str(c) for c in d.columns if pat.search(str(c))]
+                if hits:
+                    candidates.append({'source_id':SOURCE_ID,'path':inner,'sheet':sh,'rows':len(d),'matched_columns':' | '.join(hits)})
+                    safe=re.sub(r'[^A-Za-z0-9_.-]+','_',inner+'__'+sh)[:180]
+                    if len(d)<=200000: d.to_csv(OUT/(safe+'.csv'),index=False)
     except Exception as e:
         profiles.append({'source_id':SOURCE_ID,'path':p,'sheet':'ERROR','rows':0,'cols':0,'columns':repr(e)})
+pd.DataFrame(archive_manifest).to_csv(OUT/'archive_manifest.csv',index=False)
 pd.DataFrame(profiles).to_csv(OUT/'table_profiles.csv',index=False)
 pd.DataFrame(vardict).to_csv(OUT/'variable_dictionary_raw.csv',index=False)
 pd.DataFrame(candidates).to_csv(OUT/'candidate_tables.csv',index=False)
-print('FILES',len(files),'TABLES',len(profiles),'VARIABLES',len(vardict),'CANDIDATES',len(candidates))
+print('FILES',len(files),'ARCHIVE_MEMBERS',len(archive_manifest),'TABLES',len(profiles),'VARIABLES',len(vardict),'CANDIDATES',len(candidates))
 print(pd.DataFrame(candidates).to_string(index=False,max_colwidth=120))
