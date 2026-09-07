@@ -1,0 +1,2 @@
+source_id,path,file_type,size_bytes,checksum_type,checksum,access,redistribution_status,annotation_scope,notes
+aphasiabd_2026,Patient Data.zip,zip,194273814,md5,c2b0b71f5599d0c2a0f64bd03ed9dcb0,public,REFERENCE_ONLY_LICENSE_NOT_EXPLICIT,"335 manually sentence-segmented clips from 38 Bengali post-stroke speakers","Zenodo record 21863777; inspect internal hierarchy and participant/task metadata before mirroring any audio"
