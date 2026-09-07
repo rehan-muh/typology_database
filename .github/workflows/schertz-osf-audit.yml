@@ -1,0 +1,22 @@
+name: Schertz OSF ingestion audit
+on:
+  push:
+    paths:
+      - 'manual_phonetic_production/scripts/audit_schertz_osf.py'
+      - '.github/workflows/schertz-osf-audit.yml'
+  workflow_dispatch:
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pandas requests openpyxl pyreadr
+      - run: python manual_phonetic_production/scripts/audit_schertz_osf.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: schertz-osf-audit
+          path: schertz_audit/
+          retention-days: 14
