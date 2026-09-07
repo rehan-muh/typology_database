@@ -1,0 +1,3 @@
+source_id,prior_decision,corrected_decision,correction_reason,verified_date
+esmuc_choir_dataset_2022,INCLUDE_SPECIALIZED,EXCLUDE,"Current database scope explicitly requires PRIMARY, NON-SINGING phonetic production; this corpus is choral singing and therefore must not remain in the accepted core despite manually corrected F0 annotations.",2026-09-07
+choral_singing_dataset_2018,INCLUDE_SPECIALIZED,EXCLUDE,"Current database scope explicitly requires PRIMARY, NON-SINGING phonetic production; this corpus is choral singing and therefore must not remain in the accepted core despite manually corrected F0 annotations.",2026-09-07
