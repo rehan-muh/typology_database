@@ -1,0 +1,6 @@
+source_id,path,size_bytes,authoritative_download_url,date_modified,storage_action
+schertz_adil_kravchuk_2023,data.zip,347884,https://osf.io/download/rbxmq/,2022-11-21T21:04:23.570618,"reference; parsed recursively; do not mirror until file-level license is confirmed"
+schertz_adil_kravchuk_2023,analysis_code.R,21576,https://osf.io/download/4te53/,2022-11-21T21:04:23.774558,"reference"
+schertz_adil_kravchuk_2023,stim_accent_tasks.zip,27464217,https://osf.io/download/a3f7d/,2022-11-21T21:04:44.622433,"reference; stimuli archive"
+schertz_adil_kravchuk_2023,stim_word_tasks.zip,57591,https://osf.io/download/smru7/,2022-11-21T21:04:23.695332,"reference; stimuli archive"
+schertz_adil_kravchuk_2023,preregistration_information_all.pdf,419405,https://osf.io/download/g4e2j/,2022-11-21T21:04:23.979578,"reference"
