@@ -1,0 +1,9 @@
+source_id,file_path,file_type,size_bytes,github_blob_sha,rows,variables,role,redistribution_policy,lineage_notes
+pavoque_expressive_german,pavoque-angry.yaml,yaml,641141,bff79d978f740f6c2b09bc595ade03b6bdf33423,,,source-faithful utterance/segment annotations,CC-BY-NC-SA-4.0,"Acted angry expressive speech; YAML contains utterances and optional manually corrected phone segments."
+pavoque_expressive_german,pavoque-happy.yaml,yaml,611136,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,,,source-faithful utterance/segment annotations,CC-BY-NC-SA-4.0,"Acted happy expressive speech; same speaker/recording lineage as corpus."
+pavoque_expressive_german,pavoque-neutral.yaml,yaml,4968933,29deb5aa1b75b1aaa98d51896f9d849e12bc7bc0,,,source-faithful utterance/segment annotations,CC-BY-NC-SA-4.0,"Large neutral-speech subset; parse pending due connector response-size limits."
+pavoque_expressive_german,pavoque-outtakes.yaml,yaml,286310,a72da519c13068f8c05b6fd038cd8ecac540b80c,,,source-faithful utterance/segment annotations,CC-BY-NC-SA-4.0,"Outtakes retained as distinct source subset; do not silently merge with canonical prompts until duplicate prompt/audio lineage is checked."
+pavoque_expressive_german,pavoque-poker.yaml,yaml,630189,20a8bdc3cee75f3e19517dfeeda1a2230cb033c9,,,source-faithful utterance/segment annotations,CC-BY-NC-SA-4.0,"Acted cool/poker expressive speech."
+pavoque_expressive_german,pavoque-sad.yaml,yaml,604376,199a4dde1e3a50576a1a691664473aa9f35f41ed,,,source-faithful utterance/segment annotations,CC-BY-NC-SA-4.0,"Acted sad expressive speech."
+pavoque_expressive_german,README.md,markdown,3574,3b10a17eaeba6ee0843dc68147c3b5d3e7b5ba6,,,provenance/schema/license documentation,CC-BY-NC-SA-4.0,"Authoritative documentation for manual-correction statement and YAML timing semantics."
+pavoque_expressive_german,LICENSE.md,text,19124,b82befc65e04152ae5575586fb20c0095a62a91c,,,license text,CC-BY-NC-SA-4.0,"Retain authoritative license reference."
