@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-08T15:13:00-07:00",
+  "last_updated": "2026-09-08T16:08:00-07:00",
   "total_sources": 120,
   "accepted_sources": 39,
   "excluded_sources": 25,
   "review_sources": 56,
   "ingested_sources": 39,
-  "parsed_rows_total": 694481,
+  "parsed_rows_total": 694571,
   "parsed_logical_tables_total": 73,
   "inventory_file_records": 71,
   "variable_dictionary_records": 880,
-  "notes": "Continuation restored from the durable warehouse state, with source-faithful Coretta rows 1-1980 now committed across 66 chunks and a fresh range-level audit covering exact upstream source lines 1892-1981. The latest +90-row pass advances the warehouse to 694,481 parsed rows while preserving the source's 14 original variables, literal --undefined-- missing markers, and full numeric precision. Coretta is 60.6% complete with 1,288 observations pending (next start: source line 1982 / data row 1981). Upstream measurements.csv was re-verified at immutable blob f3a67a6acb3aac900584698c68966177fe4f04e7 before ingest. Chunk files are provisional, non-overlapping source-faithful slices and MUST be superseded atomically when eventually replaced by a consolidated exact blob; never count both forms. Fresh discovery screened current manually annotated production candidates and repository records; L2-ARCTIC was reconfirmed as already tracked, singing-only Jingju resources were rejected by scope, and an automatic prosodic-segmentation Speech Prosody 2026 deposit was not promoted because its production data are inherited and the public record does not expose an isolatable new qualifying manual phonetic layer. Dedupe no-op protection, lineage guards, and accepted/review/excluded decisions remain explicit in registry/provenance."
+  "notes": "Continuation restored from the durable warehouse state, with source-faithful Coretta rows 1-2070 now committed across 69 non-overlapping chunks. The latest +90-row pass covers exact upstream source lines 1982-2071 and advances the warehouse to 694,571 parsed rows while preserving all 14 original variables, literal --undefined-- missing markers, source strings, and full numeric precision. Coretta is 63.3% complete with 1,198 observations pending (next start: source line 2072 / data row 2071). Upstream measurements.csv remains pinned to immutable blob f3a67a6acb3aac900584698c68966177fe4f04e7; the final new chunk was re-read after commit. Chunk files are provisional source-faithful slices and MUST be superseded atomically if replaced by a consolidated exact blob; never count both forms. Fresh discovery re-verified CCOST as a high-value qualifying primary Standard Thai corpus with ASR/MAUS phone-level alignment manually corrected by phonetically trained native Thai speakers and a public Zenodo deposit containing TextGrids/audio plus metadata, stimuli, annotation manual, checksums, and CC-BY-NC-SA-4.0 licensing; it was already present as ccost_2026 in sources.csv, so dedupe protection prevented a duplicate registry record. Other screened search hits included manually segmented but third-party Switchboard work, which remains excluded by the primary-recording rule. All writes remain confined to manual_phonetic_production/."
 }
