@@ -1,0 +1,4 @@
+source_id,source_file,upstream_blob_sha,source_line_start,source_line_end,data_row_start,data_row_end,rows_ingested,cumulative_rows,total_rows,pending_rows,status,lineage_rule
+coretta_italian_vowel_2018_2026,data-raw/datasets/measurements.csv,f3a67a6acb3aac900584698c68966177fe4f04e7,722,751,721,750,30,750,3268,2518,SOURCE_FAITHFUL_PARTIAL,"Future consolidated full-table copy must supersede chunks, not add duplicate observations"
+coretta_italian_vowel_2018_2026,data-raw/datasets/measurements.csv,f3a67a6acb3aac900584698c68966177fe4f04e7,752,781,751,780,30,780,3268,2488,SOURCE_FAITHFUL_PARTIAL,"Future consolidated full-table copy must supersede chunks, not add duplicate observations"
+coretta_italian_vowel_2018_2026,data-raw/datasets/measurements.csv,f3a67a6acb3aac900584698c68966177fe4f04e7,782,811,781,810,30,810,3268,2458,SOURCE_FAITHFUL_PARTIAL,"Future consolidated full-table copy must supersede chunks, not add duplicate observations"
