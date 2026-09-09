@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-08T23:12:00-07:00",
+  "last_updated": "2026-09-09T00:07:00-07:00",
   "total_sources": 122,
   "accepted_sources": 40,
   "excluded_sources": 25,
   "review_sources": 57,
   "ingested_sources": 39,
-  "parsed_rows_total": 695201,
+  "parsed_rows_total": 695291,
   "parsed_logical_tables_total": 73,
   "inventory_file_records": 71,
   "variable_dictionary_records": 880,
-  "notes": "Aggressive continuation pass added exact source-faithful Coretta measurements.csv slices for upstream source lines 2612-2701 (90 observations), bringing durable coverage to 2,700/3,268 observations (82.6%) with 568 pending; next exact continuation is source line 2702 / data row 2701. Upstream measurements.csv remains pinned to immutable blob f3a67a6acb3aac900584698c68966177fe4f04e7. All 14 original columns, source strings, full numeric precision, and literal --undefined-- markers were preserved, including the fully undefined it16::ipu_82 timing row. Fresh discovery screened recent manually corrected speech resources but promoted no new source: UrduSpeech is largely curated third-party media and therefore outside core under lineage rules; InCroMin explicitly retains automatic timestamps; PAVOQUE is already tracked. Chunk files are provisional exact slices and MUST be superseded atomically if replaced by a consolidated exact blob; never count both forms. All writes confined to manual_phonetic_production/."
+  "notes": "Aggressive continuation pass added exact source-faithful Coretta measurements.csv slices for upstream source lines 2702-2791 (90 observations), bringing durable coverage to 2,790/3,268 observations (85.4%) with 478 pending; next exact continuation is source line 2792 / data row 2791. Upstream measurements.csv remains pinned to immutable blob f3a67a6acb3aac900584698c68966177fe4f04e7. Source strings, numeric precision, source column values, and literal --undefined-- markers were preserved without inferred labels or normalization. Reconciled warehouse/ingestion_status.csv, which had lagged the durable chunk state, to the same 2,790-row coverage. Fresh discovery promoted no new source: PAVOQUE is already tracked; PxCorpus and the French OSCE resource expose human-corrected transcript/semantic layers without a demonstrated qualifying manual phonetic timing/landmark/measurement layer; TunSwitch's manual annotation concerns code-switch tagging rather than phonetic production annotation. Chunk files are provisional exact slices and MUST be superseded atomically if replaced by a consolidated exact blob; never count both forms. All writes confined to manual_phonetic_production/."
 }
