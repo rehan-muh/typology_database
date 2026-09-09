@@ -5,6 +5,8 @@ on:
     paths:
       - 'manual_phonetic_production/scripts/ingest_rog11.py'
       - '.github/workflows/rog11-ingest.yml'
+permissions:
+  contents: write
 jobs:
   ingest:
     runs-on: ubuntu-latest
@@ -15,6 +17,62 @@ jobs:
           python-version: '3.12'
       - run: pip install requests
       - run: python manual_phonetic_production/scripts/ingest_rog11.py
+      - name: Build durable compact source-faithful layer
+        run: |
+          set -euo pipefail
+          DEST=manual_phonetic_production/data/source_faithful/rog_slovenian_1_1
+          mkdir -p "$DEST"
+          cp rog11_output/{file_manifest.csv,ingestion_status.json,variable_dictionary.csv,speakers_source_faithful.tsv.csv,speeches_source_faithful.tsv.csv,split_source_faithful.tsv.csv} "$DEST"/
+          for f in exb_events_source_faithful.csv exb_timeline_source_faithful.csv conllu_tokens_source_faithful.csv tei_events_source_faithful.csv trs_turns_source_faithful.csv; do
+            gzip -9 -c "rog11_output/$f" > "$DEST/$f.gz"
+          done
+          python - <<'PY'
+          import csv
+          src='rog11_output/exb_events_source_faithful.csv'
+          dst='manual_phonetic_production/data/source_faithful/rog_slovenian_1_1/prosodic_unit_events_source_faithful.csv'
+          with open(src,encoding='utf-8',newline='') as fi, open(dst,'w',encoding='utf-8',newline='') as fo:
+              r=csv.DictReader(fi); w=csv.DictWriter(fo,fieldnames=r.fieldnames); w.writeheader()
+              for row in r:
+                  if row['tier_category_original']=='prosodicUnits': w.writerow(row)
+          src='rog11_output/speakers_source_faithful.tsv.csv'
+          dst='manual_phonetic_production/data/source_faithful/rog_slovenian_1_1/participants_harmonized.csv'
+          with open(src,encoding='utf-8',newline='') as fi:
+              r=csv.DictReader(fi); fields=['participant_id']+r.fieldnames; seen=set()
+              with open(dst,'w',encoding='utf-8',newline='') as fo:
+                  w=csv.DictWriter(fo,fieldnames=fields); w.writeheader()
+                  for row in r:
+                      sid=row.get('PRS-ID','')
+                      if not sid or sid in seen: continue
+                      seen.add(sid); w.writerow({'participant_id':'rog_slovenian_1_0_1_1_manual_prosody::'+sid,**row})
+          src='rog11_output/speeches_source_faithful.tsv.csv'
+          dst='manual_phonetic_production/data/source_faithful/rog_slovenian_1_1/recordings_harmonized.csv'
+          with open(src,encoding='utf-8',newline='') as fi:
+              r=csv.DictReader(fi); fields=['recording_id']+r.fieldnames; seen=set()
+              with open(dst,'w',encoding='utf-8',newline='') as fo:
+                  w=csv.DictWriter(fo,fieldnames=fields); w.writeheader()
+                  for row in r:
+                      sid=row.get('RECORDING-ID','')
+                      if not sid or sid in seen: continue
+                      seen.add(sid); w.writerow({'recording_id':'rog_slovenian_1_0_1_1_manual_prosody::'+sid,**row})
+          PY
+          cat > "$DEST/README.md" <<'EOF'
+          # ROG 1.1 source-faithful ingestion
+
+          Source: CLARIN.SI ROG 1.1 (`handle/11356/2062`), CC BY-SA 4.0. The authoritative `ROG.zip` is pinned by published MD5 `f1e8a28e42008f634f157572bdfcf902`; SHA-256 is recorded in `ingestion_status.json`.
+
+          The `.csv.gz` files preserve complete parsed EXMARaLDA, timeline, TRS, TEI and CoNLL-U layers source-faithfully. `prosodic_unit_events_source_faithful.csv` is a convenience lossless subset of all EXMARaLDA events whose original tier category is `prosodicUnits`; ROG 1.1 explicitly states these Prosodic Unit annotations were manually corrected. The full EXB layer is retained so unfamiliar/manual annotation variables are not silently discarded.
+
+          `participants_harmonized.csv` and `recordings_harmonized.csv` add namespaced IDs while retaining all original metadata fields. Alternate EXB/TRS/TEI/CoNLL-U representations overlap in underlying recordings and MUST NOT be summed as independent phonetic observations.
+          EOF
+      - name: Commit structured ingestion only
+        run: |
+          git config user.name "phonetic-data-ingestion"
+          git config user.email "119552078+rehan-muh@users.noreply.github.com"
+          git add manual_phonetic_production/data/source_faithful/rog_slovenian_1_1/
+          if ! git diff --cached --quiet; then
+            git commit -m "Ingest ROG 1.1 manual prosody and annotation layers"
+            git push
+          fi
       - uses: actions/upload-artifact@v4
         with:
           name: rog11-ingestion-output
