@@ -1,0 +1,4 @@
+source_id,upstream_repo,upstream_file,upstream_blob_sha,chunk_file,source_line_start,source_line_end,data_row_start,data_row_end,rows_ingested,columns,preserve_missing,validation,next_source_line
+coretta_italian_vowel_2018_2026,stefanocoretta/coretta2018itaegg,data-raw/datasets/measurements.csv,f3a67a6acb3aac900584698c68966177fe4f04e7,measurements_lines_2072_2101.csv,2072,2101,2071,2100,30,14,literal --undefined--,source-faithful contiguous range,2102
+coretta_italian_vowel_2018_2026,stefanocoretta/coretta2018itaegg,data-raw/datasets/measurements.csv,f3a67a6acb3aac900584698c68966177fe4f04e7,measurements_lines_2102_2131.csv,2102,2131,2101,2130,30,14,literal --undefined--,source-faithful contiguous range,2132
+coretta_italian_vowel_2018_2026,stefanocoretta/coretta2018itaegg,data-raw/datasets/measurements.csv,f3a67a6acb3aac900584698c68966177fe4f04e7,measurements_lines_2132_2161.csv,2132,2161,2131,2160,30,14,literal --undefined--,post-write re-read passed,2162
