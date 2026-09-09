@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-08T18:11:00-07:00",
+  "last_updated": "2026-09-08T19:07:00-07:00",
   "total_sources": 121,
   "accepted_sources": 40,
   "excluded_sources": 25,
   "review_sources": 56,
   "ingested_sources": 39,
-  "parsed_rows_total": 694751,
+  "parsed_rows_total": 694841,
   "parsed_logical_tables_total": 73,
   "inventory_file_records": 71,
   "variable_dictionary_records": 880,
-  "notes": "Aggressive continuation pass committed source-faithful Coretta measurements rows 2161-2250 (upstream source lines 2162-2251) across three non-overlapping 30-row chunks, advancing Coretta to 2,250/3,268 observations (68.8%) with 1,018 pending; next exact continuation is source line 2252 / data row 2251. Upstream measurements.csv remains pinned to immutable blob f3a67a6acb3aac900584698c68966177fe4f04e7. All 14 original columns, source strings, full numeric precision, and literal --undefined-- markers are preserved. Fresh discovery admitted Abuoudeh 2026 / Layla Witheeb Jordanian Arabic as a new accepted source: 109 primary speakers, story-reading + storytelling, public CC BY 4.0 Mendeley deposit, forced alignment exhaustively manually verified/corrected in Praat, with WAV, three-tier TextGrid, Arabic and ATR transcriptions, metadata ODS, and a Praat extraction script. File-level enumeration/TextGrid parsing remains pending, so ingested_sources is conservatively unchanged at 39. Chunk files are provisional exact slices and MUST be superseded atomically if replaced by a consolidated exact blob; never count both forms. All writes confined to manual_phonetic_production/."
+  "notes": "Aggressive continuation pass committed source-faithful Coretta measurements rows 2251-2340 (upstream source lines 2252-2341) across three non-overlapping 30-row chunks, advancing Coretta to 2,340/3,268 observations (71.6%) with 928 pending; next exact continuation is source line 2342 / data row 2341. Upstream measurements.csv remains pinned to immutable blob f3a67a6acb3aac900584698c68966177fe4f04e7. All 14 original columns, source strings, full numeric precision, and literal --undefined-- markers are preserved. Fresh discovery re-screened IFCASL and related L2/clinical/manual-segmentation candidates; no new source was promoted because publicly isolatable file-level manual phonetic data were not established beyond sources already tracked. Chunk files are provisional exact slices and MUST be superseded atomically if replaced by a consolidated exact blob; never count both forms. All writes confined to manual_phonetic_production/."
 }
