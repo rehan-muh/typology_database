@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-09T04:12:00-07:00",
+  "last_updated": "2026-09-09T05:10:00-07:00",
   "total_sources": 123,
   "accepted_sources": 41,
   "excluded_sources": 25,
   "review_sources": 57,
   "ingested_sources": 39,
-  "parsed_rows_total": 695651,
+  "parsed_rows_total": 695769,
   "parsed_logical_tables_total": 73,
   "inventory_file_records": 89,
   "variable_dictionary_records": 902,
-  "notes": "Aggressive discovery+backlog pass added exact source-faithful Coretta measurements.csv slices for upstream source lines 3062-3151 (90 observations), bringing durable coverage to 3,150/3,268 observations (96.4%) with 118 pending; next exact continuation is source line 3152 / data row 3151. Upstream measurements.csv remains pinned to immutable blob f3a67a6acb3aac900584698c68966177fe4f04e7. Original 14-column values, precision, strings, and literal --undefined-- markers were preserved. Discovery admitted the primary non-singing Open Oldenburg Conversation Corpus (OOCC) as an accepted reference-first source: 14 speakers/7 dyads, public primary audiovisual recordings, transcript CSVs manually corrected by native German lab assistants after diarization/transcription/alignment, plus word timing, articulation rate, acoustic energy, mean pitch and conversational timing measures. All 18 public Zenodo objects were checksummed/manifested and 22 documented variables entered into a source-specific dictionary; automatic MediaPipe body landmarks are explicitly non-core. Binary retrieval of the small transcript ZIP failed in this runtime, so no OOCC observation rows were falsely counted; parsing remains pending. MRPL2 discovery was deduplicated against its pre-existing accepted restricted warehouse record. Chunk files remain provisional exact slices and MUST be superseded atomically if consolidated; never count chunk plus consolidated forms. All writes confined to manual_phonetic_production/."
+  "notes": "Aggressive discovery+backlog pass completed source-faithful Coretta measurements.csv ingestion by committing the final upstream source lines 3152-3269 (118 observations) in four contiguous exact slices. Durable coverage is now 3,268/3,268 observations (100.0%); no measurement rows remain pending. Upstream measurements.csv remains pinned to immutable blob f3a67a6acb3aac900584698c68966177fe4f04e7. Original 14-column values, precision, strings, and literal --undefined-- markers were preserved, including fully undefined measurement observations rather than silently filtering them. The final committed slice was re-read after write. Discovery screened fresh manually corrected production leads, including Laméris, Li & Post's non-native tone production study; the paper documents primary production, F0 trajectory correction and human phono-lexical ratings, but no public observation-level deposit was resolved in this pass, so no source was promoted on paper-level evidence alone. Registry counts therefore remain unchanged. Coretta chunk files remain provisional exact source-faithful slices and MUST be superseded atomically if consolidated; never count chunk plus consolidated forms. All writes confined to manual_phonetic_production/."
 }
