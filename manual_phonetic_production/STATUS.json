@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-09T12:09:00-07:00",
+  "last_updated": "2026-09-09T13:08:49-07:00",
   "total_sources": 127,
   "accepted_sources": 42,
   "excluded_sources": 25,
   "review_sources": 60,
   "ingested_sources": 41,
-  "parsed_rows_total": 1356460,
+  "parsed_rows_total": 1356660,
   "parsed_logical_tables_total": 82,
   "inventory_file_records": 916,
   "variable_dictionary_records": 1057,
-  "notes": "Discovery+backlog pass advanced the audited-only VoxAngeles source-faithful mean-F0 mirror by 200 exact observations from authoritative upstream source lines 656-855, bringing durable mean-F0 coverage to 854 observations and deterministic continuation at source line 856. Both 100-row ranges are contiguous and pinned to unchanged upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3; original recording IDs and numeric strings were preserved verbatim, and no unaudited forced-alignment data were admitted. Direct attempts to retrieve the much higher-value duration and decile trajectory files established a concrete technical blocker: these large upstream TSVs are UTF-16, while the currently available GitHub text connector accepts only UTF-8 and returns no decodable content. They remain explicitly pending, with immutable blob SHAs and sizes retained; zero duration/trajectory observations were falsely counted. Fresh discovery rechecked the 2026 Cypriot-Greek autism vowel-production study (manual vowel boundaries; F0, F1-F3, delta trajectories, duration, jitter, shimmer, HNR, intensity), but it was already present in the review queue and its publication still only promises raw data on request, so it was deduplicated and not promoted to core. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery+backlog pass advanced the audited-only VoxAngeles source-faithful mean-F0 mirror by 200 exact observations from authoritative upstream source lines 856-1055, bringing durable mean-F0 coverage to 1,054 observations and deterministic continuation at source line 1056. Both 100-row ranges are contiguous and pinned to unchanged upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3; original recording IDs and numeric strings were preserved verbatim, and no unaudited forced-alignment data were admitted. A binary-safe/base64 retrieval attempt was also made against the higher-value UTF-16 duration table; the connector returned an empty payload, confirming that those duration/trajectory tables still require a byte-capable path and remain explicitly uncounted. Discovery identified Nele Ots (2024), Planning intonation under cognitive constraints of speaking, as a strong new primary-production candidate: 84 recorded Estonian speakers, manual utterance transcription/onset-offset annotation, forced-aligned words manually checked, syntactic-constituent timestamps added manually, public OSF TextGrids and timestamped F0 Pitch Object samples. OSF file enumeration was blocked by 403 in this runtime, so it was documented in the pass log for file-level follow-up rather than promoted without inventory. All writes confined to manual_phonetic_production/."
 }
