@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-09T14:07:40-07:00",
+  "last_updated": "2026-09-09T15:08:42-07:00",
   "total_sources": 127,
   "accepted_sources": 42,
   "excluded_sources": 25,
   "review_sources": 60,
   "ingested_sources": 41,
-  "parsed_rows_total": 1356860,
+  "parsed_rows_total": 1357060,
   "parsed_logical_tables_total": 82,
   "inventory_file_records": 916,
   "variable_dictionary_records": 1057,
-  "notes": "Discovery+backlog pass advanced the audited-only VoxAngeles source-faithful mean-F0 mirror by 200 exact observations from authoritative upstream source lines 1056-1255, bringing durable mean-F0 coverage to 1,254 observations and deterministic continuation at source line 1256. Both 100-row ranges are contiguous and pinned to unchanged upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3; original recording IDs and numeric strings were preserved verbatim, and no unaudited forced-alignment data were admitted. Fresh repository-oriented discovery screened manually annotated/corrected speech-production deposits; MRPL2 was recognized as an already tracked restricted source and RescueSpeech remained insufficiently phonetic for promotion, while irrelevant non-speech/text-only results were rejected at screening. No weak registry-only source was added merely to inflate coverage. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery+backlog pass advanced the audited-only VoxAngeles source-faithful mean-F0 mirror by 200 exact observations from authoritative upstream source lines 1256-1455, bringing durable mean-F0 coverage to 1,454 observations and deterministic continuation at source line 1456. Both 100-row ranges are contiguous and pinned to unchanged upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3; original recording IDs and numeric strings were preserved verbatim, and no unaudited forced-alignment data were admitted. Fresh discovery re-screened current manually annotated/corrected production deposits and directly enumerated PAVOQUE's public YAML annotation files; PAVOQUE remains a high-value backlog target because the YAML contains manually corrected phonetic segments with timed utterances, but this pass did not count YAML observations without full parse/validation. Restricted transcript-only and perception/non-production resources were not promoted. All writes confined to manual_phonetic_production/."
 }
