@@ -1,24 +1,26 @@
 {
   "source_id": "voxangeles_2024",
   "decision": "INCLUDE_NEW_MANUAL_ANNOTATION_LAYER_AUDITED_ONLY",
-  "rows_ingested": 54,
+  "rows_ingested": 154,
   "logical_tables_ingested": 1,
   "upstream_files_inventoried": 10,
   "variable_dictionary_records": 75,
-  "current_materialized_layer": "voxangeles_meanf0_file.tsv: Abkhaz (abk) rows only",
+  "current_materialized_layer": "voxangeles_meanf0_file.tsv: exact source lines 2-155 (154 observations)",
+  "next_upstream_line": 156,
   "upstream_measurement_files": 6,
   "audited_language_packages_documented": 95,
   "manual_scope": "Use data/audited_aligned and measurements derived from it. The unaudited forced-alignment branch is excluded from core.",
   "secondary_lineage_rule": "Underlying recordings predate VoxAngeles; inclusion is based on the separately isolatable new human-audited phone/transcription layer and measurements derived from that audited layer, not on treating the recordings as a novel collection.",
   "processed": [
-    "voxangeles_meanf0_file.tsv Abkhaz rows (54 observations, exact source strings/full numeric precision)",
+    "voxangeles_meanf0_file.tsv source lines 2-55: 54 Abkhaz observations",
+    "voxangeles_meanf0_file.tsv source lines 56-155: 100 Acehnese/Adyghe observations",
     "getDurations_voxangeles.praat provenance",
     "getf0_voxangeles.praat provenance",
     "getFormants_voxangeles.praat provenance",
     "measurement-file inventory"
   ],
   "pending": [
-    "remaining recording-level mean F0 rows",
+    "voxangeles_meanf0_file.tsv from source line 156 onward",
     "complete phone/word duration table",
     "complete 10-point F0 trajectory table",
     "complete 10-point F1/F2/F3 trajectory table",
@@ -26,6 +28,6 @@
     "all audited TextGrid/annotation packages and their per-file manifests",
     "language/transcription metadata linkage and harmonized token views"
   ],
-  "validation": "Committed Abkhaz mean-F0 rows were re-read after write; first/last IDs and values match authoritative upstream table. No unaudited rows admitted.",
-  "updated": "2026-09-09T07:12:00-07:00"
+  "validation": "New 100-row chunk was fetched directly from authoritative upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3 using exact source lines 56-155. Existing rows end at line 55, so the new range is contiguous and non-overlapping. No unaudited rows admitted.",
+  "updated": "2026-09-09T08:13:00-07:00"
 }
