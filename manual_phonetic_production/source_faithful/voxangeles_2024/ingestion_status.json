@@ -1,0 +1,41 @@
+{
+  "source_id": "voxangeles_2024",
+  "decision": "INCLUDE_NEW_MANUAL_ANNOTATION_LAYER_AUDITED_ONLY",
+  "rows_ingested": 854,
+  "logical_tables_ingested": 1,
+  "upstream_files_inventoried": 10,
+  "variable_dictionary_records": 75,
+  "current_materialized_layer": "voxangeles_meanf0_file.tsv: exact source lines 2-855 (854 observations)",
+  "next_upstream_line": 856,
+  "upstream_measurement_files": 6,
+  "audited_language_packages_documented": 95,
+  "manual_scope": "Use data/audited_aligned and measurements derived from it. The unaudited forced-alignment branch is excluded from core.",
+  "secondary_lineage_rule": "Underlying recordings predate VoxAngeles; inclusion is based on the separately isolatable new human-audited phone/transcription layer and measurements derived from that audited layer, not on treating the recordings as a novel collection.",
+  "processed": [
+    "voxangeles_meanf0_file.tsv source lines 2-55: 54 Abkhaz observations",
+    "voxangeles_meanf0_file.tsv source lines 56-155: 100 Acehnese/Adyghe observations",
+    "voxangeles_meanf0_file.tsv source lines 156-255: 100 Adyghe/Tunisian Arabic observations",
+    "voxangeles_meanf0_file.tsv source lines 256-355: 100 Tunisian Arabic/Anaang/Afrikaans observations",
+    "voxangeles_meanf0_file.tsv source lines 356-455: 100 Afrikaans observations",
+    "voxangeles_meanf0_file.tsv source lines 456-555: 100 Afrikaans/Adyghe/South Levantine Arabic observations",
+    "voxangeles_meanf0_file.tsv source lines 556-655: 100 South Levantine Arabic/Akan/North Levantine Arabic observations",
+    "voxangeles_meanf0_file.tsv source lines 656-755: 100 North Levantine Arabic observations",
+    "voxangeles_meanf0_file.tsv source lines 756-855: 100 North Levantine Arabic/Akawaio observations",
+    "getDurations_voxangeles.praat provenance",
+    "getf0_voxangeles.praat provenance",
+    "getFormants_voxangeles.praat provenance",
+    "measurement-file inventory"
+  ],
+  "pending": [
+    "voxangeles_meanf0_file.tsv from source line 856 onward",
+    "complete phone/word duration table",
+    "complete 10-point F0 trajectory table",
+    "complete 10-point F1/F2/F3 trajectory table",
+    "quartile-table schema verification and source-faithful mirroring",
+    "all audited TextGrid/annotation packages and their per-file manifests",
+    "language/transcription metadata linkage and harmonized token views"
+  ],
+  "known_retrieval_blocker": "The duration and decile trajectory TSVs are large UTF-16 text files. The current GitHub text connector rejects their blobs as non-UTF-8 and returns empty content through ranged file reads. They remain pending rather than being counted as ingested; their immutable blob SHAs and sizes stay inventoried for a byte-capable retrieval path.",
+  "validation": "Two new 100-row chunks were fetched directly from authoritative upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3 using exact source lines 656-755 and 756-855. Existing durable rows ended at line 655, so the new ranges are contiguous and non-overlapping. No unaudited rows admitted; original recording IDs and numeric strings preserved verbatim.",
+  "updated": "2026-09-09T12:09:00-07:00"
+}
