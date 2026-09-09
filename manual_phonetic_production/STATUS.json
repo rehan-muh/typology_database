@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-09T07:12:00-07:00",
-  "total_sources": 125,
+  "last_updated": "2026-09-09T08:13:00-07:00",
+  "total_sources": 126,
   "accepted_sources": 42,
   "excluded_sources": 25,
-  "review_sources": 58,
+  "review_sources": 59,
   "ingested_sources": 41,
-  "parsed_rows_total": 1355660,
+  "parsed_rows_total": 1355760,
   "parsed_logical_tables_total": 82,
   "inventory_file_records": 908,
   "variable_dictionary_records": 1057,
-  "notes": "Discovery+backlog pass promoted the isolatable human-audited VoxAngeles annotation lineage while explicitly excluding its unaudited forced-alignment branch. Added 54 exact source-faithful Abkhaz recording-level mean-F0 observations from upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3, post-write revalidated. Inventoried all 6 public phonetic measurement tables plus 4 extraction scripts with exact Git blob SHA/size, and documented 75 verified table-specific variables covering phone/word context and boundaries, 10-point F0 trajectories, 10-point F1-F3 trajectories, and recording mean F0. Quartile schemas and large complete measurement tables remain pending rather than inferred or falsely counted. Fresh discovery added the July 2026 Chang/Chien/Lu Mandarin-L1 English vowel-imitation study to HIGH review because all productions were manually vowel-bounded with reported inter-annotator reliability, but no public observation-level deposit was resolved. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery+backlog pass advanced the audited-only VoxAngeles source-faithful mean-F0 layer by 100 exact observations from authoritative upstream source lines 56-155, bringing durable VoxAngeles mean-F0 coverage to 154 observations total and deterministic continuation at source line 156. The new range is contiguous with the prior 54-row Abkhaz slice and pinned to unchanged upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3. No unaudited forced-alignment data were admitted. Fresh discovery added AphasiaBD (Zenodo 21863777) to HIGH review: 38 post-stroke Bengali speakers, 335 primary clips across multiple production tasks, explicitly manually segmented at sentence level; file-level annotation format/license/metadata isolation still require inspection before core admission. All writes confined to manual_phonetic_production/."
 }
