@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-09T08:13:00-07:00",
+  "last_updated": "2026-09-09T09:09:00-07:00",
   "total_sources": 126,
   "accepted_sources": 42,
   "excluded_sources": 25,
   "review_sources": 59,
   "ingested_sources": 41,
-  "parsed_rows_total": 1355760,
+  "parsed_rows_total": 1355860,
   "parsed_logical_tables_total": 82,
-  "inventory_file_records": 908,
+  "inventory_file_records": 916,
   "variable_dictionary_records": 1057,
-  "notes": "Discovery+backlog pass advanced the audited-only VoxAngeles source-faithful mean-F0 layer by 100 exact observations from authoritative upstream source lines 56-155, bringing durable VoxAngeles mean-F0 coverage to 154 observations total and deterministic continuation at source line 156. The new range is contiguous with the prior 54-row Abkhaz slice and pinned to unchanged upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3. No unaudited forced-alignment data were admitted. Fresh discovery added AphasiaBD (Zenodo 21863777) to HIGH review: 38 post-stroke Bengali speakers, 335 primary clips across multiple production tasks, explicitly manually segmented at sentence level; file-level annotation format/license/metadata isolation still require inspection before core admission. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery+backlog pass advanced the audited-only VoxAngeles source-faithful mean-F0 mirror by 100 exact observations from authoritative upstream source lines 156-255, bringing durable source-faithful mean-F0 coverage to 254 observations and deterministic continuation at source line 256. The range is contiguous and pinned to unchanged upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3; no unaudited forced-alignment data were admitted. CCOST (already accepted in the master registry, so not duplicated) was advanced to file-level ingestion: all 8 Zenodo record objects were inventoried with published sizes and MD5 checksums, including the 6.2 GB WAV+TextGrid archive. Raw audio remains reference-only; metadata/stimulus/TextGrid parsing is pending direct file retrieval. Fresh discovery screened manually annotated prosody leads but did not admit paper-only or transcript-only resources without an isolatable public phonetic layer. All writes confined to manual_phonetic_production/."
 }
