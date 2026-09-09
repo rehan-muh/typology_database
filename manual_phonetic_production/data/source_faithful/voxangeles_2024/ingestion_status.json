@@ -1,12 +1,12 @@
 {
   "source_id": "voxangeles_2024",
   "decision": "INCLUDE_NEW_MANUAL_ANNOTATION_LAYER_AUDITED_ONLY",
-  "rows_ingested": 454,
+  "rows_ingested": 654,
   "logical_tables_ingested": 1,
   "upstream_files_inventoried": 10,
   "variable_dictionary_records": 75,
-  "current_materialized_layer": "voxangeles_meanf0_file.tsv: exact source lines 2-455 (454 observations)",
-  "next_upstream_line": 456,
+  "current_materialized_layer": "voxangeles_meanf0_file.tsv: exact source lines 2-655 (654 observations)",
+  "next_upstream_line": 656,
   "upstream_measurement_files": 6,
   "audited_language_packages_documented": 95,
   "manual_scope": "Use data/audited_aligned and measurements derived from it. The unaudited forced-alignment branch is excluded from core.",
@@ -17,13 +17,15 @@
     "voxangeles_meanf0_file.tsv source lines 156-255: 100 Adyghe/Tunisian Arabic observations",
     "voxangeles_meanf0_file.tsv source lines 256-355: 100 Tunisian Arabic/Anaang/Afrikaans observations",
     "voxangeles_meanf0_file.tsv source lines 356-455: 100 Afrikaans observations",
+    "voxangeles_meanf0_file.tsv source lines 456-555: 100 Afrikaans/Adyghe/South Levantine Arabic observations",
+    "voxangeles_meanf0_file.tsv source lines 556-655: 100 South Levantine Arabic/Akan/North Levantine Arabic observations",
     "getDurations_voxangeles.praat provenance",
     "getf0_voxangeles.praat provenance",
     "getFormants_voxangeles.praat provenance",
     "measurement-file inventory"
   ],
   "pending": [
-    "voxangeles_meanf0_file.tsv from source line 456 onward",
+    "voxangeles_meanf0_file.tsv from source line 656 onward",
     "complete phone/word duration table",
     "complete 10-point F0 trajectory table",
     "complete 10-point F1/F2/F3 trajectory table",
@@ -31,6 +33,6 @@
     "all audited TextGrid/annotation packages and their per-file manifests",
     "language/transcription metadata linkage and harmonized token views"
   ],
-  "validation": "Two new 100-row chunks were fetched directly from authoritative upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3 using exact source lines 256-355 and 356-455. Existing durable rows ended at line 255, so the new ranges are contiguous and non-overlapping. No unaudited rows admitted; original recording IDs and numeric strings preserved verbatim.",
-  "updated": "2026-09-09T10:09:00-07:00"
+  "validation": "Two new 100-row chunks were fetched directly from authoritative upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3 using exact source lines 456-555 and 556-655. Existing durable rows ended at line 455, so the new ranges are contiguous and non-overlapping. Post-write tail was re-read successfully through apc-005-036 = 136.48060120378116. No unaudited rows admitted; original recording IDs and numeric strings preserved verbatim.",
+  "updated": "2026-09-09T11:09:00-07:00"
 }
