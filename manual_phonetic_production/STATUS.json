@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-09T01:13:00-07:00",
+  "last_updated": "2026-09-09T02:11:00-07:00",
   "total_sources": 122,
   "accepted_sources": 40,
   "excluded_sources": 25,
   "review_sources": 57,
   "ingested_sources": 39,
-  "parsed_rows_total": 695381,
+  "parsed_rows_total": 695471,
   "parsed_logical_tables_total": 73,
   "inventory_file_records": 71,
   "variable_dictionary_records": 880,
-  "notes": "Aggressive continuation pass added exact source-faithful Coretta measurements.csv slices for upstream source lines 2792-2881 (90 observations), bringing durable coverage to 2,880/3,268 observations (88.1%) with 388 pending; next exact continuation is source line 2882 / data row 2881. Upstream measurements.csv remains pinned to immutable blob f3a67a6acb3aac900584698c68966177fe4f04e7 at repository tree ec1b00809244eb873f12011c0c06e7460f889947. Source strings, numeric precision, source column values, and literal --undefined-- markers were preserved without inferred labels or normalization. Fresh discovery screened current manual-correction candidates; no source was promoted without public file-level/manual-layer evidence. Chunk files are provisional exact slices and MUST be superseded atomically if replaced by a consolidated exact blob; never count both forms. All writes confined to manual_phonetic_production/."
+  "notes": "Aggressive continuation pass added exact source-faithful Coretta measurements.csv slices for upstream source lines 2882-2971 (90 observations), bringing durable coverage to 2,970/3,268 observations (90.9%) with 298 pending; next exact continuation is source line 2972 / data row 2971. Upstream measurements.csv remains pinned to immutable blob f3a67a6acb3aac900584698c68966177fe4f04e7. Source strings, numeric precision, source column values, and literal --undefined-- markers were preserved without inferred labels or normalization. Fresh discovery screened repository/publication candidates including BELMASK and reconfirmed IFCASL; no source was promoted without isolatable manual phonetic-layer evidence and accessible file-level provenance. Chunk files are provisional exact slices and MUST be superseded atomically if replaced by a consolidated exact blob; never count both forms. All writes confined to manual_phonetic_production/."
 }
