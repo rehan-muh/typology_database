@@ -1,0 +1,727 @@
+TEXT-ID,SOURCE-ID,RECORDING-ID,SUBCORPUS,PRS-ID,SEX,AGE,1LANG,DIALECT,EDUCATION,PERM-RESD,CHILD-RESD,SENTENCES,WORDS
+Rog-Go1-Gos001,Gos001,JIfajzakhu-np0911061839.wav,Gos,Af-pred-02166,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,6,117
+Rog-Go1-Gos002,Gos002,JIfajzakhu-np1003120917.wav,Gos,Zm-prof-01084,moški,30 do 59 let,slovenščina,-,fakulteta ali več,"osrednjeslovenska, jugovzhodna Slovenija",-,6,128
+Rog-Go1-Gos003,Gos003,JIfajzaknr-np0911190022.wav,Gos,Um-pred-01619,moški,18 do 34 let,slovenščina,-,fakulteta ali več,"osrednjeslovenska, gorenjska, tujina",-,9,213
+Rog-Go1-Gos004,Gos004,JIfasvakdr-jt1003041136.wav,Gos,Pf-pred-07541,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,podravska,-,10,207
+Rog-Go1-Gos004,Gos004,JIfasvakdr-jt1003041136.wav,Gos,Jf-publ-07549,ženski,30 do 59 let,slovenščina,-,višja ali visoka šola,podravska,-,1,7
+Rog-Go1-Gos005,Gos005,JIfasvakdr-rd1001290912.wav,Gos,Am-mode-05666,moški,nad 60 let,slovenščina,-,višja ali visoka šola,podravska,-,6,130
+Rog-Go1-Gos005,Gos005,JIfasvakdr-rd1001290912.wav,Gos,Bf-pred-05667,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"podravska, osrednjeslovenska",-,1,3
+Rog-Go1-Gos006,Gos006,JIfasvakhu-kk1001201128.wav,Gos,Am-pred-05665,moški,30 do 59 let,slovenščina,-,fakulteta ali več,podravska,-,4,165
+Rog-Go1-Gos007,Gos007,JIfasvaknr-dv0912110922.wav,Gos,Tm-pred-06583,moški,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,6,238
+Rog-Go1-Gos008,Gos008,JIfasvaknr-pv1001120730.wav,Gos,Pm-pred-09040,moški,30 do 59 let,slovenščina,-,fakulteta ali več,podravska,-,3,92
+Rog-Go1-Gos009,Gos009,JIjsnnjtns-ak0908050925.wav,Gos,Af-prof-06578,ženski,18 do 34 let,slovenščina,-,srednja šola,"gorenjska, osrednjeslovenska",-,5,29
+Rog-Go1-Gos009,Gos009,JIjsnnjtns-ak0908050925.wav,Gos,Ef-stud-06579,ženski,18 do 34 let,,-,srednja šola,"tujina, osrednjeslovenska",-,1,3
+Rog-Go1-Gos009,Gos009,JIjsnnjtns-ak0908050925.wav,Gos,Tf-stud-06580,ženski,18 do 34 let,,-,višja ali visoka šola,"tujina, osrednjeslovenska",-,6,67
+Rog-Go1-Gos010,Gos010,JIosjzdrdr-ak1001100900.wav,Gos,Pf-prof-09042,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,gorenjska,-,6,37
+Rog-Go1-Gos010,Gos010,JIosjzdrdr-ak1001100900.wav,Gos,Jf-ucen-09052,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,gorenjska,-,1,7
+Rog-Go1-Gos010,Gos010,JIosjzdrdr-ak1001100900.wav,Gos,Em-ucen-09046,moški,10 do 18 let,slovenščina,-,OŠ ali manj,gorenjska,-,3,26
+Rog-Go1-Gos010,Gos010,JIosjzdrdr-ak1001100900.wav,Gos,Af-ucen-09041,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,gorenjska,-,3,59
+Rog-Go1-Gos011,Gos011,JIosjzdrdr-np0912052335.wav,Gos,Mf-prof-09033,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"osrednjeslovenska, posavska",-,11,117
+Rog-Go1-Gos011,Gos011,JIosjzdrdr-np0912052335.wav,Gos,Bm-ucen-09035,moški,10 do 18 let,slovenščina,-,OŠ ali manj,osrednjeslovenska,-,1,10
+Rog-Go1-Gos011,Gos011,JIosjzdrdr-np0912052335.wav,Gos,Am-ucen-09034,moški,10 do 18 let,slovenščina,-,OŠ ali manj,osrednjeslovenska,-,2,13
+Rog-Go1-Gos011,Gos011,JIosjzdrdr-np0912052335.wav,Gos,Df-ucen-09037,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,osrednjeslovenska,-,2,15
+Rog-Go1-Gos011,Gos011,JIosjzdrdr-np0912052335.wav,Gos,Ff-ucen-09039,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,osrednjeslovenska,-,1,2
+Rog-Go1-Gos012,Gos012,JIosjzdrna-ak1001100755.wav,Gos,Af-prof-02215,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"osrednjeslovenska, gorenjska",-,4,94
+Rog-Go1-Gos012,Gos012,JIosjzdrna-ak1001100755.wav,Gos,Cf-ucen-02217,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,gorenjska,-,1,4
+Rog-Go1-Gos012,Gos012,JIosjzdrna-ak1001100755.wav,Gos,Gm-ucen-02221,moški,10 do 18 let,slovenščina,-,OŠ ali manj,gorenjska,-,1,9
+Rog-Go1-Gos013,Gos013,JIosjzdrna-kk0910230820.wav,Gos,Am-prof-05653,moški,30 do 59 let,slovenščina,-,fakulteta ali več,"goriška, osrednjeslovenska",-,13,150
+Rog-Go1-Gos013,Gos013,JIosjzdrna-kk0910230820.wav,Gos,Cm-ucen-05655,moški,10 do 18 let,slovenščina,-,OŠ ali manj,goriška,-,1,3
+Rog-Go1-Gos013,Gos013,JIosjzdrna-kk0910230820.wav,Gos,Dm-ucen-05656,moški,10 do 18 let,slovenščina,-,OŠ ali manj,goriška,-,1,8
+Rog-Go1-Gos013,Gos013,JIosjzdrna-kk0910230820.wav,Gos,Pn-vsiucenci-10000,-,-,,-,-,-,-,3,6
+Rog-Go1-Gos013,Gos013,JIosjzdrna-kk0910230820.wav,Gos,Ff-ucen-05658,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,goriška,-,3,14
+Rog-Go1-Gos013,Gos013,JIosjzdrna-kk0910230820.wav,Gos,Gf-ucen-05659,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,goriška,-,2,14
+Rog-Go1-Gos013,Gos013,JIosjzdrna-kk0910230820.wav,Gos,Hf-ucen-05660,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,goriška,-,1,3
+Rog-Go1-Gos014,Gos014,JIosjzdrna-pk1005181032.wav,Gos,Af-prof-07180,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"obalno-kraška, Italija",-,12,94
+Rog-Go1-Gos014,Gos014,JIosjzdrna-pk1005181032.wav,Gos,Bm-ucen-07181,moški,10 do 18 let,slovenščina,-,OŠ ali manj,obalno-kraška,-,1,2
+Rog-Go1-Gos014,Gos014,JIosjzdrna-pk1005181032.wav,Gos,Hm-ucen-07187,moški,10 do 18 let,slovenščina,-,OŠ ali manj,obalno-kraška,-,5,40
+Rog-Go1-Gos014,Gos014,JIosjzdrna-pk1005181032.wav,Gos,Dm-ucen-07183,moški,10 do 18 let,slovenščina,-,OŠ ali manj,obalno-kraška,-,1,6
+Rog-Go1-Gos014,Gos014,JIosjzdrna-pk1005181032.wav,Gos,Cf-ucen-07182,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,obalno-kraška,-,8,53
+Rog-Go1-Gos015,Gos015,JIosjztrdr-ak1001101050.wav,Gos,Af-prof-02245,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,gorenjska,-,10,99
+Rog-Go1-Gos015,Gos015,JIosjztrdr-ak1001101050.wav,Gos,Sm-ucen-02261,moški,10 do 18 let,slovenščina,-,OŠ ali manj,gorenjska,-,2,22
+Rog-Go1-Gos015,Gos015,JIosjztrdr-ak1001101050.wav,Gos,Om-ucen-02259,moški,10 do 18 let,slovenščina,-,OŠ ali manj,gorenjska,-,1,2
+Rog-Go1-Gos015,Gos015,JIosjztrdr-ak1001101050.wav,Gos,Ff-ucen-02250,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,gorenjska,-,2,9
+Rog-Go1-Gos016,Gos016,JIosjztrna-pk1005181055.wav,Gos,Af-prof-05598,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"obalno-kraška, osrednjeslovenska",-,10,101
+Rog-Go1-Gos016,Gos016,JIosjztrna-pk1005181055.wav,Gos,Pn-vsiucenci-10000,-,-,,-,-,-,-,1,2
+Rog-Go1-Gos016,Gos016,JIosjztrna-pk1005181055.wav,Gos,Cf-ucen-05600,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,obalno-kraška,-,3,12
+Rog-Go1-Gos016,Gos016,JIosjztrna-pk1005181055.wav,Gos,Em-ucen-05602,moški,10 do 18 let,slovenščina,-,OŠ ali manj,obalno-kraška,-,1,4
+Rog-Go1-Gos016,Gos016,JIosjztrna-pk1005181055.wav,Gos,Hm-ucen-05605,moški,10 do 18 let,slovenščina,-,OŠ ali manj,obalno-kraška,-,1,3
+Rog-Go1-Gos017,Gos017,JIossltrdr-jm0912151304.wav,Gos,Af-prof-07104,ženski,-,slovenščina,-,-,osrednjeslovenska,-,4,32
+Rog-Go1-Gos017,Gos017,JIossltrdr-jm0912151304.wav,Gos,Rm-ucen-07121,moški,10 do 18 let,,-,OŠ ali manj,osrednjeslovenska,-,3,61
+Rog-Go1-Gos017,Gos017,JIossltrdr-jm0912151304.wav,Gos,If-ucen-07112,ženski,10 do 18 let,,-,OŠ ali manj,osrednjeslovenska,-,4,76
+Rog-Go1-Gos017,Gos017,JIossltrdr-jm0912151304.wav,Gos,Tm-ucen-07123,moški,10 do 18 let,,-,OŠ ali manj,osrednjeslovenska,-,1,27
+Rog-Go1-Gos017,Gos017,JIossltrdr-jm0912151304.wav,Gos,Om-ucen-07118,moški,10 do 18 let,,-,OŠ ali manj,osrednjeslovenska,-,1,2
+Rog-Go1-Gos018,Gos018,JIossvdrdr-jt0910141912.wav,Gos,Mf-prof-01097,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,pomurska,-,7,68
+Rog-Go1-Gos018,Gos018,JIossvdrdr-jt0910141912.wav,Gos,Lm-ucen-01096,moški,10 do 18 let,slovenščina,-,OŠ ali manj,pomurska,-,4,25
+Rog-Go1-Gos018,Gos018,JIossvdrdr-jt0910141912.wav,Gos,Nm-ucen-01098,moški,10 do 18 let,slovenščina,-,OŠ ali manj,pomurska,-,2,25
+Rog-Go1-Gos018,Gos018,JIossvdrdr-jt0910141912.wav,Gos,Em-ucen-01089,moški,10 do 18 let,slovenščina,-,OŠ ali manj,pomurska,-,1,4
+Rog-Go1-Gos019,Gos019,JIossvdrdr-kk0911181120.wav,Gos,Sf-prof-07036,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,podravska,-,6,67
+Rog-Go1-Gos019,Gos019,JIossvdrdr-kk0911181120.wav,Gos,Fm-ucen-07023,moški,10 do 18 let,,-,OŠ ali manj,podravska,-,4,44
+Rog-Go1-Gos019,Gos019,JIossvdrdr-kk0911181120.wav,Gos,Gm-ucen-07024,moški,10 do 18 let,,-,OŠ ali manj,podravska,-,1,17
+Rog-Go1-Gos020,Gos020,JIossvtrdr-is0911272343.wav,Gos,Mf-prof-01061,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"koroška, podravska",-,9,144
+Rog-Go1-Gos020,Gos020,JIossvtrdr-is0911272343.wav,Gos,Jm-ucen-01064,moški,10 do 18 let,slovenščina,-,OŠ ali manj,koroška,-,6,44
+Rog-Go1-Gos020,Gos020,JIossvtrdr-is0911272343.wav,Gos,Tf-ucen-01069,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,koroška,-,1,5
+Rog-Go1-Gos020,Gos020,JIossvtrdr-is0911272343.wav,Gos,Pn-vsiucenci-10000,-,-,,-,-,-,-,2,4
+Rog-Go1-Gos021,Gos021,JIossvtrna-is0911272310.wav,Gos,Sf-prof-01049,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,koroška,-,8,102
+Rog-Go1-Gos021,Gos021,JIossvtrna-is0911272310.wav,Gos,Bm-ucen-01052,moški,10 do 18 let,slovenščina,-,OŠ ali manj,koroška,-,1,7
+Rog-Go1-Gos021,Gos021,JIossvtrna-is0911272310.wav,Gos,Af-ucen-01051,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,koroška,-,1,2
+Rog-Go1-Gos021,Gos021,JIossvtrna-is0911272310.wav,Gos,Pn-vsiucenci-10000,-,-,,-,-,-,-,1,2
+Rog-Go1-Gos022,Gos022,JIossvtrna-kk0911181210.wav,Gos,Um-prof-01624,moški,30 do 59 let,slovenščina,-,fakulteta ali več,"podravska, osrednjeslovenska",-,9,116
+Rog-Go1-Gos022,Gos022,JIossvtrna-kk0911181210.wav,Gos,Fm-ucen-01627,moški,10 do 18 let,slovenščina,-,OŠ ali manj,podravska,-,1,4
+Rog-Go1-Gos022,Gos022,JIossvtrna-kk0911181210.wav,Gos,Pf-ucen-01626,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,podravska,-,1,6
+Rog-Go1-Gos023,Gos023,JIrajzakjp-rd0906111339.wav,Gos,Am-mode-05517,moški,-,slovenščina,-,-,-,-,1,12
+Rog-Go1-Gos023,Gos023,JIrajzakjp-rd0906111339.wav,Gos,Lm-posl-05528,moški,-,slovenščina,-,-,-,-,2,42
+Rog-Go1-Gos024,Gos024,JIrajzakjp-rd0906111346.wav,Gos,Af-novi-05533,ženski,-,slovenščina,-,-,-,-,1,5
+Rog-Go1-Gos024,Gos024,JIrajzakjp-rd0906111346.wav,Gos,Em-mode-05517,moški,-,slovenščina,-,-,-,-,3,62
+Rog-Go1-Gos025,Gos025,JIrajzakjp-rd0906111356.wav,Gos,Fm-mode-05517,moški,-,slovenščina,-,-,-,-,3,18
+Rog-Go1-Gos025,Gos025,JIrajzakjp-rd0906111356.wav,Gos,Mf-posl-05556,ženski,-,slovenščina,-,-,-,-,2,44
+Rog-Go1-Gos026,Gos026,JIrajzakjp-rd0906111358.wav,Gos,Am-nast-05525,moški,-,slovenščina,-,-,-,-,1,4
+Rog-Go1-Gos026,Gos026,JIrajzakjp-rd0906111358.wav,Gos,Bf-novi-05533,ženski,-,slovenščina,-,-,-,-,3,33
+Rog-Go1-Gos026,Gos026,JIrajzakjp-rd0906111358.wav,Gos,Hm-anke-05569,moški,-,slovenščina,-,-,-,-,1,8
+Rog-Go1-Gos027,Gos027,JIrajzakjp-rd0906111359.wav,Gos,Fm-mode-05592,moški,-,slovenščina,-,-,-,-,4,11
+Rog-Go1-Gos027,Gos027,JIrajzakjp-rd0906111359.wav,Gos,Lm-posl-05607,moški,-,slovenščina,-,-,-,-,4,59
+Rog-Go1-Gos028,Gos028,JIrajzakjp-rd0906111401.wav,Gos,Jm-anke-05585,moški,-,slovenščina,-,-,-,-,2,14
+Rog-Go1-Gos028,Gos028,JIrajzakjp-rd0906111401.wav,Gos,Kf-anke-05586,ženski,-,slovenščina,-,-,-,-,1,32
+Rog-Go1-Gos028,Gos028,JIrajzakjp-rd0906111401.wav,Gos,Lm-anke-05587,moški,-,slovenščina,-,-,-,-,2,22
+Rog-Go1-Gos029,Gos029,JIrajzakjp-rd0906111402.wav,Gos,Rm-novi-05592,moški,-,slovenščina,-,-,-,-,4,23
+Rog-Go1-Gos029,Gos029,JIrajzakjp-rd0906111402.wav,Gos,Mm-posl-06513,ženski,-,slovenščina,-,-,-,-,1,4
+Rog-Go1-Gos029,Gos029,JIrajzakjp-rd0906111402.wav,Gos,Um-posl-06514,moški,-,slovenščina,-,-,-,-,3,51
+Rog-Go1-Gos030,Gos030,JIrajzakns-rd0906111405.wav,Gos,Am-mode-05592,moški,-,slovenščina,-,-,-,-,2,6
+Rog-Go1-Gos030,Gos030,JIrajzakns-rd0906111405.wav,Gos,Bm-nast-05525,moški,-,slovenščina,-,-,-,-,1,6
+Rog-Go1-Gos030,Gos030,JIrajzakns-rd0906111405.wav,Gos,Cf-mode-05533,ženski,-,slovenščina,-,-,-,-,3,76
+Rog-Go1-Gos031,Gos031,JIrajzakns-rd0906111406.wav,Gos,Bf-mode-05533,ženski,-,slovenščina,-,-,-,-,2,48
+Rog-Go1-Gos031,Gos031,JIrajzakns-rd0906111406.wav,Gos,Cf-gost-05601,ženski,-,slovenščina,-,-,-,-,2,40
+Rog-Go1-Gos032,Gos032,JIrajzakns-rd0906111408.wav,Gos,Bf-gost-05600,ženski,-,slovenščina,-,-,-,-,4,113
+Rog-Go1-Gos033,Gos033,JIrajzakns-rd0906111410.wav,Gos,Ef-anke-05595,ženski,-,slovenščina,-,-,-,-,1,21
+Rog-Go1-Gos033,Gos033,JIrajzakns-rd0906111410.wav,Gos,Fm-anke-05596,moški,-,slovenščina,-,-,-,-,3,66
+Rog-Go1-Gos033,Gos033,JIrajzakns-rd0906111410.wav,Gos,Gf-anke-05597,ženski,-,slovenščina,-,-,-,-,3,46
+Rog-Go1-Gos034,Gos034,JIrajzkkna-rd0906111422.wav,Gos,Af-mode-05513,ženski,-,slovenščina,-,-,-,-,1,2
+Rog-Go1-Gos034,Gos034,JIrajzkkna-rd0906111422.wav,Gos,Bm-gost-05514,moški,-,slovenščina,-,-,-,-,2,46
+Rog-Go1-Gos035,Gos035,JIrajzkkna-rd0906111425.wav,Gos,Af-mode-04527,ženski,-,slovenščina,-,-,jugovzhodna Slovenija,-,1,8
+Rog-Go1-Gos035,Gos035,JIrajzkkna-rd0906111425.wav,Gos,Bm-inte-04528,moški,-,slovenščina,-,-,-,-,3,64
+Rog-Go1-Gos036,Gos036,JIrajzkrsp-rd0906111417.wav,Gos,Am-novi-00522,moški,18 do 34 let,slovenščina,-,srednja šola,gorenjska,-,3,49
+Rog-Go1-Gos036,Gos036,JIrajzkrsp-rd0906111417.wav,Gos,Bm-gost-00521,moški,-,slovenščina,-,-,gorenjska,-,2,29
+Rog-Go1-Gos037,Gos037,JIrajzkrsp-rd0906111419.wav,Gos,Bf-novi-00524,ženski,-,slovenščina,-,-,gorenjska,-,6,87
+Rog-Go1-Gos038,Gos038,JIraslogak-rd0906101516.wav,Gos,Am-novi-02052,moški,-,slovenščina,-,-,-,-,2,43
+Rog-Go1-Gos038,Gos038,JIraslogak-rd0906101516.wav,Gos,Cm-gost-02054,moški,-,slovenščina,-,-,-,-,8,199
+Rog-Go1-Gos039,Gos039,JIraslogng-rd0906101509.wav,Gos,Af-novi-02046,ženski,-,slovenščina,-,-,-,-,5,70
+Rog-Go1-Gos039,Gos039,JIraslogng-rd0906101509.wav,Gos,Bm-gost-02047,moški,-,slovenščina,-,fakulteta ali več,-,-,6,114
+Rog-Go1-Gos040,Gos040,JIraslslin-rd0906101506.wav,Gos,Af-novi-02064,ženski,-,slovenščina,-,-,-,-,1,11
+Rog-Go1-Gos040,Gos040,JIraslslin-rd0906101506.wav,Gos,Bf-gost-02065,ženski,nad 60 let,slovenščina,-,-,-,-,6,122
+Rog-Go1-Gos041,Gos041,JIraslslin-rd1009161011.wav,Gos,Bf-novi-07195,ženski,-,,-,-,-,-,2,16
+Rog-Go1-Gos041,Gos041,JIraslslin-rd1009161011.wav,Gos,Cm-gost-07196,moški,-,,-,-,-,-,6,127
+Rog-Go1-Gos042,Gos042,JIraslvaak-rd0906101455.wav,Gos,Am-novi-02093,moški,-,slovenščina,-,-,-,-,2,38
+Rog-Go1-Gos042,Gos042,JIraslvaak-rd0906101455.wav,Gos,Cf-gost-02095,ženski,-,slovenščina,-,-,-,-,3,89
+Rog-Go1-Gos043,Gos043,JIraslvavm-rd0906101457.wav,Gos,Af-novi-02087,ženski,-,slovenščina,-,-,-,-,5,73
+Rog-Go1-Gos043,Gos043,JIraslvavm-rd0906101457.wav,Gos,Bm-gost-02088,moški,-,slovenščina,-,-,-,-,3,92
+Rog-Go1-Gos044,Gos044,JIrasvkoso-rd0908250950.wav,Gos,Bf-gost-07002,ženski,-,slovenščina,-,-,-,-,1,59
+Rog-Go1-Gos045,Gos045,JIrasvmbrt-rd0908250915.wav,Gos,Af-mode-02141,ženski,-,slovenščina,-,-,-,-,4,57
+Rog-Go1-Gos045,Gos045,JIrasvmbrt-rd0908250915.wav,Gos,Cm-gost-02143,moški,-,slovenščina,-,-,-,-,6,160
+Rog-Go1-Gos046,Gos046,JIrasvstin-rd0908311457.wav,Gos,Af-mode-07011,ženski,-,slovenščina,-,-,-,-,3,40
+Rog-Go1-Gos046,Gos046,JIrasvstin-rd0908311457.wav,Gos,Bm-gost-07012,moški,-,slovenščina,-,-,-,-,5,121
+Rog-Go1-Gos047,Gos047,JIrasvstin-rd0908311500.wav,Gos,Af-novi-04534,ženski,-,slovenščina,-,-,-,-,2,28
+Rog-Go1-Gos047,Gos047,JIrasvstin-rd0908311500.wav,Gos,Bf-inte-04535,ženski,-,slovenščina,-,-,-,-,5,127
+Rog-Go1-Gos048,Gos048,JIrasvstin-rd0908311503.wav,Gos,Bf-novi-04534,ženski,-,,-,-,-,-,8,60
+Rog-Go1-Gos048,Gos048,JIrasvstin-rd0908311503.wav,Gos,Cf-gost-07017,ženski,-,,-,-,-,-,3,38
+Rog-Go1-Gos049,Gos049,JIrasvstin-rd0908311504.wav,Gos,Cm-gost-07010,moški,-,slovenščina,-,-,-,-,2,128
+Rog-Go1-Gos050,Gos050,JIrasvstin-rd0908311506.wav,Gos,Cm-gost-07015,moški,-,slovenščina,-,-,-,-,10,180
+Rog-Go1-Gos051,Gos051,JIssjzgidr-ak1003221205.wav,Gos,Af-prof-07124,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"osrednjeslovenska, gorenjska",-,9,158
+Rog-Go1-Gos051,Gos051,JIssjzgidr-ak1003221205.wav,Gos,Kf-ucen-07134,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,gorenjska,-,1,2
+Rog-Go1-Gos051,Gos051,JIssjzgidr-ak1003221205.wav,Gos,Hf-ucen-07131,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,gorenjska,-,1,2
+Rog-Go1-Gos051,Gos051,JIssjzgidr-ak1003221205.wav,Gos,Pn-vsiucenci-10000,-,-,,-,-,-,-,2,5
+Rog-Go1-Gos051,Gos051,JIssjzgidr-ak1003221205.wav,Gos,Jf-ucen-07133,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,gorenjska,-,1,13
+Rog-Go1-Gos051,Gos051,JIssjzgidr-ak1003221205.wav,Gos,Gf-ucen-07130,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,gorenjska,-,1,2
+Rog-Go1-Gos052,Gos052,JIssjzgidr-bo0912020845.wav,Gos,Am-prof-07057,moški,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,9,100
+Rog-Go1-Gos052,Gos052,JIssjzgidr-bo0912020845.wav,Gos,Gm-ucen-07063,moški,10 do 18 let,,-,OŠ ali manj,osrednjeslovenska,-,1,2
+Rog-Go1-Gos053,Gos053,JIssjzgina-bo0912020755.wav,Gos,Af-prof-07037,ženski,nad 60 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,14,86
+Rog-Go1-Gos053,Gos053,JIssjzgina-bo0912020755.wav,Gos,Nm-ucen-07038,moški,10 do 18 let,,-,OŠ ali manj,osrednjeslovenska,-,1,3
+Rog-Go1-Gos053,Gos053,JIssjzgina-bo0912020755.wav,Gos,Dm-ucen-07041,moški,10 do 18 let,,-,OŠ ali manj,osrednjeslovenska,-,2,4
+Rog-Go1-Gos053,Gos053,JIssjzgina-bo0912020755.wav,Gos,Jm-ucen-07047,moški,10 do 18 let,,-,OŠ ali manj,osrednjeslovenska,-,1,6
+Rog-Go1-Gos053,Gos053,JIssjzgina-bo0912020755.wav,Gos,Pm-ucen-07052,moški,10 do 18 let,,-,OŠ ali manj,osrednjeslovenska,-,1,6
+Rog-Go1-Gos053,Gos053,JIssjzgina-bo0912020755.wav,Gos,Ff-ucen-07043,ženski,10 do 18 let,,-,OŠ ali manj,osrednjeslovenska,-,2,7
+Rog-Go1-Gos054,Gos054,JIssjzpsdr-bo0911270730.wav,Gos,Am-prof-07076,moški,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,9,85
+Rog-Go1-Gos054,Gos054,JIssjzpsdr-bo0911270730.wav,Gos,Pn-vsiucenci-10000,-,-,,-,-,-,-,1,3
+Rog-Go1-Gos054,Gos054,JIssjzpsdr-bo0911270730.wav,Gos,Dm-ucen-07079,moški,10 do 18 let,slovenščina,-,OŠ ali manj,osrednjeslovenska,-,1,2
+Rog-Go1-Gos054,Gos054,JIssjzpsdr-bo0911270730.wav,Gos,Gf-ucen-07082,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,osrednjeslovenska,-,1,2
+Rog-Go1-Gos055,Gos055,JIssjzpsdr-bo0911300910.wav,Gos,Af-prof-07085,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"jugovzhodna Slovenija, osrednjeslovenska",-,8,45
+Rog-Go1-Gos055,Gos055,JIssjzpsdr-bo0911300910.wav,Gos,Bm-ucen-07086,moški,10 do 18 let,,-,OŠ ali manj,osrednjeslovenska,-,1,2
+Rog-Go1-Gos055,Gos055,JIssjzpsdr-bo0911300910.wav,Gos,Cm-ucen-07087,moški,10 do 18 let,,-,OŠ ali manj,osrednjeslovenska,-,1,12
+Rog-Go1-Gos055,Gos055,JIssjzpsdr-bo0911300910.wav,Gos,Kf-ucen-07095,ženski,10 do 18 let,,-,OŠ ali manj,osrednjeslovenska,-,3,62
+Rog-Go1-Gos056,Gos056,JIssjzpsdr-bo0912021235.wav,Gos,Af-ucen-02331,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,osrednjeslovenska,-,5,14
+Rog-Go1-Gos056,Gos056,JIssjzpsdr-bo0912021235.wav,Gos,Bm-prof-02332,moški,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,9,87
+Rog-Go1-Gos056,Gos056,JIssjzpsdr-bo0912021235.wav,Gos,Cm-ucen-02333,moški,10 do 18 let,slovenščina,-,OŠ ali manj,osrednjeslovenska,-,1,7
+Rog-Go1-Gos056,Gos056,JIssjzpsdr-bo0912021235.wav,Gos,Ef-ucen-02335,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,osrednjeslovenska,-,4,31
+Rog-Go1-Gos056,Gos056,JIssjzpsdr-bo0912021235.wav,Gos,If-ucen-02339,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,osrednjeslovenska,-,1,4
+Rog-Go1-Gos057,Gos057,JIssjzpsdr-bo1003011145.wav,Gos,Am-prof-07143,moški,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,9,68
+Rog-Go1-Gos057,Gos057,JIssjzpsdr-bo1003011145.wav,Gos,Em-ucen-07144,moški,10 do 18 let,slovenščina,-,OŠ ali manj,osrednjeslovenska,-,4,39
+Rog-Go1-Gos057,Gos057,JIssjzpsdr-bo1003011145.wav,Gos,Cm-ucen-07141,moški,10 do 18 let,slovenščina,-,OŠ ali manj,osrednjeslovenska,-,1,3
+Rog-Go1-Gos058,Gos058,JIssjzpsna-bo1003011235.wav,Gos,Am-prof-02300,moški,30 do 59 let,slovenščina,-,fakulteta ali več,"osrednjeslovenska, jugovzhodna Slovenija",-,13,116
+Rog-Go1-Gos058,Gos058,JIssjzpsna-bo1003011235.wav,Gos,Lm-ucen-02311,moški,10 do 18 let,slovenščina,-,OŠ ali manj,osrednjeslovenska,-,6,31
+Rog-Go1-Gos059,Gos059,JIsssvgidr-ms1001211824.wav,Gos,Af-prof-02185,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"savinjska, podravska",-,11,94
+Rog-Go1-Gos059,Gos059,JIsssvgidr-ms1001211824.wav,Gos,Mf-ucen-02197,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,savinjska,-,1,2
+Rog-Go1-Gos059,Gos059,JIsssvgidr-ms1001211824.wav,Gos,Rm-ucen-02201,moški,10 do 18 let,slovenščina,-,OŠ ali manj,savinjska,-,4,25
+Rog-Go1-Gos059,Gos059,JIsssvgidr-ms1001211824.wav,Gos,Pn-vsiucenci-10000,-,-,,-,-,-,-,1,2
+Rog-Go1-Gos060,Gos060,JIsssvgina-ms1001211851.wav,Gos,Af-prof-02204,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,"savinjska, podravska",-,12,72
+Rog-Go1-Gos060,Gos060,JIsssvgina-ms1001211851.wav,Gos,Bf-ucen-02205,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,savinjska,-,5,51
+Rog-Go1-Gos060,Gos060,JIsssvgina-ms1001211851.wav,Gos,Cf-ucen-02206,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,savinjska,-,1,4
+Rog-Go1-Gos060,Gos060,JIsssvgina-ms1001211851.wav,Gos,Df-ucen-02207,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,savinjska,-,1,5
+Rog-Go1-Gos061,Gos061,JIsssvpsdr-is0912131924.wav,Gos,Af-prof-05568,ženski,30 do 59 let,slovenščina,-,višja ali visoka šola,podravska,-,11,147
+Rog-Go1-Gos061,Gos061,JIsssvpsdr-is0912131924.wav,Gos,Bm-ucen-05569,moški,10 do 18 let,slovenščina,-,OŠ ali manj,podravska,-,4,12
+Rog-Go1-Gos061,Gos061,JIsssvpsdr-is0912131924.wav,Gos,Pn-vsiucenci-10000,-,-,,-,-,-,-,2,4
+Rog-Go1-Gos061,Gos061,JIsssvpsdr-is0912131924.wav,Gos,Gm-ucen-05574,moški,10 do 18 let,slovenščina,-,OŠ ali manj,podravska,-,1,6
+Rog-Go1-Gos061,Gos061,JIsssvpsdr-is0912131924.wav,Gos,Hm-ucen-05575,moški,10 do 18 let,slovenščina,-,OŠ ali manj,podravska,-,1,6
+Rog-Go1-Gos062,Gos062,JIsssvpsnr-pv0911260930.wav,Gos,Af-prof-02174,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,podravska,-,13,133
+Rog-Go1-Gos062,Gos062,JIsssvpsnr-pv0911260930.wav,Gos,Em-ucen-02178,moški,10 do 18 let,slovenščina,-,OŠ ali manj,podravska,-,1,2
+Rog-Go1-Gos062,Gos062,JIsssvpsnr-pv0911260930.wav,Gos,Km-ucen-02184,moški,10 do 18 let,slovenščina,-,OŠ ali manj,podravska,-,2,10
+Rog-Go1-Gos063,Gos063,JIsssvpsnr-pv0911261100.wav,Gos,Dm-ucen-07161,moški,10 do 18 let,slovenščina,-,OŠ ali manj,podravska,-,2,8
+Rog-Go1-Gos063,Gos063,JIsssvpsnr-pv0911261100.wav,Gos,Fm-ucen-07162,moški,10 do 18 let,slovenščina,-,OŠ ali manj,podravska,-,1,7
+Rog-Go1-Gos063,Gos063,JIsssvpsnr-pv0911261100.wav,Gos,Am-prof-07158,moški,30 do 59 let,slovenščina,-,višja ali visoka šola,podravska,-,10,111
+Rog-Go1-Gos064,Gos064,JItvslpopr-rd0903232105.wav,Gos,Af-novi-00501,ženski,-,slovenščina,-,-,-,-,1,12
+Rog-Go1-Gos064,Gos064,JItvslpopr-rd0903232105.wav,Gos,Em-inte-00505,moški,30 do 59 let,slovenščina,-,-,-,-,1,26
+Rog-Go1-Gos065,Gos065,JItvslpopr-rd0903232121.wav,Gos,Bm-inte-02501,moški,-,slovenščina,-,-,-,-,1,37
+Rog-Go1-Gos066,Gos066,JItvslpopr-rd0903232135.wav,Gos,Df-novi-01501,ženski,-,slovenščina,-,-,-,-,1,9
+Rog-Go1-Gos066,Gos066,JItvslpopr-rd0903232135.wav,Gos,Bf-anke-01503,ženski,-,slovenščina,-,-,-,-,3,44
+Rog-Go1-Gos067,Gos067,JItvslpopr-rd0903232219.wav,Gos,Af-novi-02029,ženski,-,slovenščina,-,-,-,-,2,12
+Rog-Go1-Gos067,Gos067,JItvslpopr-rd0903232219.wav,Gos,Bm-nast-02030,moški,-,slovenščina,-,-,-,-,2,28
+Rog-Go1-Gos068,Gos068,JItvslpopr-rd0903232249.wav,Gos,Jf-novi-02509,moški,-,slovenščina,-,-,-,-,1,23
+Rog-Go1-Gos068,Gos068,JItvslpopr-rd0903232249.wav,Gos,Km-inte-02510,moški,-,slovenščina,-,-,-,-,1,25
+Rog-Go1-Gos069,Gos069,JItvslpopr-rd0903232305.wav,Gos,Bf-novi-01501,ženski,-,slovenščina,-,-,-,-,2,28
+Rog-Go1-Gos069,Gos069,JItvslpopr-rd0903232305.wav,Gos,Hm-anke-04506,moški,-,slovenščina,-,-,-,-,2,19
+Rog-Go1-Gos070,Gos070,JItvslpopr-rd0903240741.wav,Gos,Am-novi-05505,moški,-,slovenščina,-,-,-,-,1,30
+Rog-Go1-Gos071,Gos071,JItvslpopr-rd0903240759.wav,Gos,Ff-inte-05516,ženski,-,slovenščina,-,-,goriška,-,1,70
+Rog-Go1-Gos072,Gos072,JItvslpopv-rd0903231214.wav,Gos,Af-novi-03507,ženski,-,slovenščina,-,-,-,-,2,22
+Rog-Go1-Gos072,Gos072,JItvslpopv-rd0903231214.wav,Gos,Km-gost-02172,moški,-,slovenščina,-,-,-,-,6,147
+Rog-Go1-Gos072,Gos072,JItvslpopv-rd0903231214.wav,Gos,Gm-gost-05581,moški,-,slovenščina,-,-,-,-,6,147
+Rog-Go1-Gos073,Gos073,JItvslpotr-rd0903291848.wav,Gos,Am-novi-02535,moški,-,slovenščina,-,-,-,-,6,117
+Rog-Go1-Gos073,Gos073,JItvslpotr-rd0903291848.wav,Gos,Hm-gost-03510,moški,-,slovenščina,-,-,-,-,12,252
+Rog-Go1-Gos073,Gos073,JItvslpotr-rd0903291848.wav,Gos,Im-gost-03517,moški,-,slovenščina,-,-,-,-,1,15
+Rog-Go1-Gos073,Gos073,JItvslpotr-rd0903291848.wav,Gos,Lm-gost-02115,moški,-,slovenščina,-,-,-,-,1,2
+Rog-Go1-Gos074,Gos074,JItvslpotr-rd0903302024.wav,Gos,Am-novi-02535,moški,-,slovenščina,-,-,-,-,5,23
+Rog-Go1-Gos074,Gos074,JItvslpotr-rd0903302024.wav,Gos,Bm-nast-02536,moški,-,slovenščina,-,fakulteta ali več,-,-,2,16
+Rog-Go1-Gos074,Gos074,JItvslpotr-rd0903302024.wav,Gos,Qm-gost-02550,moški,-,slovenščina,-,fakulteta ali več,-,-,4,62
+Rog-Go1-Gos074,Gos074,JItvslpotr-rd0903302024.wav,Gos,Pm-gost-02549,moški,-,slovenščina,-,fakulteta ali več,-,-,7,56
+Rog-Go1-Gos075,Gos075,JItvslpour-rd0904141036.wav,Gos,Nf-novi-03502,ženski,-,slovenščina,-,-,-,-,2,29
+Rog-Go1-Gos076,Gos076,JItvslpour-rd0904141044.wav,Gos,Mm-novi-03001,moški,-,slovenščina,-,-,-,-,1,11
+Rog-Go1-Gos077,Gos077,JItvslpour-rd0904141046.wav,Gos,Af-novi-02001,ženski,-,slovenščina,-,-,-,-,1,35
+Rog-Go1-Gos078,Gos078,JItvslpour-rd0904141243.wav,Gos,Af-novi-02006,ženski,-,slovenščina,-,-,-,-,1,16
+Rog-Go1-Gos079,Gos079,JItvslpour-rd0904141245.wav,Gos,Bf-anke-02011,ženski,-,slovenščina,-,-,-,-,1,11
+Rog-Go1-Gos080,Gos080,JItvslpour-rd0904141247.wav,Gos,Dm-nast-03508,moški,-,slovenščina,-,-,-,-,1,34
+Rog-Go1-Gos081,Gos081,JItvslpour-rd0904141249.wav,Gos,Sm-inte-03525,moški,-,slovenščina,-,-,-,-,1,11
+Rog-Go1-Gos082,Gos082,JItvslpour-rd0904141250.wav,Gos,Mf-inte-04504,ženski,-,slovenščina,-,-,-,-,1,27
+Rog-Go1-Gos083,Gos083,JItvslpour-rd0904141252.wav,Gos,Rm-anke-01514,moški,-,slovenščina,-,-,-,-,1,23
+Rog-Go1-Gos084,Gos084,JItvslpour-rd0904150901.wav,Gos,Em-novi-03501,moški,-,slovenščina,-,-,-,-,2,19
+Rog-Go1-Gos085,Gos085,JItvslpour-rd0904150906.wav,Gos,Bm-inte-05001,moški,-,slovenščina,-,-,-,-,1,20
+Rog-Go1-Gos086,Gos086,JItvslpour-rd0904150908.wav,Gos,Bm-anke-01520,moški,-,slovenščina,-,-,-,-,1,25
+Rog-Go1-Gos087,Gos087,JItvslpour-rd0904150911.wav,Gos,Dm-inte-02007,moški,-,slovenščina,-,-,-,-,1,27
+Rog-Go1-Gos088,Gos088,JItvslpour-rd0904150912.wav,Gos,Af-novi-00001,ženski,-,slovenščina,-,-,-,-,1,28
+Rog-Go1-Gos089,Gos089,JItvslpour-rd0904150914.wav,Gos,Pf-novi-03503,ženski,-,slovenščina,-,-,-,-,3,34
+Rog-Go1-Gos090,Gos090,JItvslpour-rd0904150917.wav,Gos,Pm-inte-03513,moški,-,slovenščina,-,-,-,-,1,20
+Rog-Go1-Gos091,Gos091,JItvslpour-rd0904150918.wav,Gos,Vm-gost-03514,moški,-,slovenščina,-,-,-,-,1,24
+Rog-Go1-Gos092,Gos092,JItvslpour-rd0904150920.wav,Gos,Bm-nast-04001,moški,-,slovenščina,-,-,-,-,1,16
+Rog-Go1-Gos093,Gos093,JItvslpour-rd0904150922.wav,Gos,Nf-inte-03523,ženski,-,slovenščina,-,-,-,-,1,23
+Rog-Go1-Gos094,Gos094,JItvslpour-rd0904150959.wav,Gos,Sf-novi-02006,ženski,-,slovenščina,-,-,-,-,1,31
+Rog-Go1-Gos095,Gos095,JItvslpour-rd0904151003.wav,Gos,Am-anke-01518,moški,-,slovenščina,-,-,-,-,1,24
+Rog-Go1-Gos096,Gos096,JItvslpour-rd0904151004.wav,Gos,Bf-inte-05502,ženski,-,slovenščina,-,-,-,-,1,11
+Rog-Go1-Gos097,Gos097,JItvslpour-rd0904151207.wav,Gos,Rm-inte-03531,moški,-,slovenščina,-,-,-,-,1,44
+Rog-Go1-Gos098,Gos098,JItvslpour-rd0904151208.wav,Gos,Kf-novi-03516,ženski,-,slovenščina,-,-,-,-,1,11
+Rog-Go1-Gos099,Gos099,JItvslpour-rd0904151210.wav,Gos,Am-inte-03538,moški,-,slovenščina,-,-,-,-,1,19
+Rog-Go1-Gos100,Gos100,JItvslpour-rd0904151211.wav,Gos,Am-novi-05591,moški,-,slovenščina,-,-,obalno-kraška,-,1,31
+Rog-Go1-Gos101,Gos101,JItvslpour-rd0904151213.wav,Gos,Sm-inte-03504,moški,-,slovenščina,-,-,-,-,1,32
+Rog-Go1-Gos102,Gos102,JItvslpour-rd0904151214.wav,Gos,Pf-novi-03534,ženski,-,slovenščina,-,-,-,-,1,36
+Rog-Go1-Gos103,Gos103,JItvslpour-rd0904151218.wav,Gos,Bm-anke-02024,moški,-,slovenščina,-,-,-,-,1,22
+Rog-Go1-Gos104,Gos104,JItvslpour-rd0904151220.wav,Gos,Gm-inte-01602,moški,-,slovenščina,-,-,-,-,1,17
+Rog-Go1-Gos105,Gos105,JItvslpour-rd0904151228.wav,Gos,Dm-anke-00027,moški,-,slovenščina,-,-,-,-,1,9
+Rog-Go1-Gos106,Gos106,JItvslpour-rd0904151236.wav,Gos,Jf-novi-04532,ženski,-,slovenščina,-,-,-,-,1,34
+Rog-Go1-Gos107,Gos107,JItvslpour-rd0904151317.wav,Gos,Xm-novi-00010,moški,-,slovenščina,-,-,-,-,1,20
+Rog-Go1-Gos108,Gos108,JItvslpour-rd0904151318.wav,Gos,Am-anke-00008,moški,-,slovenščina,-,-,-,-,2,13
+Rog-Go1-Gos109,Gos109,JItvslpour-rd0904151320.wav,Gos,Af-novi-03507,ženski,-,slovenščina,-,-,-,-,2,66
+Rog-Go1-Gos110,Gos110,JItvslpour-rd0904151330.wav,Gos,Ef-novi-04501,ženski,-,slovenščina,-,-,-,-,1,38
+Rog-Go1-Gos111,Gos111,JItvslpour-rd0904151332.wav,Gos,Pf-anke-00019,ženski,-,slovenščina,-,-,-,-,2,15
+Rog-Go1-Gos112,Gos112,JItvslpour-rd0904151335.wav,Gos,Kf-novi-00001,ženski,-,slovenščina,-,-,-,-,1,12
+Rog-Go1-Gos112,Gos112,JItvslpour-rd0904151335.wav,Gos,Tf-anke-00003,ženski,-,slovenščina,-,-,-,-,2,8
+Rog-Go1-Gos113,Gos113,JItvslslod-rd0905280739.wav,Gos,Rf-novi-01604,ženski,30 do 59 let,slovenščina,-,-,-,-,1,20
+Rog-Go1-Gos113,Gos113,JItvslslod-rd0905280739.wav,Gos,Bm-inte-07502,moški,-,slovenščina,-,-,-,-,1,58
+Rog-Go1-Gos114,Gos114,JItvslslod-rd0905280742.wav,Gos,Ef-mode-01604,ženski,-,slovenščina,-,fakulteta ali več,-,-,4,74
+Rog-Go1-Gos115,Gos115,JItvslslod-rd0905280744.wav,Gos,Af-mode-07152,ženski,30 do 59 let,slovenščina,-,-,-,-,2,32
+Rog-Go1-Gos115,Gos115,JItvslslod-rd0905280744.wav,Gos,Cm-gost-02503,moški,-,slovenščina,-,-,-,-,1,36
+Rog-Go1-Gos116,Gos116,JItvslslod-rd0905280747.wav,Gos,Sm-novi-07003,moški,-,slovenščina,-,-,-,-,2,27
+Rog-Go1-Gos116,Gos116,JItvslslod-rd0905280747.wav,Gos,Bm-gost-03509,moški,-,slovenščina,-,-,-,-,4,113
+Rog-Go1-Gos117,Gos117,JItvslslod-rd0905280749.wav,Gos,Am-mode-07003,moški,-,slovenščina,-,-,-,-,1,20
+Rog-Go1-Gos117,Gos117,JItvslslod-rd0905280749.wav,Gos,Dm-gost-07006,moški,-,slovenščina,-,-,-,-,1,59
+Rog-Go1-Gos118,Gos118,JItvslslod-rd0905280751.wav,Gos,Tm-novi-09001,moški,-,slovenščina,-,-,-,-,4,87
+Rog-Go1-Gos119,Gos119,JItvslslod-rd0905280755.wav,Gos,Bm-gost-07155,moški,-,,-,-,-,-,3,108
+Rog-Go1-Gos120,Gos120,JItvslslod-rd0905280757.wav,Gos,Of-novi-01604,ženski,-,slovenščina,-,-,-,-,1,7
+Rog-Go1-Gos120,Gos120,JItvslslod-rd0905280757.wav,Gos,Mm-gost-01605,moški,-,slovenščina,-,-,-,-,5,45
+Rog-Go1-Gos121,Gos121,JItvslslod-rd1009160948.wav,Gos,Am-mode-07003,moški,-,slovenščina,-,-,-,-,1,8
+Rog-Go1-Gos121,Gos121,JItvslslod-rd1009160948.wav,Gos,Dm-gost-07198,moški,-,,-,-,-,-,7,111
+Rog-Go1-Gos122,Gos122,JItvslslod-rd1009160957.wav,Gos,Am-mode-07003,moški,-,slovenščina,-,-,-,-,1,8
+Rog-Go1-Gos122,Gos122,JItvslslod-rd1009160957.wav,Gos,Cm-gost-00015,moški,-,slovenščina,-,-,-,-,2,56
+Rog-Go1-Gos123,Gos123,JItvslslpo-rd0905270932.wav,Gos,Vm-novi-01606,moški,-,slovenščina,-,-,-,-,2,4
+Rog-Go1-Gos123,Gos123,JItvslslpo-rd0905270932.wav,Gos,Lf-gost-05513,ženski,-,slovenščina,-,-,-,-,12,325
+Rog-Go1-Gos124,Gos124,JItvslslpo-rd0905270939.wav,Gos,Am-novi-02133,moški,-,slovenščina,-,-,-,-,2,21
+Rog-Go1-Gos124,Gos124,JItvslslpo-rd0905270939.wav,Gos,Gf-novi-02137,ženski,-,slovenščina,-,-,-,-,11,262
+Rog-Go1-Gos125,Gos125,JItvslslsc-rd0905271043.wav,Gos,Sm-novi-06570,moški,-,slovenščina,-,-,-,-,6,89
+Rog-Go1-Gos126,Gos126,JItvslslsc-rd0905271046.wav,Gos,Sm-novi-06570,moški,-,slovenščina,-,-,-,-,1,6
+Rog-Go1-Gos126,Gos126,JItvslslsc-rd0905271046.wav,Gos,Im-gost-06571,moški,-,slovenščina,-,-,-,-,5,79
+Rog-Go1-Gos127,Gos127,JItvslslsc-rd0905271047.wav,Gos,Sm-novi-06570,moški,-,slovenščina,-,-,-,-,1,2
+Rog-Go1-Gos127,Gos127,JItvslslsc-rd0905271047.wav,Gos,Lf-gost-05513,ženski,-,slovenščina,-,-,-,-,4,84
+Rog-Go1-Gos128,Gos128,JItvslslsc-rd0905271049.wav,Gos,Sm-novi-06570,moški,-,slovenščina,-,-,-,-,4,48
+Rog-Go1-Gos128,Gos128,JItvslslsc-rd0905271049.wav,Gos,Fm-gost-06571,moški,-,slovenščina,-,-,-,-,1,33
+Rog-Go1-Gos129,Gos129,JItvslslsc-rd0905271057.wav,Gos,Sm-novi-06570,moški,-,slovenščina,-,-,-,-,2,62
+Rog-Go1-Gos129,Gos129,JItvslslsc-rd0905271057.wav,Gos,Sf-gost-00013,ženski,-,slovenščina,-,-,-,-,2,21
+Rog-Go1-Gos130,Gos130,JRrajzbejp-rd0907171241.wav,Gos,Bm-novi-06519,moški,-,slovenščina,-,-,-,-,12,207
+Rog-Go1-Gos130,Gos130,JRrajzbejp-rd0907171241.wav,Gos,Af-novi-06518,ženski,-,slovenščina,-,-,-,-,2,12
+Rog-Go1-Gos131,Gos131,JRrajzbejp-rd0907171245.wav,Gos,Bm-novi-06519,moški,-,slovenščina,-,-,-,-,9,110
+Rog-Go1-Gos132,Gos132,JRrajzbejp-rd0907171248.wav,Gos,Bm-novi-06519,moški,-,slovenščina,-,-,-,-,2,49
+Rog-Go1-Gos132,Gos132,JRrajzbejp-rd0907171248.wav,Gos,Af-novi-06518,ženski,-,slovenščina,-,-,-,-,1,34
+Rog-Go1-Gos133,Gos133,JRrajzbejp-rd0907171249.wav,Gos,Bm-novi-06519,moški,-,slovenščina,-,-,-,-,2,59
+Rog-Go1-Gos133,Gos133,JRrajzbejp-rd0907171249.wav,Gos,Af-novi-06518,ženski,-,slovenščina,-,-,-,-,1,26
+Rog-Go1-Gos134,Gos134,JRrajzbejp-rd0907171250.wav,Gos,Af-novi-06518,ženski,-,slovenščina,-,-,-,-,2,12
+Rog-Go1-Gos134,Gos134,JRrajzbejp-rd0907171250.wav,Gos,Bm-novi-06519,moški,-,slovenščina,-,-,-,-,3,94
+Rog-Go1-Gos134,Gos134,JRrajzbejp-rd0907171250.wav,Gos,Hm-nast-06559,moški,-,slovenščina,-,-,-,-,2,15
+Rog-Go1-Gos135,Gos135,JRrajzcajp-rd0907171252.wav,Gos,Am-mode-05620,moški,-,slovenščina,-,-,-,-,20,272
+Rog-Go1-Gos135,Gos135,JRrajzcajp-rd0907171252.wav,Gos,Bm-mode-05621,moški,-,slovenščina,-,-,-,-,3,30
+Rog-Go1-Gos135,Gos135,JRrajzcajp-rd0907171252.wav,Gos,Lm-nast-05625,moški,-,slovenščina,-,-,-,-,1,2
+Rog-Go1-Gos135,Gos135,JRrajzcajp-rd0907171252.wav,Gos,Nm-posl-05638,moški,-,slovenščina,-,-,-,-,7,66
+Rog-Go2-Gos136,Gos136,JRrajzcajp-rd0907171301.wav,Gos,Am-mode-05620,moški,-,slovenščina,-,-,-,-,39,606
+Rog-Go2-Gos136,Gos136,JRrajzcajp-rd0907171301.wav,Gos,Cm-mode-05621,moški,-,slovenščina,-,-,-,-,20,261
+Rog-Go1-Gos137,Gos137,JRrajzcajp-rd0907171303.wav,Gos,Am-mode-05620,moški,-,slovenščina,-,-,-,-,17,202
+Rog-Go1-Gos137,Gos137,JRrajzcajp-rd0907171303.wav,Gos,Bm-mode-05621,moški,-,slovenščina,-,-,-,-,6,48
+Rog-Go1-Gos137,Gos137,JRrajzcajp-rd0907171303.wav,Gos,Jm-posl-05627,moški,-,slovenščina,-,-,-,-,11,66
+Rog-Go2-Gos138,Gos138,JRrajzkkna-rd0906111426.wav,Gos,Sf-mode-04529,ženski,-,slovenščina,-,-,jugovzhodna Slovenija,-,46,619
+Rog-Go2-Gos138,Gos138,JRrajzkkna-rd0906111426.wav,Gos,Dm-posl-04530,moški,-,slovenščina,-,-,jugovzhodna Slovenija,-,15,44
+Rog-Go2-Gos138,Gos138,JRrajzkkna-rd0906111426.wav,Gos,Mm-posl-04531,moški,-,slovenščina,-,-,jugovzhodna Slovenija,-,23,78
+Rog-Go1-Gos139,Gos139,JRramarmpo-dm1007091314.wav,Gos,Am-novi-10501,moški,-,slovenščina,-,-,Madžarska,-,5,106
+Rog-Go1-Gos139,Gos139,JRramarmpo-dm1007091314.wav,Gos,If-inte-10503,ženski,-,slovenščina,-,-,Madžarska,-,5,67
+Rog-Go1-Gos140,Gos140,JRramarmpo-dm1007091342.wav,Gos,Am-novi-10501,moški,-,slovenščina,-,-,Madžarska,-,2,17
+Rog-Go1-Gos140,Gos140,JRramarmpo-dm1007091342.wav,Gos,Bf-inte-10502,ženski,-,slovenščina,-,-,Madžarska,-,5,84
+Rog-Go1-Gos141,Gos141,JRraslcejp-rd0906101524.wav,Gos,Am-novi-02066,moški,-,slovenščina,-,-,-,-,2,20
+Rog-Go1-Gos141,Gos141,JRraslcejp-rd0906101524.wav,Gos,Cf-novi-02068,ženski,-,slovenščina,-,-,-,-,9,134
+Rog-Go1-Gos141,Gos141,JRraslcejp-rd0906101524.wav,Gos,Kf-posl-02076,ženski,-,slovenščina,-,-,-,-,7,70
+Rog-Go1-Gos142,Gos142,JRraslvans-rd0906101501.wav,Gos,Am-novi-02044,moški,30 do 59 let,slovenščina,-,srednja šola,osrednjeslovenska,-,5,19
+Rog-Go1-Gos142,Gos142,JRraslvans-rd0906101501.wav,Gos,Bf-gost-02045,ženski,-,slovenščina,-,-,-,-,11,202
+Rog-Go1-Gos143,Gos143,JRraslvans-rd0906101503.wav,Gos,Am-novi-02044,moški,30 do 59 let,slovenščina,-,srednja šola,osrednjeslovenska,-,3,64
+Rog-Go1-Gos143,Gos143,JRraslvans-rd0906101503.wav,Gos,Bm-inte-02099,moški,30 do 59 let,slovenščina,-,fakulteta ali več,podravska,-,1,20
+Rog-Go1-Gos143,Gos143,JRraslvans-rd0906101503.wav,Gos,Cm-inte-02100,moški,30 do 59 let,slovenščina,-,srednja šola,"podravska, osrednjeslovenska, tujina",-,4,83
+Rog-Go1-Gos144,Gos144,JRrasvcijp-rd0908250924.wav,Gos,Dm-mode-01017,moški,18 do 34 let,slovenščina,-,srednja šola,podravska,-,19,277
+Rog-Go1-Gos144,Gos144,JRrasvcijp-rd0908250924.wav,Gos,Bm-mode-01016,moški,30 do 59 let,slovenščina,-,višja ali visoka šola,podravska,-,6,78
+Rog-Go1-Gos145,Gos145,JRrasvcijp-rd0908250930.wav,Gos,Dm-mode-01017,moški,18 do 34 let,slovenščina,-,srednja šola,podravska,-,20,224
+Rog-Go1-Gos145,Gos145,JRrasvcijp-rd0908250930.wav,Gos,Ef-mode-01018,ženski,18 do 34 let,slovenščina,-,srednja šola,podravska,-,1,2
+Rog-Go1-Gos145,Gos145,JRrasvcijp-rd0908250930.wav,Gos,Mm-posl-01032,moški,-,slovenščina,-,-,-,-,12,42
+Rog-Go1-Gos146,Gos146,JRrasvcijp-rd0908250932.wav,Gos,Dm-mode-01017,moški,18 do 34 let,slovenščina,-,srednja šola,podravska,-,15,197
+Rog-Go1-Gos146,Gos146,JRrasvcijp-rd0908250932.wav,Gos,Ef-mode-01018,ženski,18 do 34 let,slovenščina,-,srednja šola,podravska,-,2,4
+Rog-Go1-Gos147,Gos147,JRrasvfajp-rd0908250936.wav,Gos,Am-mode-02120,moški,30 do 59 let,slovenščina,-,-,-,-,4,98
+Rog-Go1-Gos148,Gos148,JRrasvkoso-rd0908250942.wav,Gos,Pf-novi-01004,ženski,-,slovenščina,-,-,-,-,5,77
+Rog-Go1-Gos149,Gos149,JRrasvkoso-rd0908250945.wav,Gos,Mf-inte-01007,moški,18 do 34 let,slovenščina,-,-,koroška,-,5,130
+Rog-Go1-Gos150,Gos150,JRrasvkoso-rd0908250947.wav,Gos,Gm-novi-01008,moški,-,slovenščina,-,-,koroška,-,3,27
+Rog-Go1-Gos150,Gos150,JRrasvkoso-rd0908250947.wav,Gos,Jm-inte-01009,moški,-,slovenščina,-,-,koroška,-,3,18
+Rog-Go1-Gos151,Gos151,JRrasvkoso-rd0908250953.wav,Gos,Xm-novi-01001,moški,-,slovenščina,-,-,-,-,1,13
+Rog-Go1-Gos151,Gos151,JRrasvkoso-rd0908250953.wav,Gos,Bm-inte-01002,moški,-,slovenščina,-,-,-,-,2,100
+Rog-Go1-Gos152,Gos152,JRrasvkost-rd0908250958.wav,Gos,Tf-mode-01013,ženski,-,slovenščina,-,-,-,-,8,68
+Rog-Go1-Gos152,Gos152,JRrasvkost-rd0908250958.wav,Gos,Zf-mode-01014,ženski,-,slovenščina,-,-,-,-,2,26
+Rog-Go1-Gos153,Gos153,JRrasvkost-rd0908251001.wav,Gos,Zf-mode-01014,ženski,-,slovenščina,-,-,-,-,1,22
+Rog-Go1-Gos153,Gos153,JRrasvkost-rd0908251001.wav,Gos,Tf-mode-01013,ženski,-,slovenščina,-,-,-,-,4,23
+Rog-Go1-Gos153,Gos153,JRrasvkost-rd0908251001.wav,Gos,Af-mode-01010,ženski,-,slovenščina,-,-,-,-,8,68
+Rog-Go1-Gos154,Gos154,JRrasvmbjp-rd0908250921.wav,Gos,Hf-mode-07518,ženski,-,slovenščina,-,-,-,-,8,114
+Rog-Go1-Gos154,Gos154,JRrasvmbjp-rd0908250921.wav,Gos,Mm-inte-07510,moški,-,slovenščina,-,-,-,-,2,7
+Rog-Go1-Gos155,Gos155,JRrasvmvge-rd0908251007.wav,Gos,Pm-mode-10504,moški,-,slovenščina,-,-,-,-,21,217
+Rog-Go1-Gos155,Gos155,JRrasvmvge-rd0908251007.wav,Gos,Dm-mode-10505,moški,-,slovenščina,-,-,-,-,1,2
+Rog-Go1-Gos155,Gos155,JRrasvmvge-rd0908251007.wav,Gos,Bm-posl-10506,moški,-,slovenščina,-,-,-,-,6,37
+Rog-Go1-Gos155,Gos155,JRrasvmvge-rd0908251007.wav,Gos,Ff-posl-10507,ženski,-,slovenščina,-,-,-,-,6,40
+Rog-Go1-Gos156,Gos156,JRrasvmvzd-rd0908251004.wav,Gos,Rm-mode-08503,moški,30 do 59 let,slovenščina,-,-,podravska,-,6,83
+Rog-Go1-Gos156,Gos156,JRrasvmvzd-rd0908251004.wav,Gos,Jm-gost-08504,moški,30 do 59 let,slovenščina,-,-,savinjska,-,5,64
+Rog-Go1-Gos157,Gos157,JRtvslpoas-rd0904220925.wav,Gos,Am-novi-02048,moški,-,slovenščina,-,-,-,-,10,146
+Rog-Go1-Gos157,Gos157,JRtvslpoas-rd0904220925.wav,Gos,Bm-novi-02049,moški,-,slovenščina,-,-,-,-,8,45
+Rog-Go1-Gos157,Gos157,JRtvslpoas-rd0904220925.wav,Gos,Cf-gost-00510,ženski,-,slovenščina,-,-,-,-,7,99
+Rog-Go1-Gos158,Gos158,JRtvslpoas-rd0904221512.wav,Gos,Em-mode-02048,moški,18 do 34 let,slovenščina,-,-,-,-,8,144
+Rog-Go1-Gos158,Gos158,JRtvslpoas-rd0904221512.wav,Gos,Cm-mode-02049,moški,18 do 34 let,slovenščina,-,fakulteta ali več,-,-,6,75
+Rog-Go1-Gos158,Gos158,JRtvslpoas-rd0904221512.wav,Gos,Af-gost-09027,ženski,-,slovenščina,-,-,-,-,8,42
+Rog-Go2-Gos159,Gos159,JRtvslpoas-rd0904231043.wav,Gos,Gm-novi-02048,moški,-,slovenščina,-,-,-,-,36,451
+Rog-Go2-Gos159,Gos159,JRtvslpoas-rd0904231043.wav,Gos,Sm-novi-02049,moški,-,slovenščina,-,-,-,-,28,194
+Rog-Go2-Gos159,Gos159,JRtvslpoas-rd0904231043.wav,Gos,Om-gost-06560,moški,-,slovenščina,-,-,-,-,28,340
+Rog-Go1-Gos160,Gos160,JRtvslpode-rd0904200926.wav,Gos,Um-nast-00021,moški,-,slovenščina,-,-,-,-,10,66
+Rog-Go1-Gos160,Gos160,JRtvslpode-rd0904200926.wav,Gos,Bm-nast-00022,moški,-,slovenščina,-,-,-,-,7,37
+Rog-Go1-Gos161,Gos161,JRtvslpode-rd0904200931.wav,Gos,Bm-nast-00022,moški,-,slovenščina,-,-,-,-,1,10
+Rog-Go1-Gos161,Gos161,JRtvslpode-rd0904200931.wav,Gos,Um-nast-00021,moški,-,slovenščina,-,-,-,-,20,409
+Rog-Go1-Gos162,Gos162,JRtvslpokm-rd0905151406.wav,Gos,Dm-nast-00512,moški,30 do 59 let,slovenščina,-,-,-,-,6,53
+Rog-Go1-Gos162,Gos162,JRtvslpokm-rd0905151406.wav,Gos,Em-nast-00513,moški,18 do 34 let,slovenščina,-,-,-,-,5,86
+Rog-Go1-Gos162,Gos162,JRtvslpokm-rd0905151406.wav,Gos,Am-nast-00509,moški,18 do 34 let,drugi slovanski jeziki,-,-,tujina,-,7,61
+Rog-Go1-Gos163,Gos163,JRtvslpokm-rd0905151410.wav,Gos,Hf-nast-00516,ženski,18 do 34 let,slovenščina,-,-,-,-,1,4
+Rog-Go1-Gos163,Gos163,JRtvslpokm-rd0905151410.wav,Gos,Em-nast-00513,moški,18 do 34 let,slovenščina,-,-,-,-,1,6
+Rog-Go1-Gos163,Gos163,JRtvslpokm-rd0905151410.wav,Gos,Fm-nast-00514,moški,30 do 59 let,slovenščina,-,-,-,-,8,99
+Rog-Go1-Gos163,Gos163,JRtvslpokm-rd0905151410.wav,Gos,Gf-nast-00515,ženski,18 do 34 let,slovenščina,-,-,-,-,5,21
+Rog-Go1-Gos164,Gos164,JRtvslpovp-rd0904201545.wav,Gos,Zm-mode-00026,moški,-,,-,-,-,-,53,454
+Rog-Go1-Gos164,Gos164,JRtvslpovp-rd0904201545.wav,Gos,Yn-posl-00000,-,-,,-,-,-,-,1,2
+Rog-Go1-Gos164,Gos164,JRtvslpovp-rd0904201545.wav,Gos,Tf-nast-09007,ženski,-,,-,-,-,-,4,11
+Rog-Go1-Gos164,Gos164,JRtvslpovp-rd0904201545.wav,Gos,Mm-gost-09018,moški,-,,-,-,-,-,5,56
+Rog-Go1-Gos164,Gos164,JRtvslpovp-rd0904201545.wav,Gos,Af-gost-06561,ženski,-,slovenščina,-,-,-,-,3,10
+Rog-Go1-Gos165,Gos165,JRtvslslnl-rd0905221433.wav,Gos,Bm-novi-02158,moški,18 do 34 let,slovenščina,-,-,-,-,6,70
+Rog-Go1-Gos165,Gos165,JRtvslslnl-rd0905221433.wav,Gos,Af-gost-02157,ženski,30 do 59 let,slovenščina,-,-,-,-,12,219
+Rog-Go1-Gos165,Gos165,JRtvslslnl-rd0905221433.wav,Gos,Cf-novi-02159,ženski,-,slovenščina,-,-,-,-,2,10
+Rog-Go1-Gos166,Gos166,JRtvslslnl-rd0905221437.wav,Gos,Af-novi-02159,ženski,-,slovenščina,-,-,-,-,1,5
+Rog-Go1-Gos166,Gos166,JRtvslslnl-rd0905221437.wav,Gos,Cm-gost-02163,moški,nad 60 let,slovenščina,-,-,-,-,17,329
+Rog-Go2-Gos167,Gos167,JRtvslslpi-rd0905250924.wav,Gos,Df-mode-06573,ženski,-,slovenščina,-,-,-,-,20,259
+Rog-Go2-Gos167,Gos167,JRtvslslpi-rd0905250924.wav,Gos,If-nast-06574,ženski,-,slovenščina,-,-,-,-,5,63
+Rog-Go2-Gos167,Gos167,JRtvslslpi-rd0905250924.wav,Gos,Tm-nast-06575,moški,-,slovenščina,-,-,-,-,22,364
+Rog-Go2-Gos167,Gos167,JRtvslslpi-rd0905250924.wav,Gos,Zf-nast-05502,ženski,-,slovenščina,-,-,-,-,6,123
+Rog-Go2-Gos167,Gos167,JRtvslslpi-rd0905250924.wav,Gos,Jm-nast-06577,moški,-,slovenščina,-,-,-,-,3,48
+Rog-Go1-Gos168,Gos168,JRtvslslsp-rd0905200815.wav,Gos,Am-novi-02099,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,5,82
+Rog-Go1-Gos168,Gos168,JRtvslslsp-rd0905200815.wav,Gos,Bm-novi-02092,moški,30 do 59 let,slovenščina,-,srednja šola,jugovzhodna Slovenija,-,4,92
+Rog-Go1-Gos169,Gos169,JRtvslslsp-rd0905200820.wav,Gos,Am-mode-02099,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,8,115
+Rog-Go1-Gos169,Gos169,JRtvslslsp-rd0905200820.wav,Gos,Bm-mode-02092,moški,30 do 59 let,slovenščina,-,srednja šola,jugovzhodna Slovenija,-,4,66
+Rog-Go1-Gos170,Gos170,JRtvslslsp-rd0905200825.wav,Gos,Am-mode-00518,moški,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,11,141
+Rog-Go1-Gos171,Gos171,JRtvslslsp-rd0905200826.wav,Gos,Am-mode-00518,moški,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,9,128
+Rog-Go1-Gos172,Gos172,NNosgopods-kk0905222006.wav,Gos,Af-prof-05563,ženski,30 do 59 let,slovenščina,-,višja ali visoka šola,"goriška, osrednjeslovenska",-,4,94
+Rog-Go1-Gos172,Gos172,NNosgopods-kk0905222006.wav,Gos,Bf-prof-05564,ženski,30 do 59 let,slovenščina,-,višja ali visoka šola,"goriška, osrednjeslovenska",-,2,13
+Rog-Go1-Gos172,Gos172,NNosgopods-kk0905222006.wav,Gos,Cf-prof-05565,ženski,30 do 59 let,slovenščina,-,višja ali visoka šola,"goriška, osrednjeslovenska",-,4,51
+Rog-Go2-Gos173,Gos173,NNoskpprdo-pk1003311343.wav,Gos,Am-prod-05581,moški,30 do 59 let,slovenščina,-,srednja šola,obalno-kraška,-,39,580
+Rog-Go2-Gos173,Gos173,NNoskpprdo-pk1003311343.wav,Gos,Bm-stra-05582,moški,18 do 34 let,slovenščina,-,srednja šola,"obalno-kraška, gorenjska",-,17,195
+Rog-Go1-Gos174,Gos174,NNoskpsods-pk1003311057.wav,Gos,Af-vodj-05578,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,obalno-kraška,-,3,55
+Rog-Go1-Gos174,Gos174,NNoskpsods-pk1003311057.wav,Gos,Cf-udel-05580,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,"obalno-kraška, osrednjeslovenska",-,5,111
+Rog-Go1-Gos174,Gos174,NNoskpsods-pk1003311057.wav,Gos,Bf-udel-05579,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"obalno-kraška, osrednjeslovenska",-,4,68
+Rog-Go1-Gos175,Gos175,NNoskrprdo-az1004091424.wav,Gos,Bf-akvi-02263,ženski,30 do 59 let,slovenščina,-,srednja šola,gorenjska,-,4,139
+Rog-Go1-Gos175,Gos175,NNoskrprdo-az1004091424.wav,Gos,Am-stra-02231,moški,30 do 59 let,slovenščina,-,fakulteta ali več,"osrednjeslovenska, gorenjska",-,2,40
+Rog-Go1-Gos176,Gos176,NNosljakds-jm0103151200.wav,Gos,Am-udel-02284,moški,30 do 59 let,slovenščina,-,fakulteta ali več,-,-,7,63
+Rog-Go1-Gos176,Gos176,NNosljakds-jm0103151200.wav,Gos,Bf-udel-02285,ženski,-,slovenščina,-,-,-,-,1,2
+Rog-Go1-Gos176,Gos176,NNosljakds-jm0103151200.wav,Gos,Df-udel-02287,ženski,-,slovenščina,-,-,-,-,1,9
+Rog-Go1-Gos176,Gos176,NNosljakds-jm0103151200.wav,Gos,Ef-udel-02288,ženski,-,slovenščina,-,-,-,-,3,16
+Rog-Go1-Gos176,Gos176,NNosljakds-jm0103151200.wav,Gos,Ff-udel-02289,ženski,-,slovenščina,-,-,-,-,12,250
+Rog-Go1-Gos176,Gos176,NNosljakds-jm0103151200.wav,Gos,Jf-udel-02293,ženski,-,slovenščina,-,-,-,-,2,12
+Rog-Go1-Gos176,Gos176,NNosljakds-jm0103151200.wav,Gos,Hm-udel-02291,moški,-,slovenščina,-,-,-,-,3,44
+Rog-Go1-Gos177,Gos177,NNosljakko-np0910182052.wav,Gos,Af-prof-02166,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,7,77
+Rog-Go1-Gos177,Gos177,NNosljakko-np0910182052.wav,Gos,Bf-stud-02167,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,"osrednjeslovenska, goriška",-,4,85
+Rog-Go1-Gos178,Gos178,NNosljpods-az1003111100.wav,Gos,Am-udel-02231,moški,30 do 59 let,slovenščina,-,fakulteta ali več,"gorenjska, osrednjeslovenska",-,5,100
+Rog-Go1-Gos178,Gos178,NNosljpods-az1003111100.wav,Gos,Bf-udel-02232,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,"osrednjeslovenska, gorenjska",-,3,21
+Rog-Go1-Gos178,Gos178,NNosljpods-az1003111100.wav,Gos,Cf-udel-02233,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,1,5
+Rog-Go1-Gos178,Gos178,NNosljpods-az1003111100.wav,Gos,Df-udel-02234,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,podravska,-,2,40
+Rog-Go1-Gos178,Gos178,NNosljpods-az1003111100.wav,Gos,Ef-udel-02235,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"jugovzhodna Slovenija, osrednjeslovenska, gorenjska",-,1,20
+Rog-Go1-Gos178,Gos178,NNosljpods-az1003111100.wav,Gos,Ff-udel-02236,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,1,4
+Rog-Go1-Gos178,Gos178,NNosljpods-az1003111100.wav,Gos,Hf-udel-02238,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,"gorenjska, osrednjeslovenska",-,4,37
+Rog-Go1-Gos179,Gos179,NNosljpods-pk1004191451.wav,Gos,Af-sode-05584,ženski,18 do 34 let,slovenščina,-,srednja šola,"gorenjska, obalno-kraška",-,9,42
+Rog-Go1-Gos179,Gos179,NNosljpods-pk1004191451.wav,Gos,Bm-sode-05588,moški,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,18,166
+Rog-Go1-Gos180,Gos180,NNosljprdo-az1004011600.wav,Gos,Bm-udel-07137,moški,30 do 59 let,slovenščina,-,fakulteta ali več,"osrednjeslovenska, obalno-kraška",-,9,203
+Rog-Go1-Gos180,Gos180,NNosljprdo-az1004011600.wav,Gos,Af-stra-02166,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,3,6
+Rog-Go2-Gos181,Gos181,NNosljsods-lr0906022314.wav,Gos,Af-udel-02552,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,48,454
+Rog-Go2-Gos181,Gos181,NNosljsods-lr0906022314.wav,Gos,Bf-udel-02553,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"podravska, osrednjeslovenska",-,12,60
+Rog-Go2-Gos181,Gos181,NNosljsods-lr0906022314.wav,Gos,Cf-udel-02554,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,20,142
+Rog-Go2-Gos181,Gos181,NNosljsods-lr0906022314.wav,Gos,Df-udel-02555,ženski,30 do 59 let,slovenščina,-,višja ali visoka šola,osrednjeslovenska,-,11,85
+Rog-Go2-Gos182,Gos182,NNosljtrgo-az1003241254.wav,Gos,Af-stra-02238,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,"gorenjska, osrednjeslovenska",-,26,228
+Rog-Go2-Gos182,Gos182,NNosljtrgo-az1003241254.wav,Gos,Bf-prod-02264,ženski,30 do 59 let,slovenščina,-,srednja šola,osrednjeslovenska,-,30,514
+Rog-Go2-Gos183,Gos183,NNosljtrgo-mj0912192155.wav,Gos,Sm-prod-00803,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,58,700
+Rog-Go2-Gos183,Gos183,NNosljtrgo-mj0912192155.wav,Gos,Pf-prod-00804,ženski,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,6,35
+Rog-Go2-Gos183,Gos183,NNosljtrgo-mj0912192155.wav,Gos,Gm-prod-00805,moški,10 do 18 let,slovenščina,-,srednja šola,osrednjeslovenska,-,3,13
+Rog-Go1-Gos184,Gos184,NNosljtrgo-mj0912202338.wav,Gos,Jm-soro-00807,moški,30 do 59 let,slovenščina,-,srednja šola,osrednjeslovenska,-,3,6
+Rog-Go1-Gos184,Gos184,NNosljtrgo-mj0912202338.wav,Gos,Gm-soro-00806,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,4,33
+Rog-Go1-Gos184,Gos184,NNosljtrgo-mj0912202338.wav,Gos,Mf-soro-00808,ženski,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,9,76
+Rog-Go1-Gos185,Gos185,NNosljupra-az1006082214.wav,Gos,Bf-udel-02322,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,6,49
+Rog-Go1-Gos185,Gos185,NNosljupra-az1006082214.wav,Gos,Af-udel-02236,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,7,54
+Rog-Go1-Gos185,Gos185,NNosljupra-az1006082214.wav,Gos,Cf-udel-02323,ženski,30 do 59 let,slovenščina,-,srednja šola,osrednjeslovenska,-,5,52
+Rog-Go1-Gos186,Gos186,NNosmbakko-kk1001141025.wav,Gos,Am-prof-05663,moški,30 do 59 let,slovenščina,-,fakulteta ali več,"podravska, savinjska, osrednjeslovenska, tujina",-,5,123
+Rog-Go1-Gos186,Gos186,NNosmbakko-kk1001141025.wav,Gos,Bf-stud-05664,ženski,18 do 34 let,slovenščina,-,srednja šola,podravska,-,4,89
+Rog-Go1-Gos187,Gos187,NNosmbakko-pv1001071030.wav,Gos,Mm-prof-01075,moški,30 do 59 let,slovenščina,-,fakulteta ali več,podravska,-,5,53
+Rog-Go1-Gos187,Gos187,NNosmbakko-pv1001071030.wav,Gos,Rm-stud-01076,moški,18 do 34 let,slovenščina,-,srednja šola,podravska,-,4,25
+Rog-Go1-Gos188,Gos188,NNosmbakko-sv1007050910.wav,Gos,Pf-prof-07533,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,podravska,-,3,76
+Rog-Go1-Gos188,Gos188,NNosmbakko-sv1007050910.wav,Gos,Sf-stud-07532,ženski,30 do 59 let,slovenščina,-,srednja šola,podravska,-,2,6
+Rog-Go1-Gos189,Gos189,NNosmbakko-sv1007050918.wav,Gos,Pf-prof-07533,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,podravska,-,3,41
+Rog-Go1-Gos189,Gos189,NNosmbakko-sv1007050918.wav,Gos,Sf-stud-07534,ženski,18 do 34 let,slovenščina,-,srednja šola,"podravska, osrednjeslovenska",-,5,81
+Rog-Go2-Gos190,Gos190,NNosmbcvst-bb1004191439.wav,Gos,Af-stra-02276,ženski,30 do 59 let,slovenščina,-,OŠ ali manj,podravska,-,28,191
+Rog-Go2-Gos190,Gos190,NNosmbcvst-bb1004191439.wav,Gos,Bf-prod-02277,ženski,18 do 34 let,slovenščina,-,srednja šola,"podravska, savinjska",-,29,190
+Rog-Go2-Gos190,Gos190,NNosmbcvst-bb1004191439.wav,Gos,Cf-stra-02265,ženski,18 do 34 let,slovenščina,-,srednja šola,podravska,-,30,275
+Rog-Go1-Gos191,Gos191,NNosmbfist-sv1006161508.wav,Gos,Am-stra-02298,moški,18 do 34 let,slovenščina,-,srednja šola,"savinjska, podravska",-,7,46
+Rog-Go1-Gos191,Gos191,NNosmbfist-sv1006161508.wav,Gos,Bf-udel-02299,ženski,30 do 59 let,slovenščina,-,višja ali visoka šola,podravska,-,18,86
+Rog-Go1-Gos192,Gos192,NNosmbfrst-sv1006161441.wav,Gos,Am-prod-02325,moški,18 do 34 let,slovenščina,-,srednja šola,podravska,-,7,91
+Rog-Go1-Gos192,Gos192,NNosmbfrst-sv1006161441.wav,Gos,Bf-stra-02326,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,podravska,-,1,2
+Rog-Go1-Gos192,Gos192,NNosmbfrst-sv1006161441.wav,Gos,Cf-stra-07534,ženski,18 do 34 let,slovenščina,-,srednja šola,"podravska, osrednjeslovenska",-,8,82
+Rog-Go1-Gos193,Gos193,NNosmbfrst-sv1006161451.wav,Gos,Bf-stra-02329,ženski,18 do 34 let,slovenščina,-,srednja šola,pomurska,-,3,32
+Rog-Go1-Gos193,Gos193,NNosmbfrst-sv1006161451.wav,Gos,Cf-stra-07534,ženski,18 do 34 let,slovenščina,-,srednja šola,"podravska, osrednjeslovenska",-,5,70
+Rog-Go1-Gos194,Gos194,NNosmbinst-bb1004191451.wav,Gos,Af-udel-02265,ženski,18 do 34 let,slovenščina,-,srednja šola,podravska,-,13,102
+Rog-Go1-Gos194,Gos194,NNosmbinst-bb1004191451.wav,Gos,Bf-udel-02266,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,podravska,-,13,69
+Rog-Go1-Gos195,Gos195,NNosmbpods-is1003311437.wav,Gos,Vm-nadr-01108,moški,30 do 59 let,slovenščina,-,fakulteta ali več,podravska,-,1,4
+Rog-Go1-Gos195,Gos195,NNosmbpods-is1003311437.wav,Gos,If-vodj-01109,ženski,18 do 34 let,južnoslovanski jeziki,-,fakulteta ali več,tujina,-,6,241
+Rog-Go1-Gos196,Gos196,NNosmbpods-sv1007301022.wav,Gos,Vf-nadr-07537,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,podravska,-,7,134
+Rog-Go1-Gos196,Gos196,NNosmbpods-sv1007301022.wav,Gos,Mm-udel-07538,moški,18 do 34 let,slovenščina,-,fakulteta ali več,podravska,-,1,11
+Rog-Go1-Gos197,Gos197,NNosmbstzb-sv1007301234.wav,Gos,Sf-paci-07534,ženski,18 do 34 let,slovenščina,-,višja ali visoka šola,"podravska, osrednjeslovenska",-,2,33
+Rog-Go1-Gos197,Gos197,NNosmbstzb-sv1007301234.wav,Gos,Zm-zdra-07535,moški,nad 60 let,slovenščina,-,fakulteta ali več,"podravska, osrednjeslovenska",-,6,91
+Rog-Go1-Gos198,Gos198,NNosmbtrgo-sv1006291029.wav,Gos,Af-stra-05596,ženski,18 do 34 let,slovenščina,-,srednja šola,"podravska, osrednjeslovenska",-,6,61
+Rog-Go1-Gos198,Gos198,NNosmbtrgo-sv1006291029.wav,Gos,Bm-prod-05597,moški,30 do 59 let,slovenščina,-,višja ali visoka šola,podravska,-,5,40
+Rog-Go1-Gos199,Gos199,NNosmssods-jt1005201326.wav,Gos,Af-udel-02327,ženski,30 do 59 let,slovenščina,-,srednja šola,pomurska,-,5,67
+Rog-Go1-Gos199,Gos199,NNosmssods-jt1005201326.wav,Gos,Bf-udel-02328,ženski,30 do 59 let,slovenščina,-,višja ali visoka šola,pomurska,-,3,55
+Rog-Go2-Gos200,Gos200,NNtekrstpr-sv1007090856.wav,Gos,Af-info-05596,ženski,18 do 34 let,slovenščina,-,srednja šola,"podravska, osrednjeslovenska",-,30,545
+Rog-Go2-Gos200,Gos200,NNtekrstpr-sv1007090856.wav,Gos,Bm-klic-02237,moški,30 do 59 let,slovenščina,-,srednja šola,"gorenjska, osrednjeslovenska",-,22,98
+Rog-Go1-Gos201,Gos201,NNtekrstsv-ak1007050857.wav,Gos,Af-klic-06567,ženski,18 do 34 let,slovenščina,-,srednja šola,"gorenjska, osrednjeslovenska",-,1,6
+Rog-Go1-Gos201,Gos201,NNtekrstsv-ak1007050857.wav,Gos,Cf-vodj-05590,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,2,38
+Rog-Go1-Gos202,Gos202,NNteljstpr-az1006091140.wav,Gos,Af-info-02320,ženski,18 do 34 let,slovenščina,-,srednja šola,"podravska, savinjska",-,2,8
+Rog-Go1-Gos202,Gos202,NNteljstpr-az1006091140.wav,Gos,Bm-stra-02321,moški,30 do 59 let,slovenščina,-,fakulteta ali več,"gorenjska, podravska, tujina",-,2,46
+Rog-Go1-Gos203,Gos203,NNteljstpr-az1008311338.wav,Gos,Af-info-07192,ženski,18 do 34 let,slovenščina,-,srednja šola,gorenjska,-,2,25
+Rog-Go1-Gos203,Gos203,NNteljstpr-az1008311338.wav,Gos,Bm-klic-07193,moški,18 do 34 let,slovenščina,-,fakulteta ali več,"gorenjska, osrednjeslovenska",-,1,27
+Rog-Go1-Gos204,Gos204,NNteljstsv-az1007061015.wav,Gos,Af-stra-02233,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,2,24
+Rog-Go1-Gos204,Gos204,NNteljstsv-az1007061015.wav,Gos,Bf-info-02319,ženski,18 do 34 let,slovenščina,-,srednja šola,"posavska, osrednjeslovenska",-,2,84
+Rog-Go1-Gos205,Gos205,NNteljstsv-az1007121324.wav,Gos,Af-info-02324,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,obalno-kraška,-,2,28
+Rog-Go1-Gos205,Gos205,NNteljstsv-az1007121324.wav,Gos,Bf-stra-02233,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,2,50
+Rog-Go1-Gos206,Gos206,NNteljstsv-az1008061059.wav,Gos,Vm-prod-07539,moški,30 do 59 let,slovenščina,-,fakulteta ali več,"gorenjska, osrednjeslovenska, pomurska",-,6,143
+Rog-Go1-Gos206,Gos206,NNteljstsv-az1008061059.wav,Gos,Sm-klic-02321,moški,30 do 59 let,slovenščina,-,fakulteta ali več,"gorenjska, podravska, tujina",-,2,22
+Rog-Go1-Gos207,Gos207,NNteljstsv-az1009301349.wav,Gos,Bm-pred-02354,moški,nad 60 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,1,35
+Rog-Go1-Gos208,Gos208,NNteljstsv-az1009301356.wav,Gos,Bm-pred-01107,moški,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,1,25
+Rog-Go1-Gos209,Gos209,NNteljstsv-np1007061052.wav,Gos,Am-info-05594,moški,30 do 59 let,slovenščina,-,višja ali visoka šola,osrednjeslovenska,-,5,94
+Rog-Go1-Gos209,Gos209,NNteljstsv-np1007061052.wav,Gos,Bf-klic-05595,ženski,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,9,64
+Rog-Go1-Gos210,Gos210,NNtembstpr-bb1005121510.wav,Gos,Af-prod-02278,ženski,18 do 34 let,slovenščina,-,srednja šola,podravska,-,2,14
+Rog-Go1-Gos210,Gos210,NNtembstpr-bb1005121510.wav,Gos,Bf-stra-02265,ženski,18 do 34 let,slovenščina,-,srednja šola,podravska,-,2,10
+Rog-Go1-Gos211,Gos211,NNtembstpr-bb1005121513.wav,Gos,Af-prod-02279,ženski,18 do 34 let,slovenščina,-,srednja šola,podravska,-,1,30
+Rog-Go1-Gos212,Gos212,NNtembstpr-jt1005070948.wav,Gos,Af-info-02265,ženski,18 do 34 let,slovenščina,-,srednja šola,podravska,-,3,25
+Rog-Go1-Gos212,Gos212,NNtembstpr-jt1005070948.wav,Gos,Bm-klic-05614,moški,18 do 34 let,slovenščina,-,srednja šola,"pomurska, podravska",-,3,25
+Rog-Go1-Gos213,Gos213,NNtembstpr-rd1004211451.wav,Gos,Am-stra-02270,moški,18 do 34 let,slovenščina,-,fakulteta ali več,podravska,-,2,54
+Rog-Go1-Gos214,Gos214,NNtembstpr-rd1005041400.wav,Gos,Am-prod-02274,moški,30 do 59 let,slovenščina,-,srednja šola,podravska,-,3,96
+Rog-Go1-Gos214,Gos214,NNtembstpr-rd1005041400.wav,Gos,Bm-stra-02275,moški,30 do 59 let,slovenščina,-,srednja šola,podravska,-,5,32
+Rog-Go1-Gos215,Gos215,NNtembstpr-rd1005070943.wav,Gos,Am-prod-02272,moški,18 do 34 let,slovenščina,-,srednja šola,podravska,-,1,4
+Rog-Go1-Gos215,Gos215,NNtembstpr-rd1005070943.wav,Gos,Bf-stra-02273,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"pomurska, podravska",-,2,22
+Rog-Go1-Gos216,Gos216,NNtembstsv-rd1004211506.wav,Gos,Am-stra-02275,moški,18 do 34 let,slovenščina,-,fakulteta ali več,podravska,-,5,89
+Rog-Go1-Gos216,Gos216,NNtembstsv-rd1004211506.wav,Gos,Bm-prod-02283,moški,30 do 59 let,slovenščina,-,fakulteta ali več,podravska,-,8,227
+Rog-Go1-Gos217,Gos217,NZosavdodr-er1002161011.wav,Gos,Pm-soro-10004,moški,18 do 34 let,slovenščina,-,srednja šola,Avstrija,-,1,6
+Rog-Go1-Gos217,Gos217,NZosavdodr-er1002161011.wav,Gos,Ef-soro-10003,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,Avstrija,-,5,42
+Rog-Go1-Gos217,Gos217,NZosavdodr-er1002161011.wav,Gos,Jf-star-10005,ženski,30 do 59 let,slovenščina,-,srednja šola,Avstrija,-,6,77
+Rog-Go1-Gos217,Gos217,NZosavdodr-er1002161011.wav,Gos,Bf-ssta-10002,ženski,nad 60 let,slovenščina,-,OŠ ali manj,Avstrija,-,6,34
+Rog-Go1-Gos218,Gos218,NZosavdodr-er1002161043.wav,Gos,Jf-otro-10001,ženski,do 10 let,slovenščina,-,OŠ ali manj,Avstrija,-,5,63
+Rog-Go1-Gos218,Gos218,NZosavdodr-er1002161043.wav,Gos,Ef-soro-10003,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,Avstrija,-,9,128
+Rog-Go1-Gos218,Gos218,NZosavdodr-er1002161043.wav,Gos,Bf-ssta-10002,ženski,nad 60 let,slovenščina,-,OŠ ali manj,Avstrija,-,1,7
+Rog-Go1-Gos219,Gos219,NZoscedodr-ms0908251830.wav,Gos,Am-soro-02104,moški,30 do 59 let,slovenščina,-,srednja šola,savinjska,-,4,42
+Rog-Go1-Gos219,Gos219,NZoscedodr-ms0908251830.wav,Gos,Cm-star-02106,moški,30 do 59 let,slovenščina,-,srednja šola,savinjska,-,7,86
+Rog-Go1-Gos219,Gos219,NZoscedodr-ms0908251830.wav,Gos,Bm-otro-02105,moški,18 do 34 let,slovenščina,-,višja ali visoka šola,savinjska,-,9,91
+Rog-Go1-Gos219,Gos219,NZoscedodr-ms0908251830.wav,Gos,Df-soro-02107,ženski,30 do 59 let,slovenščina,-,srednja šola,savinjska,-,4,33
+Rog-Go2-Gos220,Gos220,NZosgododr-ag0907121630.wav,Gos,Af-star-05611,ženski,30 do 59 let,slovenščina,-,višja ali visoka šola,"obalno-kraška, goriška",-,17,198
+Rog-Go2-Gos220,Gos220,NZosgododr-ag0907121630.wav,Gos,Bm-star-05612,moški,30 do 59 let,slovenščina,-,srednja šola,goriška,-,14,171
+Rog-Go2-Gos220,Gos220,NZosgododr-ag0907121630.wav,Gos,Cf-otro-05613,ženski,18 do 34 let,slovenščina,-,srednja šola,goriška,-,13,190
+Rog-Go2-Gos220,Gos220,NZosgododr-ag0907121630.wav,Gos,Df-otro-05614,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,goriška,-,12,92
+Rog-Go1-Gos221,Gos221,NZosgododr-kk0904131700.wav,Gos,Am-star-05559,moški,30 do 59 let,slovenščina,-,srednja šola,goriška,-,3,61
+Rog-Go1-Gos222,Gos222,NZositdopr-jm0910281306.wav,Gos,Jf-prij-01612,ženski,18 do 34 let,slovenščina,-,-,Italija,-,8,172
+Rog-Go1-Gos222,Gos222,NZositdopr-jm0910281306.wav,Gos,Mf-prij-01630,ženski,18 do 34 let,slovenščina,-,-,Italija,-,3,9
+Rog-Go1-Gos223,Gos223,NZositdopr-jm1003141600.wav,Gos,Af-prij-05585,ženski,18 do 34 let,slovenščina,-,srednja šola,Italija,-,6,49
+Rog-Go1-Gos223,Gos223,NZositdopr-jm1003141600.wav,Gos,Cf-prij-05587,ženski,18 do 34 let,slovenščina,-,srednja šola,Italija,-,7,87
+Rog-Go1-Gos223,Gos223,NZositdopr-jm1003141600.wav,Gos,Bf-prij-05586,ženski,18 do 34 let,slovenščina,-,srednja šola,Italija,-,10,87
+Rog-Go2-Gos224,Gos224,NZoskkdodr-lu1007301428.wav,Gos,Af-prij-07190,ženski,nad 60 let,slovenščina,-,OŠ ali manj,posavska,-,41,371
+Rog-Go2-Gos224,Gos224,NZoskkdodr-lu1007301428.wav,Gos,Bf-prij-07191,ženski,30 do 59 let,slovenščina,-,OŠ ali manj,posavska,-,34,362
+Rog-Go1-Gos225,Gos225,NZoskkdopr-lu1007301412.wav,Gos,Am-prij-02345,moški,18 do 34 let,slovenščina,-,srednja šola,"posavska, osrednjeslovenska, savinjska",-,5,42
+Rog-Go1-Gos225,Gos225,NZoskkdopr-lu1007301412.wav,Gos,Bm-prij-02346,moški,18 do 34 let,slovenščina,-,OŠ ali manj,"posavska, osrednjeslovenska, savinjska",-,6,29
+Rog-Go1-Gos225,Gos225,NZoskkdopr-lu1007301412.wav,Gos,Cm-prij-02347,moški,18 do 34 let,slovenščina,-,OŠ ali manj,"posavska, osrednjeslovenska",-,6,77
+Rog-Go1-Gos225,Gos225,NZoskkdopr-lu1007301412.wav,Gos,Dm-prij-02348,moški,18 do 34 let,slovenščina,-,srednja šola,posavska,-,2,16
+Rog-Go1-Gos225,Gos225,NZoskkdopr-lu1007301412.wav,Gos,Em-prij-02349,moški,18 do 34 let,slovenščina,-,OŠ ali manj,"posavska, savinjska",-,2,21
+Rog-Go1-Gos225,Gos225,NZoskkdopr-lu1007301412.wav,Gos,Fm-prij-02350,moški,18 do 34 let,slovenščina,-,srednja šola,"posavska, savinjska, osrednjeslovenska",-,1,4
+Rog-Go1-Gos225,Gos225,NZoskkdopr-lu1007301412.wav,Gos,Hf-prij-02352,ženski,18 do 34 let,slovenščina,-,srednja šola,"posavska, savinjska, podravska",-,7,37
+Rog-Go1-Gos226,Gos226,NZoskkdopr-np0912021058.wav,Gos,Am-star-02240,moški,30 do 59 let,slovenščina,-,srednja šola,posavska,-,3,25
+Rog-Go1-Gos226,Gos226,NZoskkdopr-np0912021058.wav,Gos,Bf-star-02241,ženski,30 do 59 let,slovenščina,-,višja ali visoka šola,posavska,-,5,58
+Rog-Go1-Gos226,Gos226,NZoskkdopr-np0912021058.wav,Gos,Cf-otro-02242,ženski,18 do 34 let,slovenščina,-,srednja šola,"posavska, osrednjeslovenska",-,7,94
+Rog-Go1-Gos226,Gos226,NZoskkdopr-np0912021058.wav,Gos,Df-otro-02243,ženski,18 do 34 let,slovenščina,-,srednja šola,posavska,-,1,7
+Rog-Go1-Gos227,Gos227,NZoskpzudr-ag0907121500.wav,Gos,Af-soro-05615,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"obalno-kraška, osrednjeslovenska",-,5,24
+Rog-Go1-Gos227,Gos227,NZoskpzudr-ag0907121500.wav,Gos,Bf-soro-05616,ženski,nad 60 let,slovenščina,-,OŠ ali manj,obalno-kraška,-,2,18
+Rog-Go1-Gos227,Gos227,NZoskpzudr-ag0907121500.wav,Gos,Ef-soro-05613,ženski,18 do 34 let,slovenščina,-,srednja šola,goriška,-,1,2
+Rog-Go1-Gos227,Gos227,NZoskpzudr-ag0907121500.wav,Gos,Ff-soro-05614,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,goriška,-,4,31
+Rog-Go2-Gos228,Gos228,NZoskpzupr-np0911041757.wav,Gos,Kf-sode-01615,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"obalno-kraška, osrednjeslovenska",-,9,111
+Rog-Go2-Gos228,Gos228,NZoskpzupr-np0911041757.wav,Gos,Tf-sode-01617,ženski,30 do 59 let,slovenščina,-,srednja šola,obalno-kraška,-,1,5
+Rog-Go2-Gos228,Gos228,NZoskpzupr-np0911041757.wav,Gos,If-sode-01616,ženski,30 do 59 let,slovenščina,-,srednja šola,obalno-kraška,-,20,424
+Rog-Go2-Gos228,Gos228,NZoskpzupr-np0911041757.wav,Gos,Rm-sode-01614,moški,30 do 59 let,slovenščina,-,fakulteta ali več,"obalno-kraška, osrednjeslovenska",-,7,118
+Rog-Go2-Gos228,Gos228,NZoskpzupr-np0911041757.wav,Gos,Sf-sode-01618,ženski,30 do 59 let,italijanščina,-,srednja šola,obalno-kraška,-,8,95
+Rog-Go2-Gos229,Gos229,NZoskrdodr-ak0904251100.wav,Gos,Ef-ssta-06566,ženski,nad 60 let,slovenščina,-,OŠ ali manj,gorenjska,-,32,264
+Rog-Go2-Gos229,Gos229,NZoskrdodr-ak0904251100.wav,Gos,Lf-otro-06567,ženski,18 do 34 let,slovenščina,-,srednja šola,"gorenjska, osrednjeslovenska",-,39,457
+Rog-Go1-Gos230,Gos230,NZoskrdodr-ak0904302200.wav,Gos,Cf-star-06564,ženski,30 do 59 let,slovenščina,-,višja ali visoka šola,gorenjska,-,2,25
+Rog-Go1-Gos230,Gos230,NZoskrdodr-ak0904302200.wav,Gos,If-otro-06565,ženski,18 do 34 let,slovenščina,-,srednja šola,"gorenjska, osrednjeslovenska",-,4,96
+Rog-Go1-Gos231,Gos231,NZoskrdodr-pk1003311355.wav,Gos,Af-star-05582,ženski,nad 60 let,slovenščina,-,srednja šola,"gorenjska, Avstrija",-,9,111
+Rog-Go1-Gos231,Gos231,NZoskrdodr-pk1003311355.wav,Gos,Bf-otro-05583,ženski,30 do 59 let,slovenščina,-,srednja šola,gorenjska,-,4,10
+Rog-Go1-Gos232,Gos232,NZoskrdopr-ab0906231945.wav,Gos,Pf-udel-03012,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,gorenjska,-,7,85
+Rog-Go1-Gos232,Gos232,NZoskrdopr-ab0906231945.wav,Gos,Mf-udel-03013,ženski,18 do 34 let,slovenščina,-,srednja šola,-,-,3,25
+Rog-Go2-Gos233,Gos233,NZosljdodr-ab0907091515.wav,Gos,Bm-star-03014,moški,nad 60 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,34,212
+Rog-Go2-Gos233,Gos233,NZosljdodr-ab0907091515.wav,Gos,Df-star-03015,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,16,83
+Rog-Go2-Gos233,Gos233,NZosljdodr-ab0907091515.wav,Gos,Tm-otro-03016,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,47,439
+Rog-Go1-Gos234,Gos234,NZosljdodr-ak1003221205.wav,Gos,Bf-soro-07139,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"osrednjeslovenska, savinjska",-,1,8
+Rog-Go1-Gos234,Gos234,NZosljdodr-ak1003221205.wav,Gos,Am-soro-07138,moški,30 do 59 let,angleščina,-,fakulteta ali več,"osrednjeslovenska, tujina",-,3,48
+Rog-Go1-Gos235,Gos235,NZosljdodr-bo0910211650.wav,Gos,Tf-soro-09519,ženski,30 do 59 let,slovenščina,-,višja ali visoka šola,osrednjeslovenska,-,4,93
+Rog-Go1-Gos235,Gos235,NZosljdodr-bo0910211650.wav,Gos,Mf-soro-09520,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,5,72
+Rog-Go1-Gos235,Gos235,NZosljdodr-bo0910211650.wav,Gos,Zm-soro-09521,moški,30 do 59 let,slovenščina,-,srednja šola,osrednjeslovenska,-,3,33
+Rog-Go1-Gos236,Gos236,NZosljdodr-lr0906022207.wav,Gos,Bm-star-02560,moški,30 do 59 let,slovenščina,-,srednja šola,osrednjeslovenska,-,1,9
+Rog-Go1-Gos236,Gos236,NZosljdodr-lr0906022207.wav,Gos,Af-otro-02559,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,"osrednjeslovenska, Avstrija",-,3,25
+Rog-Go1-Gos236,Gos236,NZosljdodr-lr0906022207.wav,Gos,Cf-star-02561,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"osrednjeslovenska, podravska",-,1,6
+Rog-Go1-Gos236,Gos236,NZosljdodr-lr0906022207.wav,Gos,Df-otro-02562,ženski,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,13,128
+Rog-Go1-Gos237,Gos237,NZosljdodr-mj0912202305.wav,Gos,Tm-ssta-00802,moški,nad 60 let,slovenščina,-,srednja šola,osrednjeslovenska,-,5,95
+Rog-Go1-Gos238,Gos238,NZosljdodr-np0908221050.wav,Gos,Af-star-00525,ženski,30 do 59 let,slovenščina,-,višja ali visoka šola,osrednjeslovenska,-,2,21
+Rog-Go1-Gos238,Gos238,NZosljdodr-np0908221050.wav,Gos,Bm-star-00526,moški,nad 60 let,slovenščina,-,OŠ ali manj,"osrednjeslovenska, goriška",-,9,62
+Rog-Go1-Gos239,Gos239,NZosljdopr-at0909152030.wav,Gos,Pm-prij-06568,moški,30 do 59 let,slovenščina,-,fakulteta ali več,"gorenjska, osrednjeslovenska",-,7,127
+Rog-Go1-Gos239,Gos239,NZosljdopr-at0909152030.wav,Gos,Om-prij-06569,moški,nad 60 let,slovenščina,-,fakulteta ali več,osrednjeslovenska,-,5,120
+Rog-Go1-Gos240,Gos240,NZosljdopr-bo0908141215.wav,Gos,Mm-prij-09501,moški,30 do 59 let,slovenščina,-,srednja šola,osrednjeslovenska,-,4,29
+Rog-Go1-Gos240,Gos240,NZosljdopr-bo0908141215.wav,Gos,Pm-prij-09502,moški,30 do 59 let,slovenščina,-,srednja šola,osrednjeslovenska,-,9,131
+Rog-Go1-Gos240,Gos240,NZosljdopr-bo0908141215.wav,Gos,Om-prij-09503,moški,30 do 59 let,slovenščina,-,srednja šola,osrednjeslovenska,-,8,59
+Rog-Go1-Gos241,Gos241,NZosljdopr-bo0910181640.wav,Gos,Df-prij-09522,ženski,30 do 59 let,slovenščina,-,višja ali visoka šola,"osrednjeslovenska, gorenjska",-,2,4
+Rog-Go1-Gos241,Gos241,NZosljdopr-bo0910181640.wav,Gos,Vm-prij-09524,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,3,14
+Rog-Go1-Gos241,Gos241,NZosljdopr-bo0910181640.wav,Gos,Bm-prij-09523,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,10,153
+Rog-Go1-Gos242,Gos242,NZosljdopr-bo0910212030.wav,Gos,Mm-prij-09509,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,5,81
+Rog-Go1-Gos242,Gos242,NZosljdopr-bo0910212030.wav,Gos,Pm-prij-09508,moški,18 do 34 let,slovenščina,-,srednja šola,"osrednjeslovenska, jugovzhodna Slovenija",-,8,95
+Rog-Go1-Gos242,Gos242,NZosljdopr-bo0910212030.wav,Gos,Bf-prij-09525,ženski,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,1,14
+Rog-Go1-Gos243,Gos243,NZosljzupr-bo0910192226.wav,Gos,Am-prij-09505,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,6,44
+Rog-Go1-Gos243,Gos243,NZosljzupr-bo0910192226.wav,Gos,Pm-prij-09506,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,6,78
+Rog-Go1-Gos243,Gos243,NZosljzupr-bo0910192226.wav,Gos,Mm-prij-09507,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,8,46
+Rog-Go1-Gos244,Gos244,NZosljzupr-bo0910221200.wav,Gos,Sm-prij-09517,moški,18 do 34 let,slovenščina,-,srednja šola,"posavska, osrednjeslovenska",-,14,152
+Rog-Go1-Gos244,Gos244,NZosljzupr-bo0910221200.wav,Gos,Mm-prij-09518,moški,18 do 34 let,slovenščina,-,srednja šola,"posavska, osrednjeslovenska",-,10,65
+Rog-Go1-Gos245,Gos245,NZosljzupr-lr0906031349.wav,Gos,Am-prij-02557,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,13,113
+Rog-Go1-Gos245,Gos245,NZosljzupr-lr0906031349.wav,Gos,Bm-prij-02558,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,7,61
+Rog-Go2-Gos246,Gos246,NZosmbdodr-mo0911021528.wav,Gos,Mm-star-07523,moški,30 do 59 let,slovenščina,-,višja ali visoka šola,podravska,-,27,494
+Rog-Go2-Gos246,Gos246,NZosmbdodr-mo0911021528.wav,Gos,Am-soro-07522,moški,18 do 34 let,slovenščina,-,fakulteta ali več,podravska,-,27,356
+Rog-Go1-Gos247,Gos247,NZosmbdodr-mo0911021552.wav,Gos,Df-star-07526,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,podravska,-,10,195
+Rog-Go1-Gos247,Gos247,NZosmbdodr-mo0911021552.wav,Gos,Pf-otro-07527,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,podravska,-,3,12
+Rog-Go1-Gos248,Gos248,NZosmbdodr-mo0911232226.wav,Gos,Mf-drug-07525,ženski,18 do 34 let,slovenščina,-,srednja šola,podravska,-,5,49
+Rog-Go1-Gos248,Gos248,NZosmbdodr-mo0911232226.wav,Gos,Bf-ssta-07524,ženski,nad 60 let,slovenščina,-,višja ali visoka šola,"podravska, osrednjeslovenska",-,5,115
+Rog-Go1-Gos249,Gos249,NZosmbdodr-rd1005060903.wav,Gos,Am-star-02268,moški,30 do 59 let,južnoslovanski jeziki,-,višja ali visoka šola,"tujina, podravska",-,8,320
+Rog-Go1-Gos249,Gos249,NZosmbdodr-rd1005060903.wav,Gos,Bf-otro-02269,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,podravska,-,3,10
+Rog-Go1-Gos250,Gos250,NZosmbzudr-pv0908262121.wav,Gos,Bf-ssta-07520,ženski,nad 60 let,slovenščina,-,srednja šola,podravska,-,11,92
+Rog-Go1-Gos250,Gos250,NZosmbzudr-pv0908262121.wav,Gos,Pf-vrst-07519,ženski,18 do 34 let,slovenščina,-,srednja šola,podravska,-,6,44
+Rog-Go1-Gos251,Gos251,NZosmbzupr-mo0910301111.wav,Gos,Om-prij-07528,moški,18 do 34 let,slovenščina,-,srednja šola,podravska,-,5,55
+Rog-Go1-Gos251,Gos251,NZosmbzupr-mo0910301111.wav,Gos,Sm-prij-07530,moški,18 do 34 let,slovenščina,-,srednja šola,podravska,-,2,15
+Rog-Go1-Gos251,Gos251,NZosmbzupr-mo0910301111.wav,Gos,Mm-prij-07531,moški,18 do 34 let,slovenščina,-,srednja šola,podravska,-,5,24
+Rog-Go1-Gos252,Gos252,NZosmbzupr-pv0908181918.wav,Gos,Af-vrst-07522,ženski,18 do 34 let,slovenščina,-,srednja šola,podravska,-,8,54
+Rog-Go1-Gos252,Gos252,NZosmbzupr-pv0908181918.wav,Gos,Am-vrst-07523,moški,18 do 34 let,slovenščina,-,višja ali visoka šola,podravska,-,8,62
+Rog-Go1-Gos253,Gos253,NZosmbzupr-rd1003301557.wav,Gos,Am-prij-02280,moški,30 do 59 let,slovenščina,-,višja ali visoka šola,"koroška, podravska",-,3,21
+Rog-Go1-Gos253,Gos253,NZosmbzupr-rd1003301557.wav,Gos,Bm-prij-02281,moški,18 do 34 let,slovenščina,-,srednja šola,podravska,-,6,59
+Rog-Go1-Gos253,Gos253,NZosmbzupr-rd1003301557.wav,Gos,Cm-prij-02282,moški,30 do 59 let,slovenščina,-,srednja šola,podravska,-,5,51
+Rog-Go2-Gos254,Gos254,NZosmsstdo-jt0907061638.wav,Gos,If-prij-06008,ženski,18 do 34 let,slovenščina,-,srednja šola,pomurska,-,47,397
+Rog-Go2-Gos254,Gos254,NZosmsstdo-jt0907061638.wav,Gos,Dm-prij-06009,moški,18 do 34 let,slovenščina,-,srednja šola,pomurska,-,35,291
+Rog-Go2-Gos254,Gos254,NZosmsstdo-jt0907061638.wav,Gos,Mm-prij-06007,moški,18 do 34 let,slovenščina,-,srednja šola,pomurska,-,23,141
+Rog-Go1-Gos255,Gos255,NZosmszudr-jt0907061634.wav,Gos,Sm-soro-10523,moški,nad 60 let,slovenščina,-,fakulteta ali več,pomurska,-,1,44
+Rog-Go1-Gos255,Gos255,NZosmszudr-jt0907061634.wav,Gos,Tf-soro-10524,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,pomurska,-,6,162
+Rog-Go1-Gos255,Gos255,NZosmszudr-jt0907061634.wav,Gos,Jm-soro-05614,moški,18 do 34 let,slovenščina,-,srednja šola,pomurska,-,4,48
+Rog-Go1-Gos256,Gos256,NZosnmdmso-tp0911282110.wav,Gos,Bf-sode-07099,ženski,30 do 59 let,slovenščina,-,srednja šola,jugovzhodna Slovenija,-,13,141
+Rog-Go1-Gos256,Gos256,NZosnmdmso-tp0911282110.wav,Gos,Af-sode-07098,ženski,30 do 59 let,slovenščina,-,srednja šola,jugovzhodna Slovenija,-,7,38
+Rog-Go2-Gos257,Gos257,NZosnmdopr-jg0909141900.wav,Gos,Af-prij-07149,ženski,30 do 59 let,slovenščina,-,srednja šola,jugovzhodna Slovenija,-,26,691
+Rog-Go2-Gos257,Gos257,NZosnmdopr-jg0909141900.wav,Gos,Bm-prij-07150,moški,30 do 59 let,slovenščina,-,fakulteta ali več,"jugovzhodna Slovenija, osrednjeslovenska",-,9,57
+Rog-Go2-Gos257,Gos257,NZosnmdopr-jg0909141900.wav,Gos,Cf-prij-07151,ženski,30 do 59 let,slovenščina,-,fakulteta ali več,"jugovzhodna Slovenija, osrednjeslovenska",-,12,68
+Rog-Go1-Gos258,Gos258,NZosnmdopr-jg0909201830.wav,Gos,Am-prij-07167,moški,18 do 34 let,slovenščina,-,fakulteta ali več,"jugovzhodna Slovenija, osrednjeslovenska",-,7,130
+Rog-Go1-Gos258,Gos258,NZosnmdopr-jg0909201830.wav,Gos,Bm-prij-07168,moški,18 do 34 let,slovenščina,-,srednja šola,"jugovzhodna Slovenija, osrednjeslovenska",-,6,46
+Rog-Go1-Gos259,Gos259,NZosnndopr-ak0909102300.wav,Gos,Dm-prij-06581,moški,18 do 34 let,južnoslovanski jeziki,-,fakulteta ali več,"tujina, osrednjeslovenska",-,8,81
+Rog-Go1-Gos259,Gos259,NZosnndopr-ak0909102300.wav,Gos,Im-prij-06580,moški,18 do 34 let,južnoslovanski jeziki,-,fakulteta ali več,"tujina, osrednjeslovenska",-,4,40
+Rog-Go1-Gos260,Gos260,NZosnndopr-dp1009031512.wav,Gos,Dm-znan-07550,moški,18 do 34 let,slovenščina,-,srednja šola,"savinjska, podravska",-,10,105
+Rog-Go1-Gos260,Gos260,NZosnndopr-dp1009031512.wav,Gos,Cf-znan-07540,ženski,18 do 34 let,drugi romanski jeziki,-,fakulteta ali več,"tujina, osrednjeslovenska, podravska",-,6,54
+Rog-Go1-Gos261,Gos261,NZosnnzupr-sv1008201003.wav,Gos,Sf-znan-07534,ženski,18 do 34 let,slovenščina,-,višja ali visoka šola,"podravska, osrednjeslovenska",-,1,7
+Rog-Go1-Gos261,Gos261,NZosnnzupr-sv1008201003.wav,Gos,Tf-znan-07540,ženski,18 do 34 let,drugi romanski jeziki,-,fakulteta ali več,"tujina, osrednjeslovenska, podravska, pomurska",-,3,57
+Rog-Go2-Gos262,Gos262,NZospodopr-np0904280935.wav,Gos,Af-prij-00507,ženski,18 do 34 let,slovenščina,-,srednja šola,"osrednjeslovenska, osrednjeslovenska",-,29,384
+Rog-Go2-Gos262,Gos262,NZospodopr-np0904280935.wav,Gos,Bf-prij-00508,ženski,18 do 34 let,slovenščina,-,srednja šola,"osrednjeslovenska, osrednjeslovenska",-,27,280
+Rog-Go1-Gos263,Gos263,NZossgdodr-am1003212116.wav,Gos,Af-star-01083,ženski,nad 60 let,slovenščina,-,OŠ ali manj,koroška,-,7,50
+Rog-Go1-Gos263,Gos263,NZossgdodr-am1003212116.wav,Gos,Mm-otro-01079,moški,30 do 59 let,slovenščina,-,srednja šola,"koroška, savinjska, podravska",-,4,43
+Rog-Go2-Gos264,Gos264,NZossgdopr-am1003151543.wav,Gos,Tm-prij-01081,moški,18 do 34 let,slovenščina,-,višja ali visoka šola,"koroška, savinjska",-,37,502
+Rog-Go2-Gos264,Gos264,NZossgdopr-am1003151543.wav,Gos,Bf-prij-01082,ženski,18 do 34 let,slovenščina,-,srednja šola,"koroška, savinjska, osrednjeslovenska",-,29,202
+Rog-Go1-Gos265,Gos265,NZossgdopr-am1003161108.wav,Gos,Mm-prij-01079,moški,30 do 59 let,slovenščina,-,srednja šola,"koroška, savinjska, podravska",-,3,39
+Rog-Go1-Gos265,Gos265,NZossgdopr-am1003161108.wav,Gos,Im-prij-01080,moški,nad 60 let,slovenščina,-,OŠ ali manj,koroška,-,3,17
+Rog-Go1-Gos266,Gos266,NZossgdopr-am1003161112.wav,Gos,Dm-prij-01099,moški,18 do 34 let,slovenščina,-,fakulteta ali več,"podravska, koroška, tujina",-,5,41
+Rog-Go1-Gos266,Gos266,NZossgdopr-am1003161112.wav,Gos,Mf-prij-01101,ženski,nad 60 let,slovenščina,-,višja ali visoka šola,"koroška, podravska",-,1,5
+Rog-Go1-Gos266,Gos266,NZossgdopr-am1003161112.wav,Gos,Af-prij-01100,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,"koroška, savinjska, podravska",-,5,47
+Rog-Go1-Gos267,Gos267,NZossgdopr-am1003202009.wav,Gos,Mf-prij-01077,ženski,30 do 59 let,slovenščina,-,višja ali visoka šola,"koroška, podravska",-,5,55
+Rog-Go1-Gos267,Gos267,NZossgdopr-am1003202009.wav,Gos,Dm-prij-01078,moški,30 do 59 let,slovenščina,-,srednja šola,koroška,-,2,7
+Rog-Go2-Gos268,Gos268,NZteceprij-im0906301216.wav,Gos,Vf-prij-06002,ženski,18 do 34 let,slovenščina,-,srednja šola,savinjska,-,46,303
+Rog-Go2-Gos268,Gos268,NZteceprij-im0906301216.wav,Gos,Tf-prij-06001,ženski,18 do 34 let,slovenščina,-,srednja šola,"savinjska, podravska",-,62,382
+Rog-Go1-Gos269,Gos269,NZteceprij-im0906301218.wav,Gos,Am-prij-02168,moški,18 do 34 let,slovenščina,-,OŠ ali manj,savinjska,-,2,14
+Rog-Go1-Gos269,Gos269,NZteceprij-im0906301218.wav,Gos,Bm-prij-02169,moški,18 do 34 let,slovenščina,-,srednja šola,savinjska,-,2,14
+Rog-Go1-Gos270,Gos270,NZteceprij-im0906301220.wav,Gos,Bm-prij-02169,moški,18 do 34 let,slovenščina,-,srednja šola,savinjska,-,4,53
+Rog-Go1-Gos270,Gos270,NZteceprij-im0906301220.wav,Gos,Am-prij-02168,moški,18 do 34 let,slovenščina,-,OŠ ali manj,savinjska,-,3,26
+Rog-Go1-Gos271,Gos271,NZteceprij-ms0907301634.wav,Gos,Af-prij-02102,ženski,18 do 34 let,slovenščina,-,srednja šola,savinjska,-,4,29
+Rog-Go1-Gos271,Gos271,NZteceprij-ms0907301634.wav,Gos,Bf-prij-02103,ženski,18 do 34 let,slovenščina,-,srednja šola,savinjska,-,2,9
+Rog-Go1-Gos272,Gos272,NZteceprij-ms0907301853.wav,Gos,Bf-prij-02102,ženski,18 do 34 let,slovenščina,-,srednja šola,savinjska,-,2,25
+Rog-Go1-Gos273,Gos273,NZteceprij-ms0907301938.wav,Gos,Af-prij-02101,ženski,18 do 34 let,slovenščina,-,srednja šola,podravska,-,4,38
+Rog-Go1-Gos273,Gos273,NZteceprij-ms0907301938.wav,Gos,Bf-prij-02102,ženski,18 do 34 let,slovenščina,-,srednja šola,savinjska,-,9,192
+Rog-Go1-Gos274,Gos274,NZtecesoro-im0906301214.wav,Gos,Af-soro-02170,ženski,18 do 34 let,slovenščina,-,srednja šola,"savinjska, podravska",-,3,8
+Rog-Go1-Gos274,Gos274,NZtecesoro-im0906301214.wav,Gos,Bm-soro-02171,moški,18 do 34 let,slovenščina,-,srednja šola,savinjska,-,3,30
+Rog-Go1-Gos275,Gos275,NZtegoprij-kk0905221951.wav,Gos,Af-prij-05515,ženski,18 do 34 let,slovenščina,-,srednja šola,"goriška, osrednjeslovenska",-,1,22
+Rog-Go1-Gos275,Gos275,NZtegoprij-kk0905221951.wav,Gos,Bf-prij-05516,ženski,18 do 34 let,slovenščina,-,srednja šola,"goriška, osrednjeslovenska",-,4,44
+Rog-Go1-Gos276,Gos276,NZtegoprij-kk1003061818.wav,Gos,Bm-prij-05577,moški,18 do 34 let,slovenščina,-,višja ali visoka šola,"goriška, osrednjeslovenska",-,1,17
+Rog-Go1-Gos276,Gos276,NZtegoprij-kk1003061818.wav,Gos,Am-prij-05576,moški,18 do 34 let,slovenščina,-,srednja šola,"goriška, osrednjeslovenska",-,2,74
+Rog-Go1-Gos277,Gos277,NZteljprij-at1001242200.wav,Gos,Pm-prij-06582,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,9,52
+Rog-Go1-Gos277,Gos277,NZteljprij-at1001242200.wav,Gos,Tm-prij-06583,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,9,124
+Rog-Go1-Gos278,Gos278,NZteljprij-bo1001181400.wav,Gos,Bf-prij-09525,ženski,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,5,79
+Rog-Go1-Gos278,Gos278,NZteljprij-bo1001181400.wav,Gos,Df-prij-09526,ženski,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,7,96
+Rog-Go1-Gos279,Gos279,NZteljprij-bo1001202100.wav,Gos,Lm-prij-09515,moški,10 do 18 let,slovenščina,-,OŠ ali manj,osrednjeslovenska,-,2,39
+Rog-Go1-Gos279,Gos279,NZteljprij-bo1001202100.wav,Gos,Sm-prij-09516,moški,10 do 18 let,slovenščina,-,OŠ ali manj,osrednjeslovenska,-,3,15
+Rog-Go2-Gos280,Gos280,NZteljsoro-bo0910042000.wav,Gos,Af-soro-09512,ženski,nad 60 let,slovenščina,-,srednja šola,osrednjeslovenska,-,39,475
+Rog-Go2-Gos280,Gos280,NZteljsoro-bo0910042000.wav,Gos,Mf-soro-09513,ženski,nad 60 let,slovenščina,-,srednja šola,osrednjeslovenska,-,41,398
+Rog-Go1-Gos281,Gos281,NZteljsoro-mj1004062313.wav,Gos,Mm-soro-00809,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,9,105
+Rog-Go1-Gos281,Gos281,NZteljsoro-mj1004062313.wav,Gos,Jm-soro-00810,moški,18 do 34 let,slovenščina,-,srednja šola,osrednjeslovenska,-,8,93
+Rog-Go1-Gos282,Gos282,NZtembprij-is0905042048.wav,Gos,If-prij-01073,ženski,18 do 34 let,slovenščina,-,srednja šola,"koroška, podravska, savinjska",-,7,134
+Rog-Go1-Gos282,Gos282,NZtembprij-is0905042048.wav,Gos,Uf-prij-01074,ženski,18 do 34 let,slovenščina,-,višja ali visoka šola,"koroška, obalno-kraška",-,2,6
+Rog-Go1-Gos283,Gos283,NZtemsprij-jt0904290221.wav,Gos,Nm-prij-06006,moški,18 do 34 let,slovenščina,-,srednja šola,pomurska,-,4,75
+Rog-Go1-Gos283,Gos283,NZtemsprij-jt0904290221.wav,Gos,Mm-prij-06005,moški,18 do 34 let,slovenščina,-,srednja šola,pomurska,-,6,164
+Rog-Go1-Gos284,Gos284,NZtemssoro-jt0904290045.wav,Gos,Mf-otro-06004,ženski,30 do 59 let,slovenščina,-,srednja šola,pomurska,-,1,2
+Rog-Go1-Gos284,Gos284,NZtemssoro-jt0904290045.wav,Gos,Zf-star-06003,ženski,30 do 59 let,slovenščina,-,srednja šola,pomurska,-,7,93
+Rog-Go1-Gos285,Gos285,NZtenmprij-tp1002082041.wav,Gos,Am-prij-07100,moški,18 do 34 let,slovenščina,-,srednja šola,"osrednjeslovenska, jugovzhodna Slovenija",-,13,90
+Rog-Go1-Gos285,Gos285,NZtenmprij-tp1002082041.wav,Gos,Bf-prij-07101,ženski,10 do 18 let,slovenščina,-,OŠ ali manj,jugovzhodna Slovenija,-,7,39
+Rog-Go1-Gos286,Gos286,NZtenmprij-tp1002082044.wav,Gos,Am-prij-07102,moški,18 do 34 let,slovenščina,-,srednja šola,"savinjska, osrednjeslovenska",-,7,94
+Rog-Go1-Gos286,Gos286,NZtenmprij-tp1002082044.wav,Gos,Bm-prij-07103,moški,18 do 34 let,slovenščina,-,srednja šola,"jugovzhodna Slovenija, osrednjeslovenska",-,7,75
+Rog-Go1-Gos287,Gos287,NZtesgprij-is0905111918.wav,Gos,Bm-prij-01072,moški,18 do 34 let,slovenščina,-,višja ali visoka šola,"pomurska, koroška, podravska",-,11,47
+Rog-Go1-Gos287,Gos287,NZtesgprij-is0905111918.wav,Gos,Bf-prij-01071,ženski,18 do 34 let,slovenščina,-,fakulteta ali več,"koroška, osrednjeslovenska",-,10,84
+Rog-Art-J-Gvecg-P500001,Artur-J-Gvecg-P500001,Artur-J-Gvecg-P500001-avd.wav,Artur-J,Artur-J-G3003,moški,30 do 59 let,slovenščina,standardni jezik,fakulteta ali več,osrednjeslovenska,-,37,967
+Rog-Art-J-Gvecg-P500002,Artur-J-Gvecg-P500002,Artur-J-Gvecg-P500002-avd.wav,Artur-J,Artur-J-G3002,ženski,30 do 59 let,slovenščina,standardni jezik,fakulteta ali več,-,-,40,819
+Rog-Art-J-Gvecg-P500014,Artur-J-Gvecg-P500014,Artur-J-Gvecg-P500014-avd.wav,Artur-J,Artur-J-G3018,ženski,-,slovenščina,standardni jezik,-,-,-,3,44
+Rog-Art-J-Gvecg-P500014,Artur-J-Gvecg-P500014,Artur-J-Gvecg-P500014-avd.wav,Artur-J,Artur-J-G3020,ženski,30 do 59 let,slovenščina,pogovorni jezik,-,-,osrednjeslovenska,24,893
+Rog-Art-J-Gvecg-P500016,Artur-J-Gvecg-P500016,Artur-J-Gvecg-P500016-avd.wav,Artur-J,Artur-J-G3018,ženski,-,slovenščina,standardni jezik,-,-,-,19,428
+Rog-Art-J-Gvecg-P500016,Artur-J-Gvecg-P500016,Artur-J-Gvecg-P500016-avd.wav,Artur-J,Artur-J-G3025,ženski,30 do 59 let,slovenščina,standardni jezik,-,pomurska,-,19,604
+Rog-Art-J-Gvecg-P500021,Artur-J-Gvecg-P500021,Artur-J-Gvecg-P500021-avd.wav,Artur-J,Artur-J-G3047,ženski,-,,standardni jezik,fakulteta ali več,-,-,27,1041
+Rog-Art-J-Gvecg-P500026,Artur-J-Gvecg-P500026,Artur-J-Gvecg-P500026-avd.wav,Artur-J,Artur-J-G3057,ženski,30 do 59 let,slovenščina,standardni jezik,višja ali visoka šola,-,posavska,5,86
+Rog-Art-J-Gvecg-P500026,Artur-J-Gvecg-P500026,Artur-J-Gvecg-P500026-avd.wav,Artur-J,Artur-J-G3055,ženski,-,,standardni jezik,-,-,-,4,108
+Rog-Art-J-Gvecg-P500026,Artur-J-Gvecg-P500026,Artur-J-Gvecg-P500026-avd.wav,Artur-J,Artur-J-G3056,moški,30 do 59 let,slovenščina,standardni jezik,fakulteta ali več,-,savinjska,33,867
+Rog-Art-J-Gvecg-P500028,Artur-J-Gvecg-P500028,Artur-J-Gvecg-P500028-avd.wav,Artur-J,Artur-J-G3063,moški,30 do 59 let,slovenščina,standardni jezik,-,-,goriška,17,529
+Rog-Art-J-Gvecg-P500028,Artur-J-Gvecg-P500028,Artur-J-Gvecg-P500028-avd.wav,Artur-J,Artur-J-G3062,moški,-,,standardni jezik,-,-,-,9,547
+Rog-Art-J-Gvecg-P500034,Artur-J-Gvecg-P500034,Artur-J-Gvecg-P500034-avd.wav,Artur-J,Artur-J-G3069,ženski,-,,standardni jezik,-,-,-,30,984
+Rog-Art-J-Gvecg-P500037,Artur-J-Gvecg-P500037,Artur-J-Gvecg-P500037-avd.wav,Artur-J,Artur-J-G3070,ženski,30 do 59 let,,standardni jezik,-,-,-,33,981
+Rog-Art-J-Gvecg-P500042,Artur-J-Gvecg-P500042,Artur-J-Gvecg-P500042-avd.wav,Artur-J,Artur-J-G3082,ženski,30 do 59 let,srbščina,tujejezični vplivi,fakulteta ali več,-,-,24,1080
+Rog-Art-J-Gvecg-P500046,Artur-J-Gvecg-P500046,Artur-J-Gvecg-P500046-avd.wav,Artur-J,Artur-J-G3018,ženski,-,slovenščina,standardni jezik,-,-,-,5,193
+Rog-Art-J-Gvecg-P500046,Artur-J-Gvecg-P500046,Artur-J-Gvecg-P500046-avd.wav,Artur-J,Artur-J-G3090,moški,-,,standardni jezik,-,-,-,8,365
+Rog-Art-J-Gvecg-P500046,Artur-J-Gvecg-P500046,Artur-J-Gvecg-P500046-avd.wav,Artur-J,Artur-J-G3091,moški,30 do 59 let,slovenščina,standardni jezik,višja ali visoka šola,osrednjeslovenska,-,9,486
+Rog-Art-J-Gvecg-P500048,Artur-J-Gvecg-P500048,Artur-J-Gvecg-P500048-avd.wav,Artur-J,Artur-J-G3098,moški,30 do 59 let,slovenščina,standardni jezik,fakulteta ali več,podravska,-,6,162
+Rog-Art-J-Gvecg-P500048,Artur-J-Gvecg-P500048,Artur-J-Gvecg-P500048-avd.wav,Artur-J,Artur-J-G3097,ženski,nad 60 let,slovenščina,standardni jezik,fakulteta ali več,osrednjeslovenska,-,8,193
+Rog-Art-J-Gvecg-P500048,Artur-J-Gvecg-P500048,Artur-J-Gvecg-P500048-avd.wav,Artur-J,Artur-J-G3023,moški,30 do 59 let,slovenščina,standardni jezik,višja ali visoka šola,-,osrednjeslovenska,18,754
+Rog-Art-J-Gvecg-P500051,Artur-J-Gvecg-P500051,Artur-J-Gvecg-P500051-avd.wav,Artur-J,Artur-J-G3016,moški,30 do 59 let,slovenščina,pogovorni jezik,fakulteta ali več,-,posavska,38,1006
+Rog-Art-J-Gvecg-P500054,Artur-J-Gvecg-P500054,Artur-J-Gvecg-P500054-avd.wav,Artur-J,Artur-J-G3110,ženski,30 do 59 let,slovenščina,standardni jezik,-,-,osrednjeslovenska,33,830
+Rog-Art-J-Gvecg-P500054,Artur-J-Gvecg-P500054,Artur-J-Gvecg-P500054-avd.wav,Artur-J,Artur-J-G3109,moški,30 do 59 let,slovenščina,standardni jezik,fakulteta ali več,-,primorsko-notranjska,11,210
+Rog-Art-J-Gvecg-P500063,Artur-J-Gvecg-P500063,Artur-J-Gvecg-P500063-avd.wav,Artur-J,Artur-J-G3134,moški,30 do 59 let,slovenščina,pogovorni jezik,fakulteta ali več,osrednjeslovenska,-,7,527
+Rog-Art-J-Gvecg-P500063,Artur-J-Gvecg-P500063,Artur-J-Gvecg-P500063-avd.wav,Artur-J,Artur-J-G3133,ženski,30 do 59 let,slovenščina,pogovorni jezik,fakulteta ali več,osrednjeslovenska,-,9,608
+Rog-Art-J-Gvecg-P500064,Artur-J-Gvecg-P500064,Artur-J-Gvecg-P500064-avd.wav,Artur-J,Artur-J-G3139,ženski,30 do 59 let,slovenščina,standardni jezik,fakulteta ali več,osrednjeslovenska,-,11,236
+Rog-Art-J-Gvecg-P500064,Artur-J-Gvecg-P500064,Artur-J-Gvecg-P500064-avd.wav,Artur-J,Artur-J-G3137,moški,nad 60 let,slovenščina,standardni jezik,fakulteta ali več,-,-,24,953
+Rog-Art-J-Gvecg-P580002,Artur-J-Gvecg-P580002,Artur-J-Gvecg-P580002-avd.wav,Artur-J,Artur-J-G4529,ženski,30 do 59 let,slovenščina,standardni jezik,višja ali visoka šola,-,savinjska,13,233
+Rog-Art-J-Gvecg-P580002,Artur-J-Gvecg-P580002,Artur-J-Gvecg-P580002-avd.wav,Artur-J,Artur-J-G4528,ženski,nad 60 let,slovenščina,standardni jezik,fakulteta ali več,-,-,24,778
+Rog-Art-J-Gvecg-P580003,Artur-J-Gvecg-P580003,Artur-J-Gvecg-P580003-avd.wav,Artur-J,Artur-J-G4531,ženski,nad 60 let,slovenščina,standardni jezik,višja ali visoka šola,savinjska,-,18,311
+Rog-Art-J-Gvecg-P580003,Artur-J-Gvecg-P580003,Artur-J-Gvecg-P580003-avd.wav,Artur-J,Artur-J-G4530,moški,30 do 59 let,slovenščina,pogovorni jezik,-,osrednjeslovenska,-,15,725
+Rog-Art-J-Gvecg-P580009,Artur-J-Gvecg-P580009,Artur-J-Gvecg-P580009-avd.wav,Artur-J,Artur-J-G4539,ženski,30 do 59 let,slovenščina,standardni jezik,višja ali visoka šola,savinjska,-,14,232
+Rog-Art-J-Gvecg-P580009,Artur-J-Gvecg-P580009,Artur-J-Gvecg-P580009-avd.wav,Artur-J,Artur-J-G4538,moški,nad 60 let,slovenščina,pogovorni jezik,višja ali visoka šola,savinjska,-,28,822
+Rog-Art-J-Gvecg-P580023,Artur-J-Gvecg-P580023,Artur-J-Gvecg-P580023-avd.wav,Artur-J,Artur-J-G4544,ženski,nad 60 let,slovenščina,standardni jezik,srednja šola,-,posavska,22,340
+Rog-Art-J-Gvecg-P580023,Artur-J-Gvecg-P580023,Artur-J-Gvecg-P580023-avd.wav,Artur-J,Artur-J-G4554,ženski,30 do 59 let,slovenščina,pogovorni jezik,višja ali visoka šola,posavska,-,38,797
+Rog-Art-J-Gvecg-P580041,Artur-J-Gvecg-P580041,Artur-J-Gvecg-P580041-avd.wav,Artur-J,Artur-J-G4531,ženski,nad 60 let,slovenščina,standardni jezik,višja ali visoka šola,savinjska,-,25,308
+Rog-Art-J-Gvecg-P580041,Artur-J-Gvecg-P580041,Artur-J-Gvecg-P580041-avd.wav,Artur-J,Artur-J-G4521,moški,30 do 59 let,slovenščina,pogovorni jezik,fakulteta ali več,osrednjeslovenska,-,40,687
+Rog-Art-J-Gvecg-P580047,Artur-J-Gvecg-P580047,Artur-J-Gvecg-P580047-avd.wav,Artur-J,Artur-J-G4529,ženski,30 do 59 let,slovenščina,standardni jezik,višja ali visoka šola,-,savinjska,18,220
+Rog-Art-J-Gvecg-P580047,Artur-J-Gvecg-P580047,Artur-J-Gvecg-P580047-avd.wav,Artur-J,Artur-J-G4586,ženski,30 do 59 let,slovenščina,standardni jezik,fakulteta ali več,osrednjeslovenska,-,23,773
+Rog-Art-J-Gvecg-P580051,Artur-J-Gvecg-P580051,Artur-J-Gvecg-P580051-avd.wav,Artur-J,Artur-J-G4602,moški,30 do 59 let,slovenščina,standardni jezik,fakulteta ali več,-,jugovzhodna Slovenija,3,140
+Rog-Art-J-Gvecg-P580051,Artur-J-Gvecg-P580051,Artur-J-Gvecg-P580051-avd.wav,Artur-J,Artur-J-G4604,moški,nad 60 let,slovenščina,standardni jezik,fakulteta ali več,-,podravska,30,793
+Rog-Art-J-Gvecg-P580051,Artur-J-Gvecg-P580051,Artur-J-Gvecg-P580051-avd.wav,Artur-J,Artur-J-G4605,moški,30 do 59 let,slovenščina,standardni jezik,višja ali visoka šola,-,goriška,3,69
+Rog-Art-N-G5013-P600007,Artur-N-G5013-P600007,Artur-N-G5013-P600007-avd.wav,Artur-N,Artur-N-G5013,moški,18 do 34 let,slovenščina,pogovorni jezik,srednja šola,podravska,-,39,652
+Rog-Art-N-G5014-P600007,Artur-N-G5014-P600007,Artur-N-G5014-P600007-avd.wav,Artur-N,Artur-N-G5014,moški,18 do 34 let,slovenščina,pogovorni jezik,srednja šola,podravska,-,41,540
+Rog-Art-N-G5019-P600012,Artur-N-G5019-P600012,Artur-N-G5019-P600012-avd.wav,Artur-N,Artur-N-G5019,moški,30 do 59 let,slovenščina,pogovorni jezik,višja ali visoka šola,podravska,-,26,246
+Rog-Art-N-G5020-P600012,Artur-N-G5020-P600012,Artur-N-G5020-P600012-avd.wav,Artur-N,Artur-N-G5020,ženski,30 do 59 let,slovenščina,pogovorni jezik,srednja šola,podravska,-,58,727
+Rog-Art-N-G5025-P600021,Artur-N-G5025-P600021,Artur-N-G5025-P600021-avd.wav,Artur-N,Artur-N-G5025,ženski,nad 60 let,slovenščina,pogovorni jezik,srednja šola,pomurska,-,45,452
+Rog-Art-N-G5025-P600022,Artur-N-G5025-P600022,Artur-N-G5025-P600022-avd.wav,Artur-N,Artur-N-G5025,ženski,nad 60 let,slovenščina,pogovorni jezik,srednja šola,pomurska,-,25,622
+Rog-Art-N-G5026-P600021,Artur-N-G5026-P600021,Artur-N-G5026-P600021-avd.wav,Artur-N,Artur-N-G5026,ženski,nad 60 let,slovenščina,pogovorni jezik,OŠ ali manj,-,pomurska,39,314
+Rog-Art-N-G5035-P600034,Artur-N-G5035-P600034,Artur-N-G5035-P600034-avd.wav,Artur-N,Artur-N-G5035,moški,nad 60 let,slovenščina,pogovorni jezik,višja ali visoka šola,podravska,-,29,657
+Rog-Art-N-G5036-P600034,Artur-N-G5036-P600034,Artur-N-G5036-P600034-avd.wav,Artur-N,Artur-N-G5036,moški,18 do 34 let,slovenščina,pogovorni jezik,srednja šola,podravska,-,31,407
+Rog-Art-N-G5043-P600044,Artur-N-G5043-P600044,Artur-N-G5043-P600044-avd.wav,Artur-N,Artur-N-G5043,moški,nad 60 let,slovenščina,pogovorni jezik,srednja šola,koroška,-,34,365
+Rog-Art-N-G5044-P600044,Artur-N-G5044-P600044,Artur-N-G5044-P600044-avd.wav,Artur-N,Artur-N-G5044,moški,nad 60 let,slovenščina,pogovorni jezik,srednja šola,koroška,-,32,465
+Rog-Art-N-G5053-P600052,Artur-N-G5053-P600052,Artur-N-G5053-P600052-avd.wav,Artur-N,Artur-N-G5053,moški,18 do 34 let,slovenščina,pogovorni jezik,višja ali visoka šola,podravska,-,53,750
+Rog-Art-N-G5054-P600052,Artur-N-G5054-P600052,Artur-N-G5054-P600052-avd.wav,Artur-N,Artur-N-G5054,ženski,18 do 34 let,slovenščina,pogovorni jezik,višja ali visoka šola,podravska,-,56,690
+Rog-Art-N-G5082-P600080,Artur-N-G5082-P600080,Artur-N-G5082-P600080-avd.wav,Artur-N,Artur-N-G5082,ženski,30 do 59 let,slovenščina,pogovorni jezik,fakulteta ali več,primorsko-notranjska,-,10,132
+Rog-Art-N-G5083-P600080,Artur-N-G5083-P600080,Artur-N-G5083-P600080-avd.wav,Artur-N,Artur-N-G5083,moški,30 do 59 let,slovenščina,pogovorni jezik,višja ali visoka šola,-,osrednjeslovenska,20,793
+Rog-Art-N-G5097-P600096,Artur-N-G5097-P600096,Artur-N-G5097-P600096-avd.wav,Artur-N,Artur-N-G5097,ženski,30 do 59 let,slovenščina,standardni jezik,fakulteta ali več,-,gorenjska,38,967
+Rog-Art-N-G6001-P600102,Artur-N-G6001-P600102,Artur-N-G6001-P600102-avd.wav,Artur-N,Artur-N-G6001,ženski,18 do 34 let,slovenščina,pogovorni jezik,višja ali visoka šola,-,osrednjeslovenska,27,856
+Rog-Art-N-G6007-P600702,Artur-N-G6007-P600702,Artur-N-G6007-P600702-avd.wav,Artur-N,Artur-N-G6007,moški,30 do 59 let,slovenščina,standardni jezik,fakulteta ali več,-,osrednjeslovenska,21,770
+Rog-Art-N-G6012-P601201,Artur-N-G6012-P601201,Artur-N-G6012-P601201-avd.wav,Artur-N,Artur-N-G6012,moški,nad 60 let,slovenščina,standardni jezik,fakulteta ali več,-,savinjska,28,961
+Rog-Art-N-G6031-P603102,Artur-N-G6031-P603102,Artur-N-G6031-P603102-avd.wav,Artur-N,Artur-N-G6031,moški,18 do 34 let,slovenščina,standardni jezik,srednja šola,jugovzhodna Slovenija,-,26,922
+Rog-Art-N-G6043-P604301,Artur-N-G6043-P604301,Artur-N-G6043-P604301-avd.wav,Artur-N,Artur-N-G6043,moški,30 do 59 let,slovenščina,pogovorni jezik,srednja šola,primorsko-notranjska,-,40,922
+Rog-Art-N-G6047-P604702,Artur-N-G6047-P604702,Artur-N-G6047-P604702-avd.wav,Artur-N,Artur-N-G6047,moški,18 do 34 let,slovenščina,pogovorni jezik,srednja šola,gorenjska,-,41,844
+Rog-Art-N-G6060-P606001,Artur-N-G6060-P606001,Artur-N-G6060-P606001-avd.wav,Artur-N,Artur-N-G6060,ženski,30 do 59 let,slovenščina,pogovorni jezik,fakulteta ali več,goriška,-,31,915
+Rog-Art-N-G6083-P608301,Artur-N-G6083-P608301,Artur-N-G6083-P608301-avd.wav,Artur-N,Artur-N-G6083,ženski,18 do 34 let,slovenščina,pogovorni jezik,višja ali visoka šola,goriška,-,39,861
+Rog-Art-N-G6100-P610002,Artur-N-G6100-P610002,Artur-N-G6100-P610002-avd.wav,Artur-N,Artur-N-G6100,moški,30 do 59 let,slovenščina,pogovorni jezik,višja ali visoka šola,osrednjeslovenska,-,23,965
+Rog-Art-N-G6103-P610302,Artur-N-G6103-P610302,Artur-N-G6103-P610302-avd.wav,Artur-N,Artur-N-G6103,ženski,18 do 34 let,slovenščina,pogovorni jezik,srednja šola,goriška,-,25,931
+Rog-Art-N-G6112-P611202,Artur-N-G6112-P611202,Artur-N-G6112-P611202-avd.wav,Artur-N,Artur-N-G6112,moški,18 do 34 let,slovenščina,pogovorni jezik,srednja šola,osrednjeslovenska,-,35,871
+Rog-Art-N-G6116-P611601,Artur-N-G6116-P611601,Artur-N-G6116-P611601-avd.wav,Artur-N,Artur-N-G6116,moški,30 do 59 let,slovenščina,narečje,višja ali visoka šola,-,osrednjeslovenska,48,930
+Rog-Art-P-G7001-P700192,Artur-P-G7001-P700192,Artur-P-G7001-P700192-avd.wav,Artur-P,Artur-P-G7001,ženski,-,slovenščina,-,-,-,-,39,854
+Rog-Art-P-G7002-P700444,Artur-P-G7002-P700444,Artur-P-G7002-P700444-avd.wav,Artur-P,Artur-P-G7002,moški,-,slovenščina,-,-,-,-,34,819
+Rog-Art-P-G7036-P701111,Artur-P-G7036-P701111,Artur-P-G7036-P701111-avd.wav,Artur-P,Artur-P-G7036,ženski,-,slovenščina,-,-,-,-,43,858
+Rog-Art-P-G7065-P701064,Artur-P-G7065-P701064,Artur-P-G7065-P701064-avd.wav,Artur-P,Artur-P-G7065,moški,-,slovenščina,-,-,-,-,31,825
+Rog-Art-P-G7155-P700259,Artur-P-G7155-P700259,Artur-P-G7155-P700259-avd.wav,Artur-P,Artur-P-G7155,ženski,-,slovenščina,-,-,-,-,3,816
+Rog-Art-P-G7165-P700926,Artur-P-G7165-P700926,Artur-P-G7165-P700926-avd.wav,Artur-P,Artur-P-G7165,moški,-,slovenščina,-,-,-,-,34,893

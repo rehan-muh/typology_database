@@ -1,0 +1,27 @@
+{
+  "source_id": "rog_slovenian_1_0_1_1_manual_prosody",
+  "source_url": "https://www.clarin.si/repository/xmlui/bitstream/handle/11356/2062/ROG.zip?isAllowed=y&sequence=1",
+  "archive_md5": "f1e8a28e42008f634f157572bdfcf902",
+  "archive_sha256": "1c9aca03d8621aefe89c7c25e0f289413ab8b185b76f32505783062b4975510d",
+  "archive_files": 809,
+  "speakers_rows": 726,
+  "speeches_rows": 344,
+  "split_rows": 344,
+  "exb_files": 57,
+  "exb_event_rows": 458719,
+  "timeline_rows": 52930,
+  "trs_files": 114,
+  "trs_turn_rows": 2180,
+  "tei_files": 57,
+  "tei_event_rows": 46201,
+  "conllu_files": 344,
+  "conllu_token_rows": 98393,
+  "variable_dictionary_rows": 29,
+  "license": "CC BY-SA 4.0",
+  "manual_scope": "ROG 1.1 explicitly manually corrects Prosodic Unit annotations; corpus is multilayer manually annotated; alternate formats represent overlapping underlying recordings and must not be double-counted",
+  "integrity": {
+    "archive_md5_matches": true,
+    "exb_event_ids_unique": true,
+    "trs_turn_ids_unique": true
+  }
+}
