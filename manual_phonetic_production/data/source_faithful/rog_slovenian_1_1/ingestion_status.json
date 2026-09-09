@@ -5,7 +5,9 @@
   "archive_sha256": "1c9aca03d8621aefe89c7c25e0f289413ab8b185b76f32505783062b4975510d",
   "archive_files": 809,
   "speakers_rows": 726,
+  "unique_participant_ids": 676,
   "speeches_rows": 344,
+  "unique_recording_ids": 344,
   "split_rows": 344,
   "exb_files": 57,
   "exb_event_rows": 458719,
@@ -16,12 +18,18 @@
   "tei_event_rows": 46201,
   "conllu_files": 344,
   "conllu_token_rows": 98393,
-  "variable_dictionary_rows": 29,
+  "prosodic_unit_event_rows": 5693,
+  "prosodic_unit_files": 57,
+  "prosodic_unit_tier_speakers": 72,
+  "variable_dictionary_rows_primary": 29,
+  "variable_dictionary_rows_supplement": 51,
+  "variable_dictionary_rows_total": 80,
   "license": "CC BY-SA 4.0",
   "manual_scope": "ROG 1.1 explicitly manually corrects Prosodic Unit annotations; corpus is multilayer manually annotated; alternate formats represent overlapping underlying recordings and must not be double-counted",
   "integrity": {
     "archive_md5_matches": true,
     "exb_event_ids_unique": true,
-    "trs_turn_ids_unique": true
+    "trs_turn_ids_unique": true,
+    "prosodic_unit_subset_non_additive": true
   }
 }
