@@ -1,0 +1,27 @@
+{
+  "source_id": "ccost_2026",
+  "decision": "INCLUDE_PRIMARY_HUMAN_CORRECTED_PHONETIC_ANNOTATIONS",
+  "files_inventoried": 8,
+  "tables_parsed": 0,
+  "rows_ingested": 0,
+  "variable_dictionary_records": 0,
+  "license": "CC-BY-NC-SA-4.0",
+  "recording_scope": "Primary Standard Thai production: approximately 7 hours interview speech plus 5 hours controlled word-list/sentence reading from 49 speakers.",
+  "manual_scope": "ASR/MAUS alignment followed by manual correction by phonetically trained native Thai speakers; orthographic, word, syllable, phone and toneme annotations qualify. Do not treat pre-correction automatic output as core.",
+  "large_archive_policy": "Do not commit the 6.2 GB C-COST.zip/audio archive to GitHub. Retain authoritative Zenodo URL and MD5; ingest TextGrid annotations and structured metadata when file-level access permits.",
+  "processed": [
+    "verified accepted master-registry record; no duplicate source created",
+    "verified corpus-paper manual-correction provenance",
+    "inventoried all 8 Zenodo record files with published sizes and MD5 checksums"
+  ],
+  "pending": [
+    "parse CCOST_metadata.csv source-faithfully and build speaker/recording tables",
+    "parse wordlist.csv and sentences.txt into stimulus tables",
+    "retrieve/enumerate TextGrid members without mirroring raw WAV audio",
+    "parse every TextGrid tier and interval preserving original labels/times",
+    "build per-source variable dictionary only after direct headers/tier names are observed",
+    "map word/syllable/phone/toneme events and recording/task/speaker links"
+  ],
+  "validation": "Corpus paper and Zenodo description independently establish manual correction of the phonetic annotation pipeline. Published Zenodo file list contains C-COST.zip, CCOST_manual.pdf, CCOST_metadata.csv, check_audio_quality_praat, Interview schedule.pdf, Pittayaporn et al 2026_CCOST.pdf, sentences.txt and wordlist.csv. No observation rows counted before direct parsing.",
+  "updated": "2026-09-09T09:09:00-07:00"
+}
