@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-09T09:09:00-07:00",
-  "total_sources": 126,
+  "last_updated": "2026-09-09T10:09:00-07:00",
+  "total_sources": 127,
   "accepted_sources": 42,
   "excluded_sources": 25,
-  "review_sources": 59,
+  "review_sources": 60,
   "ingested_sources": 41,
-  "parsed_rows_total": 1355860,
+  "parsed_rows_total": 1356060,
   "parsed_logical_tables_total": 82,
   "inventory_file_records": 916,
   "variable_dictionary_records": 1057,
-  "notes": "Discovery+backlog pass advanced the audited-only VoxAngeles source-faithful mean-F0 mirror by 100 exact observations from authoritative upstream source lines 156-255, bringing durable source-faithful mean-F0 coverage to 254 observations and deterministic continuation at source line 256. The range is contiguous and pinned to unchanged upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3; no unaudited forced-alignment data were admitted. CCOST (already accepted in the master registry, so not duplicated) was advanced to file-level ingestion: all 8 Zenodo record objects were inventoried with published sizes and MD5 checksums, including the 6.2 GB WAV+TextGrid archive. Raw audio remains reference-only; metadata/stimulus/TextGrid parsing is pending direct file retrieval. Fresh discovery screened manually annotated prosody leads but did not admit paper-only or transcript-only resources without an isolatable public phonetic layer. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery+backlog pass advanced the audited-only VoxAngeles source-faithful mean-F0 mirror by 200 exact observations from authoritative upstream source lines 256-455, bringing durable source-faithful mean-F0 coverage to 454 observations and deterministic continuation at source line 456. Both 100-row ranges are contiguous and pinned to unchanged upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3; no unaudited forced-alignment data were admitted. Post-write validation re-read the committed tail successfully. Fresh discovery added Hu (2025), The Data of Formants of Tibetan Trilingual Learners' English Vowels Production (Mendeley Data, DOI 10.17632/9y6c4hnt7v.1), to HIGH review: the CC BY 4.0 deposit describes primary L3 English diphthong production with manually annotated/validated F1/F2 trajectories and peak values plus participant metadata, but direct observation-file retrieval and exact trajectory schema still require resolution before core admission. All writes confined to manual_phonetic_production/."
 }
