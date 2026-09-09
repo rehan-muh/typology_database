@@ -1,0 +1,22 @@
+name: ROG 1.1 structured ingestion
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'manual_phonetic_production/scripts/ingest_rog11.py'
+      - '.github/workflows/rog11-ingest.yml'
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - run: python manual_phonetic_production/scripts/ingest_rog11.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rog11-ingestion-output
+          path: rog11_output/
+          retention-days: 14
