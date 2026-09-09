@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-09T02:11:00-07:00",
+  "last_updated": "2026-09-09T03:11:00-07:00",
   "total_sources": 122,
   "accepted_sources": 40,
   "excluded_sources": 25,
   "review_sources": 57,
   "ingested_sources": 39,
-  "parsed_rows_total": 695471,
+  "parsed_rows_total": 695561,
   "parsed_logical_tables_total": 73,
   "inventory_file_records": 71,
   "variable_dictionary_records": 880,
-  "notes": "Aggressive continuation pass added exact source-faithful Coretta measurements.csv slices for upstream source lines 2882-2971 (90 observations), bringing durable coverage to 2,970/3,268 observations (90.9%) with 298 pending; next exact continuation is source line 2972 / data row 2971. Upstream measurements.csv remains pinned to immutable blob f3a67a6acb3aac900584698c68966177fe4f04e7. Source strings, numeric precision, source column values, and literal --undefined-- markers were preserved without inferred labels or normalization. Fresh discovery screened repository/publication candidates including BELMASK and reconfirmed IFCASL; no source was promoted without isolatable manual phonetic-layer evidence and accessible file-level provenance. Chunk files are provisional exact slices and MUST be superseded atomically if replaced by a consolidated exact blob; never count both forms. All writes confined to manual_phonetic_production/."
+  "notes": "Aggressive continuation pass added exact source-faithful Coretta measurements.csv slices for upstream source lines 2972-3061 (90 observations), bringing durable coverage to 3,060/3,268 observations (93.6%) with 208 pending; next exact continuation is source line 3062 / data row 3061. Upstream measurements.csv remains pinned to immutable blob f3a67a6acb3aac900584698c68966177fe4f04e7. Source strings, numeric precision, source column values, and literal --undefined-- markers were preserved without inferred labels or normalization. Fresh discovery screened manually corrected trajectory-production candidates including West Central Bavarian vowel data; no source was promoted without a public observation-level deposit or isolatable manual phonetic layer. Parker sonority Mendeley data was rechecked and deduplicated against the existing review record. Chunk files are provisional exact slices and MUST be superseded atomically if replaced by a consolidated exact blob; never count both forms. All writes confined to manual_phonetic_production/."
 }
