@@ -1,0 +1,28 @@
+{
+  "source_id": "pavoque",
+  "decision": "INCLUDE_MANUALLY_CORRECTED_PHONE_SEGMENTATION",
+  "publication": "PAVOQUE Corpus of Expressive Speech",
+  "upstream_repository": "marytts/pavoque-data",
+  "source_faithful_yaml_files_inventoried": 6,
+  "source_faithful_lines_mirrored": 120,
+  "complete_utterances_mirrored": 3,
+  "partial_utterances_mirrored": 1,
+  "variable_dictionary_records": 7,
+  "core_rows_promoted": 0,
+  "manual_scope": "Repository documentation explicitly states that the optional phonetic segments are manually corrected. Segment labels are German SAMPA; segment end times are relative to utterance start. Corpus is speech, not singing; speaker's professional singing background does not make these acted/read speech recordings singing data.",
+  "processed": [
+    "Inventoried six public style-level YAML annotation files with immutable Git blob SHAs and byte sizes",
+    "Mirrored exact source lines 1-120 of pavoque-angry.yaml, comprising three complete annotated utterances plus the header metadata of a fourth",
+    "Documented utterance prompt/text/style/start/end and segment label/end variables without IPA invention",
+    "Recorded CC-BY-NC-SA-4.0 license and 44.1 kHz, 16-bit mono audio metadata from upstream README"
+  ],
+  "pending": [
+    "Continue pavoque-angry.yaml from source line 121",
+    "Mirror pavoque-happy.yaml, pavoque-neutral.yaml, pavoque-poker.yaml, pavoque-sad.yaml, and pavoque-outtakes.yaml",
+    "Parse complete utterances and segments into namespaced utterance and segment/interval tables",
+    "Derive segment start times from within-utterance preceding endpoints while retaining original end times",
+    "Create explicit German SAMPA-to-IPA mapping only where unambiguous and preserve source labels",
+    "Inventory authoritative release audio manifests without committing large FLAC audio"
+  ],
+  "updated": "2026-09-10T10:09:59-07:00"
+}
