@@ -1,0 +1,6 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::spike0004,spike0004,Na dann werde ich mich mal vorstellen.,angry,11.94,15.72,3.780000000000001,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0005,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,4.4399999999999995,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0006,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,3.84,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0007,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,3.0,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0008,spike0008,Ach ja?,angry,27.0,28.92,1.9200000000000017,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
