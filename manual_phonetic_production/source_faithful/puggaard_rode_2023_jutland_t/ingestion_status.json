@@ -1,0 +1,33 @@
+{
+  "source_id": "puggaard_rode_2023_jutland_t",
+  "decision": "INCLUDE_NEW_MANUAL_T_RELEASE_LAYER_WITH_LINEAGE_FILTER",
+  "publication": "Puggaard-Rode 2023, The /t/ release in Jutland Danish",
+  "upstream_repository": "rpuggaardrode/icphs2023",
+  "upstream_commit": "50f14da4deac90e3e7b39934f67113d4bf93c570",
+  "primary_token_table": "data/affric.csv",
+  "primary_token_table_blob": "4292cceff5bcf1f709b39c8bda21ae3a76452c18",
+  "upstream_token_rows": 10447,
+  "reported_t_rows": 5169,
+  "speaker_location_rows": 213,
+  "source_faithful_rows_mirrored": 100,
+  "core_rows_promoted": 0,
+  "variables_documented": 19,
+  "files_inventoried": 5,
+  "manual_scope": "The /t/ release segmentation is the newly manually segmented layer qualifying for core. Source-faithful mirroring preserves the mixed p/t/k table, but p/k rows are not promoted until their manual/lineage status is reconciled against Puggaard 2021.",
+  "lineage_rule": "Do not count the underlying 1970s recordings as a new primary corpus. Inclusion is based on the separately isolatable new manual phonetic annotation/measurement layer. Reused p/k VOT measurements must be deduplicated at recording/token lineage level.",
+  "processed": [
+    "Enumerated all five public data artifacts in rpuggaardrode/icphs2023/data",
+    "Pinned immutable repository commit and per-file blob SHAs",
+    "Mirrored affric.csv header plus observations 1-100 exactly as supplied",
+    "Built variable dictionary for all 11 affric.csv variables and participant metadata variables",
+    "Recorded 10,447 total stop rows and 5,169 reported /t/ rows"
+  ],
+  "pending": [
+    "Mirror remaining affric.csv observations 101-10447",
+    "Filter/promote /t/ rows to namespaced harmonized token/acoustic/temporal tables",
+    "Mirror participant_info.csv and dialect_coordinates.csv",
+    "Ingest time-varying yind_log.csv without reducing trajectories",
+    "Resolve exact p/k lineage against Puggaard 2021 before any p/k core promotion"
+  ],
+  "updated": "2026-09-10T06:08:51-07:00"
+}
