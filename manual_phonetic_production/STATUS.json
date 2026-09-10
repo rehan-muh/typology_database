@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-10T08:09:22-07:00",
+  "last_updated": "2026-09-10T09:10:13-07:00",
   "total_sources": 133,
   "accepted_sources": 43,
   "excluded_sources": 25,
   "review_sources": 65,
   "ingested_sources": 42,
-  "parsed_rows_total": 1361009,
+  "parsed_rows_total": 1361409,
   "parsed_logical_tables_total": 84,
   "inventory_file_records": 937,
   "variable_dictionary_records": 1127,
-  "notes": "This pass performed both backlog ingestion and fresh discovery. VoxAngeles durable mean-F0 coverage advanced by 400 exact source-faithful observations from upstream lines 4656-5055, bringing verified coverage to 5054 observations through line 5055; continuation begins at line 5056. Four 100-row chunks were fetched from immutable upstream commit e30c638a8a2c22e576f871f0e2044780d56eab82 / blob 9492dd2ed35044219aed483613fd3f7a44f292d3 and committed without normalization. Fresh discovery rechecked public/manual-production candidates. Parker's CC-BY Mendeley sonority deposit was confirmed as already present in the review queue, avoiding duplication. A JIPA West Central Bavarian production study was newly screened: target words were manually identified; vowel boundaries and formant tracking errors were manually corrected; F1/F2 trajectories were retained at 11 normalized timepoints. No public observation-level deposit was located in this pass, so it was not admitted to core or counted as ingested. Singing, device-sound, automatic-only and secondary-media hits were excluded at screening. No unrelated repository content modified."
+  "notes": "This pass performed both backlog ingestion and fresh discovery. VoxAngeles durable mean-F0 coverage advanced by 400 exact source-faithful observations from upstream lines 5056-5455, bringing verified coverage to 5454 observations through line 5455; continuation begins at line 5456. Four 100-row chunks were fetched from immutable upstream commit e30c638a8a2c22e576f871f0e2044780d56eab82 / blob 9492dd2ed35044219aed483613fd3f7a44f292d3 and committed without normalization; the upstream --undefined-- marker was preserved verbatim. Fresh discovery searched manual phonetic production, formant/VOT, TextGrid, ultrasound/EMA, speech science, and Journal of Phonetics-style deposits. RescueSpeech was screened as manually annotated German speech but not promoted because surfaced evidence concerns speech/transcription annotation rather than qualifying phonetic landmark/measurement annotation. MRPL2 remains restricted despite manual mispronunciation TextGrids. Singing/music, third-party-media, nonspeech, automatic-only, and insufficiently verified resources were excluded at screening. No unrelated repository content modified."
 }
