@@ -1,26 +1,26 @@
 {
   "source_id": "voxangeles_2024",
   "decision": "INCLUDE_NEW_MANUAL_ANNOTATION_LAYER_AUDITED_ONLY",
-  "rows_ingested": 2654,
+  "rows_ingested": 2854,
   "logical_tables_ingested": 1,
   "upstream_files_inventoried": 10,
   "variable_dictionary_records": 75,
-  "current_materialized_layer": "voxangeles_meanf0_file.tsv: exact source lines 2-2655 (2654 observations)",
-  "next_upstream_line": 2656,
+  "current_materialized_layer": "voxangeles_meanf0_file.tsv: exact source lines 2-2855 (2854 observations)",
+  "next_upstream_line": 2856,
   "upstream_measurement_files": 6,
   "audited_language_packages_documented": 95,
   "manual_scope": "Use data/audited_aligned and measurements derived from it. The unaudited forced-alignment branch is excluded from core.",
   "secondary_lineage_rule": "Underlying recordings predate VoxAngeles; inclusion is based on the separately isolatable new human-audited phone/transcription layer and measurements derived from that audited layer, not on treating the recordings as a novel collection.",
   "processed": [
-    "voxangeles_meanf0_file.tsv source lines 2-2455: 2454 observations previously durable",
-    "voxangeles_meanf0_file.tsv source lines 2456-2655: 200 Hausa/Hawaiian/Hebrew/Hiligaynon/Hindi observations",
+    "voxangeles_meanf0_file.tsv source lines 2-2655: 2654 observations previously durable",
+    "voxangeles_meanf0_file.tsv source lines 2656-2855: 200 Hindi/Hina/Hrvatski/Hungarian observations",
     "getDurations_voxangeles.praat provenance",
     "getf0_voxangeles.praat provenance",
     "getFormants_voxangeles.praat provenance",
     "measurement-file inventory"
   ],
   "pending": [
-    "voxangeles_meanf0_file.tsv from source line 2656 onward",
+    "voxangeles_meanf0_file.tsv from source line 2856 onward",
     "complete phone/word duration table",
     "complete 10-point F0 trajectory table",
     "complete 10-point F1/F2/F3 trajectory table",
@@ -29,6 +29,6 @@
     "language/transcription metadata linkage and harmonized token views"
   ],
   "known_retrieval_blocker": "The duration and decile trajectory TSVs are large UTF-16 text files. Both UTF-8 and base64 fetch attempts through the current GitHub connector return no usable file content for these blobs. They remain pending rather than being counted as ingested; immutable blob SHAs and sizes stay inventoried for a byte-capable retrieval path.",
-  "validation": "A new 200-row chunk was fetched directly from authoritative upstream pacscilab/voxangeles path data/phonetic_measurements/voxangeles_meanf0_file.tsv at commit e30c638a8a2c22e576f871f0e2044780d56eab82, immutable blob 9492dd2ed35044219aed483613fd3f7a44f292d3, using exact source lines 2456-2655. Existing durable rows ended at line 2455, so the new range is contiguous and non-overlapping. No unaudited rows admitted; original recording IDs and numeric strings preserved verbatim.",
-  "updated": "2026-09-10T00:08:33-07:00"
+  "validation": "A new 200-row chunk was fetched directly from authoritative upstream pacscilab/voxangeles path data/phonetic_measurements/voxangeles_meanf0_file.tsv at commit e30c638a8a2c22e576f871f0e2044780d56eab82, immutable blob 9492dd2ed35044219aed483613fd3f7a44f292d3, using exact source lines 2656-2855. Existing durable rows ended at line 2655, so the new range is contiguous and non-overlapping. No unaudited rows admitted; original recording IDs and numeric strings preserved verbatim.",
+  "updated": "2026-09-10T01:11:18-07:00"
 }
