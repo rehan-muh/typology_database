@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-10T09:10:13-07:00",
+  "last_updated": "2026-09-10T10:09:59-07:00",
   "total_sources": 133,
   "accepted_sources": 43,
   "excluded_sources": 25,
   "review_sources": 65,
-  "ingested_sources": 42,
+  "ingested_sources": 43,
   "parsed_rows_total": 1361409,
   "parsed_logical_tables_total": 84,
-  "inventory_file_records": 937,
-  "variable_dictionary_records": 1127,
-  "notes": "This pass performed both backlog ingestion and fresh discovery. VoxAngeles durable mean-F0 coverage advanced by 400 exact source-faithful observations from upstream lines 5056-5455, bringing verified coverage to 5454 observations through line 5455; continuation begins at line 5456. Four 100-row chunks were fetched from immutable upstream commit e30c638a8a2c22e576f871f0e2044780d56eab82 / blob 9492dd2ed35044219aed483613fd3f7a44f292d3 and committed without normalization; the upstream --undefined-- marker was preserved verbatim. Fresh discovery searched manual phonetic production, formant/VOT, TextGrid, ultrasound/EMA, speech science, and Journal of Phonetics-style deposits. RescueSpeech was screened as manually annotated German speech but not promoted because surfaced evidence concerns speech/transcription annotation rather than qualifying phonetic landmark/measurement annotation. MRPL2 remains restricted despite manual mispronunciation TextGrids. Singing/music, third-party-media, nonspeech, automatic-only, and insufficiently verified resources were excluded at screening. No unrelated repository content modified."
+  "inventory_file_records": 943,
+  "variable_dictionary_records": 1134,
+  "notes": "This pass performed both backlog ingestion and fresh discovery. Puggaard-Rode 2023 source-faithful affric.csv coverage advanced from 100 to 200 exact observations, pinned to commit 50f14da4deac90e3e7b39934f67113d4bf93c570 / blob 4292cceff5bcf1f709b39c8bda21ae3a76452c18; mixed p/t/k rows remain staging-only until the newly manual /t/ layer is lineage-filtered and p/k reuse against Puggaard 2021 is resolved. PAVOQUE, already accepted in the registry, moved into material ingestion: all six manual-annotation YAML files were inventoried with blob SHAs and byte sizes, exact lines 1-120 of pavoque-angry.yaml were mirrored, and a seven-variable dictionary was created for utterance IDs/text/style/timing and manually corrected SAMPA segment labels/endpoints. Upstream documentation explicitly states segment annotations are manually corrected and segment end times are relative to utterance start. VoxAngeles continuation from line 5456 returned empty content through the connector, so no unsupported rows were fabricated and its verified count remains 5,454. Fresh screening included manual phonetic production/TextGrid, articulatory, clinical, VOT/formant and repository searches; weak automatic-only, perception-only, singing/music and unrelated manual-annotation hits were not admitted. Parsed warehouse-row count is unchanged because the newly mirrored Jutland and PAVOQUE material remains source-faithful staging pending harmonized promotion. No unrelated repository content modified."
 }
