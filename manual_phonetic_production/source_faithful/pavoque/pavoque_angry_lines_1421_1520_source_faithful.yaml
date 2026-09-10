@@ -1,0 +1,100 @@
+  - {lab: t, end: 5.006928}
+  - {lab: m, end: 5.045}
+  - {lab: aI, end: 5.13}
+  - {lab: n, end: 5.15811}
+  - {lab: '@', end: 5.22}
+  - {lab: ts, end: 5.369047}
+  - {lab: aI, end: 5.625}
+  - {lab: t, end: 5.805861}
+  - {lab: _, end: 7.075}
+- prompt: spike0040
+  text: Wen willst du hier eigentlich für dumm verkaufen?
+  style: angry
+  start: 144.96
+  end: 149.4
+  segments:
+  - {lab: H#, end: 0.555}
+  - {lab: v, end: 0.600567}
+  - {lab: 'e:', end: 0.726965}
+  - {lab: n, end: 0.785}
+  - {lab: v, end: 0.821939}
+  - {lab: I, end: 0.888979}
+  - {lab: l, end: 0.916912}
+  - {lab: s, end: 0.987444}
+  - {lab: t, end: 1.013282}
+  - {lab: d, end: 1.054484}
+  - {lab: 'u:', end: 1.112445}
+  - {lab: h, end: 1.179485}
+  - {lab: 'i:', end: 1.233257}
+  - {lab: '6', end: 1.261889}
+  - {lab: '?', end: 1.2989}
+  - {lab: aI, end: 1.439964}
+  - {lab: g, end: 1.478372}
+  - {lab: '@', end: 1.481864}
+  - {lab: n, end: 1.513289}
+  - {lab: t, end: 1.52}
+  - {lab: l, end: 1.545}
+  - {lab: I, end: 1.594994}
+  - {lab: C, end: 1.656447}
+  - {lab: f, end: 1.729772}
+  - {lab: 'y:', end: 1.77656}
+  - {lab: '6', end: 1.805}
+  - {lab: d, end: 1.875724}
+  - {lab: U, end: 1.959524}
+  - {lab: m, end: 2.053799}
+  - {lab: f, end: 2.125}
+  - {lab: '6', end: 2.231874}
+  - {lab: k, end: 2.345702}
+  - {lab: aU, end: 2.53}
+  - {lab: f, end: 2.628527}
+  - {lab: '@', end: 2.645}
+  - {lab: n, end: 2.794032}
+  - {lab: _, end: 4.435}
+- prompt: spike0041
+  text: Du denkst wohl tatsächlich, dass du jemand bist.
+  style: angry
+  start: 149.4
+  end: 153.78
+  segments:
+  - {lab: H#, end: 0.41}
+  - {lab: d, end: 0.446295}
+  - {lab: 'u:', end: 0.501371}
+  - {lab: d, end: 0.548985}
+  - {lab: E, end: 0.628934}
+  - {lab: N, end: 0.655}
+  - {lab: k, end: 0.690762}
+  - {lab: s, end: 0.735}
+  - {lab: t, end: 0.773198}
+  - {lab: v, end: 0.8}
+  - {lab: 'o:', end: 0.86}
+  - {lab: l, end: 0.91}
+  - {lab: t, end: 1.018376}
+  - {lab: a, end: 1.200305}
+  - {lab: t, end: 1.271371}
+  - {lab: z, end: 1.318275}
+  - {lab: E, end: 1.415}
+  - {lab: C, end: 1.504468}
+  - {lab: l, end: 1.564874}
+  - {lab: I, end: 1.615}
+  - {lab: C, end: 1.69}
+  - {lab: d, end: 1.740052}
+  - {lab: a, end: 1.8}
+  - {lab: s, end: 1.837768}
+  - {lab: d, end: 1.912032}
+  - {lab: 'u:', end: 1.963199}
+  - {lab: j, end: 2.033199}
+  - {lab: 'e:', end: 2.080103}
+  - {lab: m, end: 2.135}
+  - {lab: a, end: 2.215}
+  - {lab: n, end: 2.25}
+  - {lab: t, end: 2.299342}
+  - {lab: b, end: 2.37254}
+  - {lab: I, end: 2.51}
+  - {lab: s, end: 2.675281}
+  - {lab: t, end: 2.835}
+  - {lab: _, end: 4.375}
+- prompt: spike0042
+  text: Du bist langweilig, tust du nie etwas spannendes?
+  style: angry
+  start: 153.78
+  end: 158.22
