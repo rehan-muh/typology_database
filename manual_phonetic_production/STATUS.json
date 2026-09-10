@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-10T03:08:10-07:00",
+  "last_updated": "2026-09-10T04:11:50-07:00",
   "total_sources": 131,
   "accepted_sources": 43,
   "excluded_sources": 25,
   "review_sources": 63,
   "ingested_sources": 42,
-  "parsed_rows_total": 1356809,
+  "parsed_rows_total": 1359409,
   "parsed_logical_tables_total": 84,
   "inventory_file_records": 932,
   "variable_dictionary_records": 1108,
-  "notes": "High-rigor reconciliation found that prior summaries had advanced VoxAngeles mean-F0 counts through line 3055 without corresponding durable source-faithful files; committed chunks actually stopped at line 655. Those 2,400 unsupported rows were removed from global accounting. This run then durably ingested exact authoritative VoxAngeles lines 656-855 (200 observations), so verified coverage is now 854 observations through line 855 with next line 856. Discovery accepted Puggaard-Rode 2024 Journal of Phonetics as a new manual annotation layer over legacy Royal Danish Library recordings: 17,504 documented stop tokens, 213 locations/speakers, 23 variables, manually segmented /p t k/ VOT landmarks and manually judged /b d g/ closure voicing. The new source is manifest/dictionary/lineage documented but its 17,504 observation rows are not counted until exact OSF bytes are mirrored/read. No unrelated repository content modified."
+  "notes": "Reconciled a contradictory prior global rollback against the source-specific VoxAngeles ingestion ledger and actual committed source-faithful chunks. Durable VoxAngeles mean-F0 coverage was already 3054 observations through exact upstream line 3055, not 854 through line 855. This run added two new contiguous 200-row source-faithful chunks (lines 3056-3255 and 3256-3455), bringing verified VoxAngeles mean-F0 coverage to 3454 observations through line 3455; next source line is 3456. Global parsed-row accounting is restored to the previously supported 1359009 baseline at line 3055 plus 400 new rows = 1359409. Fresh discovery screened OSF/Zenodo/journal candidates for manually grounded production annotations; no weak or ambiguous candidate was promoted to core merely at paper level. No unrelated repository content modified."
 }
