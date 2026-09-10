@@ -1,0 +1,100 @@
+  end: 225.54
+  segments:
+  - {lab: H#, end: 0.31132}
+  - {lab: '?', end: 0.336496}
+  - {lab: a, end: 0.42}
+  - {lab: l, end: 0.565}
+  - {lab: '@', end: 0.655}
+  - {lab: f, end: 0.75}
+  - {lab: '6', end: 0.855}
+  - {lab: f, end: 0.955}
+  - {lab: I, end: 1.041418}
+  - {lab: l, end: 1.095}
+  - {lab: m, end: 1.145}
+  - {lab: U, end: 1.18}
+  - {lab: N, end: 1.245}
+  - {lab: '@', end: 1.275}
+  - {lab: n, end: 1.335}
+  - {lab: b, end: 1.392963}
+  - {lab: a, end: 1.48}
+  - {lab: z, end: 1.56}
+  - {lab: 'i:', end: 1.639497}
+  - {lab: R, end: 1.697831}
+  - {lab: '@', end: 1.75}
+  - {lab: n, end: 1.79}
+  - {lab: '?', end: 1.805}
+  - {lab: aU, end: 1.865}
+  - {lab: f, end: 1.895}
+  - {lab: d, end: 1.953639}
+  - {lab: 'e:', end: 1.985204}
+  - {lab: m, end: 2.055}
+  - {lab: R, end: 2.1}
+  - {lab: 'o:', end: 2.194593}
+  - {lab: m, end: 2.235}
+  - {lab: 'a:', end: 2.38}
+  - {lab: n, end: 2.419947}
+  - {lab: f, end: 2.5}
+  - {lab: O, end: 2.535387}
+  - {lab: n, end: 2.609072}
+  - {lab: '?', end: 2.663722}
+  - {lab: a, end: 2.71}
+  - {lab: l, end: 2.74}
+  - {lab: E, end: 2.795}
+  - {lab: k, end: 2.842482}
+  - {lab: s, end: 2.965}
+  - {lab: o~, end: 3.089255}
+  - {lab: n, end: 3.12}
+  - {lab: d, end: 3.146909}
+  - {lab: R, end: 3.189958}
+  - {lab: '@', end: 3.237239}
+  - {lab: d, end: 3.300518}
+  - {lab: 'y:', end: 3.36}
+  - {lab: m, end: 3.43}
+  - {lab: a, end: 3.660929}
+  - {lab: _, end: 5.155}
+- prompt: m0011
+  text: Carmen bleibt mit José zurück.
+  style: angry
+  start: 225.54
+  end: 228.84
+  segments:
+  - {lab: H#, end: 0.313314}
+  - {lab: k, end: 0.424707}
+  - {lab: 'a:', end: 0.484716}
+  - {lab: '6', end: 0.575}
+  - {lab: m, end: 0.64}
+  - {lab: '@', end: 0.715}
+  - {lab: n, end: 0.805}
+  - {lab: b, end: 0.897612}
+  - {lab: l, end: 0.93}
+  - {lab: aI, end: 1.038238}
+  - {lab: p, end: 1.088}
+  - {lab: t, end: 1.132318}
+  - {lab: m, end: 1.175}
+  - {lab: I, end: 1.223769}
+  - {lab: t, end: 1.265039}
+  - {lab: Z, end: 1.35401}
+  - {lab: 'o:', end: 1.48}
+  - {lab: z, end: 1.58}
+  - {lab: 'e:', end: 1.745}
+  - {lab: ts, end: 1.903496}
+  - {lab: 'u:', end: 2.01}
+  - {lab: R, end: 2.078319}
+  - {lab: Y, end: 2.179686}
+  - {lab: k, end: 2.340643}
+  - {lab: _, end: 3.295}
+- prompt: m0012
+  text: Alan Iljitsch Dudajew, russisch;
+  style: angry
+  start: 228.84
+  end: 232.26
+  segments:
+  - {lab: H#, end: 0.345}
+  - {lab: '?', end: 0.36}
+  - {lab: E, end: 0.465}
+  - {lab: l, end: 0.52}
+  - {lab: '@', end: 0.615}
+  - {lab: n, end: 0.70027}
+  - {lab: '?', end: 0.78}
+  - {lab: I, end: 0.882094}
+  - {lab: l, end: 0.94}
