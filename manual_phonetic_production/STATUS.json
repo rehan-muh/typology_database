@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-10T06:08:51-07:00",
+  "last_updated": "2026-09-10T07:08:20-07:00",
   "total_sources": 133,
   "accepted_sources": 43,
   "excluded_sources": 25,
   "review_sources": 65,
   "ingested_sources": 42,
-  "parsed_rows_total": 1360209,
+  "parsed_rows_total": 1360609,
   "parsed_logical_tables_total": 84,
   "inventory_file_records": 937,
   "variable_dictionary_records": 1127,
-  "notes": "This pass performed both backlog ingestion and fresh discovery. VoxAngeles durable mean-F0 coverage advanced by 400 exact source-faithful observations from upstream lines 3856-4255, bringing verified coverage to 4254 observations through line 4255; continuation begins at line 4256. Rows remain pinned to upstream commit e30c638a8a2c22e576f871f0e2044780d56eab82 / blob 9492dd2ed35044219aed483613fd3f7a44f292d3, with original IDs, numeric strings, and the source --undefined-- missing-value token preserved. A second backlog source, Puggaard-Rode 2023 Jutland stop production, was materially staged from immutable GitHub commit 50f14da4deac90e3e7b39934f67113d4bf93c570: five public data artifacts inventoried, a 19-variable dictionary created, and the first 100 of 10,447 mixed p/t/k token rows mirrored exactly. The 5,169-token newly manual /t/ layer is designated for core promotion only after lineage filtering; reused p/k measurements remain source-faithful but are not counted in the core. No unrelated repository content modified."
+  "notes": "This pass performed both backlog ingestion and fresh discovery. VoxAngeles durable mean-F0 coverage advanced by 400 exact source-faithful observations from upstream lines 4256-4655, bringing verified coverage to 4654 observations through line 4655; continuation begins at line 4656. Four 100-row chunks were fetched from immutable upstream commit e30c638a8a2c22e576f871f0e2044780d56eab82 / blob 9492dd2ed35044219aed483613fd3f7a44f292d3. Validation caught one local transcription error in nan-004-038 and corrected it to the exact upstream value 224.34234893684396 before status reconciliation. Fresh repository discovery screened newly surfaced production corpora including MRPL2 (4,500 non-native English utterances from 23 speakers with manually annotated phonetic mispronunciations; files restricted), MRP (7,000+ native-English utterances; restricted, manual phonetic status not yet established), and French Lombard audio+EGG production (40 speakers; manual annotation provenance not established from the surfaced record). None were admitted to core without accessible manually grounded observation-level evidence. No unrelated repository content modified."
 }
