@@ -1,0 +1,120 @@
+- prompt: spike0001
+  text: Ich bin Spike.
+  style: angry
+  start: 0.0
+  end: 2.34
+  segments:
+  - {lab: H#, end: 0.416756}
+  - {lab: '?', end: 0.436332}
+  - {lab: I, end: 0.509483}
+  - {lab: C, end: 0.586756}
+  - {lab: b, end: 0.646513}
+  - {lab: I, end: 0.71}
+  - {lab: n, end: 0.765}
+  - {lab: S, end: 0.86}
+  - {lab: p, end: 0.960971}
+  - {lab: aI, end: 1.185}
+  - {lab: k, end: 1.386784}
+  - {lab: _, end: 2.335}
+- prompt: spike0002
+  text: Haben wir uns schon einmal gesehen?
+  style: angry
+  start: 2.34
+  end: 5.94
+  segments:
+  - {lab: H#, end: 0.304112}
+  - {lab: h, end: 0.348223}
+  - {lab: 'a:', end: 0.43}
+  - {lab: b, end: 0.457396}
+  - {lab: '@', end: 0.461082}
+  - {lab: n, end: 0.515}
+  - {lab: v, end: 0.535}
+  - {lab: 'i:', end: 0.58}
+  - {lab: '6', end: 0.632798}
+  - {lab: '?', end: 0.638634}
+  - {lab: U, end: 0.663209}
+  - {lab: n, end: 0.71}
+  - {lab: s, end: 0.746148}
+  - {lab: S, end: 0.8125}
+  - {lab: 'o:', end: 0.865335}
+  - {lab: n, end: 0.895}
+  - {lab: '?', end: 0.938752}
+  - {lab: aI, end: 1.02}
+  - {lab: n, end: 1.035}
+  - {lab: m, end: 1.075}
+  - {lab: 'a:', end: 1.15}
+  - {lab: l, end: 1.18112}
+  - {lab: g, end: 1.233477}
+  - {lab: '@', end: 1.294778}
+  - {lab: z, end: 1.382325}
+  - {lab: 'e:', end: 1.571737}
+  - {lab: '@', end: 1.57921}
+  - {lab: n, end: 1.736815}
+  - {lab: _, end: 3.595}
+- prompt: spike0003
+  text: Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.
+  style: angry
+  start: 5.94
+  end: 11.94
+  segments:
+  - {lab: H#, end: 0.5468}
+  - {lab: n, end: 0.585}
+  - {lab: 'a:', end: 0.633876}
+  - {lab: d, end: 0.674784}
+  - {lab: a, end: 0.75}
+  - {lab: n, end: 0.798863}
+  - {lab: v, end: 0.84246}
+  - {lab: aI, end: 0.974478}
+  - {lab: s, end: 1.04018}
+  - {lab: t, end: 1.078864}
+  - {lab: d, end: 1.129709}
+  - {lab: 'u:', end: 1.180795}
+  - {lab: j, end: 1.23}
+  - {lab: 'a:', end: 1.3079}
+  - {lab: d, end: 1.348481}
+  - {lab: a, end: 1.39}
+  - {lab: s, end: 1.462638}
+  - {lab: '?', end: 1.468164}
+  - {lab: I, end: 1.50255}
+  - {lab: C, end: 1.576235}
+  - {lab: d, end: 1.671168}
+  - {lab: U, end: 1.733428}
+  - {lab: m, end: 1.807727}
+  - {lab: k, end: 1.936428}
+  - {lab: '9', end: 1.97137}
+  - {lab: pf, end: 2.125}
+  - {lab: '@', end: 2.131325}
+  - {lab: n, end: 2.205}
+  - {lab: g, end: 2.259115}
+  - {lab: 'e:', end: 2.32}
+  - {lab: g, end: 2.360904}
+  - {lab: '@', end: 2.364854}
+  - {lab: n, end: 2.413168}
+  - {lab: '?', end: 2.442642}
+  - {lab: 'y:', end: 2.525}
+  - {lab: b, end: 2.580587}
+  - {lab: '6', end: 2.655}
+  - {lab: n, end: 2.69}
+  - {lab: I, end: 2.74}
+  - {lab: C, end: 2.812424}
+  - {lab: t, end: 2.87}
+  - {lab: z, end: 2.92}
+  - {lab: 'e:', end: 2.96089}
+  - {lab: '6', end: 3.006943}
+  - {lab: t, end: 3.115665}
+  - {lab: O, end: 3.155}
+  - {lab: l, end: 3.183172}
+  - {lab: '@', end: 3.262996}
+  - {lab: R, end: 3.305}
+  - {lab: a, end: 3.385}
+  - {lab: n, end: 3.44}
+  - {lab: t, end: 3.500015}
+  - {lab: b, end: 3.572349}
+  - {lab: I, end: 3.660769}
+  - {lab: n, end: 3.741332}
+  - {lab: _, end: 5.995}
+- prompt: spike0004
+  text: Na dann werde ich mich mal vorstellen.
+  style: angry
+  start: 11.94
+  end: 15.72
