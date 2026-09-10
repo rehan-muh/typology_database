@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T13:07:34-07:00",
+  "last_updated": "2026-09-10T14:07:31-07:00",
   "total_sources": 133,
   "accepted_sources": 43,
   "excluded_sources": 25,
@@ -9,5 +9,5 @@
   "parsed_logical_tables_total": 84,
   "inventory_file_records": 943,
   "variable_dictionary_records": 1134,
-  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful coverage advanced by another 400 lines, from line 920 through line 1320 of pavoque-angry.yaml. The durable mirror now preserves 35 complete manually corrected utterance annotations plus the beginning of spike0038; continuation is deterministic at source line 1321. Four new immutable chunks (921-1020, 1021-1120, 1121-1220, 1221-1320) were committed and validated against upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. PAVOQUE remains staging-only pending relational promotion, so parsed warehouse-row count is unchanged. Fresh discovery screened new manually corrected formant/VOT, learner-corpus, clinical speech, and repository candidates; no source was promoted without sufficiently clear public observation-level manual phonetic provenance. No unrelated repository content modified."
+  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful coverage advanced by 400 lines, from line 1321 through line 1720 of pavoque-angry.yaml. The durable mirror now preserves 48 complete manually corrected utterances through spike0050 with no partial utterance at the current endpoint; continuation is deterministic at source line 1721. Four new immutable chunks (1321-1420, 1421-1520, 1521-1620, 1621-1720) were committed and validated against upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. PAVOQUE remains staging-only pending relational promotion, so parsed warehouse-row count is unchanged. Fresh discovery re-screened Zenodo/OSF/manual-segmentation and clinical-production candidates; AphasiaBD and IFCASL were confirmed as already tracked review items, preventing duplicate registry inflation. Singing resources surfaced by search were excluded by scope. No unrelated repository content modified."
 }
