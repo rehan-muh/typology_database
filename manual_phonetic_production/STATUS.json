@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T15:09:17-07:00",
+  "last_updated": "2026-09-10T16:08:06-07:00",
   "total_sources": 134,
   "accepted_sources": 43,
   "excluded_sources": 25,
@@ -9,5 +9,5 @@
   "parsed_logical_tables_total": 84,
   "inventory_file_records": 943,
   "variable_dictionary_records": 1134,
-  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful coverage advanced by 400 lines, from line 1721 through line 2120 of pavoque-angry.yaml. Durable coverage is now lines 1-2120, containing 60 complete manually corrected utterances and one partial utterance (m0009); continuation is deterministic at source line 2121. Four new immutable 100-line chunks were committed and validated against upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. PAVOQUE remains staging-only pending relational promotion, so parsed warehouse-row count is unchanged. Fresh discovery added Cox et al. (2023) Danish infant-directed/adult-directed speech to the review queue: 26 primary caregivers, 9,267 manually segmented vowel tokens, and public raw formant data/code on OSF. The candidate is held in review until the OSF file tree is enumerated and token-level linkage to the manual segmentation is verified. No unrelated repository content modified."
+  "notes": "This pass performed both backlog ingestion and fresh discovery/verification. PAVOQUE exact source-faithful coverage advanced by 400 lines, from line 2121 through line 2520 of pavoque-angry.yaml. Durable coverage is now lines 1-2520; the new range closes 11 additional complete annotated utterances and ends inside m0021, with continuation at line 2521. Four new immutable 100-line chunks were committed and verified against upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. The previously stale PAVOQUE file-manifest endpoint (1720) was reconciled to 2520. PAVOQUE remains staging-only pending relational promotion, so parsed warehouse-row count is unchanged. Fresh verification of Cox et al. (2023) confirmed 26 Danish caregivers, 9,267 vowel tokens, and a public OSF reproducibility deposit containing the raw formant data/code; direct OSF file enumeration remained unavailable through the current public fetch route, so the source remains in review rather than being promoted without row-level verification. No unrelated repository content modified."
 }
