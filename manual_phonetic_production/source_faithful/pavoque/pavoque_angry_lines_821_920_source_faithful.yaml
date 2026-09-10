@@ -1,0 +1,100 @@
+  - {lab: d, end: 0.738456}
+  - {lab: I, end: 0.8}
+  - {lab: C, end: 0.855583}
+  - {lab: '?', end: 0.885}
+  - {lab: a, end: 0.97}
+  - {lab: n, end: 1.036158}
+  - {lab: v, end: 1.065}
+  - {lab: 'i:', end: 1.125}
+  - {lab: '?', end: 1.14}
+  - {lab: aI, end: 1.25}
+  - {lab: n, end: 1.295}
+  - {lab: h, end: 1.383797}
+  - {lab: 'o:', end: 1.54}
+  - {lab: l, end: 1.593854}
+  - {lab: k, end: 1.7126}
+  - {lab: O, end: 1.84629}
+  - {lab: pf, end: 2.099766}
+  - {lab: _, end: 3.535}
+- prompt: spike0026
+  text: Du machst dich lächerlich.
+  style: angry
+  start: 86.58
+  end: 89.64
+  segments:
+  - {lab: H#, end: 0.369046}
+  - {lab: d, end: 0.427731}
+  - {lab: 'u:', end: 0.51}
+  - {lab: m, end: 0.58}
+  - {lab: a, end: 0.68}
+  - {lab: x, end: 0.72}
+  - {lab: s, end: 0.783531}
+  - {lab: t, end: 0.815}
+  - {lab: d, end: 0.853966}
+  - {lab: I, end: 0.894675}
+  - {lab: C, end: 1.02117}
+  - {lab: l, end: 1.11}
+  - {lab: E, end: 1.188192}
+  - {lab: C, end: 1.292581}
+  - {lab: '6', end: 1.385}
+  - {lab: l, end: 1.465}
+  - {lab: I, end: 1.55}
+  - {lab: C, end: 1.771542}
+  - {lab: _, end: 3.055}
+- prompt: spike0028
+  text: Wann wirst du endlich mal erwachsen?
+  style: angry
+  start: 89.64
+  end: 93.3
+  segments:
+  - {lab: H#, end: 0.49684}
+  - {lab: v, end: 0.582819}
+  - {lab: a, end: 0.71}
+  - {lab: n, end: 0.826633}
+  - {lab: v, end: 0.869009}
+  - {lab: I, end: 0.932265}
+  - {lab: '6', end: 0.97157}
+  - {lab: s, end: 1.020087}
+  - {lab: t, end: 1.05}
+  - {lab: d, end: 1.095958}
+  - {lab: 'u:', end: 1.22}
+  - {lab: '?', end: 1.256531}
+  - {lab: E, end: 1.365}
+  - {lab: n, end: 1.443844}
+  - {lab: t, end: 1.506898}
+  - {lab: l, end: 1.535}
+  - {lab: I, end: 1.585096}
+  - {lab: C, end: 1.669233}
+  - {lab: m, end: 1.72}
+  - {lab: 'a:', end: 1.79329}
+  - {lab: l, end: 1.851633}
+  - {lab: '?', end: 1.865}
+  - {lab: E, end: 1.913047}
+  - {lab: '6', end: 1.975}
+  - {lab: v, end: 2.027277}
+  - {lab: a, end: 2.141507}
+  - {lab: k, end: 2.205}
+  - {lab: s, end: 2.335}
+  - {lab: '@', end: 2.348473}
+  - {lab: n, end: 2.471915}
+  - {lab: _, end: 3.655}
+- prompt: spike0029
+  text: Das Leben ist ein Krieg, entweder du gewinnst oder du verlierst.
+  style: angry
+  start: 93.3
+  end: 98.64
+  segments:
+  - {lab: H#, end: 0.50111}
+  - {lab: d, end: 0.58567}
+  - {lab: a, end: 0.63}
+  - {lab: s, end: 0.717275}
+  - {lab: l, end: 0.77}
+  - {lab: 'e:', end: 0.911332}
+  - {lab: b, end: 0.958188}
+  - {lab: '@', end: 0.965373}
+  - {lab: n, end: 1.015}
+  - {lab: '?', end: 1.023713}
+  - {lab: I, end: 1.05}
+  - {lab: s, end: 1.117057}
+  - {lab: t, end: 1.182794}
+  - {lab: '?', end: 1.194435}
