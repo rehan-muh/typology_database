@@ -1,0 +1,100 @@
+- prompt: spike0051
+  text: Würdest du gerne mit jemand anderem sprechen?
+  style: angry
+  start: 178.68
+  end: 182.88
+  segments:
+  - {lab: H#, end: 0.34}
+  - {lab: v, end: 0.377707}
+  - {lab: Y, end: 0.43669}
+  - {lab: '6', end: 0.456944}
+  - {lab: d, end: 0.490344}
+  - {lab: '@', end: 0.51}
+  - {lab: s, end: 0.572068}
+  - {lab: t, end: 0.59623}
+  - {lab: d, end: 0.630341}
+  - {lab: 'u:', end: 0.675}
+  - {lab: g, end: 0.74}
+  - {lab: E, end: 0.801606}
+  - {lab: '6', end: 0.875868}
+  - {lab: n, end: 0.896832}
+  - {lab: '@', end: 0.925}
+  - {lab: m, end: 0.993835}
+  - {lab: I, end: 1.041803}
+  - {lab: t, end: 1.113578}
+  - {lab: j, end: 1.133121}
+  - {lab: 'e:', end: 1.152664}
+  - {lab: m, end: 1.205}
+  - {lab: a, end: 1.27}
+  - {lab: n, end: 1.295}
+  - {lab: t, end: 1.363014}
+  - {lab: '?', end: 1.38}
+  - {lab: a, end: 1.47}
+  - {lab: n, end: 1.550269}
+  - {lab: d, end: 1.58}
+  - {lab: '6', end: 1.625}
+  - {lab: R, end: 1.665}
+  - {lab: '@', end: 1.692042}
+  - {lab: m, end: 1.755}
+  - {lab: S, end: 1.860109}
+  - {lab: p, end: 1.916961}
+  - {lab: R, end: 1.955}
+  - {lab: E, end: 2.045}
+  - {lab: C, end: 2.155}
+  - {lab: '@', end: 2.205}
+  - {lab: n, end: 2.312789}
+  - {lab: _, end: 4.195}
+- prompt: spike0052
+  text: Sprich lieber mal mit Poppy.
+  style: angry
+  start: 182.88
+  end: 186.06
+  segments:
+  - {lab: H#, end: 0.014928}
+  - {lab: S, end: 0.11}
+  - {lab: p, end: 0.18}
+  - {lab: R, end: 0.205}
+  - {lab: I, end: 0.266931}
+  - {lab: C, end: 0.38067}
+  - {lab: l, end: 0.425}
+  - {lab: 'i:', end: 0.518934}
+  - {lab: b, end: 0.565}
+  - {lab: '6', end: 0.64}
+  - {lab: m, end: 0.695}
+  - {lab: 'a:', end: 0.775}
+  - {lab: l, end: 0.809323}
+  - {lab: m, end: 0.85}
+  - {lab: I, end: 0.93}
+  - {lab: t, end: 0.980287}
+  - {lab: p, end: 1.114286}
+  - {lab: O, end: 1.194614}
+  - {lab: p, end: 1.278141}
+  - {lab: 'i:', end: 1.462255}
+  - {lab: _, end: 3.175}
+- prompt: spike0053
+  text: Sprich lieber mal mit Prudence.
+  style: angry
+  start: 186.06
+  end: 189.42
+  segments:
+  - {lab: H#, end: 0.15}
+  - {lab: S, end: 0.275}
+  - {lab: p, end: 0.352952}
+  - {lab: R, end: 0.385}
+  - {lab: I, end: 0.44}
+  - {lab: C, end: 0.564438}
+  - {lab: l, end: 0.62}
+  - {lab: 'i:', end: 0.705903}
+  - {lab: b, end: 0.764195}
+  - {lab: '6', end: 0.85661}
+  - {lab: m, end: 0.915}
+  - {lab: 'a:', end: 1.005184}
+  - {lab: l, end: 1.03}
+  - {lab: m, end: 1.075}
+  - {lab: I, end: 1.136341}
+  - {lab: t, end: 1.188591}
+  - {lab: p, end: 1.349605}
+  - {lab: r, end: 1.39}
+  - {lab: 'u:', end: 1.517728}
+  - {lab: d, end: 1.560025}
+  - {lab: '@', end: 1.6727}
