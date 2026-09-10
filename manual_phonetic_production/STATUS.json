@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-09T16:13:22-07:00",
+  "last_updated": "2026-09-09T17:12:38-07:00",
   "total_sources": 127,
   "accepted_sources": 42,
   "excluded_sources": 25,
   "review_sources": 60,
   "ingested_sources": 42,
-  "parsed_rows_total": 1357160,
+  "parsed_rows_total": 1357295,
   "parsed_logical_tables_total": 84,
   "inventory_file_records": 922,
   "variable_dictionary_records": 1074,
-  "notes": "Discovery+backlog pass materially advanced PAVOQUE from accepted registry-only status into row-level ingest. All six public annotation YAML files were inventoried with immutable upstream Git blob SHAs and sizes. The first three complete angry-style utterances were parsed into 3 namespaced utterance rows plus 97 manually corrected phone/silence segment rows, preserving original text, style, utterance boundaries, segment labels, and segment endpoints; derived starts/durations are separate and no IPA was invented. A 17-record source-specific variable dictionary documents raw and derived fields. PAVOQUE is primary German non-singing speech despite the speaker also being an opera singer; the corpus styles documented here are spoken. Fresh discovery re-screened manually corrected production corpora including IFCASL and KEC; no duplicate or weak source was promoted without isolatable qualifying annotations. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery+backlog pass continued PAVOQUE source-faithful row-level ingestion. Added five complete angry-style utterances (spike0004-spike0008) and 130 manually corrected segment/silence rows pinned to immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423, for 135 new structured rows. Cumulative durable PAVOQUE mirror is now 8 utterances and 227 segment/silence rows; next exact continuation is spike0009. Original German text, style, utterance timing, source SAMPA/segment labels, and source endpoints are preserved; starts/durations are separate derived fields and no IPA was invented. The status record now explicitly distinguishes the previously generated 232,958-row local batch from the durable committed mirror to prevent double counting. Fresh discovery identified a reported 1,043-vowel manually bounded subset in a 2026 conversational-Spanish production study, but no public observation-level deposit was resolved, so it was not admitted or counted. All writes confined to manual_phonetic_production/."
 }
