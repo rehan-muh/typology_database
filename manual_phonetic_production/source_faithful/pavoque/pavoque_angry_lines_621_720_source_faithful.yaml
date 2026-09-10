@@ -1,0 +1,100 @@
+  - {lab: '?', end: 3.095}
+  - {lab: aI, end: 3.225}
+  - {lab: n, end: 3.251641}
+  - {lab: f, end: 3.310594}
+  - {lab: a, end: 3.357266}
+  - {lab: x, end: 3.403937}
+  - {lab: '?', end: 3.417447}
+  - {lab: E, end: 3.48684}
+  - {lab: t, end: 3.558361}
+  - {lab: v, end: 3.57834}
+  - {lab: a, end: 3.645}
+  - {lab: s, end: 3.72}
+  - {lab: '?', end: 3.727566}
+  - {lab: U, end: 3.781606}
+  - {lab: n, end: 3.813539}
+  - {lab: t, end: 3.864018}
+  - {lab: '?', end: 3.872978}
+  - {lab: I, end: 3.920392}
+  - {lab: C, end: 3.985}
+  - {lab: v, end: 4.032772}
+  - {lab: 'e:', end: 4.085}
+  - {lab: '6', end: 4.145}
+  - {lab: d, end: 4.169176}
+  - {lab: '@', end: 4.21393}
+  - {lab: '?', end: 4.228668}
+  - {lab: a, end: 4.33982}
+  - {lab: n, end: 4.39}
+  - {lab: t, end: 4.461411}
+  - {lab: v, end: 4.495186}
+  - {lab: O, end: 4.570106}
+  - {lab: '6', end: 4.64}
+  - {lab: t, end: 4.711962}
+  - {lab: '@', end: 4.719946}
+  - {lab: n, end: 4.823114}
+  - {lab: _, end: 6.595}
+- prompt: spike0019
+  text: Würdest du gerne mit jemand anderem sprechen?
+  style: angry
+  start: 66.96
+  end: 71.16
+  segments:
+  - {lab: H#, end: 0.825}
+  - {lab: v, end: 0.872312}
+  - {lab: Y, end: 0.921145}
+  - {lab: '6', end: 0.952464}
+  - {lab: d, end: 0.975355}
+  - {lab: '@', end: 1.01}
+  - {lab: s, end: 1.074669}
+  - {lab: t, end: 1.101689}
+  - {lab: d, end: 1.128853}
+  - {lab: 'u:', end: 1.178451}
+  - {lab: g, end: 1.227988}
+  - {lab: E, end: 1.28}
+  - {lab: '6', end: 1.343029}
+  - {lab: n, end: 1.36268}
+  - {lab: '@', end: 1.405}
+  - {lab: m, end: 1.465}
+  - {lab: I, end: 1.520503}
+  - {lab: t, end: 1.591125}
+  - {lab: j, end: 1.604634}
+  - {lab: 'e:', end: 1.629812}
+  - {lab: m, end: 1.670957}
+  - {lab: a, end: 1.75}
+  - {lab: n, end: 1.769826}
+  - {lab: t, end: 1.808937}
+  - {lab: '?', end: 1.84518}
+  - {lab: a, end: 1.945}
+  - {lab: n, end: 2.015}
+  - {lab: d, end: 2.032659}
+  - {lab: '6', end: 2.09}
+  - {lab: R, end: 2.122932}
+  - {lab: '@', end: 2.156093}
+  - {lab: m, end: 2.208291}
+  - {lab: S, end: 2.302862}
+  - {lab: p, end: 2.396637}
+  - {lab: R, end: 2.418926}
+  - {lab: E, end: 2.51}
+  - {lab: C, end: 2.605}
+  - {lab: '@', end: 2.665}
+  - {lab: n, end: 2.807035}
+  - {lab: _, end: 4.195}
+- prompt: spike0021
+  text: Sprich lieber mal mit Obadiah.
+  style: angry
+  start: 71.16
+  end: 74.46
+  segments:
+  - {lab: H#, end: 0.304714}
+  - {lab: S, end: 0.395636}
+  - {lab: p, end: 0.485223}
+  - {lab: R, end: 0.507447}
+  - {lab: I, end: 0.555}
+  - {lab: C, end: 0.665332}
+  - {lab: l, end: 0.71448}
+  - {lab: 'i:', end: 0.796187}
+  - {lab: b, end: 0.85}
+  - {lab: '6', end: 0.935}
+  - {lab: m, end: 0.985}
+  - {lab: 'a:', end: 1.043767}
+  - {lab: l, end: 1.086157}
