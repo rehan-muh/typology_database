@@ -1,0 +1,100 @@
+  - {lab: H#, end: 0.435}
+  - {lab: '?', end: 0.45}
+  - {lab: E, end: 0.55}
+  - {lab: s, end: 0.67613}
+  - {lab: b, end: 0.765019}
+  - {lab: I, end: 0.86466}
+  - {lab: l, end: 0.940195}
+  - {lab: d, end: 0.982298}
+  - {lab: '@', end: 1.089423}
+  - {lab: t, end: 1.179082}
+  - {lab: k, end: 1.293895}
+  - {lab: aI, end: 1.415}
+  - {lab: n, end: 1.46}
+  - {lab: '@', end: 1.545}
+  - {lab: h, end: 1.62}
+  - {lab: Y, end: 1.724408}
+  - {lab: d, end: 1.782133}
+  - {lab: R, end: 1.86}
+  - {lab: 'a:', end: 2.043742}
+  - {lab: t, end: 2.167205}
+  - {lab: '@', end: 2.388255}
+  - {lab: _, end: 2.935}
+- prompt: m0019
+  text: Verlangte dafür allerdings Tantiemen.
+  style: angry
+  start: 254.76
+  end: 258.48
+  segments:
+  - {lab: H#, end: 0.396842}
+  - {lab: f, end: 0.474859}
+  - {lab: '6', end: 0.555334}
+  - {lab: l, end: 0.6}
+  - {lab: a, end: 0.68}
+  - {lab: N, end: 0.74}
+  - {lab: t, end: 0.794174}
+  - {lab: '@', end: 0.84}
+  - {lab: d, end: 0.910122}
+  - {lab: 'a:', end: 1.057222}
+  - {lab: f, end: 1.155}
+  - {lab: 'y:', end: 1.208342}
+  - {lab: '6', end: 1.255}
+  - {lab: '?', end: 1.278373}
+  - {lab: a, end: 1.34}
+  - {lab: l, end: 1.37}
+  - {lab: '6', end: 1.455}
+  - {lab: d, end: 1.504531}
+  - {lab: I, end: 1.565254}
+  - {lab: N, end: 1.605}
+  - {lab: s, end: 1.675659}
+  - {lab: t, end: 1.763668}
+  - {lab: a, end: 1.826949}
+  - {lab: n, end: 1.884694}
+  - {lab: t, end: 1.988579}
+  - {lab: 'i:', end: 2.046257}
+  - {lab: 'e:', end: 2.185}
+  - {lab: m, end: 2.240992}
+  - {lab: '@', end: 2.304266}
+  - {lab: n, end: 2.398869}
+  - {lab: _, end: 3.715}
+- prompt: m0020
+  text: 'Der Begriff Teamwork bezeichnet:'
+  style: angry
+  start: 258.48
+  end: 261.9
+  segments:
+  - {lab: H#, end: 0.305}
+  - {lab: d, end: 0.339486}
+  - {lab: E, end: 0.404191}
+  - {lab: '6', end: 0.465004}
+  - {lab: b, end: 0.521786}
+  - {lab: '@', end: 0.610586}
+  - {lab: g, end: 0.719897}
+  - {lab: R, end: 0.799782}
+  - {lab: I, end: 0.91}
+  - {lab: f, end: 1.055}
+  - {lab: t, end: 1.221787}
+  - {lab: 'i:', end: 1.365}
+  - {lab: m, end: 1.44661}
+  - {lab: w, end: 1.561479}
+  - {lab: '9', end: 1.689248}
+  - {lab: '6', end: 1.76}
+  - {lab: k, end: 1.815}
+  - {lab: b, end: 1.888101}
+  - {lab: '@', end: 1.995}
+  - {lab: ts, end: 2.142949}
+  - {lab: aI, end: 2.307205}
+  - {lab: C, end: 2.40856}
+  - {lab: n, end: 2.46}
+  - {lab: '@', end: 2.61}
+  - {lab: t, end: 2.747638}
+  - {lab: _, end: 3.415}
+- prompt: m0021
+  text: Der Schmuggel mit Öl blüht.
+  style: angry
+  start: 261.9
+  end: 265.02
+  segments:
+  - {lab: H#, end: 0.67204}
+  - {lab: d, end: 0.735}
+  - {lab: E, end: 0.797882}
