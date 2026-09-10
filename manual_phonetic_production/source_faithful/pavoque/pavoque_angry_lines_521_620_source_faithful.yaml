@@ -1,0 +1,100 @@
+  - {lab: s, end: 1.628444}
+  - {lab: d, end: 1.706775}
+  - {lab: 'u:', end: 1.765376}
+  - {lab: z, end: 1.842746}
+  - {lab: 'a:', end: 1.992572}
+  - {lab: g, end: 2.055205}
+  - {lab: '@', end: 2.061959}
+  - {lab: n, end: 2.154066}
+  - {lab: v, end: 2.195}
+  - {lab: I, end: 2.299594}
+  - {lab: l, end: 2.415649}
+  - {lab: s, end: 2.533545}
+  - {lab: t, end: 2.60678}
+  - {lab: _, end: 3.895}
+- prompt: spike0017
+  text: Ich glaube du hast mir eine Frage gestellt.
+  style: angry
+  start: 56.28
+  end: 60.36
+  segments:
+  - {lab: H#, end: 0.536751}
+  - {lab: '?', end: 0.563773}
+  - {lab: I, end: 0.61}
+  - {lab: C, end: 0.745556}
+  - {lab: g, end: 0.809603}
+  - {lab: l, end: 0.86}
+  - {lab: aU, end: 0.995507}
+  - {lab: b, end: 1.055}
+  - {lab: '@', end: 1.098681}
+  - {lab: d, end: 1.148507}
+  - {lab: 'u:', end: 1.232562}
+  - {lab: h, end: 1.28722}
+  - {lab: a, end: 1.33}
+  - {lab: s, end: 1.416187}
+  - {lab: t, end: 1.484568}
+  - {lab: m, end: 1.504622}
+  - {lab: 'i:', end: 1.539014}
+  - {lab: '6', end: 1.57}
+  - {lab: '?', end: 1.585}
+  - {lab: aI, end: 1.665}
+  - {lab: n, end: 1.715}
+  - {lab: '@', end: 1.79}
+  - {lab: f, end: 1.88}
+  - {lab: R, end: 1.97}
+  - {lab: 'a:', end: 2.125}
+  - {lab: g, end: 2.181559}
+  - {lab: '@', end: 2.226227}
+  - {lab: g, end: 2.291329}
+  - {lab: '@', end: 2.338613}
+  - {lab: S, end: 2.472494}
+  - {lab: t, end: 2.542843}
+  - {lab: E, end: 2.673929}
+  - {lab: l, end: 2.755}
+  - {lab: t, end: 2.94169}
+  - {lab: _, end: 4.075}
+- prompt: spike0018
+  text: Ich kann Fragen nicht beantworten – erzähl mir einfach etwas und ich werde antworten.
+  style: angry
+  start: 60.36
+  end: 66.96
+  segments:
+  - {lab: H#, end: 0.542247}
+  - {lab: '?', end: 0.59}
+  - {lab: I, end: 0.69}
+  - {lab: C, end: 0.819819}
+  - {lab: k, end: 0.930411}
+  - {lab: a, end: 0.995}
+  - {lab: n, end: 1.075}
+  - {lab: f, end: 1.155}
+  - {lab: R, end: 1.229421}
+  - {lab: 'a:', end: 1.385}
+  - {lab: g, end: 1.452338}
+  - {lab: '@', end: 1.457251}
+  - {lab: n, end: 1.492254}
+  - {lab: n, end: 1.525}
+  - {lab: I, end: 1.585}
+  - {lab: C, end: 1.653148}
+  - {lab: t, end: 1.685695}
+  - {lab: b, end: 1.753792}
+  - {lab: '@', end: 1.79439}
+  - {lab: '?', end: 1.837377}
+  - {lab: a, end: 1.925}
+  - {lab: n, end: 1.982918}
+  - {lab: t, end: 2.061938}
+  - {lab: v, end: 2.0867}
+  - {lab: O, end: 2.180043}
+  - {lab: '6', end: 2.226714}
+  - {lab: t, end: 2.316986}
+  - {lab: '@', end: 2.32804}
+  - {lab: n, end: 2.399275}
+  - {lab: _, end: 2.65781}
+  - {lab: '?', end: 2.691585}
+  - {lab: E, end: 2.72229}
+  - {lab: '6', end: 2.741327}
+  - {lab: ts, end: 2.853092}
+  - {lab: 'E:', end: 2.928012}
+  - {lab: l, end: 2.960559}
+  - {lab: m, end: 3.015}
+  - {lab: 'i:', end: 3.045}
+  - {lab: '6', end: 3.08}
