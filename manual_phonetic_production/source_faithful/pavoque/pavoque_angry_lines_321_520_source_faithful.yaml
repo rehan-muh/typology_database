@@ -1,0 +1,200 @@
+  - {lab: '6', end: 1.61271}
+  - {lab: '?', end: 1.616394}
+  - {lab: aI, end: 1.683949}
+  - {lab: n, end: 1.722639}
+  - {lab: p, end: 1.764092}
+  - {lab: R, end: 1.8}
+  - {lab: 'o:', end: 1.852221}
+  - {lab: b, end: 1.92649}
+  - {lab: l, end: 1.955}
+  - {lab: 'e:', end: 2.07}
+  - {lab: m, end: 2.13}
+  - {lab: h, end: 2.185}
+  - {lab: a, end: 2.245}
+  - {lab: s, end: 2.318961}
+  - {lab: t, end: 2.35151}
+  - {lab: d, end: 2.387845}
+  - {lab: 'u:', end: 2.581195}
+  - {lab: _, end: 4.075}
+- prompt: spike0011
+  text: Ich bin Spike, welches Problem hast du?
+  style: angry
+  start: 35.52
+  end: 39.36
+  segments:
+  - {lab: H#, end: 0.28}
+  - {lab: '?', end: 0.308966}
+  - {lab: I, end: 0.401102}
+  - {lab: C, end: 0.474812}
+  - {lab: b, end: 0.535255}
+  - {lab: I, end: 0.605}
+  - {lab: n, end: 0.655}
+  - {lab: s, end: 0.722353}
+  - {lab: p, end: 0.817076}
+  - {lab: aI, end: 1.065}
+  - {lab: k, end: 1.191636}
+  - {lab: _, end: 1.25856}
+  - {lab: v, end: 1.279474}
+  - {lab: E, end: 1.329842}
+  - {lab: l, end: 1.365}
+  - {lab: C, end: 1.429964}
+  - {lab: '@', end: 1.475418}
+  - {lab: s, end: 1.52}
+  - {lab: p, end: 1.591574}
+  - {lab: R, end: 1.611166}
+  - {lab: 'o:', end: 1.667063}
+  - {lab: b, end: 1.743635}
+  - {lab: l, end: 1.785}
+  - {lab: 'e:', end: 1.895}
+  - {lab: m, end: 1.95}
+  - {lab: h, end: 2.01}
+  - {lab: a, end: 2.085}
+  - {lab: s, end: 2.155388}
+  - {lab: t, end: 2.1904}
+  - {lab: d, end: 2.23}
+  - {lab: 'u:', end: 2.452683}
+  - {lab: _, end: 3.835}
+- prompt: spike0012
+  text: Entschuldigung, sag das nochmal.
+  style: angry
+  start: 39.36
+  end: 42.78
+  segments:
+  - {lab: H#, end: 0.340921}
+  - {lab: '?', end: 0.365492}
+  - {lab: E, end: 0.44}
+  - {lab: n, end: 0.492646}
+  - {lab: t, end: 0.516768}
+  - {lab: S, end: 0.6241}
+  - {lab: U, end: 0.7}
+  - {lab: l, end: 0.77}
+  - {lab: d, end: 0.806959}
+  - {lab: I, end: 0.865}
+  - {lab: g, end: 0.929118}
+  - {lab: U, end: 1.02}
+  - {lab: N, end: 1.080504}
+  - {lab: _, end: 1.290585}
+  - {lab: z, end: 1.38}
+  - {lab: 'a:', end: 1.475481}
+  - {lab: k, end: 1.51}
+  - {lab: d, end: 1.570693}
+  - {lab: a, end: 1.63}
+  - {lab: s, end: 1.701533}
+  - {lab: n, end: 1.732861}
+  - {lab: O, end: 1.8}
+  - {lab: x, end: 1.850187}
+  - {lab: m, end: 1.93}
+  - {lab: 'a:', end: 2.079925}
+  - {lab: l, end: 2.247621}
+  - {lab: _, end: 3.415}
+- prompt: spike0013
+  text: Vielleicht habe ich falsch verstanden.
+  style: angry
+  start: 42.78
+  end: 46.56
+  segments:
+  - {lab: H#, end: 0.29}
+  - {lab: f, end: 0.39}
+  - {lab: 'i:', end: 0.465}
+  - {lab: l, end: 0.53}
+  - {lab: aI, end: 0.655}
+  - {lab: C, end: 0.73}
+  - {lab: t, end: 0.777813}
+  - {lab: h, end: 0.825}
+  - {lab: 'a:', end: 0.895}
+  - {lab: b, end: 0.930249}
+  - {lab: '@', end: 0.94}
+  - {lab: '?', end: 0.955}
+  - {lab: I, end: 1.025}
+  - {lab: C, end: 1.12}
+  - {lab: f, end: 1.26}
+  - {lab: a, end: 1.3}
+  - {lab: l, end: 1.365}
+  - {lab: S, end: 1.435758}
+  - {lab: f, end: 1.5}
+  - {lab: '6', end: 1.565}
+  - {lab: S, end: 1.672185}
+  - {lab: t, end: 1.736132}
+  - {lab: a, end: 1.815}
+  - {lab: n, end: 1.906156}
+  - {lab: d, end: 1.966337}
+  - {lab: '@', end: 1.972478}
+  - {lab: n, end: 2.064811}
+  - {lab: _, end: 3.775}
+- prompt: spike0014
+  text: Habe ich etwas falsches gesagt?
+  style: angry
+  start: 46.56
+  end: 49.92
+  segments:
+  - {lab: H#, end: 0.272659}
+  - {lab: h, end: 0.393022}
+  - {lab: 'a:', end: 0.484522}
+  - {lab: b, end: 0.535492}
+  - {lab: '@', end: 0.597516}
+  - {lab: '?', end: 0.607956}
+  - {lab: I, end: 0.632519}
+  - {lab: C, end: 0.705}
+  - {lab: '?', end: 0.731389}
+  - {lab: E, end: 0.795}
+  - {lab: t, end: 0.85298}
+  - {lab: v, end: 0.88}
+  - {lab: a, end: 0.95}
+  - {lab: s, end: 1.06}
+  - {lab: f, end: 1.172924}
+  - {lab: a, end: 1.245}
+  - {lab: l, end: 1.29266}
+  - {lab: S, end: 1.401368}
+  - {lab: '@', end: 1.44804}
+  - {lab: s, end: 1.514976}
+  - {lab: g, end: 1.566241}
+  - {lab: '@', end: 1.623671}
+  - {lab: z, end: 1.735}
+  - {lab: 'a:', end: 1.970022}
+  - {lab: k, end: 2.06}
+  - {lab: t, end: 2.219959}
+  - {lab: _, end: 3.355}
+- prompt: spike0015
+  text: Bist du noch da?
+  style: angry
+  start: 49.92
+  end: 52.38
+  segments:
+  - {lab: H#, end: 0.489485}
+  - {lab: b, end: 0.515475}
+  - {lab: I, end: 0.565}
+  - {lab: s, end: 0.6281}
+  - {lab: t, end: 0.664379}
+  - {lab: d, end: 0.701418}
+  - {lab: 'u:', end: 0.748847}
+  - {lab: n, end: 0.79}
+  - {lab: O, end: 0.855}
+  - {lab: x, end: 0.918326}
+  - {lab: d, end: 1.025095}
+  - {lab: 'a:', end: 1.348791}
+  - {lab: _, end: 2.455}
+- prompt: spike0016
+  text: Gibt es noch etwas, das du sagen willst?
+  style: angry
+  start: 52.38
+  end: 56.28
+  segments:
+  - {lab: H#, end: 0.571675}
+  - {lab: g, end: 0.61549}
+  - {lab: 'i:', end: 0.682203}
+  - {lab: p, end: 0.71}
+  - {lab: t, end: 0.761593}
+  - {lab: '?', end: 0.76736}
+  - {lab: E, end: 0.793959}
+  - {lab: s, end: 0.899574}
+  - {lab: n, end: 0.975}
+  - {lab: O, end: 1.045}
+  - {lab: x, end: 1.13}
+  - {lab: '?', end: 1.155631}
+  - {lab: E, end: 1.222561}
+  - {lab: t, end: 1.303711}
+  - {lab: v, end: 1.331861}
+  - {lab: a, end: 1.41}
+  - {lab: s, end: 1.479232}
+  - {lab: d, end: 1.520301}
+  - {lab: a, end: 1.565}
