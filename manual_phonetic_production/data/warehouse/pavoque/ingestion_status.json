@@ -32,5 +32,16 @@
     "artifact_size_bytes": 8536344,
     "artifact_expires": "2026-09-21T17:16:34Z"
   },
-  "durable_materialization_note": "The validated source-faithful observation tables were generated successfully in CI. GitHub Actions has contents:read permission only, so the 110 MB segment table and 2.6 MB utterance table could not be pushed by CI. The authenticated source script and checksummed manifest/status are durable in-repository and exactly regenerate these tables; the full run artifact is retained temporarily for verification."
+  "durable_committed_mirror": {
+    "style": "angry",
+    "first_source_utterance_id": "spike0001",
+    "last_source_utterance_id": "spike0012",
+    "utterance_rows": 12,
+    "segment_rows": 337,
+    "next_source_utterance_id": "spike0013",
+    "source_blob_sha": "bff79d978f740f6c2b09bc595ade03b6bdf33423",
+    "latest_utterance_chunk": "data/source_faithful/pavoque_angry_utterances_chunk003.csv",
+    "latest_segment_chunk": "data/source_faithful/pavoque_angry_segments_chunk003.csv"
+  },
+  "durable_materialization_note": "The validated full source-faithful observation tables were generated successfully in CI. GitHub Actions has contents:read permission only, so the 110 MB segment table and 2.6 MB utterance table could not be pushed by CI. The authenticated source script and checksummed manifest/status are durable in-repository and exactly regenerate these tables; the full run artifact is retained temporarily for verification. A separately committed incremental mirror now preserves angry-style utterances spike0001-spike0012 and all 337 corresponding manually corrected segment/silence intervals directly in the repository; future incremental runs continue from spike0013 without double counting the CI-generated artifact."
 }
