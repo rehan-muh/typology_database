@@ -1,0 +1,200 @@
+  segments:
+  - {lab: H#, end: 0.415743}
+  - {lab: n, end: 0.44}
+  - {lab: 'a:', end: 0.507244}
+  - {lab: d, end: 0.535}
+  - {lab: a, end: 0.61}
+  - {lab: n, end: 0.650942}
+  - {lab: v, end: 0.675506}
+  - {lab: 'e:', end: 0.730775}
+  - {lab: '6', end: 0.760559}
+  - {lab: d, end: 0.792283}
+  - {lab: '@', end: 0.811221}
+  - {lab: '?', end: 0.816441}
+  - {lab: I, end: 0.84776}
+  - {lab: C, end: 0.900573}
+  - {lab: m, end: 0.938954}
+  - {lab: I, end: 0.99}
+  - {lab: C, end: 1.039665}
+  - {lab: m, end: 1.09}
+  - {lab: 'a:', end: 1.154501}
+  - {lab: l, end: 1.195}
+  - {lab: f, end: 1.298814}
+  - {lab: 'o:', end: 1.367593}
+  - {lab: '6', end: 1.42}
+  - {lab: S, end: 1.508221}
+  - {lab: t, end: 1.566802}
+  - {lab: E, end: 1.681396}
+  - {lab: l, end: 1.761229}
+  - {lab: '@', end: 1.77}
+  - {lab: n, end: 1.874222}
+  - {lab: _, end: 3.775}
+- prompt: spike0005
+  text: Ich habe rote Haare und ein feuriges Temperament.
+  style: angry
+  start: 15.72
+  end: 20.16
+  segments:
+  - {lab: H#, end: 0.71}
+  - {lab: '?', end: 0.735}
+  - {lab: I, end: 0.78877}
+  - {lab: C, end: 0.865559}
+  - {lab: h, end: 0.887674}
+  - {lab: 'a:', end: 0.95}
+  - {lab: b, end: 0.99654}
+  - {lab: '@', end: 1.046779}
+  - {lab: R, end: 1.134011}
+  - {lab: 'o:', end: 1.216328}
+  - {lab: t, end: 1.285139}
+  - {lab: '@', end: 1.349018}
+  - {lab: h, end: 1.415}
+  - {lab: 'a:', end: 1.549897}
+  - {lab: R, end: 1.607027}
+  - {lab: '@', end: 1.658629}
+  - {lab: '?', end: 1.672144}
+  - {lab: U, end: 1.745}
+  - {lab: n, end: 1.786323}
+  - {lab: t, end: 1.855749}
+  - {lab: '?', end: 1.86031}
+  - {lab: aI, end: 1.930153}
+  - {lab: n, end: 1.99}
+  - {lab: f, end: 2.12}
+  - {lab: OY, end: 2.26}
+  - {lab: R, end: 2.315}
+  - {lab: I, end: 2.36}
+  - {lab: g, end: 2.406849}
+  - {lab: '@', end: 2.45}
+  - {lab: s, end: 2.529102}
+  - {lab: t, end: 2.604991}
+  - {lab: E, end: 2.67}
+  - {lab: m, end: 2.715}
+  - {lab: p, end: 2.776022}
+  - {lab: '6', end: 2.779823}
+  - {lab: R, end: 2.8}
+  - {lab: a, end: 2.863285}
+  - {lab: m, end: 2.92533}
+  - {lab: E, end: 3.034062}
+  - {lab: n, end: 3.08075}
+  - {lab: t, end: 3.21774}
+  - {lab: _, end: 4.435}
+- prompt: spike0006
+  text: Also, in welchem Zustand bist du heute?
+  style: angry
+  start: 20.16
+  end: 24.0
+  segments:
+  - {lab: H#, end: 0.387589}
+  - {lab: '?', end: 0.437957}
+  - {lab: a, end: 0.512895}
+  - {lab: l, end: 0.555}
+  - {lab: z, end: 0.598275}
+  - {lab: 'o:', end: 0.802819}
+  - {lab: '?', end: 0.89557}
+  - {lab: I, end: 0.923211}
+  - {lab: n, end: 0.982793}
+  - {lab: v, end: 1.015}
+  - {lab: E, end: 1.081687}
+  - {lab: l, end: 1.105}
+  - {lab: C, end: 1.173823}
+  - {lab: '@', end: 1.178123}
+  - {lab: m, end: 1.240776}
+  - {lab: ts, end: 1.345}
+  - {lab: 'u:', end: 1.405}
+  - {lab: S, end: 1.461905}
+  - {lab: t, end: 1.508438}
+  - {lab: a, end: 1.55}
+  - {lab: n, end: 1.59151}
+  - {lab: t, end: 1.628979}
+  - {lab: b, end: 1.676464}
+  - {lab: I, end: 1.715}
+  - {lab: s, end: 1.774556}
+  - {lab: t, end: 1.802811}
+  - {lab: d, end: 1.84297}
+  - {lab: 'u:', end: 1.913375}
+  - {lab: h, end: 1.96}
+  - {lab: OY, end: 2.08045}
+  - {lab: t, end: 2.148358}
+  - {lab: '@', end: 2.303421}
+  - {lab: _, end: 3.835}
+- prompt: spike0007
+  text: Wie fühlst du dich heute?
+  style: angry
+  start: 24.0
+  end: 27.0
+  segments:
+  - {lab: H#, end: 0.17}
+  - {lab: v, end: 0.23}
+  - {lab: 'i:', end: 0.382713}
+  - {lab: f, end: 0.49}
+  - {lab: 'y:', end: 0.567005}
+  - {lab: l, end: 0.61}
+  - {lab: s, end: 0.716282}
+  - {lab: t, end: 0.725}
+  - {lab: d, end: 0.739892}
+  - {lab: 'u:', end: 0.786927}
+  - {lab: d, end: 0.836957}
+  - {lab: I, end: 0.886445}
+  - {lab: C, end: 0.977362}
+  - {lab: h, end: 1.015}
+  - {lab: OY, end: 1.16104}
+  - {lab: t, end: 1.247613}
+  - {lab: '@', end: 1.363147}
+  - {lab: _, end: 2.995}
+- prompt: spike0008
+  text: Ach ja?
+  style: angry
+  start: 27.0
+  end: 28.92
+  segments:
+  - {lab: H#, end: 0.280902}
+  - {lab: '?', end: 0.324898}
+  - {lab: a, end: 0.408238}
+  - {lab: x, end: 0.475}
+  - {lab: j, end: 0.61}
+  - {lab: 'a:', end: 0.963273}
+  - {lab: _, end: 1.915}
+- prompt: spike0009
+  text: Erzähl mir davon.
+  style: angry
+  start: 28.92
+  end: 31.44
+  segments:
+  - {lab: H#, end: 0.66}
+  - {lab: '?', end: 0.695}
+  - {lab: E, end: 0.733213}
+  - {lab: '6', end: 0.770372}
+  - {lab: ts, end: 0.897462}
+  - {lab: 'E:', end: 0.966709}
+  - {lab: l, end: 1.002205}
+  - {lab: m, end: 1.063768}
+  - {lab: 'i:', end: 1.119231}
+  - {lab: '6', end: 1.142525}
+  - {lab: d, end: 1.181619}
+  - {lab: 'a:', end: 1.275634}
+  - {lab: f, end: 1.375}
+  - {lab: O, end: 1.48}
+  - {lab: n, end: 1.608409}
+  - {lab: _, end: 2.515}
+- prompt: spike0010
+  text: Ich bin Spike, was für ein Problem hast du?
+  style: angry
+  start: 31.44
+  end: 35.52
+  segments:
+  - {lab: H#, end: 0.315}
+  - {lab: '?', end: 0.367251}
+  - {lab: I, end: 0.455}
+  - {lab: C, end: 0.539822}
+  - {lab: b, end: 0.6273}
+  - {lab: I, end: 0.695}
+  - {lab: n, end: 0.770121}
+  - {lab: s, end: 0.87}
+  - {lab: p, end: 0.940697}
+  - {lab: aI, end: 1.165}
+  - {lab: k, end: 1.281078}
+  - {lab: _, end: 1.371649}
+  - {lab: v, end: 1.396535}
+  - {lab: a, end: 1.47}
+  - {lab: s, end: 1.55}
+  - {lab: f, end: 1.577704}
+  - {lab: 'y:', end: 1.605954}
