@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-10T01:11:18-07:00",
+  "last_updated": "2026-09-10T02:11:01-07:00",
   "total_sources": 130,
   "accepted_sources": 42,
   "excluded_sources": 25,
   "review_sources": 63,
   "ingested_sources": 42,
-  "parsed_rows_total": 1358809,
+  "parsed_rows_total": 1359009,
   "parsed_logical_tables_total": 84,
   "inventory_file_records": 928,
   "variable_dictionary_records": 1085,
-  "notes": "Discovery+backlog pass added 200 exact source-faithful VoxAngeles mean-F0 observations from authoritative upstream source lines 2656-2855, advancing durable coverage to 2,854 observations (lines 2-2855) with exact continuation at line 2856. Rows remain pinned to upstream commit e30c638a8a2c22e576f871f0e2044780d56eab82 and immutable blob 9492dd2ed35044219aed483613fd3f7a44f292d3; original recording IDs and numeric strings are preserved verbatim and no unaudited forced-alignment material was admitted. Fresh discovery screened OSF, Zenodo, GitHub and priority phonetics-journal leads and added Schertz & Khan (2020), Journal of Phonetics 81, as a HIGH-priority review source: its public OSF project is tied directly to primary Hindi/Urdu stop production and exposes production data relevant to prevoicing duration, aspiration duration, voice quality and f0, but manual landmark/verification provenance must be confirmed and perception materials isolated before core admission. Automatic-only tools/resources were not promoted. Warehouse accounting now has 1,358,809 parsed rows across 84 logical tables, 928 file-manifest records, and 1,085 variable-dictionary records. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery+backlog pass added 200 exact source-faithful VoxAngeles mean-F0 observations from authoritative upstream source lines 2856-3055, advancing durable coverage to 3,054 observations (lines 2-3055) with continuation at line 3056. Rows remain pinned to upstream commit e30c638a8a2c22e576f871f0e2044780d56eab82 and immutable blob 9492dd2ed35044219aed483613fd3f7a44f292d3; original recording IDs and numeric strings are preserved verbatim and no unaudited forced-alignment material was admitted. The previously stale VoxAngeles file-manifest counter was reconciled to the same 3,054-row state. Fresh discovery identified Puggaard-Rode (2023), The /t/ release in Jutland Danish, as a high-value candidate: 5,169 /t/ releases were manually segmented using burst and periodicity-onset landmarks, and a public GitHub repository exposes affric.csv (10,447 stop rows overall) plus participant and geographic metadata. Because the underlying 1971-1976 recordings are a pre-existing dialect corpus, only the isolatable newly manually segmented /t/ layer can qualify; full source registration/core admission is deferred until the /t/ subset, license, and lineage are exhaustively inventoried. A newly published 2026 Laboratory Phonology Maori opening-vowel dataset was also screened; it contains rich duration/formant/intensity trajectories and manual morpheme coding, but its phonetic alignments are described as forced-aligned, so it was not admitted without evidence of manual boundary verification. Warehouse accounting now has 1,359,009 parsed rows across 84 logical tables, 928 file-manifest records, and 1,085 variable-dictionary records. All writes confined to manual_phonetic_production/."
 }
