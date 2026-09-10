@@ -1,0 +1,28 @@
+{
+  "source_id": "puggaard_rode_2024_jutland_stops",
+  "decision": "INCLUDE_NEW_MANUAL_ANNOTATION_LAYER_AUDITED_ONLY",
+  "publication": "Puggaard-Rode 2024, Journal of Phonetics 106, 101354",
+  "doi": "10.1016/j.wocn.2024.101354",
+  "repository": "https://doi.org/10.17605/OSF.IO/HYNQX",
+  "recording_lineage": "Royal Danish Library Jutland dialect interviews, 1971-1976",
+  "speakers_or_locations": 213,
+  "analysis_rows_documented": 17504,
+  "ptk_vot_rows": 10650,
+  "bdg_voicing_rows": 6854,
+  "source_variables_documented": 23,
+  "manual_scope": "Positive-VOT release and voicing-onset landmarks for /p t k/ were segmented manually in Praat. /b d g/ closure-voicing status was manually judged from waveforms. Preserve automatic REAPER voicing proportion only as a separate derived variable, never as substitute manual provenance.",
+  "source_faithful_bytes_ingested": 0,
+  "metadata_manifest_records_created": 4,
+  "variable_dictionary_records_created": 23,
+  "pending": [
+    "mirror public OSF data/vot_voi.csv source-faithfully with checksum",
+    "mirror/read data/bdg_voiprop.Rda and preserve every object/field",
+    "enumerate every OSF file and fitted model object",
+    "harmonize 17504 token observations after exact public bytes are retrieved",
+    "namespace tape_id and observation IDs",
+    "link tape_id to authoritative Royal Danish Library recording URLs"
+  ],
+  "deduplication": "The underlying recordings are legacy archive material, not a new recording collection. The qualifying object is the study's isolatable manual annotation/measurement layer. /p t k/ VOT is stated to reuse Puggaard 2021 measurements; do not count those measurements twice if that earlier source is later ingested. The 2024-added manual /b d g/ voicing labels and prosodic-boundary/context columns remain separately provenance-tracked.",
+  "validation": "Executable publication documents 17,504 rows and 23 variables; 10,650 /p t k/ tokens and 6,854 /b d g/ tokens. Manual VOT landmarks and manual binary voicing judgments are explicitly documented. No observation rows are counted as ingested until OSF bytes are mirrored/read.",
+  "updated": "2026-09-10T03:08:10-07:00"
+}
