@@ -1,0 +1,100 @@
+  - {lab: '@', end: 3.388257}
+  - {lab: m, end: 3.481877}
+  - {lab: g, end: 3.522712}
+  - {lab: '@', end: 3.57}
+  - {lab: z, end: 3.665}
+  - {lab: 'e:', end: 3.835443}
+  - {lab: '@', end: 3.845403}
+  - {lab: n, end: 3.944003}
+  - {lab: _, end: 5.695}
+- prompt: spike0033
+  text: Er wurde von einem Bus überfahren.
+  style: angry
+  start: 114.48
+  end: 118.02
+  segments:
+  - {lab: H#, end: 0.38}
+  - {lab: '?', end: 0.399465}
+  - {lab: 'e:', end: 0.437137}
+  - {lab: '6', end: 0.477297}
+  - {lab: v, end: 0.52}
+  - {lab: U, end: 0.572188}
+  - {lab: '6', end: 0.607372}
+  - {lab: d, end: 0.631894}
+  - {lab: '@', end: 0.67}
+  - {lab: f, end: 0.76}
+  - {lab: O, end: 0.8}
+  - {lab: n, end: 0.847975}
+  - {lab: '?', end: 0.877117}
+  - {lab: aI, end: 0.93327}
+  - {lab: n, end: 0.98}
+  - {lab: '@', end: 1.01}
+  - {lab: m, end: 1.062279}
+  - {lab: b, end: 1.13549}
+  - {lab: U, end: 1.22}
+  - {lab: s, end: 1.312122}
+  - {lab: '?', end: 1.325982}
+  - {lab: 'y:', end: 1.389598}
+  - {lab: b, end: 1.435}
+  - {lab: '6', end: 1.535}
+  - {lab: f, end: 1.64}
+  - {lab: 'a:', end: 1.838463}
+  - {lab: R, end: 1.845216}
+  - {lab: '@', end: 1.853745}
+  - {lab: n, end: 1.948281}
+  - {lab: _, end: 3.535}
+- prompt: spike0034
+  text: Du verstehst es einfach nicht, oder?
+  style: angry
+  start: 118.02
+  end: 121.68
+  segments:
+  - {lab: H#, end: 0.39}
+  - {lab: d, end: 0.441447}
+  - {lab: 'u:', end: 0.525}
+  - {lab: f, end: 0.617741}
+  - {lab: '6', end: 0.714063}
+  - {lab: S, end: 0.821403}
+  - {lab: t, end: 0.905641}
+  - {lab: 'e:', end: 1.01}
+  - {lab: s, end: 1.068784}
+  - {lab: t, end: 1.15}
+  - {lab: '?', end: 1.153732}
+  - {lab: E, end: 1.195}
+  - {lab: s, end: 1.274579}
+  - {lab: '?', end: 1.3}
+  - {lab: aI, end: 1.44}
+  - {lab: n, end: 1.490682}
+  - {lab: f, end: 1.57101}
+  - {lab: a, end: 1.622547}
+  - {lab: x, end: 1.693278}
+  - {lab: n, end: 1.747304}
+  - {lab: I, end: 1.85}
+  - {lab: C, end: 1.955232}
+  - {lab: t, end: 2.034848}
+  - {lab: _, end: 2.105}
+  - {lab: '?', end: 2.225}
+  - {lab: 'o:', end: 2.375}
+  - {lab: d, end: 2.42}
+  - {lab: '6', end: 2.62}
+  - {lab: _, end: 3.655}
+- prompt: spike0035
+  text: Ich verstehe nicht, wieso du in so einer guten Stimmung bist.
+  style: angry
+  start: 121.68
+  end: 126.84
+  segments:
+  - {lab: H#, end: 0.31}
+  - {lab: '?', end: 0.333183}
+  - {lab: I, end: 0.425}
+  - {lab: C, end: 0.513969}
+  - {lab: f, end: 0.59}
+  - {lab: '6', end: 0.685}
+  - {lab: S, end: 0.799839}
+  - {lab: t, end: 0.852132}
+  - {lab: 'e:', end: 0.984609}
+  - {lab: '@', end: 1.07}
+  - {lab: n, end: 1.137006}
+  - {lab: I, end: 1.19179}
+  - {lab: C, end: 1.237111}
+  - {lab: t, end: 1.298867}
