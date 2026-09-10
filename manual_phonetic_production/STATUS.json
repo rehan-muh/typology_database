@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-10T00:08:33-07:00",
-  "total_sources": 129,
+  "last_updated": "2026-09-10T01:11:18-07:00",
+  "total_sources": 130,
   "accepted_sources": 42,
   "excluded_sources": 25,
-  "review_sources": 62,
+  "review_sources": 63,
   "ingested_sources": 42,
-  "parsed_rows_total": 1358609,
+  "parsed_rows_total": 1358809,
   "parsed_logical_tables_total": 84,
   "inventory_file_records": 928,
   "variable_dictionary_records": 1085,
-  "notes": "Discovery+backlog pass added 200 exact source-faithful VoxAngeles mean-F0 observations from authoritative upstream source lines 2456-2655, advancing durable coverage to 2,654 observations (lines 2-2655) with exact continuation at line 2656. Rows remain pinned to upstream commit e30c638a8a2c22e576f871f0e2044780d56eab82 and immutable blob 9492dd2ed35044219aed483613fd3f7a44f292d3; original recording IDs and numeric strings are preserved verbatim and no unaudited forced-alignment material was admitted. Fresh discovery screened OSF/Zenodo/journal/GitHub candidates and surfaced the 2022 Journal of Neurophysiology study 'Movement variability can be modulated in speech production' as methodologically relevant because vowel onsets/offsets were manually marked and trial-specific formant tracking errors manually corrected; no publicly resolvable observation-level deposit was verified in this pass, so it was not admitted or used to inflate the registry. Automatic-only, perception-only and non-phonetic results were not promoted. Warehouse accounting now has 1,358,609 parsed rows across 84 logical tables, 928 file-manifest records, and 1,085 variable-dictionary records. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery+backlog pass added 200 exact source-faithful VoxAngeles mean-F0 observations from authoritative upstream source lines 2656-2855, advancing durable coverage to 2,854 observations (lines 2-2855) with exact continuation at line 2856. Rows remain pinned to upstream commit e30c638a8a2c22e576f871f0e2044780d56eab82 and immutable blob 9492dd2ed35044219aed483613fd3f7a44f292d3; original recording IDs and numeric strings are preserved verbatim and no unaudited forced-alignment material was admitted. Fresh discovery screened OSF, Zenodo, GitHub and priority phonetics-journal leads and added Schertz & Khan (2020), Journal of Phonetics 81, as a HIGH-priority review source: its public OSF project is tied directly to primary Hindi/Urdu stop production and exposes production data relevant to prevoicing duration, aspiration duration, voice quality and f0, but manual landmark/verification provenance must be confirmed and perception materials isolated before core admission. Automatic-only tools/resources were not promoted. Warehouse accounting now has 1,358,809 parsed rows across 84 logical tables, 928 file-manifest records, and 1,085 variable-dictionary records. All writes confined to manual_phonetic_production/."
 }
