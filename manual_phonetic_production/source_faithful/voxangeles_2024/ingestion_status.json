@@ -1,27 +1,29 @@
 {
   "source_id": "voxangeles_2024",
   "decision": "INCLUDE_NEW_MANUAL_ANNOTATION_LAYER_AUDITED_ONLY",
-  "rows_ingested": 4254,
+  "rows_ingested": 4654,
   "logical_tables_ingested": 1,
   "upstream_files_inventoried": 10,
   "variable_dictionary_records": 75,
-  "current_materialized_layer": "voxangeles_meanf0_file.tsv: exact source lines 2-4255 (4254 observations)",
-  "next_upstream_line": 4256,
+  "current_materialized_layer": "voxangeles_meanf0_file.tsv: exact source lines 2-4655 (4654 observations)",
+  "next_upstream_line": 4656,
   "upstream_measurement_files": 6,
   "audited_language_packages_documented": 95,
   "manual_scope": "Use data/audited_aligned and measurements derived from it. The unaudited forced-alignment branch is excluded from core.",
   "secondary_lineage_rule": "Underlying recordings predate VoxAngeles; inclusion is based on the separately isolatable new human-audited phone/transcription layer and measurements derived from that audited layer, not on treating the recordings as a novel collection.",
   "processed": [
-    "voxangeles_meanf0_file.tsv source lines 2-3855: 3854 observations previously durable",
-    "voxangeles_meanf0_file.tsv source lines 3856-4055: 200 exact source-faithful observations",
-    "voxangeles_meanf0_file.tsv source lines 4056-4255: 200 exact source-faithful observations",
+    "voxangeles_meanf0_file.tsv source lines 2-4255: 4254 observations previously durable",
+    "voxangeles_meanf0_file.tsv source lines 4256-4355: 100 exact source-faithful observations",
+    "voxangeles_meanf0_file.tsv source lines 4356-4455: 100 exact source-faithful observations",
+    "voxangeles_meanf0_file.tsv source lines 4456-4555: 100 exact source-faithful observations",
+    "voxangeles_meanf0_file.tsv source lines 4556-4655: 100 exact source-faithful observations",
     "getDurations_voxangeles.praat provenance",
     "getf0_voxangeles.praat provenance",
     "getFormants_voxangeles.praat provenance",
     "measurement-file inventory"
   ],
   "pending": [
-    "voxangeles_meanf0_file.tsv from source line 4256 onward",
+    "voxangeles_meanf0_file.tsv from source line 4656 onward",
     "complete phone/word duration table",
     "complete 10-point F0 trajectory table",
     "complete 10-point F1/F2/F3 trajectory table",
@@ -30,6 +32,6 @@
     "language/transcription metadata linkage and harmonized token views"
   ],
   "known_retrieval_blocker": "The duration and decile trajectory TSVs are large UTF-16 text files. Both UTF-8 and base64 fetch attempts through the current GitHub connector return no usable file content for these blobs. They remain pending rather than being counted as ingested; immutable blob SHAs and sizes stay inventoried for a byte-capable retrieval path.",
-  "validation": "Two contiguous 200-row chunks were fetched directly from authoritative upstream pacscilab/voxangeles data/phonetic_measurements/voxangeles_meanf0_file.tsv at commit e30c638a8a2c22e576f871f0e2044780d56eab82, immutable blob 9492dd2ed35044219aed483613fd3f7a44f292d3, using exact source lines 3856-4055 and 4056-4255. Existing durable rows ended at line 3855; new ranges are contiguous and non-overlapping. No unaudited rows admitted; original recording IDs, --undefined-- missing-value token, and numeric strings preserved verbatim.",
-  "updated": "2026-09-10T06:08:51-07:00"
+  "validation": "Four contiguous 100-row chunks were fetched directly from authoritative upstream pacscilab/voxangeles data/phonetic_measurements/voxangeles_meanf0_file.tsv at commit e30c638a8a2c22e576f871f0e2044780d56eab82, immutable blob 9492dd2ed35044219aed483613fd3f7a44f292d3, using exact source lines 4256-4355, 4356-4455, 4456-4555, and 4556-4655. Existing durable rows ended at line 4255; all new ranges are contiguous and non-overlapping. Read-back comparison caught and corrected one manual transcription error in nan-004-038 before final reconciliation; final stored value equals upstream 224.34234893684396. No unaudited rows admitted; original recording IDs and numeric strings preserved verbatim.",
+  "updated": "2026-09-10T07:08:20-07:00"
 }
