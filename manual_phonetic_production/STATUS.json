@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T11:08:23-07:00",
+  "last_updated": "2026-09-10T12:13:29-07:00",
   "total_sources": 133,
   "accepted_sources": 43,
   "excluded_sources": 25,
@@ -9,5 +9,5 @@
   "parsed_logical_tables_total": 84,
   "inventory_file_records": 943,
   "variable_dictionary_records": 1134,
-  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful coverage advanced from 120 to 520 lines of pavoque-angry.yaml, now preserving 15 complete manually corrected utterance annotations plus the beginning of spike0016; continuation is deterministic at source line 521. Two new immutable source-faithful chunks (lines 121-320 and 321-520) were committed without IPA invention or value normalization. PAVOQUE remains staging-only pending relational promotion into namespaced utterance and segment/interval tables, so parsed warehouse-row count is unchanged. Fresh discovery screened manually segmented vowel/formant production work, articulatory/EMA sources, clinical speech, and TextGrid resources; candidates lacking accessible observation-level deposits or sufficiently specific manual phonetic provenance were not admitted. A particularly relevant ICPhS production study reports all vowels manually segmented by trained annotators before F1/F2 extraction, but no public observation-level deposit was located in this pass; it remains a discovery lead rather than a core source. No unrelated repository content modified."
+  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful coverage advanced by 400 lines, from line 520 through line 920 of pavoque-angry.yaml. The durable mirror now preserves 26 complete manually corrected utterance annotations plus the beginning of spike0029; continuation is deterministic at source line 921. Four new immutable chunks (521-620, 621-720, 721-820, 821-920) were committed and validated against upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. PAVOQUE remains staging-only pending relational promotion, so parsed warehouse-row count is unchanged. Fresh discovery screened manually corrected learner-corpus segmentation, manually checked formant datasets, VOT studies, and TextGrid resources. IFCASL is a strong review lead because >50% of word/phone segmentation is manually corrected, but no directly accessible observation-level deposit was established in this pass; it was not admitted to core. No unrelated repository content modified."
 }
