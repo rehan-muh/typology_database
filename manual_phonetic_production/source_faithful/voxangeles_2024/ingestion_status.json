@@ -1,12 +1,12 @@
 {
   "source_id": "voxangeles_2024",
   "decision": "INCLUDE_NEW_MANUAL_ANNOTATION_LAYER_AUDITED_ONLY",
-  "rows_ingested": 1454,
+  "rows_ingested": 1654,
   "logical_tables_ingested": 1,
   "upstream_files_inventoried": 10,
   "variable_dictionary_records": 75,
-  "current_materialized_layer": "voxangeles_meanf0_file.tsv: exact source lines 2-1455 (1454 observations)",
-  "next_upstream_line": 1456,
+  "current_materialized_layer": "voxangeles_meanf0_file.tsv: exact source lines 2-1655 (1654 observations)",
+  "next_upstream_line": 1656,
   "upstream_measurement_files": 6,
   "audited_language_packages_documented": 95,
   "manual_scope": "Use data/audited_aligned and measurements derived from it. The unaudited forced-alignment branch is excluded from core.",
@@ -27,13 +27,15 @@
     "voxangeles_meanf0_file.tsv source lines 1156-1255: 100 Bengali/Bafut/Bathari observations",
     "voxangeles_meanf0_file.tsv source lines 1256-1355: 100 Bathari/Bini/Bodo observations",
     "voxangeles_meanf0_file.tsv source lines 1356-1455: 100 Bodo/Bwari/Cabecar observations",
+    "voxangeles_meanf0_file.tsv source lines 1456-1555: 100 Cabecar/Czech/Chamorro/Chamalal observations",
+    "voxangeles_meanf0_file.tsv source lines 1556-1655: 100 Chamalal/Colombian Spanish/Cherepon observations",
     "getDurations_voxangeles.praat provenance",
     "getf0_voxangeles.praat provenance",
     "getFormants_voxangeles.praat provenance",
     "measurement-file inventory"
   ],
   "pending": [
-    "voxangeles_meanf0_file.tsv from source line 1456 onward",
+    "voxangeles_meanf0_file.tsv from source line 1656 onward",
     "complete phone/word duration table",
     "complete 10-point F0 trajectory table",
     "complete 10-point F1/F2/F3 trajectory table",
@@ -42,6 +44,6 @@
     "language/transcription metadata linkage and harmonized token views"
   ],
   "known_retrieval_blocker": "The duration and decile trajectory TSVs are large UTF-16 text files. Both UTF-8 and base64 fetch attempts through the current GitHub connector return no usable file content for these blobs. They remain pending rather than being counted as ingested; immutable blob SHAs and sizes stay inventoried for a byte-capable retrieval path.",
-  "validation": "Two new 100-row chunks were fetched directly from authoritative upstream pacscilab/voxangeles file blob 9492dd2ed35044219aed483613fd3f7a44f292d3 using exact source lines 1256-1355 and 1356-1455. Existing durable rows ended at line 1255, so the new ranges are contiguous and non-overlapping. No unaudited rows admitted; original recording IDs and numeric strings preserved verbatim.",
-  "updated": "2026-09-09T15:08:42-07:00"
+  "validation": "Two new 100-row chunks were fetched directly from authoritative upstream pacscilab/voxangeles file blob 9492dd2ed35044219aed483613fd3f7a44f292d3 using exact source lines 1456-1555 and 1556-1655. Existing durable rows ended at line 1455, so the new ranges are contiguous and non-overlapping. No unaudited rows admitted; original recording IDs and numeric strings preserved verbatim.",
+  "updated": "2026-09-09T19:13:28-07:00"
 }
