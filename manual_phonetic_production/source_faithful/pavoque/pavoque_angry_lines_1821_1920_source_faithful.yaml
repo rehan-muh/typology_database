@@ -1,0 +1,100 @@
+  - {lab: n, end: 1.808833}
+  - {lab: s, end: 2.007168}
+  - {lab: _, end: 3.355}
+- prompt: spike0054
+  text: Sprich lieber mal mit Obadiah.
+  style: angry
+  start: 189.42
+  end: 192.72
+  segments:
+  - {lab: H#, end: 0.244921}
+  - {lab: S, end: 0.362228}
+  - {lab: p, end: 0.44}
+  - {lab: R, end: 0.475}
+  - {lab: I, end: 0.547074}
+  - {lab: C, end: 0.671845}
+  - {lab: l, end: 0.721256}
+  - {lab: 'i:', end: 0.835008}
+  - {lab: b, end: 0.875532}
+  - {lab: '6', end: 0.97}
+  - {lab: m, end: 1.025}
+  - {lab: 'a:', end: 1.115}
+  - {lab: l, end: 1.157067}
+  - {lab: m, end: 1.18}
+  - {lab: I, end: 1.232072}
+  - {lab: t, end: 1.296057}
+  - {lab: '?', end: 1.306721}
+  - {lab: '@', end: 1.350089}
+  - {lab: U, end: 1.402699}
+  - {lab: b, end: 1.458153}
+  - {lab: '@', end: 1.53}
+  - {lab: d, end: 1.61}
+  - {lab: aI, end: 1.77488}
+  - {lab: j, end: 1.822158}
+  - {lab: a, end: 2.080232}
+  - {lab: _, end: 3.295}
+- prompt: m0001
+  text: Faye Dunaway war zweimal verheiratet.
+  style: angry
+  start: 192.72
+  end: 196.44
+  segments:
+  - {lab: H#, end: 0.114977}
+  - {lab: f, end: 0.23}
+  - {lab: EI, end: 0.375}
+  - {lab: d, end: 0.43666}
+  - {lab: a, end: 0.54}
+  - {lab: n, end: 0.575}
+  - {lab: '@', end: 0.612046}
+  - {lab: w, end: 0.692486}
+  - {lab: EI, end: 0.806589}
+  - {lab: v, end: 0.853804}
+  - {lab: 'a:', end: 0.91}
+  - {lab: '6', end: 0.949545}
+  - {lab: ts, end: 1.092501}
+  - {lab: v, end: 1.151372}
+  - {lab: aI, end: 1.305}
+  - {lab: m, end: 1.37}
+  - {lab: 'a:', end: 1.495}
+  - {lab: l, end: 1.535}
+  - {lab: f, end: 1.635}
+  - {lab: '6', end: 1.695}
+  - {lab: h, end: 1.78}
+  - {lab: aI, end: 1.905}
+  - {lab: R, end: 1.979655}
+  - {lab: 'a:', end: 2.1}
+  - {lab: t, end: 2.183299}
+  - {lab: '@', end: 2.255}
+  - {lab: t, end: 2.424575}
+  - {lab: _, end: 3.715}
+- prompt: m0002
+  text: Ägyptologie, Pharao, Fluch des Pharao.
+  style: angry
+  start: 196.44
+  end: 200.22
+  segments:
+  - {lab: H#, end: 0.25}
+  - {lab: '?', end: 0.29}
+  - {lab: E, end: 0.377055}
+  - {lab: g, end: 0.44}
+  - {lab: Y, end: 0.515}
+  - {lab: p, end: 0.570549}
+  - {lab: t, end: 0.645971}
+  - {lab: 'o:', end: 0.703755}
+  - {lab: l, end: 0.735}
+  - {lab: 'o:', end: 0.82903}
+  - {lab: g, end: 0.887599}
+  - {lab: 'i:', end: 1.1}
+  - {lab: f, end: 1.29683}
+  - {lab: 'a:', end: 1.403825}
+  - {lab: R, end: 1.445}
+  - {lab: a, end: 1.562261}
+  - {lab: 'o:', end: 1.805}
+  - {lab: f, end: 1.945}
+  - {lab: l, end: 2.013008}
+  - {lab: 'u:', end: 2.125}
+  - {lab: x, end: 2.212363}
+  - {lab: d, end: 2.284292}
+  - {lab: '@', end: 2.36}
+  - {lab: s, end: 2.465}
+  - {lab: f, end: 2.56}
