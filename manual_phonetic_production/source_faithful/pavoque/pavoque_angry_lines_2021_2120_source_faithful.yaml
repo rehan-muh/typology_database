@@ -1,0 +1,100 @@
+  - {lab: 'e:', end: 0.537588}
+  - {lab: _, end: 0.858912}
+  - {lab: g, end: 0.925265}
+  - {lab: R, end: 1.06596}
+  - {lab: o~, end: 1.188837}
+  - {lab: m, end: 1.26}
+  - {lab: '@', end: 1.325}
+  - {lab: n, end: 1.38}
+  - {lab: I, end: 1.433362}
+  - {lab: '6', end: 1.485}
+  - {lab: b, end: 1.590149}
+  - {lab: R, end: 1.613992}
+  - {lab: 'i:', end: 1.695}
+  - {lab: z, end: 1.82}
+  - {lab: 'e:', end: 2.095056}
+  - {lab: _, end: 2.875}
+- prompt: m0008
+  text: Ein wöchentliches Engagement im Club folgte.
+  style: angry
+  start: 212.52
+  end: 216.66
+  segments:
+  - {lab: H#, end: 0.428148}
+  - {lab: '?', end: 0.455}
+  - {lab: aI, end: 0.52}
+  - {lab: n, end: 0.581101}
+  - {lab: v, end: 0.63}
+  - {lab: '9', end: 0.715}
+  - {lab: C, end: 0.805311}
+  - {lab: '@', end: 0.81821}
+  - {lab: n, end: 0.885}
+  - {lab: t, end: 0.938049}
+  - {lab: l, end: 0.96}
+  - {lab: I, end: 1.010477}
+  - {lab: C, end: 1.07129}
+  - {lab: '@', end: 1.123503}
+  - {lab: s, end: 1.18}
+  - {lab: '?', end: 1.242058}
+  - {lab: a~, end: 1.346484}
+  - {lab: g, end: 1.375}
+  - {lab: a, end: 1.465}
+  - {lab: Z, end: 1.535066}
+  - {lab: '@', end: 1.572536}
+  - {lab: m, end: 1.63}
+  - {lab: a~, end: 1.775}
+  - {lab: '?', end: 1.791217}
+  - {lab: I, end: 1.845}
+  - {lab: m, end: 1.911614}
+  - {lab: k, end: 2.00313}
+  - {lab: l, end: 2.045}
+  - {lab: U, end: 2.13}
+  - {lab: b, end: 2.184961}
+  - {lab: f, end: 2.309662}
+  - {lab: O, end: 2.395}
+  - {lab: l, end: 2.455}
+  - {lab: k, end: 2.541857}
+  - {lab: t, end: 2.631418}
+  - {lab: '@', end: 2.764838}
+  - {lab: _, end: 4.135}
+- prompt: m0006
+  text: Mit Paul Rutherford und John Stevens.
+  style: angry
+  start: 216.66
+  end: 220.38
+  segments:
+  - {lab: H#, end: 0.289953}
+  - {lab: m, end: 0.34}
+  - {lab: I, end: 0.428172}
+  - {lab: t, end: 0.50066}
+  - {lab: p, end: 0.694291}
+  - {lab: aU, end: 0.856344}
+  - {lab: l, end: 0.966305}
+  - {lab: r, end: 1.011149}
+  - {lab: a, end: 1.088552}
+  - {lab: D, end: 1.144114}
+  - {lab: '@', end: 1.204042}
+  - {lab: f, end: 1.35}
+  - {lab: O, end: 1.469422}
+  - {lab: '6', end: 1.55}
+  - {lab: d, end: 1.612795}
+  - {lab: '?', end: 1.655}
+  - {lab: U, end: 1.69}
+  - {lab: n, end: 1.742175}
+  - {lab: t, end: 1.755}
+  - {lab: d, end: 1.797195}
+  - {lab: Z, end: 1.836164}
+  - {lab: O, end: 1.965}
+  - {lab: n, end: 2.025}
+  - {lab: s, end: 2.135945}
+  - {lab: t, end: 2.202314}
+  - {lab: 'i:', end: 2.36}
+  - {lab: v, end: 2.430199}
+  - {lab: '@', end: 2.445}
+  - {lab: n, end: 2.614491}
+  - {lab: s, end: 2.821512}
+  - {lab: _, end: 3.715}
+- prompt: m0009
+  text: Alle Verfilmungen basieren auf dem Roman von Alexandre Dumas.
+  style: angry
+  start: 220.38
