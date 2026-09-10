@@ -1,0 +1,100 @@
+  - {lab: j, end: 0.984064}
+  - {lab: I, end: 1.055933}
+  - {lab: tS, end: 1.200902}
+  - {lab: d, end: 1.248095}
+  - {lab: 'u:', end: 1.329899}
+  - {lab: d, end: 1.4}
+  - {lab: 'a:', end: 1.545}
+  - {lab: j, end: 1.65}
+  - {lab: E, end: 1.755}
+  - {lab: f, end: 1.903629}
+  - {lab: _, end: 1.973041}
+  - {lab: R, end: 2.135}
+  - {lab: U, end: 2.227964}
+  - {lab: s, end: 2.34}
+  - {lab: I, end: 2.465}
+  - {lab: S, end: 2.761152}
+  - {lab: _, end: 3.415}
+- prompt: m0013
+  text: Sie lehnte ebenso ab wie Vivien Leigh und Katharine Hepburn.
+  style: angry
+  start: 232.26
+  end: 237.36
+  segments:
+  - {lab: H#, end: 0.435}
+  - {lab: z, end: 0.515}
+  - {lab: 'i:', end: 0.596381}
+  - {lab: l, end: 0.62}
+  - {lab: 'e:', end: 0.724134}
+  - {lab: n, end: 0.755}
+  - {lab: t, end: 0.814091}
+  - {lab: '@', end: 0.880753}
+  - {lab: '?', end: 0.910234}
+  - {lab: 'e:', end: 1.036144}
+  - {lab: b, end: 1.089179}
+  - {lab: '@', end: 1.103705}
+  - {lab: n, end: 1.150383}
+  - {lab: z, end: 1.209346}
+  - {lab: 'o:', end: 1.276907}
+  - {lab: '?', end: 1.310688}
+  - {lab: a, end: 1.425}
+  - {lab: p, end: 1.555571}
+  - {lab: v, end: 1.576517}
+  - {lab: 'i:', end: 1.642352}
+  - {lab: v, end: 1.736402}
+  - {lab: I, end: 1.799585}
+  - {lab: v, end: 1.866266}
+  - {lab: 'i:', end: 1.926723}
+  - {lab: '@', end: 1.99797}
+  - {lab: n, end: 2.06}
+  - {lab: l, end: 2.13}
+  - {lab: EI, end: 2.41}
+  - {lab: '?', end: 2.444488}
+  - {lab: U, end: 2.485}
+  - {lab: n, end: 2.525}
+  - {lab: t, end: 2.551358}
+  - {lab: k, end: 2.687339}
+  - {lab: E, end: 2.775}
+  - {lab: T, end: 2.912855}
+  - {lab: r, end: 2.95}
+  - {lab: 'i:', end: 3.02}
+  - {lab: n, end: 3.059909}
+  - {lab: h, end: 3.132087}
+  - {lab: E, end: 3.23}
+  - {lab: p, end: 3.269963}
+  - {lab: b, end: 3.325486}
+  - {lab: '9', end: 3.4}
+  - {lab: '6', end: 3.492301}
+  - {lab: n, end: 3.527924}
+  - {lab: _, end: 5.095}
+- prompt: m0014
+  text: Dieses Vakuum füllte Magnus aus.
+  style: angry
+  start: 237.36
+  end: 240.78
+  segments:
+  - {lab: H#, end: 0.256766}
+  - {lab: d, end: 0.313236}
+  - {lab: 'i:', end: 0.422005}
+  - {lab: z, end: 0.485}
+  - {lab: '@', end: 0.57}
+  - {lab: s, end: 0.685527}
+  - {lab: v, end: 0.74}
+  - {lab: 'a:', end: 0.905}
+  - {lab: k, end: 1.029765}
+  - {lab: 'u:', end: 1.113061}
+  - {lab: U, end: 1.216873}
+  - {lab: m, end: 1.334813}
+  - {lab: f, end: 1.453982}
+  - {lab: Y, end: 1.57}
+  - {lab: l, end: 1.600793}
+  - {lab: t, end: 1.665047}
+  - {lab: '@', end: 1.715}
+  - {lab: m, end: 1.81}
+  - {lab: 'a:', end: 1.927585}
+  - {lab: g, end: 2.005692}
+  - {lab: n, end: 2.07}
+  - {lab: U, end: 2.145}
+  - {lab: s, end: 2.251307}
+  - {lab: '?', end: 2.33}
+  - {lab: aU, end: 2.565}
