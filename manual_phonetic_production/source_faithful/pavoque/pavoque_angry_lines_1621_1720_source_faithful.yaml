@@ -1,0 +1,100 @@
+  - {lab: '@', end: 0.9}
+  - {lab: n, end: 0.97}
+  - {lab: aU, end: 1.131593}
+  - {lab: h, end: 1.221284}
+  - {lab: a, end: 1.273603}
+  - {lab: s, end: 1.334393}
+  - {lab: t, end: 1.390699}
+  - {lab: d, end: 1.415613}
+  - {lab: 'u:', end: 1.48}
+  - {lab: z, end: 1.579547}
+  - {lab: 'o:', end: 1.688172}
+  - {lab: g, end: 1.781849}
+  - {lab: 'u:', end: 1.869048}
+  - {lab: t, end: 1.931831}
+  - {lab: '@', end: 1.980164}
+  - {lab: l, end: 2.060387}
+  - {lab: aU, end: 2.27}
+  - {lab: n, end: 2.326967}
+  - {lab: '@', end: 2.54621}
+  - {lab: _, end: 3.535}
+- prompt: spike0046
+  text: Wieso bist du da so sicher?
+  style: angry
+  start: 167.4
+  end: 170.52
+  segments:
+  - {lab: H#, end: 0.72}
+  - {lab: v, end: 0.754558}
+  - {lab: 'i:', end: 0.82}
+  - {lab: z, end: 0.911052}
+  - {lab: 'o:', end: 1.028173}
+  - {lab: b, end: 1.085487}
+  - {lab: I, end: 1.115}
+  - {lab: s, end: 1.1742}
+  - {lab: t, end: 1.206097}
+  - {lab: d, end: 1.246964}
+  - {lab: 'u:', end: 1.297302}
+  - {lab: d, end: 1.36259}
+  - {lab: 'a:', end: 1.478714}
+  - {lab: z, end: 1.548987}
+  - {lab: 'o:', end: 1.63471}
+  - {lab: z, end: 1.77}
+  - {lab: I, end: 1.853003}
+  - {lab: C, end: 1.964143}
+  - {lab: '6', end: 2.21234}
+  - {lab: _, end: 3.115}
+- prompt: spike0047
+  text: Wie was?
+  style: angry
+  start: 170.52
+  end: 172.5
+  segments:
+  - {lab: H#, end: 0.405}
+  - {lab: v, end: 0.584411}
+  - {lab: 'i:', end: 0.715}
+  - {lab: v, end: 0.871723}
+  - {lab: a, end: 1.075}
+  - {lab: s, end: 1.370849}
+  - {lab: _, end: 1.975}
+- prompt: spike0048
+  text: Wie?
+  style: angry
+  start: 172.5
+  end: 174.24
+  segments:
+  - {lab: H#, end: 0.15914}
+  - {lab: v, end: 0.344346}
+  - {lab: 'i:', end: 0.743569}
+  - {lab: _, end: 1.735}
+- prompt: spike0049
+  text: Mach weiter.
+  style: angry
+  start: 174.24
+  end: 176.46
+  segments:
+  - {lab: H#, end: 0.185}
+  - {lab: m, end: 0.323768}
+  - {lab: a, end: 0.451354}
+  - {lab: x, end: 0.585}
+  - {lab: v, end: 0.68}
+  - {lab: aI, end: 0.89}
+  - {lab: t, end: 1.002858}
+  - {lab: '6', end: 1.377386}
+  - {lab: _, end: 2.215}
+- prompt: spike0050
+  text: Rede weiter.
+  style: angry
+  start: 176.46
+  end: 178.68
+  segments:
+  - {lab: H#, end: 0.221582}
+  - {lab: R, end: 0.353692}
+  - {lab: 'e:', end: 0.428485}
+  - {lab: d, end: 0.475753}
+  - {lab: '@', end: 0.594246}
+  - {lab: v, end: 0.65}
+  - {lab: aI, end: 0.83}
+  - {lab: t, end: 0.914498}
+  - {lab: '6', end: 1.257524}
+  - {lab: _, end: 2.215}
