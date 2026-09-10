@@ -1,0 +1,100 @@
+  - {lab: 'e:', end: 4.445}
+  - {lab: 'a:', end: 4.507369}
+  - {lab: l, end: 4.552203}
+  - {lab: 'i:', end: 4.633888}
+  - {lab: t, end: 4.776988}
+  - {lab: 'E:', end: 4.960624}
+  - {lab: t, end: 5.148559}
+  - {lab: _, end: 6.355}
+- prompt: spike0031
+  text: Ich bin nicht wütend, ich bin Realist.
+  style: angry
+  start: 105.0
+  end: 108.78
+  segments:
+  - {lab: H#, end: 0.255}
+  - {lab: '?', end: 0.298884}
+  - {lab: I, end: 0.37}
+  - {lab: C, end: 0.493657}
+  - {lab: b, end: 0.564393}
+  - {lab: I, end: 0.64808}
+  - {lab: n, end: 0.67}
+  - {lab: n, end: 0.690422}
+  - {lab: I, end: 0.78}
+  - {lab: C, end: 0.84086}
+  - {lab: t, end: 0.904124}
+  - {lab: v, end: 0.925}
+  - {lab: 'y:', end: 1.10886}
+  - {lab: t, end: 1.187068}
+  - {lab: '@', end: 1.198027}
+  - {lab: n, end: 1.340495}
+  - {lab: t, end: 1.460048}
+  - {lab: _, end: 1.84}
+  - {lab: '?', end: 1.885}
+  - {lab: I, end: 1.94}
+  - {lab: C, end: 2.01}
+  - {lab: b, end: 2.035}
+  - {lab: I, end: 2.095}
+  - {lab: n, end: 2.14}
+  - {lab: R, end: 2.21}
+  - {lab: 'e:', end: 2.29}
+  - {lab: a, end: 2.375}
+  - {lab: l, end: 2.415}
+  - {lab: I, end: 2.505}
+  - {lab: s, end: 2.675}
+  - {lab: t, end: 2.78}
+  - {lab: _, end: 3.775}
+- prompt: spike0032
+  text: Der Punkt ist, mein bester Kumpel hat immer das Gute an allem gesehen.
+  style: angry
+  start: 108.78
+  end: 114.48
+  segments:
+  - {lab: H#, end: 0.4}
+  - {lab: d, end: 0.436729}
+  - {lab: E, end: 0.47}
+  - {lab: '6', end: 0.525}
+  - {lab: p, end: 0.644884}
+  - {lab: U, end: 0.694184}
+  - {lab: N, end: 0.762408}
+  - {lab: k, end: 0.789797}
+  - {lab: t, end: 0.845072}
+  - {lab: '?', end: 0.888397}
+  - {lab: I, end: 0.97}
+  - {lab: s, end: 1.068665}
+  - {lab: t, end: 1.164278}
+  - {lab: _, end: 1.431195}
+  - {lab: m, end: 1.4546}
+  - {lab: aI, end: 1.53}
+  - {lab: n, end: 1.565}
+  - {lab: b, end: 1.617937}
+  - {lab: E, end: 1.690643}
+  - {lab: s, end: 1.739943}
+  - {lab: t, end: 1.809162}
+  - {lab: '6', end: 1.887843}
+  - {lab: k, end: 1.991921}
+  - {lab: U, end: 2.044706}
+  - {lab: m, end: 2.090023}
+  - {lab: p, end: 2.166712}
+  - {lab: '@', end: 2.204558}
+  - {lab: l, end: 2.23}
+  - {lab: h, end: 2.275}
+  - {lab: a, end: 2.341503}
+  - {lab: t, end: 2.41869}
+  - {lab: '?', end: 2.435}
+  - {lab: I, end: 2.488905}
+  - {lab: m, end: 2.535}
+  - {lab: '6', end: 2.608918}
+  - {lab: d, end: 2.643279}
+  - {lab: a, end: 2.71}
+  - {lab: s, end: 2.792175}
+  - {lab: g, end: 2.841973}
+  - {lab: 'u:', end: 2.961488}
+  - {lab: t, end: 3.014274}
+  - {lab: '@', end: 3.056104}
+  - {lab: '?', end: 3.063076}
+  - {lab: a, end: 3.135}
+  - {lab: n, end: 3.18}
+  - {lab: '?', end: 3.23}
+  - {lab: a, end: 3.30858}
+  - {lab: l, end: 3.383277}
