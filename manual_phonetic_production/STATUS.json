@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-09T21:13:20-07:00",
-  "total_sources": 128,
+  "last_updated": "2026-09-09T22:08:33-07:00",
+  "total_sources": 129,
   "accepted_sources": 42,
   "excluded_sources": 25,
-  "review_sources": 61,
+  "review_sources": 62,
   "ingested_sources": 42,
-  "parsed_rows_total": 1358009,
+  "parsed_rows_total": 1358209,
   "parsed_logical_tables_total": 84,
-  "inventory_file_records": 922,
-  "variable_dictionary_records": 1074,
-  "notes": "Discovery+backlog pass added 200 exact source-faithful VoxAngeles mean-F0 observations from authoritative upstream source lines 1856-2055, advancing durable coverage to 2,054 observations (lines 2-2055) with exact continuation at line 2056. Rows remain pinned to immutable upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3; original recording IDs and numeric strings are preserved verbatim and no unaudited forced-alignment material was admitted. Fresh OSF/Zenodo/Journal of Phonetics/Laboratory Phonology discovery was screened; the strongest surfaced result was Parker's CC BY 4.0 sonority production deposit, which was already present in the review queue and therefore deduplicated rather than re-added. MRPL2 was also already known/restricted. No weak source was promoted merely to increase counts. Warehouse now has 1,358,009 parsed rows across 84 logical tables, 922 file-manifest records, and 1,074 variable-dictionary records. All writes confined to manual_phonetic_production/."
+  "inventory_file_records": 928,
+  "variable_dictionary_records": 1085,
+  "notes": "Discovery+backlog pass added 200 exact source-faithful VoxAngeles mean-F0 observations from authoritative upstream source lines 2056-2255, advancing durable coverage to 2,254 observations (lines 2-2255) with exact continuation at line 2256. Rows remain pinned to immutable upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3; original recording IDs and numeric strings are preserved verbatim and no unaudited forced-alignment material was admitted. Discovery added Ulrich 2022 Russian Fricatives as HIGH review: Recording_1 target-fricative boundaries were manually inspected/corrected in Praat after MAUS preprocessing, while Recording_2 is automatic-only and explicitly excluded. Because SWISSUbase access is contract-restricted and redistribution is prohibited, no restricted bytes were mirrored; instead six authoritative deposit components and eleven publicly documented metadata variables were inventoried with access/provenance constraints. Warehouse accounting now has 1,358,209 parsed rows across 84 logical tables, 928 file-manifest records, and 1,085 variable-dictionary records. All writes confined to manual_phonetic_production/."
 }
