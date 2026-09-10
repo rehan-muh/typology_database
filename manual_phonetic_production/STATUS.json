@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-09T19:13:28-07:00",
+  "last_updated": "2026-09-09T20:07:29-07:00",
   "total_sources": 128,
   "accepted_sources": 42,
   "excluded_sources": 25,
   "review_sources": 61,
   "ingested_sources": 42,
-  "parsed_rows_total": 1357609,
+  "parsed_rows_total": 1357809,
   "parsed_logical_tables_total": 84,
   "inventory_file_records": 922,
   "variable_dictionary_records": 1074,
-  "notes": "Discovery+backlog pass added 200 exact source-faithful VoxAngeles mean-F0 observations from authoritative upstream source lines 1456-1655, advancing durable coverage to 1,654 observations (lines 2-1655) with exact continuation at line 1656. Rows remain pinned to immutable upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3; original recording IDs and numeric strings are preserved verbatim and no unaudited forced-alignment material was admitted. The source manifest and ingestion status were reconciled. Discovery added Gorba & Cebrian 2021 Journal of Phonetics VOT production data (Mendeley DOI 10.17632/fz4wsdtpvz.1) to review: public CC BY 4.0 Excel production results are exposed, but core admission is deferred until manual/human-verified VOT provenance is confirmed from full methods; perception data remain out of scope. Warehouse now has 1,357,609 parsed rows across 84 logical tables, 922 file-manifest records, and 1,074 variable-dictionary records. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery+backlog pass added 200 exact source-faithful VoxAngeles mean-F0 observations from authoritative upstream source lines 1656-1855, advancing durable coverage to 1,854 observations (lines 2-1855) with exact continuation at line 1856. Rows remain pinned to immutable upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3; original recording IDs and numeric strings are preserved verbatim and no unaudited forced-alignment material was admitted. The source manifest and ingestion status were reconciled. Discovery re-screened public manually corrected speech resources including L2-ARCTIC and recent manually corrected speech corpora; no new source was promoted because the surfaced candidates either were already known, exposed only transcription/error annotation rather than a sufficiently isolatable phonetic measurement layer, or did not yet provide enough provenance for core admission. Warehouse now has 1,357,809 parsed rows across 84 logical tables, 922 file-manifest records, and 1,074 variable-dictionary records. All writes confined to manual_phonetic_production/."
 }
