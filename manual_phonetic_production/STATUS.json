@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-09T22:08:33-07:00",
+  "last_updated": "2026-09-09T23:10:22-07:00",
   "total_sources": 129,
   "accepted_sources": 42,
   "excluded_sources": 25,
   "review_sources": 62,
   "ingested_sources": 42,
-  "parsed_rows_total": 1358209,
+  "parsed_rows_total": 1358409,
   "parsed_logical_tables_total": 84,
   "inventory_file_records": 928,
   "variable_dictionary_records": 1085,
-  "notes": "Discovery+backlog pass added 200 exact source-faithful VoxAngeles mean-F0 observations from authoritative upstream source lines 2056-2255, advancing durable coverage to 2,254 observations (lines 2-2255) with exact continuation at line 2256. Rows remain pinned to immutable upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3; original recording IDs and numeric strings are preserved verbatim and no unaudited forced-alignment material was admitted. Discovery added Ulrich 2022 Russian Fricatives as HIGH review: Recording_1 target-fricative boundaries were manually inspected/corrected in Praat after MAUS preprocessing, while Recording_2 is automatic-only and explicitly excluded. Because SWISSUbase access is contract-restricted and redistribution is prohibited, no restricted bytes were mirrored; instead six authoritative deposit components and eleven publicly documented metadata variables were inventoried with access/provenance constraints. Warehouse accounting now has 1,358,209 parsed rows across 84 logical tables, 928 file-manifest records, and 1,085 variable-dictionary records. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery+backlog pass added 200 exact source-faithful VoxAngeles mean-F0 observations from authoritative upstream source lines 2256-2455, advancing durable coverage to 2,454 observations (lines 2-2455) with exact continuation at line 2456. Rows remain pinned to immutable upstream blob 9492dd2ed35044219aed483613fd3f7a44f292d3; original recording IDs and numeric strings are preserved verbatim and no unaudited forced-alignment material was admitted. Fresh OSF/Zenodo/GitHub discovery screened manual-production candidates across phonetics, clinical speech, VOT/formants and TextGrid-oriented deposits. AphasiaBD resurfaced but was already tracked in review; singing/music, respiratory-device sounds, automatic-only alignment resources and non-speech segmentation were rejected at screening rather than inflating the registry. No unverified candidate was promoted solely on paper-level metadata. Warehouse accounting now has 1,358,409 parsed rows across 84 logical tables, 928 file-manifest records, and 1,085 variable-dictionary records. All writes confined to manual_phonetic_production/."
 }
