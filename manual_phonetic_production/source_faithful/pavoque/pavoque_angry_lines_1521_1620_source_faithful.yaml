@@ -1,0 +1,100 @@
+  segments:
+  - {lab: H#, end: 0.552416}
+  - {lab: d, end: 0.602726}
+  - {lab: 'u:', end: 0.675}
+  - {lab: b, end: 0.741204}
+  - {lab: I, end: 0.805}
+  - {lab: s, end: 0.892632}
+  - {lab: t, end: 0.948422}
+  - {lab: l, end: 1.015}
+  - {lab: a, end: 1.125}
+  - {lab: N, end: 1.237332}
+  - {lab: v, end: 1.275}
+  - {lab: aI, end: 1.470453}
+  - {lab: l, end: 1.535}
+  - {lab: I, end: 1.63}
+  - {lab: C, end: 1.787257}
+  - {lab: _, end: 2.165829}
+  - {lab: t, end: 2.262963}
+  - {lab: 'u:', end: 2.315}
+  - {lab: s, end: 2.390482}
+  - {lab: t, end: 2.42535}
+  - {lab: d, end: 2.456234}
+  - {lab: 'u:', end: 2.52}
+  - {lab: n, end: 2.590228}
+  - {lab: 'i:', end: 2.69}
+  - {lab: '?', end: 2.69832}
+  - {lab: E, end: 2.775}
+  - {lab: t, end: 2.835}
+  - {lab: v, end: 2.858715}
+  - {lab: a, end: 2.91}
+  - {lab: s, end: 2.989721}
+  - {lab: S, end: 3.07}
+  - {lab: p, end: 3.175022}
+  - {lab: a, end: 3.255717}
+  - {lab: n, end: 3.294073}
+  - {lab: '@', end: 3.335}
+  - {lab: n, end: 3.417108}
+  - {lab: d, end: 3.469909}
+  - {lab: '@', end: 3.596432}
+  - {lab: s, end: 3.791695}
+  - {lab: _, end: 4.435}
+- prompt: spike0043
+  text: Was meinst du?
+  style: angry
+  start: 158.22
+  end: 160.56
+  segments:
+  - {lab: H#, end: 0.55}
+  - {lab: v, end: 0.65}
+  - {lab: a, end: 0.781674}
+  - {lab: s, end: 0.935}
+  - {lab: m, end: 1.015}
+  - {lab: aI, end: 1.16}
+  - {lab: n, end: 1.225}
+  - {lab: s, end: 1.320415}
+  - {lab: t, end: 1.359823}
+  - {lab: d, end: 1.387259}
+  - {lab: 'u:', end: 1.636177}
+  - {lab: _, end: 2.335}
+- prompt: spike0044
+  text: Du findest dich wohl klug, hä?
+  style: angry
+  start: 160.56
+  end: 163.86
+  segments:
+  - {lab: H#, end: 0.49}
+  - {lab: d, end: 0.525249}
+  - {lab: 'u:', end: 0.578073}
+  - {lab: f, end: 0.672757}
+  - {lab: I, end: 0.735548}
+  - {lab: n, end: 0.781894}
+  - {lab: d, end: 0.808804}
+  - {lab: '@', end: 0.84}
+  - {lab: s, end: 0.887541}
+  - {lab: t, end: 0.917442}
+  - {lab: d, end: 0.94485}
+  - {lab: I, end: 0.98}
+  - {lab: C, end: 1.055}
+  - {lab: v, end: 1.08}
+  - {lab: 'o:', end: 1.170099}
+  - {lab: l, end: 1.205}
+  - {lab: k, end: 1.279734}
+  - {lab: l, end: 1.369435}
+  - {lab: 'u:', end: 1.53}
+  - {lab: k, end: 1.610631}
+  - {lab: h, end: 1.645}
+  - {lab: E, end: 1.881727}
+  - {lab: _, end: 3.295}
+- prompt: spike0045
+  text: Wieso genau hast du so gute Laune?
+  style: angry
+  start: 163.86
+  end: 167.4
+  segments:
+  - {lab: H#, end: 0.4}
+  - {lab: v, end: 0.44596}
+  - {lab: 'i:', end: 0.577008}
+  - {lab: z, end: 0.657231}
+  - {lab: 'o:', end: 0.779808}
+  - {lab: g, end: 0.83711}
