@@ -1,0 +1,100 @@
+  - {lab: v, end: 1.33}
+  - {lab: 'i:', end: 1.4}
+  - {lab: z, end: 1.488119}
+  - {lab: 'o:', end: 1.565}
+  - {lab: d, end: 1.718707}
+  - {lab: 'u:', end: 1.901485}
+  - {lab: '?', end: 1.937343}
+  - {lab: I, end: 1.97868}
+  - {lab: n, end: 2.063345}
+  - {lab: z, end: 2.177892}
+  - {lab: 'o:', end: 2.333776}
+  - {lab: '?', end: 2.372623}
+  - {lab: aI, end: 2.467747}
+  - {lab: n, end: 2.52}
+  - {lab: '6', end: 2.625125}
+  - {lab: g, end: 2.706802}
+  - {lab: 'u:', end: 2.837784}
+  - {lab: t, end: 2.93}
+  - {lab: '@', end: 2.941375}
+  - {lab: n, end: 3.0}
+  - {lab: S, end: 3.097757}
+  - {lab: t, end: 3.153536}
+  - {lab: I, end: 3.215}
+  - {lab: m, end: 3.285}
+  - {lab: U, end: 3.355}
+  - {lab: N, end: 3.42}
+  - {lab: b, end: 3.505147}
+  - {lab: I, end: 3.62}
+  - {lab: s, end: 3.754163}
+  - {lab: t, end: 3.869706}
+  - {lab: _, end: 5.155}
+- prompt: spike0036
+  text: Wieso?
+  style: angry
+  start: 126.84
+  end: 128.7
+  segments:
+  - {lab: H#, end: 0.545}
+  - {lab: v, end: 0.589035}
+  - {lab: 'i:', end: 0.69}
+  - {lab: z, end: 0.82415}
+  - {lab: 'o:', end: 1.187055}
+  - {lab: _, end: 1.855}
+- prompt: spike0037
+  text: Ich verstehe nicht ganz – wieso bloß bist du so gut gelaunt?
+  style: angry
+  start: 128.7
+  end: 133.8
+  segments:
+  - {lab: H#, end: 0.595}
+  - {lab: '?', end: 0.620452}
+  - {lab: I, end: 0.69}
+  - {lab: C, end: 0.755}
+  - {lab: f, end: 0.815}
+  - {lab: '6', end: 0.88}
+  - {lab: S, end: 0.976315}
+  - {lab: t, end: 1.028167}
+  - {lab: 'e:', end: 1.137554}
+  - {lab: '@', end: 1.225277}
+  - {lab: n, end: 1.265}
+  - {lab: I, end: 1.335}
+  - {lab: C, end: 1.449378}
+  - {lab: t, end: 1.47779}
+  - {lab: g, end: 1.546335}
+  - {lab: a, end: 1.650039}
+  - {lab: n, end: 1.706508}
+  - {lab: ts, end: 1.864551}
+  - {lab: _, end: 2.204432}
+  - {lab: v, end: 2.236041}
+  - {lab: 'i:', end: 2.34}
+  - {lab: z, end: 2.467601}
+  - {lab: 'o:', end: 2.654766}
+  - {lab: b, end: 2.727217}
+  - {lab: l, end: 2.785}
+  - {lab: 'o:', end: 2.945}
+  - {lab: s, end: 3.038331}
+  - {lab: b, end: 3.117885}
+  - {lab: I, end: 3.171868}
+  - {lab: s, end: 3.272732}
+  - {lab: t, end: 3.299723}
+  - {lab: d, end: 3.357968}
+  - {lab: 'u:', end: 3.45}
+  - {lab: z, end: 3.573901}
+  - {lab: 'o:', end: 3.71}
+  - {lab: g, end: 3.825704}
+  - {lab: 'u:', end: 3.9}
+  - {lab: t, end: 3.960662}
+  - {lab: g, end: 4.017487}
+  - {lab: '@', end: 4.071825}
+  - {lab: l, end: 4.146762}
+  - {lab: aU, end: 4.395}
+  - {lab: n, end: 4.481316}
+  - {lab: t, end: 4.672388}
+  - {lab: _, end: 5.095}
+- prompt: spike0038
+  text: Bekommst du manchmal eine Wut auf die Welt?
+  style: angry
+  start: 133.8
+  end: 137.88
+  segments:
