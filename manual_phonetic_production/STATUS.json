@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-10T04:11:50-07:00",
-  "total_sources": 131,
+  "last_updated": "2026-09-10T05:12:32-07:00",
+  "total_sources": 133,
   "accepted_sources": 43,
   "excluded_sources": 25,
-  "review_sources": 63,
+  "review_sources": 65,
   "ingested_sources": 42,
-  "parsed_rows_total": 1359409,
+  "parsed_rows_total": 1359809,
   "parsed_logical_tables_total": 84,
   "inventory_file_records": 932,
   "variable_dictionary_records": 1108,
-  "notes": "Reconciled a contradictory prior global rollback against the source-specific VoxAngeles ingestion ledger and actual committed source-faithful chunks. Durable VoxAngeles mean-F0 coverage was already 3054 observations through exact upstream line 3055, not 854 through line 855. This run added two new contiguous 200-row source-faithful chunks (lines 3056-3255 and 3256-3455), bringing verified VoxAngeles mean-F0 coverage to 3454 observations through line 3455; next source line is 3456. Global parsed-row accounting is restored to the previously supported 1359009 baseline at line 3055 plus 400 new rows = 1359409. Fresh discovery screened OSF/Zenodo/journal candidates for manually grounded production annotations; no weak or ambiguous candidate was promoted to core merely at paper level. No unrelated repository content modified."
+  "notes": "This pass performed both backlog ingestion and fresh discovery. VoxAngeles durable mean-F0 coverage advanced by 400 exact source-faithful observations from upstream lines 3456-3855, bringing verified coverage to 3854 observations through line 3855; continuation begins at line 3856. Rows are pinned to upstream commit e30c638a8a2c22e576f871f0e2044780d56eab82 / blob 9492dd2ed35044219aed483613fd3f7a44f292d3, with original IDs and numeric strings preserved. Discovery added AUSpeech 2025 and SAIT-EMA 2026 to the high-priority review queue rather than core: AUSpeech has 43 healthy + 11 dysarthric Mandarin speakers with manual inspection of normal alignments and fully manual patient annotations; SAIT-EMA has 18 participants with synchronized 250-Hz EMA / 48-kHz audio and reported manual error annotation, but exact manual interval/landmark scope remains to be isolated. No unrelated repository content modified."
 }
