@@ -1,0 +1,100 @@
+  - {lab: m, end: 1.14}
+  - {lab: I, end: 1.192438}
+  - {lab: t, end: 1.261223}
+  - {lab: '?', end: 1.285204}
+  - {lab: '@', end: 1.318378}
+  - {lab: U, end: 1.365682}
+  - {lab: b, end: 1.425808}
+  - {lab: '@', end: 1.49}
+  - {lab: d, end: 1.563021}
+  - {lab: aI, end: 1.737359}
+  - {lab: j, end: 1.765005}
+  - {lab: a, end: 1.991083}
+  - {lab: _, end: 3.295}
+- prompt: spike0022
+  text: Sprich lieber mal mit Prudence.
+  style: angry
+  start: 74.46
+  end: 77.82
+  segments:
+  - {lab: H#, end: 0.345}
+  - {lab: S, end: 0.486979}
+  - {lab: p, end: 0.577949}
+  - {lab: R, end: 0.6}
+  - {lab: I, end: 0.65}
+  - {lab: C, end: 0.813064}
+  - {lab: l, end: 0.865}
+  - {lab: 'i:', end: 0.985011}
+  - {lab: b, end: 1.039668}
+  - {lab: '6', end: 1.125}
+  - {lab: m, end: 1.195}
+  - {lab: 'a:', end: 1.272408}
+  - {lab: l, end: 1.299428}
+  - {lab: m, end: 1.355}
+  - {lab: I, end: 1.42}
+  - {lab: t, end: 1.476902}
+  - {lab: p, end: 1.64001}
+  - {lab: r, end: 1.673421}
+  - {lab: 'u:', end: 1.795}
+  - {lab: d, end: 1.870336}
+  - {lab: '@', end: 1.91}
+  - {lab: n, end: 2.07}
+  - {lab: s, end: 2.315758}
+  - {lab: _, end: 3.355}
+- prompt: spike0023
+  text: Red keinen Unsinn!
+  style: angry
+  start: 77.82
+  end: 80.4
+  segments:
+  - {lab: H#, end: 0.267422}
+  - {lab: R, end: 0.41}
+  - {lab: 'e:', end: 0.52065}
+  - {lab: t, end: 0.595961}
+  - {lab: k, end: 0.67376}
+  - {lab: aI, end: 0.760819}
+  - {lab: n, end: 0.790911}
+  - {lab: '@', end: 0.855}
+  - {lab: n, end: 0.894814}
+  - {lab: '?', end: 0.941939}
+  - {lab: U, end: 1.08}
+  - {lab: n, end: 1.181541}
+  - {lab: z, end: 1.26}
+  - {lab: I, end: 1.405}
+  - {lab: n, end: 1.588068}
+  - {lab: _, end: 2.575}
+- prompt: spike0024
+  text: Mach mal halb lang!
+  style: angry
+  start: 80.4
+  end: 83.04
+  segments:
+  - {lab: H#, end: 0.356116}
+  - {lab: m, end: 0.41}
+  - {lab: a, end: 0.496122}
+  - {lab: x, end: 0.546664}
+  - {lab: m, end: 0.615}
+  - {lab: 'a:', end: 0.689575}
+  - {lab: l, end: 0.729079}
+  - {lab: h, end: 0.835972}
+  - {lab: a, end: 0.936474}
+  - {lab: l, end: 0.994568}
+  - {lab: p, end: 1.089836}
+  - {lab: l, end: 1.13}
+  - {lab: a, end: 1.3}
+  - {lab: N, end: 1.390769}
+  - {lab: _, end: 2.635}
+- prompt: spike0025
+  text: Du hörst dich an wie ein Hohlkopf.
+  style: angry
+  start: 83.04
+  end: 86.58
+  segments:
+  - {lab: H#, end: 0.246295}
+  - {lab: d, end: 0.317905}
+  - {lab: 'u:', end: 0.434241}
+  - {lab: h, end: 0.504874}
+  - {lab: '2:', end: 0.565066}
+  - {lab: '6', end: 0.63}
+  - {lab: s, end: 0.66948}
+  - {lab: t, end: 0.696505}
