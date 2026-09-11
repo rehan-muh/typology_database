@@ -1,0 +1,50 @@
+  - {lab: _, end: 3.475}
+- prompt: m0189
+  text: Der Kopf muss kühl bleiben.
+  style: angry
+  start: 911.52
+  end: 914.64
+  segments:
+  - {lab: H#, end: 0.348882}
+  - {lab: d, end: 0.394562}
+  - {lab: E, end: 0.5}
+  - {lab: '6', end: 0.57}
+  - {lab: k, end: 0.743107}
+  - {lab: O, end: 0.815081}
+  - {lab: pf, end: 1.01}
+  - {lab: m, end: 1.115}
+  - {lab: U, end: 1.215}
+  - {lab: s, end: 1.372186}
+  - {lab: k, end: 1.50188}
+  - {lab: 'y:', end: 1.62}
+  - {lab: l, end: 1.67}
+  - {lab: b, end: 1.76231}
+  - {lab: l, end: 1.82}
+  - {lab: aI, end: 2.017739}
+  - {lab: b, end: 2.069735}
+  - {lab: '@', end: 2.077567}
+  - {lab: n, end: 2.211221}
+  - {lab: _, end: 3.115}
+- prompt: m0190
+  text: Diese verursachten ein Verkehrschaos im Stadtzentrum.
+  style: angry
+  start: 914.64
+  end: 919.32
+  segments:
+  - {lab: H#, end: 0.595}
+  - {lab: d, end: 0.619597}
+  - {lab: 'i:', end: 0.715}
+  - {lab: z, end: 0.765921}
+  - {lab: '@', end: 0.835}
+  - {lab: f, end: 0.925}
+  - {lab: '6', end: 0.97}
+  - {lab: '?', end: 1.055828}
+  - {lab: 'u:', end: 1.13199}
+  - {lab: '6', end: 1.163929}
+  - {lab: z, end: 1.245}
+  - {lab: a, end: 1.305}
+  - {lab: x, end: 1.375}
+  - {lab: t, end: 1.46}
+  - {lab: '@', end: 1.467963}
+  - {lab: n, end: 1.494374}
+  - {lab: '?', end: 1.52}
