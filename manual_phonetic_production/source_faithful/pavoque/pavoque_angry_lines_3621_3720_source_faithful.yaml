@@ -1,0 +1,100 @@
+  - {lab: '@', end: 1.196397}
+  - {lab: '?', end: 1.229562}
+  - {lab: 'e:', end: 1.262727}
+  - {lab: '6', end: 1.295}
+  - {lab: ts, end: 1.41}
+  - {lab: U, end: 1.442678}
+  - {lab: m, end: 1.522519}
+  - {lab: tS, end: 1.69}
+  - {lab: E, end: 1.76}
+  - {lab: l, end: 1.825}
+  - {lab: 'o:', end: 1.971475}
+  - {lab: _, end: 3.235}
+- prompt: m0054
+  text: Das Libretto schrieb Samuel Humphreys.
+  style: angry
+  start: 378.72
+  end: 382.5
+  segments:
+  - {lab: H#, end: 0.495576}
+  - {lab: d, end: 0.534507}
+  - {lab: a, end: 0.599358}
+  - {lab: s, end: 0.66}
+  - {lab: l, end: 0.722177}
+  - {lab: 'i:', end: 0.795869}
+  - {lab: b, end: 0.860498}
+  - {lab: R, end: 0.933427}
+  - {lab: E, end: 1.018172}
+  - {lab: t, end: 1.106215}
+  - {lab: 'o:', end: 1.2}
+  - {lab: S, end: 1.3}
+  - {lab: R, end: 1.335}
+  - {lab: 'i:', end: 1.416107}
+  - {lab: p, end: 1.478216}
+  - {lab: s, end: 1.595}
+  - {lab: E, end: 1.72}
+  - {lab: m, end: 1.77}
+  - {lab: j, end: 1.847202}
+  - {lab: 'u:', end: 1.898172}
+  - {lab: '@', end: 1.909226}
+  - {lab: l, end: 1.942387}
+  - {lab: h, end: 2.03}
+  - {lab: a, end: 2.09}
+  - {lab: m, end: 2.175}
+  - {lab: f, end: 2.275}
+  - {lab: r, end: 2.345}
+  - {lab: EI, end: 2.449631}
+  - {lab: s, end: 2.637544}
+  - {lab: _, end: 3.775}
+- prompt: m0056
+  text: Gebaut werden die Häuser von der Bayreuther Baufirma.
+  style: angry
+  start: 382.5
+  end: 387.18
+  segments:
+  - {lab: H#, end: 0.456133}
+  - {lab: g, end: 0.498223}
+  - {lab: '@', end: 0.609911}
+  - {lab: b, end: 0.689094}
+  - {lab: aU, end: 0.888763}
+  - {lab: t, end: 0.99253}
+  - {lab: v, end: 1.014062}
+  - {lab: 'e:', end: 1.095137}
+  - {lab: '6', end: 1.142432}
+  - {lab: d, end: 1.205915}
+  - {lab: '@', end: 1.215}
+  - {lab: n, end: 1.255}
+  - {lab: d, end: 1.287157}
+  - {lab: 'i:', end: 1.37}
+  - {lab: h, end: 1.45}
+  - {lab: OY, end: 1.575}
+  - {lab: z, end: 1.654683}
+  - {lab: '6', end: 1.755}
+  - {lab: f, end: 1.840789}
+  - {lab: O, end: 1.89}
+  - {lab: n, end: 1.93}
+  - {lab: d, end: 1.96}
+  - {lab: E, end: 2.015}
+  - {lab: '6', end: 2.063747}
+  - {lab: b, end: 2.126012}
+  - {lab: aI, end: 2.28}
+  - {lab: r, end: 2.355}
+  - {lab: OY, end: 2.478954}
+  - {lab: t, end: 2.567463}
+  - {lab: '6', end: 2.665}
+  - {lab: b, end: 2.74463}
+  - {lab: aU, end: 2.905}
+  - {lab: f, end: 3.015}
+  - {lab: I, end: 3.095621}
+  - {lab: '6', end: 3.16}
+  - {lab: m, end: 3.215}
+  - {lab: 'a:', end: 3.424224}
+  - {lab: _, end: 4.675}
+- prompt: m0052
+  text: 'Seht nur diesen Drake: Wer ist er?'
+  style: angry
+  start: 387.18
+  end: 390.72
+  segments:
+  - {lab: H#, end: 0.159692}
+  - {lab: z, end: 0.321119}
