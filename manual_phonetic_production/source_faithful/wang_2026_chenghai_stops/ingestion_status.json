@@ -1,0 +1,27 @@
+{
+  "source_id": "wang_2026_chenghai_stops",
+  "decision": "INCLUDE",
+  "title": "An Acoustic Study of Stops in the Chenghai Dialect",
+  "repository": "Mendeley Data",
+  "doi": "10.17632/4bw5rh6n3y.1",
+  "publication_date": "2026-07-21",
+  "primary_collection": true,
+  "manual_scope": "Authoritative deposit states that textgrid.zip contains Praat annotations manually marking Voice Onset Time (VOT) and closure duration (GAP).",
+  "public_files_inventoried": 3,
+  "files_downloaded": 0,
+  "core_rows_promoted": 0,
+  "processed": [
+    "Verified primary field recordings collected in summer 2026 from native Chenghai speakers",
+    "Verified public CC-BY-4.0 deposit and three named data products: wav.zip, textgrid.zip, and data analysis.xlsx",
+    "Created source-faithful file manifest and initial variable dictionary without assuming unspecified units"
+  ],
+  "pending": [
+    "Resolve direct Mendeley file-download URLs and record byte sizes/checksums",
+    "Download and enumerate every TextGrid in textgrid.zip and parse every tier/interval/landmark",
+    "Download data analysis.xlsx and inventory every sheet, column, coding level, unit and row",
+    "Join workbook observations to TextGrid landmarks and recordings with namespaced IDs",
+    "Enumerate audio archive by filename/checksum without committing large WAV files to GitHub",
+    "Extract exact speaker counts, age/gender metadata and task/repetition structure from workbook/report"
+  ],
+  "updated": "2026-09-10T20:13:29-07:00"
+}
