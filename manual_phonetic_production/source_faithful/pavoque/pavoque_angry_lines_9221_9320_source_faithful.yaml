@@ -1,0 +1,100 @@
+  - {lab: '@', end: 3.224375}
+  - {lab: '?', end: 3.29}
+  - {lab: a, end: 3.410468}
+  - {lab: '6', end: 3.498908}
+  - {lab: b, end: 3.581948}
+  - {lab: aI, end: 3.8}
+  - {lab: t, end: 4.066398}
+  - {lab: _, end: 4.795}
+- prompt: m0177
+  text: Zöllner warteten in Chile.
+  style: angry
+  start: 947.58
+  end: 950.64
+  segments:
+  - {lab: H#, end: 0.314395}
+  - {lab: ts, end: 0.45}
+  - {lab: '9', end: 0.555}
+  - {lab: l, end: 0.649054}
+  - {lab: n, end: 0.695}
+  - {lab: '6', end: 0.87}
+  - {lab: v, end: 0.965}
+  - {lab: a, end: 1.068452}
+  - {lab: '6', end: 1.14}
+  - {lab: t, end: 1.229947}
+  - {lab: '@', end: 1.28}
+  - {lab: t, end: 1.377726}
+  - {lab: '@', end: 1.43}
+  - {lab: n, end: 1.486007}
+  - {lab: '?', end: 1.525}
+  - {lab: I, end: 1.6}
+  - {lab: n, end: 1.694785}
+  - {lab: tS, end: 1.865}
+  - {lab: 'i:', end: 2.015}
+  - {lab: l, end: 2.079182}
+  - {lab: '@', end: 2.345}
+  - {lab: _, end: 3.055}
+- prompt: m0186
+  text: 'Der Begriff Hai bezeichnet: Siehe auch: Hey.'
+  style: angry
+  start: 950.64
+  end: 954.78
+  segments:
+  - {lab: H#, end: 0.242798}
+  - {lab: d, end: 0.279022}
+  - {lab: E, end: 0.330478}
+  - {lab: '6', end: 0.363035}
+  - {lab: b, end: 0.412169}
+  - {lab: '@', end: 0.465004}
+  - {lab: g, end: 0.52182}
+  - {lab: R, end: 0.585}
+  - {lab: I, end: 0.675}
+  - {lab: f, end: 0.77}
+  - {lab: h, end: 0.86}
+  - {lab: aI, end: 1.046105}
+  - {lab: b, end: 1.116087}
+  - {lab: '@', end: 1.177559}
+  - {lab: ts, end: 1.34}
+  - {lab: aI, end: 1.485}
+  - {lab: C, end: 1.562708}
+  - {lab: n, end: 1.62}
+  - {lab: '@', end: 1.72}
+  - {lab: t, end: 1.820702}
+  - {lab: _, end: 2.036311}
+  - {lab: z, end: 2.15}
+  - {lab: 'i:', end: 2.285}
+  - {lab: '@', end: 2.354504}
+  - {lab: '?', end: 2.379689}
+  - {lab: aU, end: 2.595}
+  - {lab: x, end: 2.735353}
+  - {lab: _, end: 2.930691}
+  - {lab: h, end: 2.99}
+  - {lab: EI, end: 3.25257}
+  - {lab: _, end: 4.135}
+- prompt: m0197
+  text: Dabei handelte es sich um eine deutsch tschechische Koproduktion.
+  style: angry
+  start: 954.78
+  end: 960.18
+  segments:
+  - {lab: H#, end: 0.435481}
+  - {lab: d, end: 0.477608}
+  - {lab: 'a:', end: 0.652915}
+  - {lab: b, end: 0.738923}
+  - {lab: aI, end: 0.97}
+  - {lab: h, end: 1.105}
+  - {lab: a, end: 1.17}
+  - {lab: n, end: 1.257307}
+  - {lab: d, end: 1.294774}
+  - {lab: '@', end: 1.307059}
+  - {lab: l, end: 1.383222}
+  - {lab: t, end: 1.492526}
+  - {lab: '@', end: 1.560117}
+  - {lab: '?', end: 1.584072}
+  - {lab: E, end: 1.645}
+  - {lab: s, end: 1.719814}
+  - {lab: z, end: 1.77}
+  - {lab: I, end: 1.844501}
+  - {lab: C, end: 1.904694}
+  - {lab: '?', end: 1.912679}
+  - {lab: U, end: 1.952603}
