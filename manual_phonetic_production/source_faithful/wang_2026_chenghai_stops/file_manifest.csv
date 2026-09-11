@@ -1,0 +1,4 @@
+source_id,path,kind,access,license,manual_scope,ingestion_status,notes
+wang_2026_chenghai_stops,wav.zip,audio_archive,public,CC-BY-4.0,primary stop-initial syllable recordings,inventoried_not_downloaded,Retain authoritative Mendeley DOI; do not mirror the large audio archive to GitHub.
+wang_2026_chenghai_stops,textgrid.zip,praat_textgrid_archive,public,CC-BY-4.0,manually annotated VOT and closure-duration landmarks,high_priority_pending_download,Authoritative record states TextGrids were manually annotated in Praat; parse all tiers and intervals when downloaded.
+wang_2026_chenghai_stops,data_analysis.xlsx,acoustic_measurement_workbook,public,CC-BY-4.0,derived VOT and closure-duration measurements from primary recordings,high_priority_pending_download,Inventory every sheet table and variable and preserve original values before harmonization.
