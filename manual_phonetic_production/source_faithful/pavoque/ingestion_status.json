@@ -4,26 +4,26 @@
   "publication": "PAVOQUE Corpus of Expressive Speech",
   "upstream_repository": "marytts/pavoque-data",
   "source_faithful_yaml_files_inventoried": 6,
-  "source_faithful_lines_mirrored": 3720,
-  "complete_utterances_mirrored": 103,
+  "source_faithful_lines_mirrored": 4120,
+  "complete_utterances_mirrored": 113,
   "partial_utterances_mirrored": 1,
   "variable_dictionary_records": 7,
   "core_rows_promoted": 0,
   "manual_scope": "Repository documentation explicitly states that the optional phonetic segments are manually corrected. Segment labels are German SAMPA; segment end times are relative to utterance start. Corpus is speech, not singing; speaker's professional singing background does not make these acted/read speech recordings singing data.",
   "processed": [
     "Inventoried six public style-level YAML annotation files with immutable Git blob SHAs and byte sizes",
-    "Mirrored exact source lines 1-3720 of pavoque-angry.yaml in source-faithful chunks; current increment closes partial m0044 and complete utterances m0045, m0036, m0046, m0047, m0048, m0049, m0050, m0051, m0053, m0054, and m0056, ending inside partial m0052",
+    "Mirrored exact source lines 1-4120 of pavoque-angry.yaml in source-faithful chunks; current increment closes the previously partial m0052 and complete utterances m0058, m0059, m0060, m0061, m0062, m0063, m0064, m0065, and m0066, ending inside partial m0067",
     "Documented utterance prompt/text/style/start/end and segment label/end variables without IPA invention",
     "Recorded CC-BY-NC-SA-4.0 license and 44.1 kHz, 16-bit mono audio metadata from upstream README",
     "Validated source-faithful continuation against immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423"
   ],
   "pending": [
-    "Continue pavoque-angry.yaml from source line 3721",
+    "Continue pavoque-angry.yaml from source line 4121",
     "Mirror pavoque-happy.yaml, pavoque-neutral.yaml, pavoque-poker.yaml, pavoque-sad.yaml, and pavoque-outtakes.yaml",
     "Parse complete utterances and segments into namespaced utterance and segment/interval tables",
     "Derive segment start times from within-utterance preceding endpoints while retaining original end times",
     "Create explicit German SAMPA-to-IPA mapping only where unambiguous and preserve source labels",
     "Inventory authoritative release audio manifests without committing large FLAC audio"
   ],
-  "updated": "2026-09-10T19:07:33-07:00"
+  "updated": "2026-09-10T20:13:29-07:00"
 }
