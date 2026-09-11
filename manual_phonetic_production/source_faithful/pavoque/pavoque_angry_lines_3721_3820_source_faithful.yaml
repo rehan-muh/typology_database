@@ -1,0 +1,100 @@
+  - {lab: 'e:', end: 0.488905}
+  - {lab: t, end: 0.597202}
+  - {lab: n, end: 0.635}
+  - {lab: 'u:', end: 0.713702}
+  - {lab: '6', end: 0.746869}
+  - {lab: d, end: 0.780279}
+  - {lab: 'i:', end: 0.87}
+  - {lab: z, end: 0.94}
+  - {lab: '@', end: 0.955}
+  - {lab: n, end: 1.044757}
+  - {lab: d, end: 1.130769}
+  - {lab: r, end: 1.185409}
+  - {lab: 'E:', end: 1.30395}
+  - {lab: I, end: 1.365}
+  - {lab: k, end: 1.571742}
+  - {lab: _, end: 1.895}
+  - {lab: v, end: 1.975}
+  - {lab: 'e:', end: 2.092585}
+  - {lab: '6', end: 2.168746}
+  - {lab: '?', end: 2.201299}
+  - {lab: I, end: 2.295}
+  - {lab: s, end: 2.413199}
+  - {lab: t, end: 2.460278}
+  - {lab: '?', end: 2.465}
+  - {lab: 'e:', end: 2.585}
+  - {lab: '6', end: 2.797061}
+  - {lab: _, end: 3.535}
+- prompt: m0058
+  text: Schon bald wird Justine anonym verlegt.
+  style: angry
+  start: 390.72
+  end: 394.56
+  segments:
+  - {lab: H#, end: 0.101351}
+  - {lab: S, end: 0.223585}
+  - {lab: 'o:', end: 0.312651}
+  - {lab: n, end: 0.384518}
+  - {lab: b, end: 0.454185}
+  - {lab: a, end: 0.551593}
+  - {lab: l, end: 0.6511}
+  - {lab: t, end: 0.736093}
+  - {lab: v, end: 0.765}
+  - {lab: I, end: 0.824318}
+  - {lab: '6', end: 0.881442}
+  - {lab: t, end: 0.91154}
+  - {lab: d, end: 0.943609}
+  - {lab: Z, end: 1.01}
+  - {lab: a, end: 1.11}
+  - {lab: s, end: 1.219892}
+  - {lab: t, end: 1.311656}
+  - {lab: I, end: 1.385}
+  - {lab: n, end: 1.454534}
+  - {lab: '?', end: 1.56}
+  - {lab: a, end: 1.66}
+  - {lab: n, end: 1.705}
+  - {lab: 'o:', end: 1.79}
+  - {lab: n, end: 1.855}
+  - {lab: 'y:', end: 1.92}
+  - {lab: m, end: 1.99}
+  - {lab: f, end: 2.1}
+  - {lab: '6', end: 2.19}
+  - {lab: l, end: 2.28}
+  - {lab: 'e:', end: 2.42}
+  - {lab: k, end: 2.51165}
+  - {lab: t, end: 2.752435}
+  - {lab: _, end: 3.835}
+- prompt: m0059
+  text: Sie steht bei Neuwied, Rheinland Pfalz.
+  style: angry
+  start: 394.56
+  end: 398.4
+  segments:
+  - {lab: H#, end: 0.695}
+  - {lab: z, end: 0.805}
+  - {lab: 'i:', end: 0.885}
+  - {lab: S, end: 0.96068}
+  - {lab: t, end: 1.014086}
+  - {lab: 'e:', end: 1.097043}
+  - {lab: t, end: 1.136969}
+  - {lab: b, end: 1.187342}
+  - {lab: aI, end: 1.325}
+  - {lab: n, end: 1.38}
+  - {lab: OY, end: 1.558341}
+  - {lab: v, end: 1.614237}
+  - {lab: 'i:', end: 1.77087}
+  - {lab: t, end: 1.92}
+  - {lab: R, end: 2.108705}
+  - {lab: aI, end: 2.245}
+  - {lab: n, end: 2.315}
+  - {lab: l, end: 2.365}
+  - {lab: a, end: 2.455}
+  - {lab: n, end: 2.505}
+  - {lab: t, end: 2.552805}
+  - {lab: pf, end: 2.714344}
+  - {lab: a, end: 2.82}
+  - {lab: l, end: 2.885}
+  - {lab: ts, end: 3.152923}
+  - {lab: _, end: 3.835}
+- prompt: m0060
+  text: George Green, Hermann Grassmann.
