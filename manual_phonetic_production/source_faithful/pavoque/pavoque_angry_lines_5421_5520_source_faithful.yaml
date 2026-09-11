@@ -1,0 +1,100 @@
+  - {lab: '6', end: 2.458035}
+  - {lab: _, end: 3.535}
+- prompt: m0104
+  text: Zwerg Seepferdchen werden nur zwei Zentimeter lang.
+  style: angry
+  start: 562.5
+  end: 567.06
+  segments:
+  - {lab: H#, end: 0.33}
+  - {lab: ts, end: 0.495}
+  - {lab: v, end: 0.57}
+  - {lab: E, end: 0.655}
+  - {lab: '6', end: 0.735}
+  - {lab: k, end: 0.836791}
+  - {lab: z, end: 0.955}
+  - {lab: 'e:', end: 1.090916}
+  - {lab: pf, end: 1.23708}
+  - {lab: 'e:', end: 1.312662}
+  - {lab: '6', end: 1.37}
+  - {lab: t, end: 1.424013}
+  - {lab: C, end: 1.485267}
+  - {lab: '@', end: 1.54}
+  - {lab: n, end: 1.575}
+  - {lab: v, end: 1.615}
+  - {lab: 'e:', end: 1.707627}
+  - {lab: '6', end: 1.76}
+  - {lab: d, end: 1.81}
+  - {lab: '@', end: 1.826178}
+  - {lab: n, end: 1.877776}
+  - {lab: n, end: 1.950258}
+  - {lab: 'u:', end: 2.01}
+  - {lab: '6', end: 2.054681}
+  - {lab: ts, end: 2.215}
+  - {lab: v, end: 2.272127}
+  - {lab: aI, end: 2.432447}
+  - {lab: ts, end: 2.565}
+  - {lab: E, end: 2.645}
+  - {lab: n, end: 2.69}
+  - {lab: t, end: 2.761899}
+  - {lab: 'i:', end: 2.835}
+  - {lab: m, end: 2.885}
+  - {lab: 'e:', end: 3.046088}
+  - {lab: t, end: 3.105424}
+  - {lab: '6', end: 3.19}
+  - {lab: l, end: 3.225}
+  - {lab: a, end: 3.385}
+  - {lab: N, end: 3.508007}
+  - {lab: _, end: 4.555}
+- prompt: m0105
+  text: Diese heißen dann Gateway, Transport, Agent.
+  style: angry
+  start: 567.06
+  end: 571.2
+  segments:
+  - {lab: H#, end: 0.543272}
+  - {lab: d, end: 0.5858}
+  - {lab: 'i:', end: 0.68}
+  - {lab: z, end: 0.744941}
+  - {lab: '@', end: 0.818824}
+  - {lab: h, end: 0.895}
+  - {lab: aI, end: 0.995}
+  - {lab: s, end: 1.09}
+  - {lab: '@', end: 1.105}
+  - {lab: n, end: 1.175}
+  - {lab: d, end: 1.219617}
+  - {lab: a, end: 1.325}
+  - {lab: n, end: 1.375}
+  - {lab: g, end: 1.462443}
+  - {lab: EI, end: 1.605}
+  - {lab: t, end: 1.69155}
+  - {lab: v, end: 1.76}
+  - {lab: EI, end: 1.905}
+  - {lab: t, end: 2.0}
+  - {lab: R, end: 2.075}
+  - {lab: a, end: 2.14}
+  - {lab: n, end: 2.185}
+  - {lab: s, end: 2.253764}
+  - {lab: p, end: 2.356921}
+  - {lab: O, end: 2.46753}
+  - {lab: '6', end: 2.522201}
+  - {lab: t, end: 2.623069}
+  - {lab: '?', end: 2.695}
+  - {lab: a, end: 2.77}
+  - {lab: g, end: 2.853548}
+  - {lab: E, end: 2.975}
+  - {lab: n, end: 3.08}
+  - {lab: t, end: 3.227385}
+  - {lab: _, end: 4.135}
+- prompt: m0106
+  text: Saddam Hussein hatte Wahlen.
+  style: angry
+  start: 571.2
+  end: 574.38
+  segments:
+  - {lab: H#, end: 0.475}
+  - {lab: s, end: 0.605}
+  - {lab: a, end: 0.699191}
+  - {lab: d, end: 0.758674}
+  - {lab: a, end: 0.855}
+  - {lab: m, end: 0.906245}
