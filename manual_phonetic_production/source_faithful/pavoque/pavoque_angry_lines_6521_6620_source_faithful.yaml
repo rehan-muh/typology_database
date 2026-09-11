@@ -1,0 +1,100 @@
+  - {lab: '?', end: 5.08}
+  - {lab: 'i:', end: 5.24}
+  - {lab: m, end: 5.360367}
+  - {lab: _, end: 6.835}
+- prompt: m0129
+  text: Auch die Verdauung wird angeregt.
+  style: angry
+  start: 674.7
+  end: 678.18
+  segments:
+  - {lab: H#, end: 0.684659}
+  - {lab: '?', end: 0.695098}
+  - {lab: aU, end: 0.833258}
+  - {lab: x, end: 0.915}
+  - {lab: d, end: 0.979543}
+  - {lab: 'i:', end: 1.06}
+  - {lab: f, end: 1.155016}
+  - {lab: '6', end: 1.26}
+  - {lab: d, end: 1.378487}
+  - {lab: aU, end: 1.51}
+  - {lab: U, end: 1.635}
+  - {lab: N, end: 1.743885}
+  - {lab: v, end: 1.781623}
+  - {lab: I, end: 1.834149}
+  - {lab: '6', end: 1.875904}
+  - {lab: t, end: 1.99073}
+  - {lab: '?', end: 2.045}
+  - {lab: a, end: 2.145}
+  - {lab: n, end: 2.230821}
+  - {lab: g, end: 2.27319}
+  - {lab: '6', end: 2.365}
+  - {lab: R, end: 2.415}
+  - {lab: 'e:', end: 2.57}
+  - {lab: k, end: 2.695038}
+  - {lab: t, end: 2.893375}
+  - {lab: _, end: 3.475}
+- prompt: m0130
+  text: Sie ist Hauptstadt der Provinz San Juan (Provinz).
+  style: angry
+  start: 678.18
+  end: 682.62
+  segments:
+  - {lab: H#, end: 0.615}
+  - {lab: z, end: 0.695}
+  - {lab: 'i:', end: 0.82}
+  - {lab: '?', end: 0.825014}
+  - {lab: I, end: 0.86}
+  - {lab: s, end: 0.91716}
+  - {lab: t, end: 0.993559}
+  - {lab: h, end: 1.055}
+  - {lab: aU, end: 1.13}
+  - {lab: p, end: 1.20108}
+  - {lab: t, end: 1.242193}
+  - {lab: S, end: 1.334275}
+  - {lab: t, end: 1.36651}
+  - {lab: a, end: 1.462665}
+  - {lab: t, end: 1.498295}
+  - {lab: d, end: 1.550539}
+  - {lab: E, end: 1.591669}
+  - {lab: '6', end: 1.622999}
+  - {lab: p, end: 1.683666}
+  - {lab: R, end: 1.72}
+  - {lab: 'o:', end: 1.813434}
+  - {lab: v, end: 1.855}
+  - {lab: I, end: 1.925}
+  - {lab: n, end: 1.995}
+  - {lab: ts, end: 2.076972}
+  - {lab: s, end: 2.17}
+  - {lab: a, end: 2.265}
+  - {lab: n, end: 2.337438}
+  - {lab: x, end: 2.445}
+  - {lab: 'u:', end: 2.545}
+  - {lab: a, end: 2.68}
+  - {lab: n, end: 2.800626}
+  - {lab: _, end: 2.93}
+  - {lab: p, end: 2.991444}
+  - {lab: R, end: 3.035}
+  - {lab: 'o:', end: 3.135}
+  - {lab: v, end: 3.195}
+  - {lab: I, end: 3.305}
+  - {lab: n, end: 3.423533}
+  - {lab: ts, end: 3.692599}
+  - {lab: _, end: 4.435}
+- prompt: m0131
+  text: Und diese Schwermut ist ihr Zauber.
+  style: angry
+  start: 682.62
+  end: 686.22
+  segments:
+  - {lab: H#, end: 0.613754}
+  - {lab: '?', end: 0.6371}
+  - {lab: U, end: 0.72}
+  - {lab: n, end: 0.806051}
+  - {lab: t, end: 0.842299}
+  - {lab: d, end: 0.917238}
+  - {lab: 'i:', end: 1.035}
+  - {lab: z, end: 1.115}
+  - {lab: '@', end: 1.215}
+  - {lab: S, end: 1.36}
+  - {lab: v, end: 1.405}
