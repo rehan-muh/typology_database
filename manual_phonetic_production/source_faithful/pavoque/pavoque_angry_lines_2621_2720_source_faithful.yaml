@@ -1,0 +1,100 @@
+  - {lab: _, end: 3.730687}
+- prompt: m0024
+  text: Die Ernte kam sehr früh heim.
+  style: angry
+  start: 273.54
+  end: 276.78
+  segments:
+  - {lab: H#, end: 0.399524}
+  - {lab: d, end: 0.453382}
+  - {lab: 'i:', end: 0.587143}
+  - {lab: '?', end: 0.655}
+  - {lab: E, end: 0.760953}
+  - {lab: '6', end: 0.835}
+  - {lab: n, end: 0.897912}
+  - {lab: t, end: 0.973351}
+  - {lab: '@', end: 1.07}
+  - {lab: k, end: 1.193677}
+  - {lab: 'a:', end: 1.315}
+  - {lab: m, end: 1.39}
+  - {lab: z, end: 1.49}
+  - {lab: 'e:', end: 1.622628}
+  - {lab: '6', end: 1.72}
+  - {lab: f, end: 1.829603}
+  - {lab: R, end: 1.955}
+  - {lab: 'y:', end: 2.097379}
+  - {lab: h, end: 2.2}
+  - {lab: aI, end: 2.41}
+  - {lab: m, end: 2.566603}
+  - {lab: _, end: 3.235}
+- prompt: m0025
+  text: Green trat in den Ruhestand.
+  style: angry
+  start: 276.78
+  end: 279.96
+  segments:
+  - {lab: H#, end: 0.536412}
+  - {lab: g, end: 0.626957}
+  - {lab: r, end: 0.732369}
+  - {lab: 'i:', end: 0.9}
+  - {lab: n, end: 1.03}
+  - {lab: t, end: 1.188064}
+  - {lab: R, end: 1.276116}
+  - {lab: 'a:', end: 1.404526}
+  - {lab: t, end: 1.465}
+  - {lab: '?', end: 1.48}
+  - {lab: I, end: 1.515}
+  - {lab: n, end: 1.547068}
+  - {lab: d, end: 1.574128}
+  - {lab: 'e:', end: 1.635}
+  - {lab: n, end: 1.675}
+  - {lab: R, end: 1.737533}
+  - {lab: 'u:', end: 1.872087}
+  - {lab: '@', end: 1.94}
+  - {lab: S, end: 2.034904}
+  - {lab: t, end: 2.084153}
+  - {lab: a, end: 2.206323}
+  - {lab: n, end: 2.282509}
+  - {lab: d, end: 2.406004}
+  - {lab: _, end: 3.175}
+- prompt: m0026
+  text: Dieser Bau ist zweistöckig.
+  style: angry
+  start: 279.96
+  end: 283.08
+  segments:
+  - {lab: H#, end: 0.331999}
+  - {lab: d, end: 0.430776}
+  - {lab: 'i:', end: 0.595}
+  - {lab: z, end: 0.675}
+  - {lab: '6', end: 0.81201}
+  - {lab: b, end: 0.905453}
+  - {lab: aU, end: 1.092712}
+  - {lab: '?', end: 1.13}
+  - {lab: I, end: 1.221085}
+  - {lab: s, end: 1.343317}
+  - {lab: t, end: 1.41211}
+  - {lab: ts, end: 1.542013}
+  - {lab: v, end: 1.606821}
+  - {lab: aI, end: 1.788632}
+  - {lab: S, end: 1.947103}
+  - {lab: t, end: 2.004343}
+  - {lab: '9', end: 2.085}
+  - {lab: k, end: 2.184062}
+  - {lab: I, end: 2.315}
+  - {lab: C, end: 2.566859}
+  - {lab: _, end: 3.115}
+- prompt: m0027
+  text: Meist wird er Steve Redgrave genannt.
+  style: angry
+  start: 283.08
+  end: 286.8
+  segments:
+  - {lab: H#, end: 0.496974}
+  - {lab: m, end: 0.565}
+  - {lab: aI, end: 0.7}
+  - {lab: s, end: 0.78877}
+  - {lab: t, end: 0.856479}
+  - {lab: v, end: 0.871426}
+  - {lab: I, end: 0.911017}
+  - {lab: '6', end: 0.93}
