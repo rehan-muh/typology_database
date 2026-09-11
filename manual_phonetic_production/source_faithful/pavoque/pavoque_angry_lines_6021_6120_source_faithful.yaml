@@ -1,0 +1,100 @@
+  - {lab: h, end: 2.16}
+  - {lab: 'u:', end: 2.29}
+  - {lab: s, end: 2.401566}
+  - {lab: t, end: 2.463915}
+  - {lab: '@', end: 2.47}
+  - {lab: n, end: 2.636255}
+  - {lab: _, end: 3.595}
+- prompt: m0117
+  text: Carmen wartet verliebt auf José.
+  style: angry
+  start: 624.3
+  end: 627.72
+  segments:
+  - {lab: H#, end: 0.34}
+  - {lab: k, end: 0.443425}
+  - {lab: 'a:', end: 0.534417}
+  - {lab: '6', end: 0.61}
+  - {lab: m, end: 0.685}
+  - {lab: '@', end: 0.775}
+  - {lab: n, end: 0.856909}
+  - {lab: v, end: 0.912194}
+  - {lab: a, end: 0.990206}
+  - {lab: '6', end: 1.039962}
+  - {lab: t, end: 1.105}
+  - {lab: '@', end: 1.155}
+  - {lab: t, end: 1.214416}
+  - {lab: f, end: 1.275}
+  - {lab: '6', end: 1.356927}
+  - {lab: l, end: 1.425}
+  - {lab: 'i:', end: 1.603864}
+  - {lab: p, end: 1.64502}
+  - {lab: t, end: 1.687405}
+  - {lab: '?', end: 1.7}
+  - {lab: aU, end: 1.809031}
+  - {lab: f, end: 1.875}
+  - {lab: Z, end: 1.96997}
+  - {lab: 'o:', end: 2.078082}
+  - {lab: z, end: 2.17}
+  - {lab: 'e:', end: 2.432517}
+  - {lab: _, end: 3.415}
+- prompt: m0118
+  text: Schon das alte China kannte die Seide.
+  style: angry
+  start: 627.72
+  end: 631.5
+  segments:
+  - {lab: H#, end: 0.41}
+  - {lab: S, end: 0.55}
+  - {lab: 'o:', end: 0.68}
+  - {lab: n, end: 0.728318}
+  - {lab: d, end: 0.767498}
+  - {lab: a, end: 0.85}
+  - {lab: s, end: 0.91}
+  - {lab: '?', end: 0.97}
+  - {lab: a, end: 1.055}
+  - {lab: l, end: 1.125}
+  - {lab: t, end: 1.196278}
+  - {lab: '@', end: 1.295}
+  - {lab: C, end: 1.445}
+  - {lab: 'i:', end: 1.565}
+  - {lab: n, end: 1.612617}
+  - {lab: 'a:', end: 1.79}
+  - {lab: k, end: 1.897558}
+  - {lab: a, end: 1.965}
+  - {lab: n, end: 2.032659}
+  - {lab: t, end: 2.116492}
+  - {lab: '@', end: 2.165}
+  - {lab: d, end: 2.206555}
+  - {lab: 'i:', end: 2.29}
+  - {lab: z, end: 2.39}
+  - {lab: aI, end: 2.587803}
+  - {lab: d, end: 2.646104}
+  - {lab: '@', end: 2.837126}
+  - {lab: _, end: 3.775}
+- prompt: m0119
+  text: Weil dieser nicht abhebt.
+  style: angry
+  start: 631.5
+  end: 634.5
+  segments:
+  - {lab: H#, end: 0.621064}
+  - {lab: v, end: 0.699242}
+  - {lab: aI, end: 0.823786}
+  - {lab: l, end: 0.889517}
+  - {lab: d, end: 0.982269}
+  - {lab: 'i:', end: 1.08}
+  - {lab: z, end: 1.18}
+  - {lab: '6', end: 1.32}
+  - {lab: n, end: 1.415}
+  - {lab: I, end: 1.507509}
+  - {lab: C, end: 1.626071}
+  - {lab: t, end: 1.710845}
+  - {lab: '?', end: 1.785}
+  - {lab: a, end: 1.88}
+  - {lab: p, end: 1.991583}
+  - {lab: h, end: 2.065}
+  - {lab: 'e:', end: 2.249592}
+  - {lab: p, end: 2.346653}
+  - {lab: t, end: 2.483643}
+  - {lab: _, end: 2.995}
