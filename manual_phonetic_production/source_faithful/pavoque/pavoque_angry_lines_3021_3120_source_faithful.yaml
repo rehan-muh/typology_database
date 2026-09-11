@@ -1,0 +1,100 @@
+  end: 318.9
+  segments:
+  - {lab: H#, end: 0.326967}
+  - {lab: d, end: 0.365}
+  - {lab: E, end: 0.398593}
+  - {lab: '6', end: 0.4336}
+  - {lab: z, end: 0.5}
+  - {lab: 'e:', end: 0.585}
+  - {lab: n, end: 0.62}
+  - {lab: 'a:', end: 0.763407}
+  - {lab: t, end: 0.842869}
+  - {lab: O, end: 0.892382}
+  - {lab: '6', end: 0.931074}
+  - {lab: b, end: 1.024952}
+  - {lab: I, end: 1.098741}
+  - {lab: l, end: 1.15}
+  - {lab: I, end: 1.22096}
+  - {lab: C, end: 1.276849}
+  - {lab: t, end: 1.315541}
+  - {lab: d, end: 1.347024}
+  - {lab: 'i:', end: 1.438988}
+  - {lab: d, end: 1.496802}
+  - {lab: OY, end: 1.641663}
+  - {lab: tS, end: 1.76}
+  - {lab: pf, end: 1.824747}
+  - {lab: l, end: 1.87}
+  - {lab: I, end: 1.929092}
+  - {lab: C, end: 1.979454}
+  - {lab: t, end: 2.017325}
+  - {lab: '?', end: 2.028587}
+  - {lab: aU, end: 2.119483}
+  - {lab: f, end: 2.160018}
+  - {lab: S, end: 2.31}
+  - {lab: 'u:', end: 2.426566}
+  - {lab: l, end: 2.4671}
+  - {lab: h, end: 2.514391}
+  - {lab: '2:', end: 2.68}
+  - {lab: f, end: 2.78}
+  - {lab: '@', end: 2.795}
+  - {lab: n, end: 2.930795}
+  - {lab: _, end: 4.795}
+- prompt: m0035
+  text: Die Hauptrolle übernahm Jeffrey Wright.
+  style: angry
+  start: 318.9
+  end: 322.74
+  segments:
+  - {lab: H#, end: 0.264289}
+  - {lab: d, end: 0.302464}
+  - {lab: 'i:', end: 0.445}
+  - {lab: h, end: 0.522705}
+  - {lab: aU, end: 0.640658}
+  - {lab: p, end: 0.715}
+  - {lab: t, end: 0.809507}
+  - {lab: R, end: 0.937953}
+  - {lab: O, end: 1.0}
+  - {lab: l, end: 1.045}
+  - {lab: '@', end: 1.115}
+  - {lab: '?', end: 1.144954}
+  - {lab: 'y:', end: 1.192251}
+  - {lab: b, end: 1.241179}
+  - {lab: '6', end: 1.33}
+  - {lab: n, end: 1.38}
+  - {lab: 'a:', end: 1.502445}
+  - {lab: m, end: 1.553427}
+  - {lab: d, end: 1.593967}
+  - {lab: Z, end: 1.645}
+  - {lab: E, end: 1.76}
+  - {lab: f, end: 1.89}
+  - {lab: r, end: 1.935}
+  - {lab: EI, end: 2.074307}
+  - {lab: r, end: 2.155}
+  - {lab: aI, end: 2.320006}
+  - {lab: t, end: 2.582903}
+  - {lab: _, end: 3.835}
+- prompt: m0037
+  text: Warren starb in Washington.
+  style: angry
+  start: 322.74
+  end: 325.86
+  segments:
+  - {lab: H#, end: 0.31}
+  - {lab: w, end: 0.405}
+  - {lab: O, end: 0.485}
+  - {lab: r, end: 0.545435}
+  - {lab: '@', end: 0.635}
+  - {lab: n, end: 0.695}
+  - {lab: S, end: 0.823066}
+  - {lab: t, end: 0.880176}
+  - {lab: a, end: 0.965567}
+  - {lab: '6', end: 1.029446}
+  - {lab: p, end: 1.137669}
+  - {lab: '?', end: 1.155}
+  - {lab: I, end: 1.2}
+  - {lab: n, end: 1.28}
+  - {lab: v, end: 1.362358}
+  - {lab: O, end: 1.445}
+  - {lab: S, end: 1.55}
+  - {lab: I, end: 1.61}
+  - {lab: N, end: 1.653502}
