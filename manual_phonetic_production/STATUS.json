@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-11T00:10:25-07:00",
-  "total_sources": 137,
+  "last_updated": "2026-09-11T02:11:57-07:00",
+  "total_sources": 138,
   "accepted_sources": 44,
   "excluded_sources": 25,
-  "review_sources": 68,
+  "review_sources": 69,
   "ingested_sources": 43,
   "parsed_rows_total": 1361409,
   "parsed_logical_tables_total": 84,
   "inventory_file_records": 946,
   "variable_dictionary_records": 1138,
-  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful angry-style coverage advanced by 400 lines, from source line 5321 through 5720. Durable coverage is now lines 1-5720, with 153 complete manually corrected utterances represented and one partial utterance (m0107) at the endpoint; continue at line 5721. Four exact 100-line chunks were committed and verified against immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. PAVOQUE remains staging-only pending relational promotion, so promoted warehouse rows remain unchanged. Discovery re-screened recent manually checked articulatory and speech-production datasets: AUSpeech was recognized as already present in the review queue and not duplicated; SAIT-EMA likewise remains review-only because manually verified error labels do not yet establish a fully manual interval layer; a manually segmented speech-to-song stimulus study was excluded from admission because the underlying recordings are third-party audiobook/media stimuli, violating the primary-recording rule. No unrelated repository content was modified."
+  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful angry-style coverage advanced by 400 lines, from source line 6121 through 6520. Durable coverage is now lines 1-6520, with 172 complete manually corrected utterances represented and one partial utterance (m0128) at the endpoint; continue at line 6521. Four exact 100-line chunks were committed and verified against upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. PAVOQUE remains staging-only pending relational promotion, so promoted warehouse rows remain unchanged. Discovery added AusTalk as a high-priority review source: primary Australian English recordings from 861 adults, with project documentation and the annotation case study establishing manually created/corrected phonemically aligned TextGrids for a substantial subset, but current Alveo/LDaCA file-level access, exact manual-subset isolation, and redistribution terms still require resolution before core admission. No unrelated repository content was modified."
 }
