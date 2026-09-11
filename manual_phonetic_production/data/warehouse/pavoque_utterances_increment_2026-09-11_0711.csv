@@ -1,0 +1,11 @@
+source_id,utterance_id,source_utterance_id,style,start_s,end_s,duration_s,text,annotation_scope,source_blob_sha,source_line_coverage
+pavoque,pavoque::m0168,m0168,angry,829.8,836.64,6.84,"Bei mechanisch gesteuerten Instrumenten findet Holz oft auch für die Mechanik Verwendung.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,spans_8021_8220
+pavoque,pavoque::m0169,m0169,angry,836.64,841.14,4.50,"Er systematisierte die Resultate von George Boole.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_8121_8220
+pavoque,pavoque::m0170,m0170,angry,841.14,846.06,4.92,"Meister wurde der Deutsche Rugby Club Hannover (Hannover).",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,spans_8121_8320
+pavoque,pavoque::m0171,m0171,angry,846.06,849.06,3.00,"Peter Pichler, Akkordeon;",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_8221_8320
+pavoque,pavoque::m0172,m0172,angry,849.06,853.92,4.86,"Als Major war er der ranghöchste der zwanzig Kandidaten.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_8221_8320
+pavoque,pavoque::m0173,m0173,angry,853.92,857.64,3.72,"Bleibt in euren Hütten, euren Zelten!",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,spans_8221_8420
+pavoque,pavoque::m0174,m0174,angry,857.64,861.42,3.78,"Das Dorf gehört zum Rhein Pfalz Kreis.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_8321_8420
+pavoque,pavoque::m0175,m0175,angry,861.42,864.42,3.00,"Eine Drohung vereinfacht;",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_8321_8420
+pavoque,pavoque::m0176,m0176,angry,864.42,867.84,3.42,"Können Sie meine Pfeife stopfen?",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,spans_8321_8520
+pavoque,pavoque::m0178,m0178,angry,867.84,873.06,5.22,"Trotz ihres hohen Anspruchs hatte Pardon von Anfang an Erfolg.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_8421_8520
