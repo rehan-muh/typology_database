@@ -1,0 +1,100 @@
+  - {lab: n, end: 0.995}
+  - {lab: '@', end: 1.055}
+  - {lab: pf, end: 1.224559}
+  - {lab: aI, end: 1.353241}
+  - {lab: f, end: 1.42}
+  - {lab: '@', end: 1.47}
+  - {lab: S, end: 1.565}
+  - {lab: t, end: 1.605337}
+  - {lab: O, end: 1.70829}
+  - {lab: pf, end: 1.85}
+  - {lab: '@', end: 1.865}
+  - {lab: n, end: 2.022797}
+  - {lab: _, end: 3.415}
+- prompt: m0178
+  text: Trotz ihres hohen Anspruchs hatte Pardon von Anfang an Erfolg.
+  style: angry
+  start: 867.84
+  end: 873.06
+  segments:
+  - {lab: H#, end: 0.542908}
+  - {lab: t, end: 0.599923}
+  - {lab: R, end: 0.695}
+  - {lab: O, end: 0.789796}
+  - {lab: ts, end: 0.945}
+  - {lab: '?', end: 0.96}
+  - {lab: 'i:', end: 1.063706}
+  - {lab: R, end: 1.103012}
+  - {lab: '@', end: 1.17}
+  - {lab: s, end: 1.254093}
+  - {lab: h, end: 1.32}
+  - {lab: 'o:', end: 1.434652}
+  - {lab: '@', end: 1.495}
+  - {lab: n, end: 1.545}
+  - {lab: '?', end: 1.62}
+  - {lab: a, end: 1.69}
+  - {lab: n, end: 1.745}
+  - {lab: S, end: 1.815}
+  - {lab: p, end: 1.900571}
+  - {lab: R, end: 1.9272}
+  - {lab: U, end: 2.025}
+  - {lab: x, end: 2.09}
+  - {lab: s, end: 2.225062}
+  - {lab: _, end: 2.472564}
+  - {lab: h, end: 2.525}
+  - {lab: a, end: 2.580655}
+  - {lab: t, end: 2.641455}
+  - {lab: '@', end: 2.675848}
+  - {lab: p, end: 2.8}
+  - {lab: a, end: 2.855}
+  - {lab: '6', end: 2.914752}
+  - {lab: d, end: 2.977104}
+  - {lab: a~, end: 3.135}
+  - {lab: f, end: 3.23}
+  - {lab: O, end: 3.285}
+  - {lab: n, end: 3.37782}
+  - {lab: '?', end: 3.48}
+  - {lab: a, end: 3.555}
+  - {lab: n, end: 3.64}
+  - {lab: f, end: 3.755}
+  - {lab: a, end: 3.83}
+  - {lab: N, end: 3.895}
+  - {lab: '?', end: 3.96}
+  - {lab: a, end: 4.036188}
+  - {lab: n, end: 4.11}
+  - {lab: '?', end: 4.184812}
+  - {lab: E, end: 4.225}
+  - {lab: '6', end: 4.26}
+  - {lab: f, end: 4.41}
+  - {lab: O, end: 4.51}
+  - {lab: l, end: 4.585}
+  - {lab: k, end: 4.744916}
+  - {lab: _, end: 5.215}
+- prompt: m0179
+  text: Es folgten zahlreiche Auftritte des Duos Edwards/ Frank bis heute.
+  style: angry
+  start: 873.06
+  end: 878.52
+  segments:
+  - {lab: H#, end: 0.638031}
+  - {lab: '?', end: 0.67856}
+  - {lab: E, end: 0.735}
+  - {lab: s, end: 0.835}
+  - {lab: f, end: 0.895}
+  - {lab: O, end: 0.963494}
+  - {lab: l, end: 1.015}
+  - {lab: k, end: 1.073415}
+  - {lab: t, end: 1.14}
+  - {lab: '@', end: 1.150175}
+  - {lab: n, end: 1.206056}
+  - {lab: ts, end: 1.32}
+  - {lab: 'a:', end: 1.422827}
+  - {lab: l, end: 1.471954}
+  - {lab: R, end: 1.515}
+  - {lab: aI, end: 1.615}
+  - {lab: C, end: 1.69}
+  - {lab: '@', end: 1.739693}
+  - {lab: '?', end: 1.775}
+  - {lab: aU, end: 1.915}
+  - {lab: f, end: 1.985}
+  - {lab: t, end: 2.028711}
