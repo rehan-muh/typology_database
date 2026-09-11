@@ -4,8 +4,8 @@
   "publication": "PAVOQUE Corpus of Expressive Speech",
   "upstream_repository": "marytts/pavoque-data",
   "source_faithful_yaml_files_inventoried": 6,
-  "source_faithful_lines_mirrored": 9320,
-  "complete_utterances_mirrored": 240,
+  "source_faithful_lines_mirrored": 9420,
+  "complete_utterances_mirrored": 242,
   "partial_utterances_mirrored": 1,
   "variable_dictionary_records": 7,
   "promoted_utterance_rows_total": 28,
@@ -13,23 +13,23 @@
   "manual_scope": "Repository documentation explicitly states that the optional phonetic segments are manually corrected. Segment labels are German SAMPA; segment end times are relative to utterance start. Corpus is speech, not singing; speaker's professional singing background does not make these acted/read speech recordings singing data.",
   "processed": [
     "Inventoried six public style-level YAML annotation files with immutable Git blob SHAs and byte sizes",
-    "Mirrored exact source lines 1-9320 of pavoque-angry.yaml in source-faithful chunks; durable prefix now ends inside m0197",
-    "Verified newly mirrored lines 8921-9320 against immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423",
-    "The 400-line increment closes prior partial m0190; contains complete m0191-m0196, m0162, m0177, and m0186; and enters partial m0197. Prompt IDs are demonstrably non-monotonic in source order, so earlier local-window non-occurrence of m0177/m0186 must not be interpreted as global source absence.",
+    "Mirrored exact source lines 1-9420 of pavoque-angry.yaml in source-faithful chunks; durable prefix now ends inside m0199",
+    "Verified newly mirrored lines 9321-9420 against immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423",
+    "The 100-line increment closes prior partial m0197, contains complete m0198, and enters partial m0199",
     "Promoted complete utterance m0191 with original text/style/start/end and immutable source provenance",
     "Promoted all 24 manually corrected source-labelled segment/silence intervals for m0191; source-native endpoints are retained, interval starts/durations/absolute times are separate deterministic derivations, normalized_ipa is intentionally blank, and the 5 ms source residual between final annotated endpoint and utterance end is preserved rather than absorbed",
-    "Cumulative promoted PAVOQUE rows are now 28 utterances and 134 segment intervals",
+    "Cumulative promoted PAVOQUE rows remain 28 utterances and 134 segment intervals; this pass prioritized exact backlog mirroring and did not duplicate previously promoted observations",
     "Documented utterance prompt/text/style/start/end and segment label/end variables without IPA invention",
     "Recorded CC-BY-NC-SA-4.0 license and 44.1 kHz, 16-bit mono audio metadata from upstream README"
   ],
   "pending": [
-    "Continue exact source-faithful mirror from pavoque-angry.yaml line 9321",
-    "Promote complete m0192-m0196, m0162, m0177, m0186 and all manually corrected intervals; do not duplicate already-promoted records",
+    "Continue exact source-faithful mirror from pavoque-angry.yaml line 9421",
+    "Promote complete m0192-m0198, m0162, m0177, m0186 and all manually corrected intervals; do not duplicate already-promoted records",
     "Promote earlier mirrored backlog including m0179 and m0181-m0185 plus m0187-m0189",
     "Scale relational interval promotion across the full mirrored backlog",
     "Mirror pavoque-happy.yaml, pavoque-neutral.yaml, pavoque-poker.yaml, pavoque-sad.yaml, and pavoque-outtakes.yaml",
     "Create explicit German SAMPA-to-IPA mapping only where unambiguous and preserve source labels",
     "Inventory authoritative release audio manifests without committing large FLAC audio"
   ],
-  "updated": "2026-09-11T10:12:00-07:00"
+  "updated": "2026-09-11T11:10:00-07:00"
 }
