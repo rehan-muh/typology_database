@@ -1,0 +1,100 @@
+  - {lab: t, end: 1.725105}
+  - {lab: '@', end: 1.79}
+  - {lab: n, end: 1.880766}
+  - {lab: _, end: 3.115}
+- prompt: m0038
+  text: Das Pendant dazu ist eine Scheibe;
+  style: angry
+  start: 325.86
+  end: 329.4
+  segments:
+  - {lab: H#, end: 0.401688}
+  - {lab: d, end: 0.443496}
+  - {lab: a, end: 0.54}
+  - {lab: s, end: 0.632014}
+  - {lab: p, end: 0.783216}
+  - {lab: a~, end: 0.97}
+  - {lab: d, end: 1.020139}
+  - {lab: a~, end: 1.224718}
+  - {lab: d, end: 1.260978}
+  - {lab: 'a:', end: 1.385}
+  - {lab: ts, end: 1.50867}
+  - {lab: 'u:', end: 1.615}
+  - {lab: '?', end: 1.63}
+  - {lab: I, end: 1.668786}
+  - {lab: s, end: 1.735}
+  - {lab: t, end: 1.767132}
+  - {lab: '?', end: 1.81}
+  - {lab: aI, end: 1.88}
+  - {lab: n, end: 1.905}
+  - {lab: '@', end: 2.0}
+  - {lab: S, end: 2.175503}
+  - {lab: aI, end: 2.37389}
+  - {lab: b, end: 2.421117}
+  - {lab: '@', end: 2.668707}
+  - {lab: _, end: 3.535}
+- prompt: m0039
+  text: Einige Schüler gründen diesen Club neu.
+  style: angry
+  start: 329.4
+  end: 333.24
+  segments:
+  - {lab: H#, end: 0.73}
+  - {lab: '?', end: 0.76965}
+  - {lab: aI, end: 0.88}
+  - {lab: n, end: 0.92}
+  - {lab: I, end: 0.975422}
+  - {lab: g, end: 1.024545}
+  - {lab: '@', end: 1.115}
+  - {lab: S, end: 1.27}
+  - {lab: 'y:', end: 1.385}
+  - {lab: l, end: 1.435}
+  - {lab: '6', end: 1.527015}
+  - {lab: g, end: 1.605609}
+  - {lab: R, end: 1.672591}
+  - {lab: Y, end: 1.73}
+  - {lab: n, end: 1.81571}
+  - {lab: d, end: 1.874491}
+  - {lab: '@', end: 1.885}
+  - {lab: n, end: 1.935488}
+  - {lab: d, end: 1.979948}
+  - {lab: 'i:', end: 2.09}
+  - {lab: z, end: 2.159688}
+  - {lab: '@', end: 2.175044}
+  - {lab: n, end: 2.265}
+  - {lab: k, end: 2.350098}
+  - {lab: l, end: 2.405}
+  - {lab: U, end: 2.47}
+  - {lab: b, end: 2.577989}
+  - {lab: n, end: 2.68}
+  - {lab: OY, end: 3.05}
+  - {lab: _, end: 3.835}
+- prompt: m0040
+  text: 'Alain Robert: Mit nackten Händen.'
+  style: angry
+  start: 333.24
+  end: 336.72
+  segments:
+  - {lab: H#, end: 0.4}
+  - {lab: '?', end: 0.435}
+  - {lab: 'a:', end: 0.56}
+  - {lab: l, end: 0.62}
+  - {lab: e~, end: 0.84}
+  - {lab: R, end: 0.965}
+  - {lab: 'o:', end: 1.102823}
+  - {lab: b, end: 1.157338}
+  - {lab: E, end: 1.272913}
+  - {lab: '6', end: 1.33923}
+  - {lab: t, end: 1.508092}
+  - {lab: _, end: 1.77}
+  - {lab: m, end: 1.815}
+  - {lab: I, end: 1.870992}
+  - {lab: t, end: 1.962188}
+  - {lab: n, end: 2.015}
+  - {lab: a, end: 2.115381}
+  - {lab: k, end: 2.178628}
+  - {lab: t, end: 2.275511}
+  - {lab: '@', end: 2.286699}
+  - {lab: n, end: 2.35}
+  - {lab: h, end: 2.43}
+  - {lab: E, end: 2.53}
