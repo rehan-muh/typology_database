@@ -1,0 +1,4 @@
+source_id,local_path,source_path,source_blob_sha,source_line_start,source_line_end,format,scope,status,notes
+pavoque,source_faithful/pavoque/pavoque_angry_lines_8521_8620_source_faithful.yaml,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,8521,8620,YAML,angry_source_faithful,ingested,"Exact UTF-8 source lines; closes m0179, contains complete m0180-m0181, and enters m0182."
+pavoque,source_faithful/pavoque/pavoque_angry_lines_8621_8720_source_faithful.yaml,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,8621,8720,YAML,angry_source_faithful,ingested,"Exact UTF-8 source lines; closes m0182, contains complete m0183, and enters m0184."
+pavoque,source_faithful/pavoque/pavoque_angry_lines_8721_8820_source_faithful.yaml,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,8721,8820,YAML,angry_source_faithful,ingested,"Exact UTF-8 source lines; closes m0184, contains complete m0185, no m0186 record occurs, and enters m0187."
