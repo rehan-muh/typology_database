@@ -1,0 +1,100 @@
+  segments:
+  - {lab: H#, end: 0.335}
+  - {lab: '?', end: 0.42}
+  - {lab: aI, end: 0.51}
+  - {lab: n, end: 0.575}
+  - {lab: f, end: 0.69387}
+  - {lab: 'a:', end: 0.777994}
+  - {lab: '6', end: 0.825}
+  - {lab: ts, end: 1.01}
+  - {lab: OY, end: 1.145192}
+  - {lab: k, end: 1.21657}
+  - {lab: m, end: 1.27}
+  - {lab: a, end: 1.36}
+  - {lab: n, end: 1.4}
+  - {lab: '2:', end: 1.52}
+  - {lab: v, end: 1.595}
+  - {lab: R, end: 1.655}
+  - {lab: 'i:', end: 1.793008}
+  - {lab: '6', end: 1.915}
+  - {lab: t, end: 2.010994}
+  - {lab: _, end: 2.259067}
+  - {lab: '?', end: 2.295}
+  - {lab: I, end: 2.335823}
+  - {lab: n, end: 2.375}
+  - {lab: d, end: 2.414545}
+  - {lab: 'e:', end: 2.505}
+  - {lab: m, end: 2.545}
+  - {lab: '?', end: 2.556265}
+  - {lab: E, end: 2.598634}
+  - {lab: s, end: 2.66}
+  - {lab: '?', end: 2.695}
+  - {lab: aI, end: 2.805}
+  - {lab: n, end: 2.855}
+  - {lab: m, end: 2.88}
+  - {lab: a, end: 2.965}
+  - {lab: n, end: 3.045}
+  - {lab: '2:', end: 3.19}
+  - {lab: v, end: 3.23}
+  - {lab: '6', end: 3.37}
+  - {lab: f, end: 3.521497}
+  - {lab: 'E:', end: 3.655}
+  - {lab: '6', end: 3.729088}
+  - {lab: t, end: 3.799089}
+  - {lab: b, end: 3.850353}
+  - {lab: '@', end: 3.915}
+  - {lab: ts, end: 4.06959}
+  - {lab: 'i:', end: 4.175}
+  - {lab: U, end: 4.22}
+  - {lab: N, end: 4.285}
+  - {lab: s, end: 4.36708}
+  - {lab: v, end: 4.4}
+  - {lab: aI, end: 4.53}
+  - {lab: z, end: 4.59}
+  - {lab: '@', end: 4.68}
+  - {lab: f, end: 4.791898}
+  - {lab: l, end: 4.84}
+  - {lab: 'i:', end: 5.03}
+  - {lab: k, end: 5.095}
+  - {lab: t, end: 5.319462}
+  - {lab: _, end: 5.995}
+- prompt: m0033
+  text: Champions League Sieger zwei Tausend eins;
+  style: angry
+  start: 310.08
+  end: 314.1
+  segments:
+  - {lab: H#, end: 0.573779}
+  - {lab: tS, end: 0.684245}
+  - {lab: E, end: 0.775}
+  - {lab: m, end: 0.835}
+  - {lab: p, end: 0.889812}
+  - {lab: j, end: 0.966947}
+  - {lab: '@', end: 1.045}
+  - {lab: n, end: 1.084283}
+  - {lab: s, end: 1.165}
+  - {lab: l, end: 1.22}
+  - {lab: 'i:', end: 1.315}
+  - {lab: g, end: 1.35968}
+  - {lab: z, end: 1.46}
+  - {lab: 'i:', end: 1.555}
+  - {lab: g, end: 1.605}
+  - {lab: '6', end: 1.729938}
+  - {lab: ts, end: 1.857935}
+  - {lab: v, end: 1.905}
+  - {lab: aI, end: 2.035}
+  - {lab: t, end: 2.146708}
+  - {lab: aU, end: 2.255}
+  - {lab: z, end: 2.325}
+  - {lab: '@', end: 2.336276}
+  - {lab: n, end: 2.376822}
+  - {lab: t, end: 2.419819}
+  - {lab: '?', end: 2.438869}
+  - {lab: aI, end: 2.665}
+  - {lab: n, end: 2.745}
+  - {lab: s, end: 2.958587}
+  - {lab: _, end: 4.015}
+- prompt: m0034
+  text: Der Senator billigt die Deutsch Pflicht auf Schulhöfen.
+  style: angry
+  start: 314.1
