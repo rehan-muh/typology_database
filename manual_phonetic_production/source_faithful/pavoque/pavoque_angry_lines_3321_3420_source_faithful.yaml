@@ -1,0 +1,100 @@
+  - {lab: n, end: 1.57}
+  - {lab: 'o:', end: 1.735}
+  - {lab: z, end: 1.825}
+  - {lab: '@', end: 2.000184}
+  - {lab: _, end: 2.995}
+- prompt: m0045
+  text: 'Kooperationen bestehen mit:'
+  style: angry
+  start: 347.1
+  end: 350.22
+  segments:
+  - {lab: H#, end: 0.4}
+  - {lab: k, end: 0.453305}
+  - {lab: 'o:', end: 0.539292}
+  - {lab: O, end: 0.620985}
+  - {lab: p, end: 0.68828}
+  - {lab: '@', end: 0.736459}
+  - {lab: R, end: 0.785598}
+  - {lab: a, end: 0.87}
+  - {lab: ts, end: 0.983609}
+  - {lab: j, end: 1.037431}
+  - {lab: 'o:', end: 1.114824}
+  - {lab: n, end: 1.15}
+  - {lab: '@', end: 1.21}
+  - {lab: n, end: 1.26531}
+  - {lab: b, end: 1.292384}
+  - {lab: '@', end: 1.33}
+  - {lab: S, end: 1.439751}
+  - {lab: t, end: 1.470524}
+  - {lab: 'e:', end: 1.58348}
+  - {lab: '@', end: 1.625}
+  - {lab: n, end: 1.691584}
+  - {lab: m, end: 1.745}
+  - {lab: I, end: 1.881381}
+  - {lab: t, end: 2.092061}
+  - {lab: _, end: 3.115}
+- prompt: m0036
+  text: Anekdote Heinz Damian, Club Kassier.
+  style: angry
+  start: 350.22
+  end: 353.88
+  segments:
+  - {lab: H#, end: 0.272064}
+  - {lab: '?', end: 0.29663}
+  - {lab: a, end: 0.38}
+  - {lab: n, end: 0.425}
+  - {lab: E, end: 0.51}
+  - {lab: k, end: 0.553955}
+  - {lab: d, end: 0.64}
+  - {lab: 'o:', end: 0.806366}
+  - {lab: t, end: 0.913564}
+  - {lab: '@', end: 1.035}
+  - {lab: h, end: 1.145}
+  - {lab: aI, end: 1.252846}
+  - {lab: n, end: 1.305048}
+  - {lab: ts, end: 1.404539}
+  - {lab: d, end: 1.455}
+  - {lab: 'a:', end: 1.615}
+  - {lab: m, end: 1.67}
+  - {lab: 'i:', end: 1.795}
+  - {lab: 'a:', end: 1.945}
+  - {lab: n, end: 2.040788}
+  - {lab: k, end: 2.2374}
+  - {lab: l, end: 2.325}
+  - {lab: U, end: 2.41}
+  - {lab: b, end: 2.489111}
+  - {lab: k, end: 2.627109}
+  - {lab: a, end: 2.71}
+  - {lab: s, end: 2.885}
+  - {lab: 'i:', end: 3.020342}
+  - {lab: '6', end: 3.194758}
+  - {lab: _, end: 3.655}
+- prompt: m0046
+  text: 'Als Punch bezeichnet man:'
+  style: angry
+  start: 353.88
+  end: 356.88
+  segments:
+  - {lab: H#, end: 0.255}
+  - {lab: '?', end: 0.295}
+  - {lab: a, end: 0.366127}
+  - {lab: l, end: 0.432472}
+  - {lab: s, end: 0.545}
+  - {lab: p, end: 0.684728}
+  - {lab: a, end: 0.76}
+  - {lab: n, end: 0.86}
+  - {lab: tS, end: 0.997635}
+  - {lab: b, end: 1.055738}
+  - {lab: '@', end: 1.125}
+  - {lab: ts, end: 1.3}
+  - {lab: aI, end: 1.429492}
+  - {lab: C, end: 1.511195}
+  - {lab: n, end: 1.555}
+  - {lab: '@', end: 1.635}
+  - {lab: t, end: 1.703435}
+  - {lab: m, end: 1.740946}
+  - {lab: a, end: 1.87}
+  - {lab: n, end: 2.010627}
+  - {lab: _, end: 2.995}
+- prompt: m0047
