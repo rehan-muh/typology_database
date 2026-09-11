@@ -1,0 +1,100 @@
+  text: Auch unter Machete bekannt.
+  style: angry
+  start: 746.4
+  end: 749.52
+  segments:
+  - {lab: H#, end: 0.315}
+  - {lab: '?', end: 0.357481}
+  - {lab: aU, end: 0.475}
+  - {lab: x, end: 0.565704}
+  - {lab: '?', end: 0.629584}
+  - {lab: U, end: 0.665}
+  - {lab: n, end: 0.72}
+  - {lab: t, end: 0.788144}
+  - {lab: '6', end: 0.86}
+  - {lab: m, end: 0.915}
+  - {lab: a, end: 1.0}
+  - {lab: x, end: 1.095}
+  - {lab: 'e:', end: 1.26101}
+  - {lab: t, end: 1.335}
+  - {lab: '@', end: 1.375871}
+  - {lab: b, end: 1.44901}
+  - {lab: '@', end: 1.51}
+  - {lab: k, end: 1.639927}
+  - {lab: a, end: 1.73}
+  - {lab: n, end: 1.82}
+  - {lab: t, end: 1.987028}
+  - {lab: _, end: 3.115}
+- prompt: m0150
+  text: Jacques Becker ist der Vater des französischen Regisseurs Jean Becker.
+  style: angry
+  start: 749.52
+  end: 755.22
+  segments:
+  - {lab: H#, end: 0.371613}
+  - {lab: Z, end: 0.476648}
+  - {lab: a, end: 0.592124}
+  - {lab: k, end: 0.67}
+  - {lab: b, end: 0.775122}
+  - {lab: E, end: 0.855}
+  - {lab: k, end: 0.950725}
+  - {lab: '6', end: 1.04236}
+  - {lab: '?', end: 1.068772}
+  - {lab: I, end: 1.115}
+  - {lab: s, end: 1.172578}
+  - {lab: t, end: 1.202062}
+  - {lab: d, end: 1.237254}
+  - {lab: E, end: 1.285}
+  - {lab: '6', end: 1.318767}
+  - {lab: f, end: 1.435}
+  - {lab: 'a:', end: 1.570604}
+  - {lab: t, end: 1.633684}
+  - {lab: '6', end: 1.69038}
+  - {lab: d, end: 1.749187}
+  - {lab: '@', end: 1.789886}
+  - {lab: s, end: 1.875}
+  - {lab: f, end: 1.915}
+  - {lab: R, end: 1.945}
+  - {lab: a, end: 2.01}
+  - {lab: n, end: 2.06}
+  - {lab: ts, end: 2.15}
+  - {lab: '2:', end: 2.24}
+  - {lab: z, end: 2.299703}
+  - {lab: I, end: 2.354984}
+  - {lab: S, end: 2.45}
+  - {lab: '@', end: 2.45879}
+  - {lab: n, end: 2.496259}
+  - {lab: R, end: 2.559525}
+  - {lab: 'e:', end: 2.63}
+  - {lab: Z, end: 2.716155}
+  - {lab: I, end: 2.772665}
+  - {lab: s, end: 2.885}
+  - {lab: '2:', end: 2.987648}
+  - {lab: '6', end: 3.06}
+  - {lab: s, end: 3.325478}
+  - {lab: Z, end: 3.472281}
+  - {lab: o~, end: 3.685}
+  - {lab: b, end: 3.77245}
+  - {lab: E, end: 3.86}
+  - {lab: k, end: 3.954514}
+  - {lab: '6', end: 4.154698}
+  - {lab: _, end: 5.695}
+- prompt: m0151
+  text: Die Anknüpfung ist offensichtlich.
+  style: angry
+  start: 755.22
+  end: 758.76
+  segments:
+  - {lab: H#, end: 0.305479}
+  - {lab: d, end: 0.353426}
+  - {lab: 'i:', end: 0.504358}
+  - {lab: '?', end: 0.565}
+  - {lab: a, end: 0.644369}
+  - {lab: n, end: 0.718352}
+  - {lab: k, end: 0.832167}
+  - {lab: n, end: 0.885}
+  - {lab: Y, end: 0.955}
+  - {lab: pf, end: 1.035}
+  - {lab: U, end: 1.1}
+  - {lab: N, end: 1.159865}
+  - {lab: '?', end: 1.17}
