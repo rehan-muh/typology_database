@@ -1,0 +1,100 @@
+  - {lab: _, end: 3.055}
+- prompt: m0137
+  text: 'New York: Springer Verlag.'
+  style: angry
+  start: 705.0
+  end: 708.06
+  segments:
+  - {lab: H#, end: 0.385}
+  - {lab: n, end: 0.448471}
+  - {lab: j, end: 0.46361}
+  - {lab: 'u:', end: 0.517032}
+  - {lab: j, end: 0.587648}
+  - {lab: O, end: 0.686511}
+  - {lab: '6', end: 0.760197}
+  - {lab: k, end: 0.875025}
+  - {lab: _, end: 1.199245}
+  - {lab: S, end: 1.34}
+  - {lab: p, end: 1.441373}
+  - {lab: R, end: 1.53}
+  - {lab: I, end: 1.6}
+  - {lab: N, end: 1.66}
+  - {lab: '6', end: 1.761717}
+  - {lab: f, end: 1.85}
+  - {lab: '6', end: 1.92}
+  - {lab: l, end: 1.965}
+  - {lab: 'a:', end: 2.132605}
+  - {lab: k, end: 2.262784}
+  - {lab: _, end: 3.055}
+- prompt: m0138
+  text: Klara muss die Pension aufgeben.
+  style: angry
+  start: 708.06
+  end: 711.48
+  segments:
+  - {lab: H#, end: 0.538102}
+  - {lab: k, end: 0.609123}
+  - {lab: l, end: 0.655}
+  - {lab: 'a:', end: 0.813296}
+  - {lab: R, end: 0.86}
+  - {lab: 'a:', end: 0.984365}
+  - {lab: m, end: 1.05}
+  - {lab: U, end: 1.095}
+  - {lab: s, end: 1.16281}
+  - {lab: d, end: 1.226516}
+  - {lab: 'i:', end: 1.277062}
+  - {lab: p, end: 1.384113}
+  - {lab: a~, end: 1.476699}
+  - {lab: z, end: 1.595}
+  - {lab: j, end: 1.660365}
+  - {lab: 'o:', end: 1.74882}
+  - {lab: n, end: 1.781376}
+  - {lab: '?', end: 1.86}
+  - {lab: aU, end: 2.005}
+  - {lab: f, end: 2.100181}
+  - {lab: g, end: 2.157416}
+  - {lab: 'e:', end: 2.296746}
+  - {lab: b, end: 2.354487}
+  - {lab: '@', end: 2.359402}
+  - {lab: n, end: 2.469356}
+  - {lab: _, end: 3.415}
+- prompt: m0139
+  text: Man nannte ihn den "Grand Chef".
+  style: angry
+  start: 711.48
+  end: 714.9
+  segments:
+  - {lab: H#, end: 0.606901}
+  - {lab: m, end: 0.6327}
+  - {lab: a, end: 0.71}
+  - {lab: n, end: 0.745}
+  - {lab: n, end: 0.795}
+  - {lab: a, end: 0.885}
+  - {lab: n, end: 0.93}
+  - {lab: t, end: 1.01901}
+  - {lab: '@', end: 1.075}
+  - {lab: '?', end: 1.125}
+  - {lab: 'i:', end: 1.185}
+  - {lab: n, end: 1.248201}
+  - {lab: d, end: 1.287906}
+  - {lab: 'e:', end: 1.385797}
+  - {lab: n, end: 1.436168}
+  - {lab: g, end: 1.468101}
+  - {lab: R, end: 1.55}
+  - {lab: a~, end: 1.73}
+  - {lab: S, end: 1.894842}
+  - {lab: E, end: 2.0}
+  - {lab: f, end: 2.242707}
+  - {lab: _, end: 3.415}
+- prompt: m0141
+  text: 'Über Murray Gell Mann: Die dritte Kultur.'
+  style: angry
+  start: 714.9
+  end: 718.86
+  segments:
+  - {lab: H#, end: 0.637523}
+  - {lab: '?', end: 0.65}
+  - {lab: 'y:', end: 0.71}
+  - {lab: b, end: 0.772422}
+  - {lab: '6', end: 0.86}
+  - {lab: m, end: 0.99}
