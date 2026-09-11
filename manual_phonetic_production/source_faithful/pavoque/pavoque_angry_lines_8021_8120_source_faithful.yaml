@@ -1,0 +1,100 @@
+  - {lab: '@', end: 3.225}
+  - {lab: s, end: 3.499436}
+  - {lab: _, end: 4.735}
+- prompt: m0167
+  text: Es waren mehr Trampelpfade.
+  style: angry
+  start: 826.68
+  end: 829.8
+  segments:
+  - {lab: H#, end: 0.3}
+  - {lab: '?', end: 0.35011}
+  - {lab: E, end: 0.405}
+  - {lab: s, end: 0.520251}
+  - {lab: v, end: 0.572461}
+  - {lab: 'a:', end: 0.717418}
+  - {lab: R, end: 0.755}
+  - {lab: '@', end: 0.795}
+  - {lab: n, end: 0.89}
+  - {lab: m, end: 0.96}
+  - {lab: 'e:', end: 1.065}
+  - {lab: '6', end: 1.160277}
+  - {lab: t, end: 1.255}
+  - {lab: R, end: 1.365}
+  - {lab: a, end: 1.445}
+  - {lab: m, end: 1.498716}
+  - {lab: p, end: 1.56}
+  - {lab: '@', end: 1.639989}
+  - {lab: l, end: 1.715}
+  - {lab: pf, end: 1.89}
+  - {lab: 'a:', end: 2.08}
+  - {lab: d, end: 2.16}
+  - {lab: '@', end: 2.388119}
+  - {lab: _, end: 3.115}
+- prompt: m0168
+  text: Bei mechanisch gesteuerten Instrumenten findet Holz oft auch für die Mechanik Verwendung.
+  style: angry
+  start: 829.8
+  end: 836.64
+  segments:
+  - {lab: H#, end: 0.442112}
+  - {lab: b, end: 0.51027}
+  - {lab: aI, end: 0.645}
+  - {lab: m, end: 0.7}
+  - {lab: 'e:', end: 0.77}
+  - {lab: C, end: 0.93}
+  - {lab: 'a:', end: 1.08}
+  - {lab: n, end: 1.125}
+  - {lab: I, end: 1.19}
+  - {lab: S, end: 1.276597}
+  - {lab: g, end: 1.33}
+  - {lab: '@', end: 1.375}
+  - {lab: S, end: 1.478618}
+  - {lab: t, end: 1.535}
+  - {lab: OY, end: 1.665}
+  - {lab: '6', end: 1.746955}
+  - {lab: t, end: 1.825}
+  - {lab: '@', end: 1.834763}
+  - {lab: n, end: 1.89801}
+  - {lab: '?', end: 1.925}
+  - {lab: I, end: 1.956958}
+  - {lab: n, end: 2.005}
+  - {lab: s, end: 2.074854}
+  - {lab: t, end: 2.138537}
+  - {lab: R, end: 2.17}
+  - {lab: 'u:', end: 2.225}
+  - {lab: m, end: 2.29}
+  - {lab: E, end: 2.38}
+  - {lab: n, end: 2.450035}
+  - {lab: t, end: 2.528633}
+  - {lab: '@', end: 2.54}
+  - {lab: n, end: 2.625}
+  - {lab: f, end: 2.720884}
+  - {lab: I, end: 2.78}
+  - {lab: n, end: 2.82}
+  - {lab: d, end: 2.852035}
+  - {lab: '@', end: 2.898287}
+  - {lab: t, end: 2.955}
+  - {lab: h, end: 3.065}
+  - {lab: O, end: 3.145}
+  - {lab: l, end: 3.235}
+  - {lab: ts, end: 3.365}
+  - {lab: '?', end: 3.515}
+  - {lab: O, end: 3.595}
+  - {lab: f, end: 3.7}
+  - {lab: t, end: 3.765931}
+  - {lab: '?', end: 3.835}
+  - {lab: aU, end: 3.925}
+  - {lab: x, end: 3.965}
+  - {lab: f, end: 4.07}
+  - {lab: 'y:', end: 4.11962}
+  - {lab: '6', end: 4.136813}
+  - {lab: d, end: 4.178221}
+  - {lab: 'i:', end: 4.24}
+  - {lab: m, end: 4.29}
+  - {lab: 'e:', end: 4.355}
+  - {lab: C, end: 4.5}
+  - {lab: 'a:', end: 4.635}
+  - {lab: n, end: 4.67}
+  - {lab: I, end: 4.725}
+  - {lab: k, end: 4.781122}
