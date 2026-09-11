@@ -1,0 +1,50 @@
+  - {lab: g, end: 2.563332}
+  - {lab: 'i:', end: 2.69}
+  - {lab: '?', end: 2.735}
+  - {lab: a, end: 2.8}
+  - {lab: l, end: 2.855}
+  - {lab: s, end: 2.97}
+  - {lab: v, end: 3.02}
+  - {lab: I, end: 3.072675}
+  - {lab: s, end: 3.178291}
+  - {lab: '@', end: 3.18873}
+  - {lab: n, end: 3.245}
+  - {lab: S, end: 3.35}
+  - {lab: a, end: 3.471804}
+  - {lab: f, end: 3.555}
+  - {lab: t, end: 3.681807}
+  - {lab: _, end: 4.315}
+- prompt: m0188
+  text: Häufige Dürren taten ein Übriges.
+  style: angry
+  start: 908.04
+  end: 911.52
+  segments:
+  - {lab: H#, end: 0.503516}
+  - {lab: h, end: 0.565}
+  - {lab: OY, end: 0.69}
+  - {lab: f, end: 0.76}
+  - {lab: I, end: 0.817906}
+  - {lab: g, end: 0.869472}
+  - {lab: '@', end: 0.925}
+  - {lab: d, end: 1.01928}
+  - {lab: Y, end: 1.107121}
+  - {lab: R, end: 1.162999}
+  - {lab: '@', end: 1.22}
+  - {lab: n, end: 1.29379}
+  - {lab: t, end: 1.490244}
+  - {lab: 'a:', end: 1.618006}
+  - {lab: t, end: 1.69}
+  - {lab: '@', end: 1.705}
+  - {lab: n, end: 1.75985}
+  - {lab: '?', end: 1.82}
+  - {lab: aI, end: 1.875}
+  - {lab: n, end: 1.946521}
+  - {lab: '?', end: 1.99}
+  - {lab: 'y:', end: 2.05}
+  - {lab: b, end: 2.125206}
+  - {lab: R, end: 2.18}
+  - {lab: I, end: 2.255}
+  - {lab: g, end: 2.309781}
+  - {lab: '@', end: 2.39}
+  - {lab: s, end: 2.628108}
