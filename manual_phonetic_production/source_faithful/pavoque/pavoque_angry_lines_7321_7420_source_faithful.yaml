@@ -1,0 +1,100 @@
+  - {lab: I, end: 1.21}
+  - {lab: s, end: 1.267259}
+  - {lab: t, end: 1.338321}
+  - {lab: '?', end: 1.445}
+  - {lab: O, end: 1.535}
+  - {lab: f, end: 1.65}
+  - {lab: '@', end: 1.735}
+  - {lab: n, end: 1.80662}
+  - {lab: z, end: 1.87}
+  - {lab: I, end: 1.9522}
+  - {lab: C, end: 2.057208}
+  - {lab: t, end: 2.140139}
+  - {lab: l, end: 2.165}
+  - {lab: I, end: 2.28}
+  - {lab: C, end: 2.494743}
+  - {lab: _, end: 3.535}
+- prompt: m0152
+  text: Gegeben sind Physik, Chemie, Biologie, Geschichte, Sozialkunde, Erdkunde und Englisch.
+  style: angry
+  start: 758.76
+  end: 765.18
+  segments:
+  - {lab: H#, end: 0.588254}
+  - {lab: g, end: 0.611532}
+  - {lab: '@', end: 0.677904}
+  - {lab: g, end: 0.748735}
+  - {lab: 'e:', end: 0.863346}
+  - {lab: b, end: 0.92}
+  - {lab: '@', end: 0.93089}
+  - {lab: n, end: 1.00519}
+  - {lab: z, end: 1.07}
+  - {lab: I, end: 1.13}
+  - {lab: n, end: 1.175}
+  - {lab: t, end: 1.223064}
+  - {lab: f, end: 1.29}
+  - {lab: 'y:', end: 1.37}
+  - {lab: z, end: 1.46}
+  - {lab: 'i:', end: 1.575}
+  - {lab: k, end: 1.674034}
+  - {lab: C, end: 1.83}
+  - {lab: 'e:', end: 1.915}
+  - {lab: m, end: 2.001169}
+  - {lab: 'i:', end: 2.150382}
+  - {lab: _, end: 2.247401}
+  - {lab: b, end: 2.31349}
+  - {lab: 'i:', end: 2.445}
+  - {lab: 'o:', end: 2.525}
+  - {lab: l, end: 2.56}
+  - {lab: 'o:', end: 2.663108}
+  - {lab: g, end: 2.735839}
+  - {lab: 'i:', end: 2.908726}
+  - {lab: _, end: 2.976885}
+  - {lab: g, end: 3.037416}
+  - {lab: '@', end: 3.1}
+  - {lab: S, end: 3.21}
+  - {lab: I, end: 3.27}
+  - {lab: C, end: 3.372943}
+  - {lab: t, end: 3.43184}
+  - {lab: '@', end: 3.558384}
+  - {lab: _, end: 3.632683}
+  - {lab: z, end: 3.683649}
+  - {lab: 'o:', end: 3.749352}
+  - {lab: ts, end: 3.885}
+  - {lab: j, end: 3.945}
+  - {lab: 'a:', end: 4.033654}
+  - {lab: l, end: 4.084006}
+  - {lab: k, end: 4.171822}
+  - {lab: U, end: 4.235}
+  - {lab: n, end: 4.287868}
+  - {lab: d, end: 4.312838}
+  - {lab: '@', end: 4.390414}
+  - {lab: '?', end: 4.475}
+  - {lab: 'e:', end: 4.57}
+  - {lab: '6', end: 4.628049}
+  - {lab: t, end: 4.69}
+  - {lab: k, end: 4.780562}
+  - {lab: U, end: 4.865}
+  - {lab: n, end: 4.92}
+  - {lab: d, end: 4.97}
+  - {lab: '@', end: 5.089196}
+  - {lab: _, end: 5.288146}
+  - {lab: '?', end: 5.32}
+  - {lab: U, end: 5.42}
+  - {lab: n, end: 5.49}
+  - {lab: t, end: 5.560167}
+  - {lab: _, end: 5.687274}
+  - {lab: '?', end: 5.703239}
+  - {lab: E, end: 5.805}
+  - {lab: N, end: 5.86}
+  - {lab: l, end: 5.92}
+  - {lab: I, end: 6.025}
+  - {lab: S, end: 6.270002}
+  - {lab: _, end: 6.415}
+- prompt: m0153
+  text: Die wollte eine föderale Verfassung durchsetzen.
+  style: angry
+  start: 765.18
+  end: 769.56
+  segments:
+  - {lab: H#, end: 0.93109}
