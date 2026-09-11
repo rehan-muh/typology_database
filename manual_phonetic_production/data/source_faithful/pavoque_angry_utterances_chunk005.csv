@@ -1,0 +1,4 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::spike0017,spike0017,Ich glaube du hast mir eine Frage gestellt.,angry,56.28,60.36,4.08,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0018,spike0018,Ich kann Fragen nicht beantworten – erzähl mir einfach etwas und ich werde antworten.,angry,60.36,66.96,6.6,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0019,spike0019,Würdest du gerne mit jemand anderem sprechen?,angry,66.96,71.16,4.2,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
