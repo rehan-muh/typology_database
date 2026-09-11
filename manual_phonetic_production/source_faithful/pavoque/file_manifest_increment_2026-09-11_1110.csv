@@ -1,0 +1,2 @@
+source_id,local_path,source_path,source_blob_sha,source_line_start,source_line_end,format,scope,status,notes
+pavoque,source_faithful/pavoque/pavoque_angry_lines_9321_9420_source_faithful.yaml,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,9321,9420,YAML,angry_source_faithful,ingested,"Exact UTF-8 source lines; closes prior partial m0197, contains complete m0198, and enters m0199."
