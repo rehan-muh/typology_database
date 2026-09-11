@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-11T06:11:42-07:00",
-  "total_sources": 142,
+  "last_updated": "2026-09-11T07:11:00-07:00",
+  "total_sources": 143,
   "accepted_sources": 45,
   "excluded_sources": 25,
-  "review_sources": 72,
+  "review_sources": 73,
   "ingested_sources": 44,
-  "parsed_rows_total": 1361445,
+  "parsed_rows_total": 1361525,
   "parsed_logical_tables_total": 86,
-  "inventory_file_records": 954,
+  "inventory_file_records": 958,
   "variable_dictionary_records": 1148,
-  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful angry-style coverage advanced by 400 lines, from source line 7721 through 8120. Durable coverage is now lines 1-8120, with 210 complete manually corrected utterances represented and one partial utterance (m0168) at the endpoint; continue at line 8121. Four exact 100-line chunks were committed and verified against immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Nine complete PAVOQUE utterances (m0159, m0160, m0145, m0161, m0163-m0167) were promoted to a namespaced warehouse increment. In addition, all 20 source-labelled segment/silence intervals for m0160 were promoted with source-native SAMPA labels and source-native relative end times; interval starts, durations and absolute times are stored as explicit derived fields, and normalized IPA is intentionally blank rather than invented. Fresh discovery added Development of Annotated Bangla Speech Corpora (Mendeley Data DOI 10.17632/c79z6gz9rm.4; companion GitHub) to REVIEW: it contains 1,810 primary supervised Bangla read-speech recordings across four dialect regions and is explicitly manually segmented/annotated at sentence level, but finer phone-level manual annotation has not yet been established. No large audio was committed and no unrelated repository content was modified."
+  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful angry-style coverage advanced by 400 lines, from source line 8121 through 8520. Durable coverage is now lines 1-8520, with 220 complete manually corrected utterances represented and one partial utterance (m0179) at the endpoint; continue at line 8521. Four exact 100-line chunks were committed and verified against immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Ten complete PAVOQUE utterances (m0168-m0176 and m0178; no m0177 record appears in the source sequence) were promoted to a namespaced warehouse increment. All 70 source-labelled segment/silence intervals for m0168 were also promoted with source-native German SAMPA labels and relative end times; interval starts, durations and absolute times are explicit derivations, and normalized IPA is intentionally blank rather than invented. Fresh discovery added the IFCASL French-German native/non-native read-speech corpus to REVIEW: documentation reports about 100 speakers, phone/word segmentation, more than 50% manually corrected data, and manual checking/annotation after automatic alignment, but a currently public observation-level deposit with an isolable human-corrected subset and clear redistribution provenance still needs to be located. No large audio was committed and no unrelated repository content was modified."
 }
