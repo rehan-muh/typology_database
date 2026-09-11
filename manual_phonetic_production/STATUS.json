@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-10T21:09:24-07:00",
-  "total_sources": 136,
+  "last_updated": "2026-09-10T22:12:10-07:00",
+  "total_sources": 137,
   "accepted_sources": 44,
   "excluded_sources": 25,
-  "review_sources": 67,
+  "review_sources": 68,
   "ingested_sources": 43,
   "parsed_rows_total": 1361409,
   "parsed_logical_tables_total": 84,
   "inventory_file_records": 946,
   "variable_dictionary_records": 1138,
-  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful angry-style coverage advanced by 400 lines, from source line 4121 through 4520. Durable coverage is now lines 1-4520, with 122 complete manually corrected utterances represented and one partial utterance (m0076); continue at line 4521. Four exact 100-line chunks were committed and verified against immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. PAVOQUE remains staging-only pending relational promotion, so promoted warehouse rows remain unchanged. Discovery screened additional manually segmented/corrected production resources, including Passau-SFCH, AutoVOT-associated materials, West Central Bavarian vowel work, and manually segmented vowel-production studies; resources based on third-party media, automatic outputs without isolable human-corrected observation layers, or without publicly accessible observation-level deposits were not admitted. Chenghai stop-production remains the highest-priority newly accepted source for full TextGrid/XLSX parsing. No unrelated repository content was modified."
+  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful angry-style coverage advanced by 400 lines, from source line 4521 through 4920. Durable coverage is now lines 1-4920, with 133 complete manually corrected utterances represented and no partial utterance at the endpoint; continue at line 4921. Four exact 100-line chunks were committed and verified against immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. PAVOQUE remains staging-only pending relational promotion, so promoted warehouse rows remain unchanged. Discovery added MRPL2 to REVIEW: its Zenodo record describes 4,500 primary non-native English utterances from 23 speakers/14 L1s with manual phonetic mispronunciation annotation and annotated TextGrids, but files are currently restricted, so no inaccessible bytes were ingested and no interval provenance was inferred. Chenghai stop-production remains a high-priority accepted source for direct TextGrid/XLSX observation parsing. No unrelated repository content was modified."
 }
