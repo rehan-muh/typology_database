@@ -1,0 +1,100 @@
+  - {lab: H#, end: 0.419392}
+  - {lab: d, end: 0.459586}
+  - {lab: 'i:', end: 0.547113}
+  - {lab: p, end: 0.633817}
+  - {lab: l, end: 0.665}
+  - {lab: 'e:', end: 0.763871}
+  - {lab: b, end: 0.813536}
+  - {lab: 'e:', end: 0.925978}
+  - {lab: j, end: 0.959137}
+  - {lab: '6', end: 1.04}
+  - {lab: g, end: 1.097518}
+  - {lab: '@', end: 1.14}
+  - {lab: v, end: 1.2}
+  - {lab: a, end: 1.271071}
+  - {lab: n, end: 1.301159}
+  - {lab: '@', end: 1.355}
+  - {lab: n, end: 1.39695}
+  - {lab: f, end: 1.535}
+  - {lab: O, end: 1.635}
+  - {lab: l, end: 1.665}
+  - {lab: k, end: 1.762889}
+  - {lab: l, end: 1.795}
+  - {lab: I, end: 1.83}
+  - {lab: C, end: 1.9}
+  - {lab: '?', end: 1.921957}
+  - {lab: a, end: 2.0}
+  - {lab: n, end: 2.0681}
+  - {lab: m, end: 2.125}
+  - {lab: a, end: 2.24}
+  - {lab: x, end: 2.365297}
+  - {lab: t, end: 2.536615}
+  - {lab: _, end: 3.895}
+- prompt: m0091
+  text: Der Tachometer zeigt Tempo drei Hundert.
+  style: angry
+  start: 523.98
+  end: 527.88
+  segments:
+  - {lab: H#, end: 0.232723}
+  - {lab: d, end: 0.290842}
+  - {lab: E, end: 0.329742}
+  - {lab: '6', end: 0.364742}
+  - {lab: t, end: 0.47}
+  - {lab: a, end: 0.54}
+  - {lab: x, end: 0.6}
+  - {lab: 'o:', end: 0.70308}
+  - {lab: m, end: 0.765}
+  - {lab: 'e:', end: 0.8701}
+  - {lab: t, end: 0.958957}
+  - {lab: '6', end: 1.040804}
+  - {lab: ts, end: 1.153766}
+  - {lab: aI, end: 1.27}
+  - {lab: k, end: 1.335}
+  - {lab: t, end: 1.355195}
+  - {lab: t, end: 1.42}
+  - {lab: E, end: 1.495}
+  - {lab: m, end: 1.536338}
+  - {lab: p, end: 1.603749}
+  - {lab: 'o:', end: 1.69}
+  - {lab: d, end: 1.75603}
+  - {lab: R, end: 1.835}
+  - {lab: aI, end: 1.970467}
+  - {lab: h, end: 2.040468}
+  - {lab: U, end: 2.11}
+  - {lab: n, end: 2.176785}
+  - {lab: d, end: 2.215615}
+  - {lab: '6', end: 2.364069}
+  - {lab: t, end: 2.529247}
+  - {lab: _, end: 3.895}
+- prompt: m0092
+  text: Der Anschlag schlug jedoch fehl.
+  style: angry
+  start: 527.88
+  end: 531.3
+  segments:
+  - {lab: H#, end: 0.25}
+  - {lab: d, end: 0.282611}
+  - {lab: E, end: 0.37102}
+  - {lab: '6', end: 0.42}
+  - {lab: '?', end: 0.492646}
+  - {lab: a, end: 0.570044}
+  - {lab: n, end: 0.64}
+  - {lab: S, end: 0.78}
+  - {lab: l, end: 0.84}
+  - {lab: 'a:', end: 1.011706}
+  - {lab: k, end: 1.09}
+  - {lab: S, end: 1.205}
+  - {lab: l, end: 1.254958}
+  - {lab: 'u:', end: 1.331742}
+  - {lab: k, end: 1.410311}
+  - {lab: j, end: 1.46381}
+  - {lab: 'e:', end: 1.530151}
+  - {lab: d, end: 1.575}
+  - {lab: O, end: 1.65}
+  - {lab: x, end: 1.695}
+  - {lab: f, end: 1.88}
+  - {lab: 'e:', end: 2.022797}
+  - {lab: l, end: 2.149337}
+  - {lab: _, end: 3.415}
+- prompt: m0093
