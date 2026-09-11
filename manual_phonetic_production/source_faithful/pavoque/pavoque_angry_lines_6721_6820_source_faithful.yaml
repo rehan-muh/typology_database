@@ -1,0 +1,100 @@
+  - {lab: '6', end: 3.047147}
+  - {lab: d, end: 3.133553}
+  - {lab: n, end: 3.17}
+  - {lab: '@', end: 3.245}
+  - {lab: n, end: 3.36095}
+  - {lab: _, end: 4.195}
+- prompt: m0134
+  text: Feuchte Luft ist förderlich.
+  style: angry
+  start: 694.68
+  end: 697.86
+  segments:
+  - {lab: H#, end: 0.498896}
+  - {lab: f, end: 0.645}
+  - {lab: OY, end: 0.784593}
+  - {lab: C, end: 0.843576}
+  - {lab: t, end: 0.91824}
+  - {lab: '@', end: 1.010079}
+  - {lab: l, end: 1.105}
+  - {lab: U, end: 1.17}
+  - {lab: f, end: 1.28}
+  - {lab: t, end: 1.354845}
+  - {lab: '?', end: 1.39}
+  - {lab: I, end: 1.46}
+  - {lab: s, end: 1.549526}
+  - {lab: t, end: 1.62}
+  - {lab: f, end: 1.705}
+  - {lab: '9', end: 1.791601}
+  - {lab: '6', end: 1.865329}
+  - {lab: d, end: 1.926542}
+  - {lab: '6', end: 2.02}
+  - {lab: l, end: 2.08}
+  - {lab: I, end: 2.175}
+  - {lab: C, end: 2.443483}
+  - {lab: _, end: 3.175}
+- prompt: m0135
+  text: Mich jammert deine Jugend, deine Schönheit!
+  style: angry
+  start: 697.86
+  end: 701.94
+  segments:
+  - {lab: H#, end: 0.44}
+  - {lab: m, end: 0.505}
+  - {lab: I, end: 0.595}
+  - {lab: C, end: 0.73}
+  - {lab: j, end: 0.886192}
+  - {lab: a, end: 1.0}
+  - {lab: m, end: 1.06}
+  - {lab: '6', end: 1.18773}
+  - {lab: t, end: 1.303801}
+  - {lab: d, end: 1.392824}
+  - {lab: aI, end: 1.508921}
+  - {lab: n, end: 1.542084}
+  - {lab: '@', end: 1.627449}
+  - {lab: j, end: 1.715}
+  - {lab: 'u:', end: 1.848536}
+  - {lab: g, end: 1.915476}
+  - {lab: '@', end: 1.925917}
+  - {lab: n, end: 2.042602}
+  - {lab: t, end: 2.175868}
+  - {lab: d, end: 2.277653}
+  - {lab: aI, end: 2.366863}
+  - {lab: n, end: 2.41}
+  - {lab: '@', end: 2.475}
+  - {lab: S, end: 2.646658}
+  - {lab: '2:', end: 2.77}
+  - {lab: n, end: 2.81}
+  - {lab: h, end: 2.87}
+  - {lab: aI, end: 3.055}
+  - {lab: t, end: 3.23893}
+  - {lab: _, end: 4.075}
+- prompt: m0136
+  text: Westlich von Oslo gelegen.
+  style: angry
+  start: 701.94
+  end: 705.0
+  segments:
+  - {lab: H#, end: 0.441504}
+  - {lab: v, end: 0.555}
+  - {lab: E, end: 0.655}
+  - {lab: s, end: 0.844936}
+  - {lab: t, end: 0.921421}
+  - {lab: l, end: 0.955}
+  - {lab: I, end: 1.02}
+  - {lab: C, end: 1.13}
+  - {lab: f, end: 1.19}
+  - {lab: O, end: 1.255}
+  - {lab: n, end: 1.305}
+  - {lab: '?', end: 1.369337}
+  - {lab: O, end: 1.445}
+  - {lab: z, end: 1.563378}
+  - {lab: l, end: 1.61}
+  - {lab: 'o:', end: 1.715663}
+  - {lab: g, end: 1.775278}
+  - {lab: '@', end: 1.845228}
+  - {lab: l, end: 1.91}
+  - {lab: 'e:', end: 2.055}
+  - {lab: g, end: 2.140518}
+  - {lab: '@', end: 2.152268}
+  - {lab: n, end: 2.277521}
