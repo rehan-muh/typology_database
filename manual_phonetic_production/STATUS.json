@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-11T05:07:46-07:00",
-  "total_sources": 141,
+  "last_updated": "2026-09-11T06:11:42-07:00",
+  "total_sources": 142,
   "accepted_sources": 45,
   "excluded_sources": 25,
-  "review_sources": 71,
+  "review_sources": 72,
   "ingested_sources": 44,
-  "parsed_rows_total": 1361416,
-  "parsed_logical_tables_total": 85,
-  "inventory_file_records": 950,
+  "parsed_rows_total": 1361445,
+  "parsed_logical_tables_total": 86,
+  "inventory_file_records": 954,
   "variable_dictionary_records": 1148,
-  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful angry-style coverage advanced by 400 lines, from source line 7321 through 7720. Durable coverage is now lines 1-7720, with 201 complete manually corrected utterances represented and one partial utterance (m0159) at the endpoint; continue at line 7721. Four exact 100-line chunks were committed and verified against immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Unlike prior staging-only passes, seven complete PAVOQUE utterance records (m0152-m0158) were promoted to a namespaced warehouse table with source text, style, source start/end times, derived duration and immutable provenance; no unsupported IPA or context was invented. Fresh discovery added RescueSpeech (Zenodo 10.5281/zenodo.8077622) to review: it is primary open German speech from simulated search-and-rescue exercises and is explicitly described as manually annotated, but archive-level inspection is still required to establish whether the human layer is sufficiently phonetic/temporal for core inclusion. No large audio was committed and no unrelated repository content was modified."
+  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful angry-style coverage advanced by 400 lines, from source line 7721 through 8120. Durable coverage is now lines 1-8120, with 210 complete manually corrected utterances represented and one partial utterance (m0168) at the endpoint; continue at line 8121. Four exact 100-line chunks were committed and verified against immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Nine complete PAVOQUE utterances (m0159, m0160, m0145, m0161, m0163-m0167) were promoted to a namespaced warehouse increment. In addition, all 20 source-labelled segment/silence intervals for m0160 were promoted with source-native SAMPA labels and source-native relative end times; interval starts, durations and absolute times are stored as explicit derived fields, and normalized IPA is intentionally blank rather than invented. Fresh discovery added Development of Annotated Bangla Speech Corpora (Mendeley Data DOI 10.17632/c79z6gz9rm.4; companion GitHub) to REVIEW: it contains 1,810 primary supervised Bangla read-speech recordings across four dialect regions and is explicitly manually segmented/annotated at sentence level, but finer phone-level manual annotation has not yet been established. No large audio was committed and no unrelated repository content was modified."
 }
