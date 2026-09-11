@@ -1,0 +1,100 @@
+  - {lab: 'u:', end: 3.83}
+  - {lab: x, end: 3.989228}
+  - {lab: _, end: 5.335}
+- prompt: m0071
+  text: 'Als Mäander (griechisch) bezeichnet man:'
+  style: angry
+  start: 448.44
+  end: 452.28
+  segments:
+  - {lab: H#, end: 0.326779}
+  - {lab: '?', end: 0.35442}
+  - {lab: a, end: 0.415}
+  - {lab: l, end: 0.47}
+  - {lab: s, end: 0.563263}
+  - {lab: m, end: 0.62}
+  - {lab: E, end: 0.746923}
+  - {lab: '?', end: 0.78992}
+  - {lab: a, end: 0.88}
+  - {lab: n, end: 0.956995}
+  - {lab: d, end: 1.00234}
+  - {lab: '6', end: 1.16}
+  - {lab: g, end: 1.305272}
+  - {lab: R, end: 1.390652}
+  - {lab: 'i:', end: 1.495}
+  - {lab: C, end: 1.62}
+  - {lab: I, end: 1.725}
+  - {lab: S, end: 1.849494}
+  - {lab: b, end: 1.901901}
+  - {lab: '@', end: 1.965}
+  - {lab: ts, end: 2.121163}
+  - {lab: aI, end: 2.25}
+  - {lab: C, end: 2.325534}
+  - {lab: n, end: 2.378359}
+  - {lab: '@', end: 2.434255}
+  - {lab: t, end: 2.527384}
+  - {lab: m, end: 2.57}
+  - {lab: a, end: 2.71}
+  - {lab: n, end: 2.862385}
+  - {lab: _, end: 3.835}
+- prompt: m0072
+  text: Döbel hatte kein eigenes Gotteshaus.
+  style: angry
+  start: 452.28
+  end: 455.94
+  segments:
+  - {lab: H#, end: 0.424371}
+  - {lab: d, end: 0.454334}
+  - {lab: '2:', end: 0.603086}
+  - {lab: b, end: 0.654084}
+  - {lab: '@', end: 0.747409}
+  - {lab: l, end: 0.808823}
+  - {lab: h, end: 0.902172}
+  - {lab: a, end: 0.96}
+  - {lab: t, end: 1.02}
+  - {lab: '@', end: 1.105}
+  - {lab: k, end: 1.269981}
+  - {lab: aI, end: 1.435}
+  - {lab: n, end: 1.527367}
+  - {lab: '?', end: 1.61089}
+  - {lab: aI, end: 1.745}
+  - {lab: g, end: 1.79}
+  - {lab: '@', end: 1.85}
+  - {lab: n, end: 1.89}
+  - {lab: '@', end: 1.97}
+  - {lab: s, end: 2.062897}
+  - {lab: g, end: 2.123816}
+  - {lab: O, end: 2.222574}
+  - {lab: t, end: 2.28}
+  - {lab: '@', end: 2.33}
+  - {lab: s, end: 2.415}
+  - {lab: h, end: 2.465}
+  - {lab: aU, end: 2.675}
+  - {lab: s, end: 2.915938}
+  - {lab: _, end: 3.655}
+- prompt: m0073
+  text: Für die Abkürzungen siehe Statistik (Baseball).
+  style: angry
+  start: 455.94
+  end: 460.2
+  segments:
+  - {lab: H#, end: 0.497525}
+  - {lab: f, end: 0.58926}
+  - {lab: 'y:', end: 0.635726}
+  - {lab: '6', end: 0.657224}
+  - {lab: d, end: 0.707699}
+  - {lab: 'i:', end: 0.79}
+  - {lab: '?', end: 0.845}
+  - {lab: a, end: 0.92}
+  - {lab: p, end: 0.995}
+  - {lab: k, end: 1.092382}
+  - {lab: Y, end: 1.151063}
+  - {lab: '6', end: 1.184232}
+  - {lab: ts, end: 1.285}
+  - {lab: U, end: 1.335}
+  - {lab: N, end: 1.405}
+  - {lab: '@', end: 1.455}
+  - {lab: n, end: 1.509773}
+  - {lab: z, end: 1.584737}
+  - {lab: 'i:', end: 1.649817}
+  - {lab: '@', end: 1.725}
