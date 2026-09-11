@@ -1,0 +1,100 @@
+  - {lab: '6', end: 0.850092}
+  - {lab: S, end: 1.005}
+  - {lab: m, end: 1.08}
+  - {lab: U, end: 1.151678}
+  - {lab: g, end: 1.198774}
+  - {lab: '@', end: 1.218628}
+  - {lab: l, end: 1.299707}
+  - {lab: m, end: 1.35}
+  - {lab: I, end: 1.435451}
+  - {lab: t, end: 1.509644}
+  - {lab: '?', end: 1.550861}
+  - {lab: '2:', end: 1.743179}
+  - {lab: l, end: 1.803374}
+  - {lab: b, end: 1.893867}
+  - {lab: l, end: 1.946489}
+  - {lab: 'y:', end: 2.2}
+  - {lab: t, end: 2.429272}
+  - {lab: _, end: 3.115}
+- prompt: m0022
+  text: Prinz Johann von Frankreich, französisch Jean de Berry;
+  style: angry
+  start: 265.02
+  end: 269.82
+  segments:
+  - {lab: H#, end: 0.353329}
+  - {lab: p, end: 0.409191}
+  - {lab: R, end: 0.465}
+  - {lab: I, end: 0.534325}
+  - {lab: n, end: 0.59}
+  - {lab: ts, end: 0.703864}
+  - {lab: j, end: 0.775}
+  - {lab: 'o:', end: 0.850621}
+  - {lab: h, end: 0.899754}
+  - {lab: a, end: 0.955}
+  - {lab: n, end: 0.990651}
+  - {lab: f, end: 1.055}
+  - {lab: O, end: 1.1}
+  - {lab: n, end: 1.14}
+  - {lab: f, end: 1.195}
+  - {lab: R, end: 1.24}
+  - {lab: a, end: 1.33}
+  - {lab: N, end: 1.38}
+  - {lab: k, end: 1.435}
+  - {lab: R, end: 1.483827}
+  - {lab: aI, end: 1.63}
+  - {lab: C, end: 1.753446}
+  - {lab: _, end: 1.8425}
+  - {lab: f, end: 1.89}
+  - {lab: R, end: 1.93}
+  - {lab: a, end: 1.995}
+  - {lab: n, end: 2.045}
+  - {lab: ts, end: 2.129748}
+  - {lab: '2:', end: 2.245}
+  - {lab: z, end: 2.32}
+  - {lab: I, end: 2.385}
+  - {lab: S, end: 2.497202}
+  - {lab: Z, end: 2.73}
+  - {lab: o~, end: 2.905}
+  - {lab: d, end: 2.957905}
+  - {lab: '@', end: 3.033983}
+  - {lab: b, end: 3.080802}
+  - {lab: 'e:', end: 3.208407}
+  - {lab: R, end: 3.26}
+  - {lab: 'i:', end: 3.489081}
+  - {lab: _, end: 4.795}
+- prompt: m0023
+  text: Er hat eine jüngere Schwester, Diane.
+  style: angry
+  start: 269.82
+  end: 273.54
+  segments:
+  - {lab: H#, end: 0.551648}
+  - {lab: '?', end: 0.61185}
+  - {lab: 'e:', end: 0.665}
+  - {lab: '6', end: 0.74}
+  - {lab: h, end: 0.819486}
+  - {lab: a, end: 0.87}
+  - {lab: t, end: 0.946592}
+  - {lab: '?', end: 0.958319}
+  - {lab: aI, end: 1.05}
+  - {lab: n, end: 1.090395}
+  - {lab: '@', end: 1.170255}
+  - {lab: j, end: 1.231686}
+  - {lab: Y, end: 1.305}
+  - {lab: N, end: 1.365}
+  - {lab: '6', end: 1.425807}
+  - {lab: R, end: 1.470651}
+  - {lab: '@', end: 1.535}
+  - {lab: S, end: 1.671529}
+  - {lab: v, end: 1.715}
+  - {lab: E, end: 1.785}
+  - {lab: s, end: 1.895137}
+  - {lab: t, end: 1.964439}
+  - {lab: '6', end: 2.121816}
+  - {lab: _, end: 2.421598}
+  - {lab: d, end: 2.512834}
+  - {lab: 'i:', end: 2.690665}
+  - {lab: 'a:', end: 2.8811}
+  - {lab: n, end: 2.946831}
+  - {lab: '@', end: 3.185182}
