@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-11T04:10:58-07:00",
-  "total_sources": 140,
+  "last_updated": "2026-09-11T05:07:46-07:00",
+  "total_sources": 141,
   "accepted_sources": 45,
   "excluded_sources": 25,
-  "review_sources": 70,
-  "ingested_sources": 43,
-  "parsed_rows_total": 1361409,
-  "parsed_logical_tables_total": 84,
+  "review_sources": 71,
+  "ingested_sources": 44,
+  "parsed_rows_total": 1361416,
+  "parsed_logical_tables_total": 85,
   "inventory_file_records": 950,
   "variable_dictionary_records": 1148,
-  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful angry-style coverage advanced by 400 lines, from source line 6921 through 7320. Durable coverage is now lines 1-7320, with 193 complete manually corrected utterances represented and one partial utterance (m0151) at the endpoint; continue at line 7321. Four exact 100-line chunks were committed and verified against upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Discovery accepted Ruthven et al. 2023 rt-MRI speech production data (Zenodo 10.5281/zenodo.10046815): five primary speakers, 392 MRI frames, 392 manually created articulator masks, and 392 four-rater/majority-vote velopharyngeal-closure labels. A 4-record source manifest, 10-record variable dictionary, ingestion status, and accepted-source increment were added. The 21.9 MB Zenodo archive is public and pinned by MD5 but could not be retrieved by this runtime, so internal DICOM/MAT/XLSX parsing remains pending and no observation rows were falsely promoted. PAVOQUE remains staging-only pending relational promotion. No unrelated repository content was modified."
+  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful angry-style coverage advanced by 400 lines, from source line 7321 through 7720. Durable coverage is now lines 1-7720, with 201 complete manually corrected utterances represented and one partial utterance (m0159) at the endpoint; continue at line 7721. Four exact 100-line chunks were committed and verified against immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Unlike prior staging-only passes, seven complete PAVOQUE utterance records (m0152-m0158) were promoted to a namespaced warehouse table with source text, style, source start/end times, derived duration and immutable provenance; no unsupported IPA or context was invented. Fresh discovery added RescueSpeech (Zenodo 10.5281/zenodo.8077622) to review: it is primary open German speech from simulated search-and-rescue exercises and is explicitly described as manually annotated, but archive-level inspection is still required to establish whether the human layer is sufficiently phonetic/temporal for core inclusion. No large audio was committed and no unrelated repository content was modified."
 }
