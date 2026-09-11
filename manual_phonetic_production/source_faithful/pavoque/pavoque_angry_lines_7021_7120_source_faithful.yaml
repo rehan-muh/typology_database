@@ -1,0 +1,100 @@
+  text: Die Tiere schädigten die Pflanzen nachhaltig.
+  style: angry
+  start: 725.34
+  end: 729.54
+  segments:
+  - {lab: H#, end: 0.738144}
+  - {lab: d, end: 0.781186}
+  - {lab: 'i:', end: 0.880614}
+  - {lab: t, end: 1.01515}
+  - {lab: 'i:', end: 1.146518}
+  - {lab: R, end: 1.195}
+  - {lab: '@', end: 1.265}
+  - {lab: S, end: 1.435}
+  - {lab: 'E:', end: 1.567788}
+  - {lab: d, end: 1.615233}
+  - {lab: I, end: 1.656832}
+  - {lab: C, end: 1.675255}
+  - {lab: t, end: 1.789477}
+  - {lab: '@', end: 1.79746}
+  - {lab: n, end: 1.877907}
+  - {lab: d, end: 1.925554}
+  - {lab: 'i:', end: 1.985}
+  - {lab: pf, end: 2.123298}
+  - {lab: l, end: 2.175}
+  - {lab: a, end: 2.27}
+  - {lab: n, end: 2.32}
+  - {lab: ts, end: 2.425}
+  - {lab: '@', end: 2.43305}
+  - {lab: n, end: 2.532534}
+  - {lab: n, end: 2.635}
+  - {lab: 'a:', end: 2.785}
+  - {lab: x, end: 2.885}
+  - {lab: h, end: 2.935}
+  - {lab: a, end: 3.005388}
+  - {lab: l, end: 3.06}
+  - {lab: t, end: 3.151174}
+  - {lab: I, end: 3.23}
+  - {lab: C, end: 3.421746}
+  - {lab: _, end: 4.195}
+- prompt: m0144
+  text: Schnell avancierte er zum musikalischen Leiter und Arrangeur.
+  style: angry
+  start: 729.54
+  end: 734.7
+  segments:
+  - {lab: H#, end: 0.525008}
+  - {lab: S, end: 0.681589}
+  - {lab: n, end: 0.743607}
+  - {lab: E, end: 0.84}
+  - {lab: l, end: 0.930276}
+  - {lab: '?', end: 0.985}
+  - {lab: a, end: 1.065366}
+  - {lab: v, end: 1.11}
+  - {lab: a~, end: 1.21}
+  - {lab: s, end: 1.335984}
+  - {lab: 'i:', end: 1.400634}
+  - {lab: '6', end: 1.43}
+  - {lab: t, end: 1.500413}
+  - {lab: '@', end: 1.545548}
+  - {lab: '?', end: 1.597128}
+  - {lab: 'e:', end: 1.635199}
+  - {lab: '6', end: 1.668357}
+  - {lab: ts, end: 1.775815}
+  - {lab: U, end: 1.815}
+  - {lab: m, end: 1.861781}
+  - {lab: m, end: 1.89}
+  - {lab: 'u:', end: 1.965}
+  - {lab: s, end: 2.035}
+  - {lab: 'i:', end: 2.1031}
+  - {lab: k, end: 2.225}
+  - {lab: 'a:', end: 2.31}
+  - {lab: l, end: 2.351174}
+  - {lab: I, end: 2.395}
+  - {lab: S, end: 2.510825}
+  - {lab: '@', end: 2.527405}
+  - {lab: n, end: 2.574072}
+  - {lab: l, end: 2.635}
+  - {lab: aI, end: 2.771794}
+  - {lab: t, end: 2.857929}
+  - {lab: '6', end: 2.921621}
+  - {lab: '?', end: 2.962762}
+  - {lab: U, end: 3.03}
+  - {lab: n, end: 3.075}
+  - {lab: t, end: 3.111423}
+  - {lab: '?', end: 3.165}
+  - {lab: a, end: 3.23}
+  - {lab: R, end: 3.251362}
+  - {lab: a~, end: 3.406715}
+  - {lab: Z, end: 3.505}
+  - {lab: '2:', end: 3.627157}
+  - {lab: '6', end: 3.789879}
+  - {lab: _, end: 5.155}
+- prompt: m0146
+  text: Clemens non Papa hieß eigentlich Jacques Clement.
+  style: angry
+  start: 734.7
+  end: 739.14
+  segments:
+  - {lab: H#, end: 0.570077}
+  - {lab: k, end: 0.625586}
