@@ -1,0 +1,100 @@
+  - {lab: z, end: 1.44}
+  - {lab: 'i:', end: 1.505}
+  - {lab: '?', end: 1.52}
+  - {lab: aU, end: 1.58}
+  - {lab: f, end: 1.615}
+  - {lab: d, end: 1.67}
+  - {lab: 'e:', end: 1.725}
+  - {lab: n, end: 1.757896}
+  - {lab: n, end: 1.79}
+  - {lab: 'a:', end: 1.915}
+  - {lab: m, end: 1.97}
+  - {lab: '@', end: 2.005}
+  - {lab: n, end: 2.065}
+  - {lab: S, end: 2.22}
+  - {lab: '9', end: 2.322977}
+  - {lab: '6', end: 2.385}
+  - {lab: l, end: 2.441522}
+  - {lab: EI, end: 2.615}
+  - {lab: n, end: 2.675}
+  - {lab: 'a:', end: 2.785}
+  - {lab: x, end: 2.83}
+  - {lab: S, end: 2.99}
+  - {lab: '9', end: 3.069868}
+  - {lab: '6', end: 3.11}
+  - {lab: l, end: 3.14}
+  - {lab: EI, end: 3.254134}
+  - {lab: t, end: 3.38045}
+  - {lab: E, end: 3.455}
+  - {lab: m, end: 3.515}
+  - {lab: p, end: 3.578149}
+  - {lab: '@', end: 3.620209}
+  - {lab: l, end: 3.765779}
+  - {lab: _, end: 5.395}
+- prompt: m0185
+  text: Ich wollte wieder in Richtung Pforte gehen.
+  style: angry
+  start: 899.64
+  end: 903.72
+  segments:
+  - {lab: H#, end: 0.53}
+  - {lab: '?', end: 0.550262}
+  - {lab: I, end: 0.655}
+  - {lab: C, end: 0.829692}
+  - {lab: v, end: 0.89}
+  - {lab: O, end: 1.0}
+  - {lab: l, end: 1.058763}
+  - {lab: t, end: 1.148125}
+  - {lab: '@', end: 1.219051}
+  - {lab: v, end: 1.282307}
+  - {lab: 'i:', end: 1.415}
+  - {lab: d, end: 1.46036}
+  - {lab: '6', end: 1.524275}
+  - {lab: '?', end: 1.557438}
+  - {lab: I, end: 1.6}
+  - {lab: n, end: 1.64}
+  - {lab: R, end: 1.725}
+  - {lab: I, end: 1.785}
+  - {lab: C, end: 1.853449}
+  - {lab: t, end: 1.915}
+  - {lab: U, end: 1.975}
+  - {lab: N, end: 2.025}
+  - {lab: pf, end: 2.176837}
+  - {lab: O, end: 2.256319}
+  - {lab: '6', end: 2.329401}
+  - {lab: t, end: 2.415}
+  - {lab: '@', end: 2.485391}
+  - {lab: g, end: 2.554652}
+  - {lab: 'e:', end: 2.721831}
+  - {lab: '@', end: 2.767891}
+  - {lab: n, end: 2.914668}
+  - {lab: _, end: 4.075}
+- prompt: m0187
+  text: Ein Zoologe betreibt Zoologie als Wissenschaft.
+  style: angry
+  start: 903.72
+  end: 908.04
+  segments:
+  - {lab: H#, end: 0.72}
+  - {lab: '?', end: 0.74}
+  - {lab: aI, end: 0.833258}
+  - {lab: n, end: 0.869486}
+  - {lab: ts, end: 0.995}
+  - {lab: 'o:', end: 1.112647}
+  - {lab: 'o:', end: 1.18142}
+  - {lab: l, end: 1.26}
+  - {lab: 'o:', end: 1.427652}
+  - {lab: g, end: 1.489649}
+  - {lab: '@', end: 1.583005}
+  - {lab: b, end: 1.682462}
+  - {lab: '@', end: 1.725}
+  - {lab: t, end: 1.820465}
+  - {lab: R, end: 1.895}
+  - {lab: aI, end: 2.0}
+  - {lab: p, end: 2.04231}
+  - {lab: t, end: 2.063193}
+  - {lab: ts, end: 2.175}
+  - {lab: 'o:', end: 2.276261}
+  - {lab: 'o:', end: 2.357928}
+  - {lab: l, end: 2.40521}
+  - {lab: 'o:', end: 2.495}
