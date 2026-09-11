@@ -1,0 +1,100 @@
+  - {lab: h, end: 0.925}
+  - {lab: a, end: 0.98465}
+  - {lab: t, end: 1.045}
+  - {lab: '@', end: 1.1}
+  - {lab: k, end: 1.191081}
+  - {lab: R, end: 1.245}
+  - {lab: U, end: 1.305}
+  - {lab: S, end: 1.410942}
+  - {lab: tS, end: 1.545}
+  - {lab: O, end: 1.62}
+  - {lab: f, end: 1.699642}
+  - {lab: d, end: 1.771452}
+  - {lab: 'i:', end: 1.856277}
+  - {lab: '?', end: 1.885}
+  - {lab: a, end: 1.977899}
+  - {lab: '6', end: 2.029496}
+  - {lab: m, end: 2.155}
+  - {lab: 'e:', end: 2.302225}
+  - {lab: h, end: 2.385}
+  - {lab: I, end: 2.47}
+  - {lab: n, end: 2.526428}
+  - {lab: t, end: 2.590626}
+  - {lab: '6', end: 2.69}
+  - {lab: z, end: 2.77}
+  - {lab: I, end: 2.88}
+  - {lab: C, end: 3.106899}
+  - {lab: _, end: 4.555}
+- prompt: m0114
+  text: Jean-Claude van Damme ist zum fünften Mal verheiratet.
+  style: angry
+  start: 615.96
+  end: 620.7
+  segments:
+  - {lab: H#, end: 0.672378}
+  - {lab: Z, end: 0.815}
+  - {lab: o~, end: 1.024225}
+  - {lab: k, end: 1.102065}
+  - {lab: l, end: 1.148262}
+  - {lab: 'o:', end: 1.270457}
+  - {lab: t, end: 1.341857}
+  - {lab: f, end: 1.435}
+  - {lab: a, end: 1.51}
+  - {lab: n, end: 1.61}
+  - {lab: d, end: 1.657918}
+  - {lab: a, end: 1.77}
+  - {lab: m, end: 1.864237}
+  - {lab: '?', end: 1.89}
+  - {lab: I, end: 1.92994}
+  - {lab: s, end: 1.986848}
+  - {lab: t, end: 2.01652}
+  - {lab: ts, end: 2.091574}
+  - {lab: U, end: 2.125}
+  - {lab: m, end: 2.195}
+  - {lab: f, end: 2.335}
+  - {lab: Y, end: 2.395}
+  - {lab: n, end: 2.455}
+  - {lab: f, end: 2.54}
+  - {lab: t, end: 2.595626}
+  - {lab: '@', end: 2.665}
+  - {lab: n, end: 2.725}
+  - {lab: m, end: 2.765}
+  - {lab: 'a:', end: 2.874339}
+  - {lab: l, end: 2.92}
+  - {lab: f, end: 3.015}
+  - {lab: '6', end: 3.105}
+  - {lab: h, end: 3.17}
+  - {lab: aI, end: 3.315}
+  - {lab: R, end: 3.37}
+  - {lab: 'a:', end: 3.502506}
+  - {lab: t, end: 3.586114}
+  - {lab: '@', end: 3.67}
+  - {lab: t, end: 3.859266}
+  - {lab: _, end: 4.735}
+- prompt: m0116
+  text: Sie bekam sehr starken Keuchhusten.
+  style: angry
+  start: 620.7
+  end: 624.3
+  segments:
+  - {lab: H#, end: 0.48}
+  - {lab: z, end: 0.555}
+  - {lab: 'i:', end: 0.63}
+  - {lab: b, end: 0.683279}
+  - {lab: '@', end: 0.75}
+  - {lab: k, end: 0.867314}
+  - {lab: 'a:', end: 0.95}
+  - {lab: m, end: 1.030296}
+  - {lab: z, end: 1.1}
+  - {lab: 'e:', end: 1.175287}
+  - {lab: '6', end: 1.245}
+  - {lab: S, end: 1.355297}
+  - {lab: t, end: 1.404735}
+  - {lab: a, end: 1.481242}
+  - {lab: '6', end: 1.559267}
+  - {lab: k, end: 1.644568}
+  - {lab: '@', end: 1.66}
+  - {lab: n, end: 1.735591}
+  - {lab: k, end: 1.89}
+  - {lab: OY, end: 2.02}
+  - {lab: C, end: 2.135}
