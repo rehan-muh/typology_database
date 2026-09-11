@@ -1,0 +1,100 @@
+  - {lab: aI, end: 1.585}
+  - {lab: n, end: 1.621516}
+  - {lab: f, end: 1.7}
+  - {lab: '6', end: 1.76}
+  - {lab: k, end: 1.894225}
+  - {lab: 'e:', end: 1.965}
+  - {lab: '6', end: 2.02}
+  - {lab: s, end: 2.120869}
+  - {lab: k, end: 2.218353}
+  - {lab: 'a:', end: 2.365325}
+  - {lab: O, end: 2.465}
+  - {lab: s, end: 2.57}
+  - {lab: '?', end: 2.584598}
+  - {lab: I, end: 2.615}
+  - {lab: m, end: 2.674887}
+  - {lab: S, end: 2.78913}
+  - {lab: t, end: 2.85}
+  - {lab: a, end: 2.935}
+  - {lab: t, end: 2.977693}
+  - {lab: ts, end: 3.11}
+  - {lab: E, end: 3.19}
+  - {lab: n, end: 3.255}
+  - {lab: t, end: 3.308004}
+  - {lab: R, end: 3.36}
+  - {lab: U, end: 3.435}
+  - {lab: m, end: 3.522497}
+  - {lab: _, end: 4.675}
+- prompt: m0191
+  text: Sie war der Göttin Freya geweiht.
+  style: angry
+  start: 919.32
+  end: 922.8
+  segments:
+  - {lab: H#, end: 0.367198}
+  - {lab: z, end: 0.445}
+  - {lab: 'i:', end: 0.557552}
+  - {lab: v, end: 0.605}
+  - {lab: 'a:', end: 0.697554}
+  - {lab: '6', end: 0.747905}
+  - {lab: d, end: 0.78135}
+  - {lab: E, end: 0.847381}
+  - {lab: '6', end: 0.891592}
+  - {lab: g, end: 0.98501}
+  - {lab: '9', end: 1.08}
+  - {lab: t, end: 1.171046}
+  - {lab: I, end: 1.225}
+  - {lab: n, end: 1.28}
+  - {lab: f, end: 1.39}
+  - {lab: R, end: 1.5}
+  - {lab: aI, end: 1.685}
+  - {lab: 'a:', end: 1.78}
+  - {lab: g, end: 1.858399}
+  - {lab: '@', end: 1.96}
+  - {lab: v, end: 2.030029}
+  - {lab: aI, end: 2.228365}
+  - {lab: t, end: 2.43407}
+  - {lab: _, end: 3.475}
+- prompt: m0192
+  text: Die Bauweise ist vom Boden abhängig.
+  style: angry
+  start: 922.8
+  end: 926.46
+  segments:
+  - {lab: H#, end: 0.14985}
+  - {lab: d, end: 0.189959}
+  - {lab: 'i:', end: 0.317511}
+  - {lab: b, end: 0.416147}
+  - {lab: aU, end: 0.603086}
+  - {lab: v, end: 0.649146}
+  - {lab: aI, end: 0.805}
+  - {lab: z, end: 0.885}
+  - {lab: '@', end: 0.94332}
+  - {lab: '?', end: 0.965429}
+  - {lab: I, end: 1.0}
+  - {lab: s, end: 1.064305}
+  - {lab: t, end: 1.127023}
+  - {lab: f, end: 1.175}
+  - {lab: O, end: 1.243634}
+  - {lab: m, end: 1.308119}
+  - {lab: b, end: 1.394336}
+  - {lab: 'o:', end: 1.568514}
+  - {lab: d, end: 1.614649}
+  - {lab: '@', end: 1.625}
+  - {lab: n, end: 1.681516}
+  - {lab: '?', end: 1.77}
+  - {lab: a, end: 1.845}
+  - {lab: p, end: 1.92}
+  - {lab: h, end: 1.96}
+  - {lab: E, end: 2.035}
+  - {lab: N, end: 2.09}
+  - {lab: I, end: 2.205}
+  - {lab: C, end: 2.417871}
+  - {lab: _, end: 3.655}
+- prompt: m0193
+  text: 'Für ideale Gase gilt: siehe Joule Versuch.'
+  style: angry
+  start: 926.46
+  end: 930.48
+  segments:
+  - {lab: H#, end: 0.22}
