@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T23:11:22-07:00",
+  "last_updated": "2026-09-11T00:10:25-07:00",
   "total_sources": 137,
   "accepted_sources": 44,
   "excluded_sources": 25,
@@ -9,5 +9,5 @@
   "parsed_logical_tables_total": 84,
   "inventory_file_records": 946,
   "variable_dictionary_records": 1138,
-  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful angry-style coverage advanced by 400 lines, from source line 4921 through 5320. Durable coverage is now lines 1-5320, with 143 complete manually corrected utterances represented and one partial utterance (m0098) at the endpoint; continue at line 5321. Four exact 100-line chunks were committed and verified against immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. PAVOQUE remains staging-only pending relational promotion, so promoted warehouse rows remain unchanged. Discovery screened additional Zenodo/GitHub candidates. Singing/jingju resources were rejected by scope; Russian Fricatives was not admitted because target segmentation is generated automatically by MAUS and only limited vowel transcription corrections are documented; RescueSpeech was not promoted because available documentation establishes manual speech annotation but not a qualifying isolable phonetic interval/measurement layer. MRPL2 remains review-only because files are restricted. No unrelated repository content was modified."
+  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE exact source-faithful angry-style coverage advanced by 400 lines, from source line 5321 through 5720. Durable coverage is now lines 1-5720, with 153 complete manually corrected utterances represented and one partial utterance (m0107) at the endpoint; continue at line 5721. Four exact 100-line chunks were committed and verified against immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. PAVOQUE remains staging-only pending relational promotion, so promoted warehouse rows remain unchanged. Discovery re-screened recent manually checked articulatory and speech-production datasets: AUSpeech was recognized as already present in the review queue and not duplicated; SAIT-EMA likewise remains review-only because manually verified error labels do not yet establish a fully manual interval layer; a manually segmented speech-to-song stimulus study was excluded from admission because the underlying recordings are third-party audiobook/media stimuli, violating the primary-recording rule. No unrelated repository content was modified."
 }
