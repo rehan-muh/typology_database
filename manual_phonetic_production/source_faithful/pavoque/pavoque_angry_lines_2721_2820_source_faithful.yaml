@@ -1,0 +1,100 @@
+  - {lab: t, end: 0.98652}
+  - {lab: '?', end: 1.002962}
+  - {lab: 'e:', end: 1.031421}
+  - {lab: '6', end: 1.085}
+  - {lab: s, end: 1.221242}
+  - {lab: t, end: 1.319346}
+  - {lab: 'i:', end: 1.481094}
+  - {lab: f, end: 1.585}
+  - {lab: r, end: 1.69}
+  - {lab: E, end: 1.789476}
+  - {lab: t, end: 1.832478}
+  - {lab: g, end: 1.920226}
+  - {lab: r, end: 1.969468}
+  - {lab: EI, end: 2.095}
+  - {lab: f, end: 2.154375}
+  - {lab: g, end: 2.211142}
+  - {lab: '@', end: 2.265}
+  - {lab: n, end: 2.325}
+  - {lab: a, end: 2.455}
+  - {lab: n, end: 2.54}
+  - {lab: t, end: 2.704179}
+  - {lab: _, end: 3.715}
+- prompt: m0028
+  text: Königin Elizabeths Schlüssel.
+  style: angry
+  start: 286.8
+  end: 290.04
+  segments:
+  - {lab: H#, end: 0.625222}
+  - {lab: k, end: 0.746171}
+  - {lab: '2:', end: 0.9}
+  - {lab: n, end: 0.94}
+  - {lab: I, end: 1.01}
+  - {lab: g, end: 1.075191}
+  - {lab: I, end: 1.163232}
+  - {lab: n, end: 1.219735}
+  - {lab: '?', end: 1.235}
+  - {lab: E, end: 1.3266}
+  - {lab: l, end: 1.41}
+  - {lab: I, end: 1.50348}
+  - {lab: s, end: 1.595}
+  - {lab: a, end: 1.665}
+  - {lab: b, end: 1.724418}
+  - {lab: E, end: 1.795}
+  - {lab: T, end: 1.86}
+  - {lab: s, end: 1.985}
+  - {lab: S, end: 2.1}
+  - {lab: l, end: 2.2}
+  - {lab: Y, end: 2.275}
+  - {lab: s, end: 2.42}
+  - {lab: '@', end: 2.55}
+  - {lab: l, end: 2.698034}
+  - {lab: _, end: 3.235}
+- prompt: m0029
+  text: Oft wird Gefängnis Jargon benutzt.
+  style: angry
+  start: 290.04
+  end: 293.58
+  segments:
+  - {lab: H#, end: 0.428099}
+  - {lab: '?', end: 0.45}
+  - {lab: O, end: 0.550939}
+  - {lab: f, end: 0.703261}
+  - {lab: t, end: 0.783749}
+  - {lab: v, end: 0.815}
+  - {lab: I, end: 0.862953}
+  - {lab: '6', end: 0.917003}
+  - {lab: t, end: 0.99}
+  - {lab: g, end: 1.036617}
+  - {lab: '@', end: 1.13}
+  - {lab: f, end: 1.284296}
+  - {lab: E, end: 1.355}
+  - {lab: N, end: 1.404679}
+  - {lab: n, end: 1.445}
+  - {lab: I, end: 1.520764}
+  - {lab: s, end: 1.6}
+  - {lab: Z, end: 1.685}
+  - {lab: a, end: 1.772586}
+  - {lab: '6', end: 1.834621}
+  - {lab: g, end: 1.900697}
+  - {lab: a~, end: 2.06986}
+  - {lab: b, end: 2.134704}
+  - {lab: '@', end: 2.185}
+  - {lab: n, end: 2.285}
+  - {lab: U, end: 2.39}
+  - {lab: ts, end: 2.57}
+  - {lab: t, end: 2.693889}
+  - {lab: _, end: 3.535}
+- prompt: m0030
+  text: Er studierte die Werke Plutarchs, Shakespeares, Voltaires, Rousseaus und Goethes.
+  style: angry
+  start: 293.58
+  end: 299.94
+  segments:
+  - {lab: H#, end: 0.35376}
+  - {lab: '?', end: 0.392452}
+  - {lab: 'e:', end: 0.458783}
+  - {lab: '6', end: 0.51}
+  - {lab: S, end: 0.596356}
+  - {lab: t, end: 0.65}
