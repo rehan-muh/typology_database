@@ -1,0 +1,100 @@
+  - {lab: I, end: 2.41}
+  - {lab: f, end: 2.475}
+  - {lab: t, end: 2.532007}
+  - {lab: U, end: 2.61}
+  - {lab: N, end: 2.67}
+  - {lab: z, end: 2.795}
+  - {lab: '9', end: 2.882322}
+  - {lab: '6', end: 2.936358}
+  - {lab: v, end: 2.975}
+  - {lab: I, end: 3.055}
+  - {lab: s, end: 3.139606}
+  - {lab: g, end: 3.19}
+  - {lab: '@', end: 3.245}
+  - {lab: t, end: 3.33}
+  - {lab: R, end: 3.395}
+  - {lab: 'a:', end: 3.565}
+  - {lab: g, end: 3.635754}
+  - {lab: '@', end: 3.647421}
+  - {lab: n, end: 3.787423}
+  - {lab: _, end: 5.155}
+- prompt: m0079
+  text: Niemand managt uns im Moment.
+  style: angry
+  start: 481.14
+  end: 484.38
+  segments:
+  - {lab: H#, end: 0.205}
+  - {lab: n, end: 0.3}
+  - {lab: 'i:', end: 0.512829}
+  - {lab: m, end: 0.58}
+  - {lab: a, end: 0.715}
+  - {lab: n, end: 0.759724}
+  - {lab: t, end: 0.835486}
+  - {lab: m, end: 0.92}
+  - {lab: E, end: 1.027501}
+  - {lab: n, end: 1.069264}
+  - {lab: E, end: 1.171216}
+  - {lab: d, end: 1.201783}
+  - {lab: Z, end: 1.297734}
+  - {lab: t, end: 1.332728}
+  - {lab: '?', end: 1.345025}
+  - {lab: U, end: 1.44}
+  - {lab: n, end: 1.494267}
+  - {lab: s, end: 1.56244}
+  - {lab: '?', end: 1.600518}
+  - {lab: I, end: 1.655}
+  - {lab: m, end: 1.684659}
+  - {lab: m, end: 1.725}
+  - {lab: 'o:', end: 1.824689}
+  - {lab: m, end: 1.88}
+  - {lab: E, end: 2.035}
+  - {lab: n, end: 2.125631}
+  - {lab: t, end: 2.322164}
+  - {lab: _, end: 3.235}
+- prompt: m0080
+  text: Im Hintergrund die Stadt Coswig.
+  style: angry
+  start: 484.38
+  end: 487.8
+  segments:
+  - {lab: H#, end: 0.57}
+  - {lab: '?', end: 0.585}
+  - {lab: I, end: 0.675}
+  - {lab: m, end: 0.765}
+  - {lab: h, end: 0.891603}
+  - {lab: I, end: 0.98}
+  - {lab: n, end: 1.055}
+  - {lab: t, end: 1.150165}
+  - {lab: '6', end: 1.260486}
+  - {lab: g, end: 1.351811}
+  - {lab: R, end: 1.4}
+  - {lab: U, end: 1.49}
+  - {lab: n, end: 1.54}
+  - {lab: t, end: 1.571922}
+  - {lab: d, end: 1.614146}
+  - {lab: 'i:', end: 1.695}
+  - {lab: S, end: 1.804117}
+  - {lab: t, end: 1.86}
+  - {lab: a, end: 1.971813}
+  - {lab: t, end: 2.062725}
+  - {lab: k, end: 2.178823}
+  - {lab: O, end: 2.26}
+  - {lab: s, end: 2.396889}
+  - {lab: v, end: 2.445}
+  - {lab: I, end: 2.565}
+  - {lab: C, end: 2.806608}
+  - {lab: _, end: 3.415}
+- prompt: m0081
+  text: Ein Stückchen blauer Himmel;
+  style: angry
+  start: 487.8
+  end: 490.98
+  segments:
+  - {lab: H#, end: 0.495}
+  - {lab: '?', end: 0.51}
+  - {lab: aI, end: 0.665}
+  - {lab: n, end: 0.72}
+  - {lab: S, end: 0.815452}
+  - {lab: t, end: 0.865}
+  - {lab: Y, end: 0.949566}
