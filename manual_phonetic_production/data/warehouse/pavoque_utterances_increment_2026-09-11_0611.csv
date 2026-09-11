@@ -1,0 +1,10 @@
+source_id,utterance_id,source_utterance_id,style,start_s,end_s,duration_s,text,annotation_scope,source_blob_sha,source_line_coverage
+pavoque,pavoque::m0159,m0159,angry,792.54,796.2,3.66,"Ab Lyon fließt er von Nord nach Süd.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,spans_7689_7724
+pavoque,pavoque::m0160,m0160,angry,796.2,799.14,2.94,"Keine Sintflut für Noah.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_7721_8120
+pavoque,pavoque::m0145,m0145,angry,799.14,804.9,5.76,"Weder Chopin noch George Sand haben zu ihrer Trennung Stellung bezogen.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_7721_8120
+pavoque,pavoque::m0161,m0161,angry,804.9,811.5,6.60,"Als Ersatz empfehlen sich förmlichere Verabschiedungen wie Adieu und auf Wiedersehen.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_7721_8120
+pavoque,pavoque::m0163,m0163,angry,811.5,814.68,3.18,"Bereits früh starb Dagobert;",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_7721_8120
+pavoque,pavoque::m0164,m0164,angry,814.68,818.28,3.60,"Mike Pflüger nahm seinen Platz ein.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_7721_8120
+pavoque,pavoque::m0165,m0165,angry,818.28,821.94,3.66,"Diese Bemühungen scheiterten jedoch.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_7721_8120
+pavoque,pavoque::m0166,m0166,angry,821.94,826.68,4.74,"Am Sockel befindet sich auch ein Porträt Johann Duves.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_7721_8120
+pavoque,pavoque::m0167,m0167,angry,826.68,829.8,3.12,"Es waren mehr Trampelpfade.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_7721_8120
