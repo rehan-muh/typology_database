@@ -1,8 +1,8 @@
 source_id,utterance_id,source_utterance_id,style,start_s,end_s,duration_s,text,annotation_scope,source_blob_sha,source_line_coverage
-pavoque,pavoque::m0152,m0152,angry,758.76,765.18,6.42,"Gegeben sind Physik, Chemie, Biologie, Geschichte, Sozialkunde, Erdkunde und Englisch.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,7337-7415
-pavoque,pavoque::m0153,m0153,angry,765.18,769.56,4.38,"Die wollte eine föderale Verfassung durchsetzen.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,7416-7457
-pavoque,pavoque::m0154,m0154,angry,769.56,775.32,5.76,"Eigentlich Ruth Elizabeth Davis, war eine amerikanische Schauspielerin.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,7458-7520
-pavoque,pavoque::m0155,m0155,angry,775.32,780.3,4.98,"So hat zwei Tausend drei Prinz Charles das Spiel eröffnet.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,7521-7570
-pavoque,pavoque::m0156,m0156,angry,780.3,786.06,5.76,"Die Fassade war wohl mit acht Säulen geschmückt und zwanzig Meter hoch.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,7571-7630
-pavoque,pavoque::m0157,m0157,angry,786.06,789.24,3.18,"Nur die Böcke tragen Hörner;",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,7631-7659
-pavoque,pavoque::m0158,m0158,angry,789.24,792.54,3.30,"Statt des a kann ein ä stehen.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,7660-7690
+pavoque,pavoque::m0152,m0152,angry,758.76,765.18,6.42,"Gegeben sind Physik, Chemie, Biologie, Geschichte, Sozialkunde, Erdkunde und Englisch.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_7321_7720
+pavoque,pavoque::m0153,m0153,angry,765.18,769.56,4.38,"Die wollte eine föderale Verfassung durchsetzen.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_7321_7720
+pavoque,pavoque::m0154,m0154,angry,769.56,775.32,5.76,"Eigentlich Ruth Elizabeth Davis, war eine amerikanische Schauspielerin.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_7321_7720
+pavoque,pavoque::m0155,m0155,angry,775.32,780.3,4.98,"So hat zwei Tausend drei Prinz Charles das Spiel eröffnet.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_7321_7720
+pavoque,pavoque::m0156,m0156,angry,780.3,786.06,5.76,"Die Fassade war wohl mit acht Säulen geschmückt und zwanzig Meter hoch.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_7321_7720
+pavoque,pavoque::m0157,m0157,angry,786.06,789.24,3.18,"Nur die Böcke tragen Hörner;",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_7321_7720
+pavoque,pavoque::m0158,m0158,angry,789.24,792.54,3.30,"Statt des a kann ein ä stehen.",manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,within_7321_7720
