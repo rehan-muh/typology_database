@@ -1,7 +1,9 @@
 source_id,file_name,upstream_path,blob_sha,size_bytes,format,ingestion_status,license,notes
-pavoque,pavoque-angry.yaml,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,641141,YAML,partial_ingest_chunk001,CC-BY-NC-SA-4.0,"Manual-corrected segment annotations; first 3 complete utterances parsed this pass"
+pavoque,pavoque-angry.yaml,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,641141,YAML,partial_ingest_chunk006,CC-BY-NC-SA-4.0,"Manual-corrected segment annotations; durable mirror now covers 24 source utterances / 694 intervals through spike0025; next spike0026"
 pavoque,pavoque-happy.yaml,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,611136,YAML,pending_parse,CC-BY-NC-SA-4.0,"Manual-corrected segment annotations"
 pavoque,pavoque-neutral.yaml,pavoque-neutral.yaml,29deb5aa1b75b1aaa98d51896f9d849e12bc7bc0,4968933,YAML,pending_parse,CC-BY-NC-SA-4.0,"Manual-corrected segment annotations"
 pavoque,pavoque-outtakes.yaml,pavoque-outtakes.yaml,a72da519c13068f8c05b6fd038cd8ecac540b80c,286310,YAML,pending_parse,CC-BY-NC-SA-4.0,"Manual-corrected segment annotations; outtakes retained source-faithfully and flagged as style subset"
 pavoque,pavoque-poker.yaml,pavoque-poker.yaml,20a8bdc3cee75f3e19517dfeeda1a2230cb033c9,630189,YAML,pending_parse,CC-BY-NC-SA-4.0,"Manual-corrected segment annotations"
 pavoque,pavoque-sad.yaml,pavoque-sad.yaml,199a4dde1e3a50576a1a691664473aa9f35f41ed,604376,YAML,pending_parse,CC-BY-NC-SA-4.0,"Manual-corrected segment annotations"
+pavoque,pavoque_angry_utterances_chunk006.csv,pavoque-angry.yaml,f13dcb815a469ec3885351d2f3281e1177651571,890,CSV,durable_source_faithful,CC-BY-NC-SA-4.0,"Derived source-faithful tabulation of spike0021-spike0025; upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423; 5 utterance rows"
+pavoque,pavoque_angry_segments_chunk006.csv,pavoque-angry.yaml,79bd31dc2225bd9beda5cd0aa414499449870416,5999,CSV,durable_source_faithful,CC-BY-NC-SA-4.0,"Derived source-faithful tabulation of all 107 manually corrected segment/silence intervals for spike0021-spike0025; original labels/endpoints preserved"
