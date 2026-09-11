@@ -1,0 +1,100 @@
+  - {lab: I, end: 3.385}
+  - {lab: C, end: 3.495}
+  - {lab: m, end: 3.545}
+  - {lab: 'e:', end: 3.67}
+  - {lab: t, end: 3.744788}
+  - {lab: '6', end: 3.846196}
+  - {lab: h, end: 3.906379}
+  - {lab: 'o:', end: 4.038414}
+  - {lab: x, end: 4.196855}
+  - {lab: _, end: 5.755}
+- prompt: m0157
+  text: Nur die Böcke tragen Hörner;
+  style: angry
+  start: 786.06
+  end: 789.24
+  segments:
+  - {lab: H#, end: 0.185}
+  - {lab: n, end: 0.335}
+  - {lab: 'u:', end: 0.532073}
+  - {lab: '6', end: 0.645}
+  - {lab: d, end: 0.729306}
+  - {lab: 'i:', end: 0.917919}
+  - {lab: b, end: 1.061164}
+  - {lab: '9', end: 1.15}
+  - {lab: k, end: 1.263804}
+  - {lab: '@', end: 1.385}
+  - {lab: t, end: 1.465}
+  - {lab: R, end: 1.545}
+  - {lab: 'a:', end: 1.7}
+  - {lab: g, end: 1.763952}
+  - {lab: '@', end: 1.775012}
+  - {lab: n, end: 1.825}
+  - {lab: h, end: 1.92124}
+  - {lab: '9', end: 1.998655}
+  - {lab: '6', end: 2.11}
+  - {lab: n, end: 2.17}
+  - {lab: '6', end: 2.373441}
+  - {lab: _, end: 3.175}
+- prompt: m0158
+  text: Statt des a kann ein ä stehen.
+  style: angry
+  start: 789.24
+  end: 792.54
+  segments:
+  - {lab: H#, end: 0.505}
+  - {lab: S, end: 0.638916}
+  - {lab: t, end: 0.695}
+  - {lab: a, end: 0.794344}
+  - {lab: t, end: 0.847792}
+  - {lab: d, end: 0.891961}
+  - {lab: '@', end: 0.96}
+  - {lab: s, end: 1.072641}
+  - {lab: '?', end: 1.181994}
+  - {lab: 'a:', end: 1.497152}
+  - {lab: k, end: 1.7}
+  - {lab: a, end: 1.751489}
+  - {lab: n, end: 1.803708}
+  - {lab: '?', end: 1.87}
+  - {lab: aI, end: 1.945}
+  - {lab: n, end: 2.035}
+  - {lab: '?', end: 2.155}
+  - {lab: 'E:', end: 2.36}
+  - {lab: S, end: 2.534776}
+  - {lab: t, end: 2.585806}
+  - {lab: 'e:', end: 2.745495}
+  - {lab: '@', end: 2.792185}
+  - {lab: n, end: 2.891708}
+  - {lab: _, end: 3.295}
+- prompt: m0159
+  text: Ab Lyon fließt er von Nord nach Süd.
+  style: angry
+  start: 792.54
+  end: 796.2
+  segments:
+  - {lab: H#, end: 0.818649}
+  - {lab: '?', end: 0.84}
+  - {lab: a, end: 0.915069}
+  - {lab: p, end: 1.039877}
+  - {lab: l, end: 1.085}
+  - {lab: 'i:', end: 1.21}
+  - {lab: j, end: 1.245}
+  - {lab: o~, end: 1.44}
+  - {lab: f, end: 1.59}
+  - {lab: l, end: 1.615}
+  - {lab: 'i:', end: 1.705}
+  - {lab: s, end: 1.771795}
+  - {lab: t, end: 1.83692}
+  - {lab: '?', end: 1.845732}
+  - {lab: 'e:', end: 1.884183}
+  - {lab: '6', end: 1.92}
+  - {lab: f, end: 2.01}
+  - {lab: O, end: 2.075}
+  - {lab: n, end: 2.139665}
+  - {lab: n, end: 2.19}
+  - {lab: O, end: 2.2932}
+  - {lab: '6', end: 2.350315}
+  - {lab: t, end: 2.454105}
+  - {lab: n, end: 2.482355}
+  - {lab: 'a:', end: 2.58}
+  - {lab: x, end: 2.62}
