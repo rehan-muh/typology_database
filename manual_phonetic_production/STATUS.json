@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-11T11:10:00-07:00",
-  "total_sources": 143,
+  "last_updated": "2026-09-11T12:10:00-07:00",
+  "total_sources": 144,
   "accepted_sources": 45,
   "excluded_sources": 25,
-  "review_sources": 73,
+  "review_sources": 74,
   "ingested_sources": 44,
   "parsed_rows_total": 1361571,
   "parsed_logical_tables_total": 86,
   "inventory_file_records": 968,
   "variable_dictionary_records": 1148,
-  "notes": "This pass performed both backlog ingestion and fresh discovery screening. PAVOQUE pavoque-angry.yaml lines 9321-9420 were mirrored exactly against immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423, advancing the durable contiguous source-faithful prefix to line 9420 with one new manifest record. The increment closes partial m0197, contains complete m0198, and enters partial m0199. Warehouse observation counts remain 1,361,571 rows across 86 logical tables because this pass did not duplicate or prematurely promote incomplete records. Discovery re-screened MRPL2, RescueSpeech, IFCASL, and manual-alignment resources: MRPL2 is already locally represented and its Zenodo files remain restricted; RescueSpeech establishes manual recording annotation but still lacks demonstrated phone-level manual annotation for core admission; IFCASL remains a strong review candidate with >50% manually corrected word/phone segmentation but no newly verified public observation-level deposit in this pass. No paper-only accepted registry inflation was performed, no singing resources were admitted, no raw audio was committed, and no unrelated repository content was modified."
+  "notes": "This pass performed both backlog ingestion and fresh discovery screening, with a provenance reconciliation. The canonical PAVOQUE ingestion status showed that the observation rows actually durably committed in-repository covered angry-style spike0001-spike0012 (12 utterances, 337 manually corrected segment/silence intervals), even though several later historical hourly prose logs described much farther YAML line-window coverage. Those historical logs remain immutable audit records, but they did not themselves establish committed observation coverage. This pass therefore resumed from the canonical durable endpoint and committed source-faithful spike0013-spike0016: 4 utterances plus 101 manually corrected SAMPA/silence intervals, advancing the authoritative durable mirror to 16 utterances and 438 intervals with next_source_utterance_id spike0017. The source remains pinned to authoritative pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423; no IPA was invented and original endpoint values were retained. Global parsed row totals remain 1,361,571 because these PAVOQUE observations are already represented in the validated full CI parse and this materialization must not double-count them. Fresh discovery added the L2-ARCTIC manually corrected subset to REVIEW: primary read speech from 24 non-native English speakers, with about 150 utterances per speaker manually corrected at word/phone boundaries and tagged for substitution/deletion/addition errors; forced-aligned-only material remains excluded from eligibility. Core admission is pending licensed file acquisition, isolation of the manual subset, and file-level checksums. No raw audio was committed and no unrelated repository content was modified."
 }
