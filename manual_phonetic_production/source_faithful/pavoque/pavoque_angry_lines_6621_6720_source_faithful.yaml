@@ -1,0 +1,100 @@
+  - {lab: 'e:', end: 1.502745}
+  - {lab: '6', end: 1.555}
+  - {lab: m, end: 1.621933}
+  - {lab: 'u:', end: 1.73}
+  - {lab: t, end: 1.805}
+  - {lab: '?', end: 1.83}
+  - {lab: I, end: 1.89}
+  - {lab: s, end: 1.962907}
+  - {lab: t, end: 2.066478}
+  - {lab: '?', end: 2.099911}
+  - {lab: 'i:', end: 2.185308}
+  - {lab: '6', end: 2.24}
+  - {lab: ts, end: 2.418886}
+  - {lab: aU, end: 2.595092}
+  - {lab: b, end: 2.643056}
+  - {lab: '6', end: 2.915178}
+  - {lab: _, end: 3.595}
+- prompt: m0132
+  text: Auch über das anstehende amerikanische Remake.
+  style: angry
+  start: 686.22
+  end: 690.48
+  segments:
+  - {lab: H#, end: 0.639411}
+  - {lab: '?', end: 0.655}
+  - {lab: aU, end: 0.785}
+  - {lab: x, end: 0.881417}
+  - {lab: '?', end: 0.936084}
+  - {lab: 'y:', end: 1.0}
+  - {lab: b, end: 1.058123}
+  - {lab: '6', end: 1.136322}
+  - {lab: d, end: 1.163837}
+  - {lab: a, end: 1.225}
+  - {lab: s, end: 1.318748}
+  - {lab: '?', end: 1.45}
+  - {lab: a, end: 1.53}
+  - {lab: n, end: 1.605}
+  - {lab: S, end: 1.739494}
+  - {lab: t, end: 1.78442}
+  - {lab: 'e:', end: 1.874624}
+  - {lab: '@', end: 1.908407}
+  - {lab: n, end: 1.95}
+  - {lab: d, end: 1.98}
+  - {lab: '@', end: 2.053364}
+  - {lab: '?', end: 2.08}
+  - {lab: a, end: 2.145}
+  - {lab: m, end: 2.188495}
+  - {lab: 'e:', end: 2.249303}
+  - {lab: R, end: 2.308883}
+  - {lab: 'i:', end: 2.37}
+  - {lab: k, end: 2.537146}
+  - {lab: 'a:', end: 2.63}
+  - {lab: n, end: 2.68}
+  - {lab: I, end: 2.715}
+  - {lab: S, end: 2.83}
+  - {lab: '@', end: 2.929868}
+  - {lab: r, end: 3.050257}
+  - {lab: 'i:', end: 3.135}
+  - {lab: m, end: 3.24}
+  - {lab: EI, end: 3.39361}
+  - {lab: k, end: 3.610433}
+  - {lab: _, end: 4.255}
+- prompt: m0133
+  text: Artikel zur Geschichte Chinas hier einordnen.
+  style: angry
+  start: 690.48
+  end: 694.68
+  segments:
+  - {lab: H#, end: 0.835}
+  - {lab: '?', end: 0.856064}
+  - {lab: a, end: 0.91}
+  - {lab: '6', end: 0.980098}
+  - {lab: t, end: 1.082696}
+  - {lab: 'i:', end: 1.155}
+  - {lab: k, end: 1.226598}
+  - {lab: '@', end: 1.270566}
+  - {lab: l, end: 1.308026}
+  - {lab: ts, end: 1.41}
+  - {lab: 'u:', end: 1.465234}
+  - {lab: '6', end: 1.481815}
+  - {lab: g, end: 1.528109}
+  - {lab: '@', end: 1.562876}
+  - {lab: S, end: 1.665}
+  - {lab: I, end: 1.731138}
+  - {lab: C, end: 1.802373}
+  - {lab: t, end: 1.865839}
+  - {lab: '@', end: 1.928263}
+  - {lab: C, end: 2.071962}
+  - {lab: 'i:', end: 2.18}
+  - {lab: n, end: 2.22}
+  - {lab: 'a:', end: 2.34}
+  - {lab: s, end: 2.427523}
+  - {lab: h, end: 2.495}
+  - {lab: 'i:', end: 2.585}
+  - {lab: '6', end: 2.63}
+  - {lab: '?', end: 2.695}
+  - {lab: aI, end: 2.81}
+  - {lab: n, end: 2.865}
+  - {lab: '?', end: 2.907133}
+  - {lab: O, end: 2.998019}
