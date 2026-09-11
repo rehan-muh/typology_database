@@ -1,0 +1,100 @@
+  - {lab: '?', end: 0.705}
+  - {lab: E, end: 0.776832}
+  - {lab: '6', end: 0.86}
+  - {lab: z, end: 0.965}
+  - {lab: a, end: 1.07}
+  - {lab: ts, end: 1.296358}
+  - {lab: '?', end: 1.356539}
+  - {lab: E, end: 1.408737}
+  - {lab: m, end: 1.475674}
+  - {lab: pf, end: 1.604844}
+  - {lab: 'e:', end: 1.72}
+  - {lab: l, end: 1.76}
+  - {lab: '@', end: 1.815}
+  - {lab: n, end: 1.861326}
+  - {lab: z, end: 1.915}
+  - {lab: I, end: 1.975}
+  - {lab: C, end: 2.08}
+  - {lab: f, end: 2.161647}
+  - {lab: '9', end: 2.229784}
+  - {lab: '6', end: 2.295}
+  - {lab: m, end: 2.36}
+  - {lab: l, end: 2.385}
+  - {lab: I, end: 2.441034}
+  - {lab: C, end: 2.52148}
+  - {lab: '6', end: 2.549115}
+  - {lab: R, end: 2.581048}
+  - {lab: '@', end: 2.655}
+  - {lab: f, end: 2.755}
+  - {lab: '6', end: 2.795}
+  - {lab: '?', end: 2.838968}
+  - {lab: a, end: 2.925}
+  - {lab: p, end: 3.01104}
+  - {lab: S, end: 3.11}
+  - {lab: 'i:', end: 3.21}
+  - {lab: d, end: 3.255}
+  - {lab: U, end: 3.305681}
+  - {lab: N, end: 3.365}
+  - {lab: '@', end: 3.415}
+  - {lab: n, end: 3.51079}
+  - {lab: v, end: 3.575}
+  - {lab: 'i:', end: 3.715}
+  - {lab: '?', end: 3.78}
+  - {lab: a, end: 3.885}
+  - {lab: d, end: 3.988625}
+  - {lab: j, end: 4.062248}
+  - {lab: '2:', end: 4.285}
+  - {lab: '?', end: 4.36}
+  - {lab: U, end: 4.46}
+  - {lab: n, end: 4.515}
+  - {lab: t, end: 4.583592}
+  - {lab: '?', end: 4.64}
+  - {lab: aU, end: 4.77}
+  - {lab: f, end: 4.865}
+  - {lab: v, end: 4.915}
+  - {lab: 'i:', end: 5.035591}
+  - {lab: d, end: 5.079806}
+  - {lab: '6', end: 5.195}
+  - {lab: z, end: 5.295}
+  - {lab: 'e:', end: 5.44765}
+  - {lab: '@', end: 5.505989}
+  - {lab: n, end: 5.668725}
+  - {lab: _, end: 6.595}
+- prompt: m0163
+  text: Bereits früh starb Dagobert;
+  style: angry
+  start: 811.5
+  end: 814.68
+  segments:
+  - {lab: H#, end: 0.75756}
+  - {lab: b, end: 0.794424}
+  - {lab: '@', end: 0.942495}
+  - {lab: R, end: 1.005}
+  - {lab: aI, end: 1.152621}
+  - {lab: ts, end: 1.305}
+  - {lab: f, end: 1.39}
+  - {lab: R, end: 1.487471}
+  - {lab: 'y:', end: 1.67}
+  - {lab: S, end: 1.803274}
+  - {lab: t, end: 1.85}
+  - {lab: a, end: 1.95749}
+  - {lab: '6', end: 2.031832}
+  - {lab: p, end: 2.099417}
+  - {lab: d, end: 2.16}
+  - {lab: 'a:', end: 2.325}
+  - {lab: g, end: 2.397409}
+  - {lab: 'o:', end: 2.492021}
+  - {lab: b, end: 2.550123}
+  - {lab: E, end: 2.667126}
+  - {lab: '6', end: 2.774646}
+  - {lab: t, end: 2.966955}
+  - {lab: _, end: 3.175}
+- prompt: m0164
+  text: Mike Pflüger nahm seinen Platz ein.
+  style: angry
+  start: 814.68
+  end: 818.28
+  segments:
+  - {lab: H#, end: 0.430672}
+  - {lab: m, end: 0.491495}
+  - {lab: aI, end: 0.626656}
