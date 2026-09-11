@@ -1,0 +1,100 @@
+- prompt: m0087
+  text: Auch Seuchen wie Typhus grassierten.
+  style: angry
+  start: 509.64
+  end: 513.3
+  segments:
+  - {lab: H#, end: 0.412708}
+  - {lab: '?', end: 0.485}
+  - {lab: aU, end: 0.625}
+  - {lab: x, end: 0.69}
+  - {lab: z, end: 0.825}
+  - {lab: OY, end: 1.005358}
+  - {lab: C, end: 1.109149}
+  - {lab: '@', end: 1.138628}
+  - {lab: n, end: 1.23}
+  - {lab: v, end: 1.273898}
+  - {lab: 'i:', end: 1.4}
+  - {lab: t, end: 1.528482}
+  - {lab: 'y:', end: 1.635}
+  - {lab: f, end: 1.73}
+  - {lab: U, end: 1.82}
+  - {lab: s, end: 1.92}
+  - {lab: g, end: 1.988691}
+  - {lab: R, end: 2.054934}
+  - {lab: a, end: 2.15}
+  - {lab: s, end: 2.3}
+  - {lab: 'i:', end: 2.370605}
+  - {lab: '6', end: 2.47}
+  - {lab: t, end: 2.57815}
+  - {lab: '@', end: 2.59}
+  - {lab: n, end: 2.746463}
+  - {lab: _, end: 3.655}
+- prompt: m0088
+  text: Die Leute sind ja ganz ruhig.
+  style: angry
+  start: 513.3
+  end: 516.54
+  segments:
+  - {lab: H#, end: 0.312793}
+  - {lab: d, end: 0.362181}
+  - {lab: 'i:', end: 0.493176}
+  - {lab: l, end: 0.59}
+  - {lab: OY, end: 0.765252}
+  - {lab: t, end: 0.83823}
+  - {lab: '@', end: 0.915}
+  - {lab: z, end: 0.98}
+  - {lab: I, end: 1.05}
+  - {lab: n, end: 1.11}
+  - {lab: t, end: 1.161998}
+  - {lab: j, end: 1.205}
+  - {lab: 'a:', end: 1.28}
+  - {lab: g, end: 1.343088}
+  - {lab: a, end: 1.44}
+  - {lab: n, end: 1.51}
+  - {lab: ts, end: 1.61198}
+  - {lab: R, end: 1.695}
+  - {lab: 'u:', end: 1.852941}
+  - {lab: I, end: 1.995}
+  - {lab: C, end: 2.285314}
+  - {lab: _, end: 3.235}
+- prompt: m0089
+  text: Wie stöpselt man so ein Gerät ein?
+  style: angry
+  start: 516.54
+  end: 520.08
+  segments:
+  - {lab: H#, end: 0.456966}
+  - {lab: v, end: 0.536412}
+  - {lab: 'i:', end: 0.76}
+  - {lab: S, end: 0.901648}
+  - {lab: t, end: 0.94661}
+  - {lab: '9', end: 1.03}
+  - {lab: p, end: 1.093403}
+  - {lab: s, end: 1.18}
+  - {lab: '@', end: 1.222261}
+  - {lab: l, end: 1.255428}
+  - {lab: t, end: 1.317022}
+  - {lab: m, end: 1.34}
+  - {lab: a, end: 1.43}
+  - {lab: n, end: 1.488211}
+  - {lab: z, end: 1.555}
+  - {lab: 'o:', end: 1.66}
+  - {lab: '?', end: 1.675}
+  - {lab: aI, end: 1.79}
+  - {lab: n, end: 1.825}
+  - {lab: g, end: 1.858922}
+  - {lab: '@', end: 1.965}
+  - {lab: R, end: 2.025}
+  - {lab: 'E:', end: 2.195}
+  - {lab: t, end: 2.251285}
+  - {lab: '?', end: 2.285}
+  - {lab: aI, end: 2.535}
+  - {lab: n, end: 2.667478}
+  - {lab: _, end: 3.535}
+- prompt: m0090
+  text: Die Plebejer gewannen folglich an Macht.
+  style: angry
+  start: 520.08
+  end: 523.98
+  segments:
