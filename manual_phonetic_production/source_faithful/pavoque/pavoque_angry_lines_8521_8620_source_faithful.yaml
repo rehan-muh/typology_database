@@ -1,0 +1,100 @@
+  - {lab: R, end: 2.066999}
+  - {lab: I, end: 2.15}
+  - {lab: t, end: 2.205}
+  - {lab: '@', end: 2.245}
+  - {lab: d, end: 2.289028}
+  - {lab: '@', end: 2.34}
+  - {lab: s, end: 2.415183}
+  - {lab: d, end: 2.489648}
+  - {lab: 'u:', end: 2.61}
+  - {lab: 'o:', end: 2.715}
+  - {lab: s, end: 2.82}
+  - {lab: '?', end: 2.93}
+  - {lab: E, end: 3.04}
+  - {lab: d, end: 3.139462}
+  - {lab: w, end: 3.1791}
+  - {lab: '@', end: 3.258317}
+  - {lab: d, end: 3.317574}
+  - {lab: s, end: 3.392187}
+  - {lab: f, end: 3.465}
+  - {lab: R, end: 3.53}
+  - {lab: a, end: 3.635}
+  - {lab: N, end: 3.695}
+  - {lab: k, end: 3.745}
+  - {lab: b, end: 3.856802}
+  - {lab: I, end: 3.93}
+  - {lab: s, end: 4.055}
+  - {lab: h, end: 4.1}
+  - {lab: OY, end: 4.258656}
+  - {lab: t, end: 4.349056}
+  - {lab: '@', end: 4.519026}
+  - {lab: _, end: 5.455}
+- prompt: m0180
+  text: Es ist die Enterprise...
+  style: angry
+  start: 878.52
+  end: 881.46
+  segments:
+  - {lab: H#, end: 0.720345}
+  - {lab: '?', end: 0.743681}
+  - {lab: E, end: 0.87}
+  - {lab: s, end: 0.970286}
+  - {lab: '?', end: 1.013274}
+  - {lab: I, end: 1.115}
+  - {lab: s, end: 1.194435}
+  - {lab: t, end: 1.228211}
+  - {lab: d, end: 1.274681}
+  - {lab: 'i:', end: 1.375596}
+  - {lab: '?', end: 1.429023}
+  - {lab: E, end: 1.55}
+  - {lab: n, end: 1.61}
+  - {lab: t, end: 1.68391}
+  - {lab: '6', end: 1.769851}
+  - {lab: p, end: 1.854259}
+  - {lab: r, end: 1.916623}
+  - {lab: aI, end: 2.14}
+  - {lab: s, end: 2.406679}
+  - {lab: _, end: 2.935}
+- prompt: m0181
+  text: Diesen Wettkampf gewann am Ende Boeing.
+  style: angry
+  start: 881.46
+  end: 885.3
+  segments:
+  - {lab: H#, end: 0.357491}
+  - {lab: d, end: 0.391539}
+  - {lab: 'i:', end: 0.475}
+  - {lab: z, end: 0.55}
+  - {lab: '@', end: 0.562649}
+  - {lab: n, end: 0.645}
+  - {lab: v, end: 0.69}
+  - {lab: E, end: 0.781935}
+  - {lab: t, end: 0.860558}
+  - {lab: k, end: 0.95}
+  - {lab: a, end: 1.01}
+  - {lab: m, end: 1.06}
+  - {lab: pf, end: 1.13574}
+  - {lab: g, end: 1.193215}
+  - {lab: '@', end: 1.235}
+  - {lab: v, end: 1.315}
+  - {lab: a, end: 1.39}
+  - {lab: n, end: 1.445}
+  - {lab: '?', end: 1.480946}
+  - {lab: a, end: 1.515}
+  - {lab: m, end: 1.558955}
+  - {lab: '?', end: 1.587211}
+  - {lab: E, end: 1.685}
+  - {lab: n, end: 1.725}
+  - {lab: d, end: 1.772693}
+  - {lab: '@', end: 1.83}
+  - {lab: b, end: 1.948885}
+  - {lab: 'o:', end: 2.145}
+  - {lab: I, end: 2.245}
+  - {lab: N, end: 2.363617}
+  - {lab: _, end: 3.835}
+- prompt: m0182
+  text: Zwei Hundert siebzig erreichte sie die Wiedervereinigung Chinas.
+  style: angry
+  start: 885.3
+  end: 890.64
+  segments:
