@@ -1,0 +1,100 @@
+  style: angry
+  start: 398.4
+  end: 401.82
+  segments:
+  - {lab: H#, end: 0.343992}
+  - {lab: d, end: 0.385763}
+  - {lab: Z, end: 0.414019}
+  - {lab: O, end: 0.530731}
+  - {lab: '6', end: 0.584787}
+  - {lab: d, end: 0.613748}
+  - {lab: Z, end: 0.675}
+  - {lab: g, end: 0.757641}
+  - {lab: r, end: 0.835}
+  - {lab: 'i:', end: 0.965}
+  - {lab: n, end: 1.149303}
+  - {lab: _, end: 1.261715}
+  - {lab: h, end: 1.345}
+  - {lab: E, end: 1.399311}
+  - {lab: '6', end: 1.465}
+  - {lab: m, end: 1.525}
+  - {lab: a, end: 1.635}
+  - {lab: n, end: 1.71}
+  - {lab: g, end: 1.759889}
+  - {lab: R, end: 1.84}
+  - {lab: a, end: 1.945}
+  - {lab: s, end: 2.066411}
+  - {lab: m, end: 2.115}
+  - {lab: a, end: 2.235}
+  - {lab: n, end: 2.346519}
+  - {lab: _, end: 3.415}
+- prompt: m0061
+  text: 'Der Begriff Byzanz bezeichnet:'
+  style: angry
+  start: 401.82
+  end: 405.12
+  segments:
+  - {lab: H#, end: 0.275}
+  - {lab: d, end: 0.306459}
+  - {lab: E, end: 0.342189}
+  - {lab: '6', end: 0.385807}
+  - {lab: b, end: 0.418076}
+  - {lab: '@', end: 0.474272}
+  - {lab: g, end: 0.526756}
+  - {lab: R, end: 0.582396}
+  - {lab: I, end: 0.662851}
+  - {lab: f, end: 0.723695}
+  - {lab: b, end: 0.809717}
+  - {lab: 'y:', end: 0.90124}
+  - {lab: ts, end: 1.03}
+  - {lab: a, end: 1.14}
+  - {lab: n, end: 1.221926}
+  - {lab: ts, end: 1.29319}
+  - {lab: b, end: 1.359971}
+  - {lab: '@', end: 1.415}
+  - {lab: ts, end: 1.54}
+  - {lab: aI, end: 1.685}
+  - {lab: C, end: 1.759476}
+  - {lab: n, end: 1.805}
+  - {lab: '@', end: 1.935}
+  - {lab: t, end: 2.061732}
+  - {lab: _, end: 3.295}
+- prompt: m0062
+  text: Ilja Michailowitsch Frank, russisch;
+  style: angry
+  start: 405.12
+  end: 408.78
+  segments:
+  - {lab: H#, end: 0.425}
+  - {lab: '?', end: 0.447094}
+  - {lab: I, end: 0.553955}
+  - {lab: l, end: 0.623352}
+  - {lab: j, end: 0.7}
+  - {lab: 'a:', end: 0.775}
+  - {lab: m, end: 0.86}
+  - {lab: 'i:', end: 0.93}
+  - {lab: x, end: 1.04}
+  - {lab: aI, end: 1.155}
+  - {lab: l, end: 1.21}
+  - {lab: O, end: 1.265}
+  - {lab: v, end: 1.31}
+  - {lab: I, end: 1.383658}
+  - {lab: tS, end: 1.535}
+  - {lab: f, end: 1.605}
+  - {lab: R, end: 1.71}
+  - {lab: a, end: 1.835}
+  - {lab: N, end: 1.910591}
+  - {lab: k, end: 2.021136}
+  - {lab: _, end: 2.225}
+  - {lab: R, end: 2.425}
+  - {lab: U, end: 2.53}
+  - {lab: s, end: 2.63}
+  - {lab: I, end: 2.72}
+  - {lab: S, end: 2.939276}
+  - {lab: _, end: 3.655}
+- prompt: m0063
+  text: Sie existieren nicht. Gezeichnet Churchill.
+  style: angry
+  start: 408.78
+  end: 412.86
+  segments:
