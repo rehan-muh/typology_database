@@ -1,0 +1,100 @@
+  - {lab: f, end: 3.21}
+  - {lab: 'o:', end: 3.289477}
+  - {lab: '6', end: 3.339838}
+  - {lab: g, end: 3.395448}
+  - {lab: '@', end: 3.457758}
+  - {lab: g, end: 3.524406}
+  - {lab: a, end: 3.605}
+  - {lab: N, end: 3.655}
+  - {lab: '@', end: 3.72}
+  - {lab: n, end: 3.824416}
+  - {lab: _, end: 4.795}
+- prompt: m0125
+  text: Sein Nachfolger wurde George Russell.
+  style: angry
+  start: 655.56
+  end: 659.28
+  segments:
+  - {lab: H#, end: 0.628436}
+  - {lab: z, end: 0.710796}
+  - {lab: aI, end: 0.86}
+  - {lab: n, end: 0.915}
+  - {lab: n, end: 0.965}
+  - {lab: 'a:', end: 1.095}
+  - {lab: x, end: 1.15}
+  - {lab: f, end: 1.25}
+  - {lab: O, end: 1.325675}
+  - {lab: l, end: 1.375}
+  - {lab: g, end: 1.426487}
+  - {lab: '6', end: 1.541296}
+  - {lab: v, end: 1.589212}
+  - {lab: U, end: 1.666001}
+  - {lab: '6', end: 1.702245}
+  - {lab: d, end: 1.737828}
+  - {lab: '@', end: 1.79}
+  - {lab: d, end: 1.86}
+  - {lab: Z, end: 1.920324}
+  - {lab: O, end: 2.051785}
+  - {lab: '6', end: 2.093558}
+  - {lab: d, end: 2.124556}
+  - {lab: Z, end: 2.230549}
+  - {lab: r, end: 2.299351}
+  - {lab: a, end: 2.38}
+  - {lab: s, end: 2.48}
+  - {lab: '@', end: 2.506373}
+  - {lab: l, end: 2.651963}
+  - {lab: _, end: 3.715}
+- prompt: m0126
+  text: Dabei werden die Beine abwechselnd gegrätscht.
+  style: angry
+  start: 659.28
+  end: 663.6
+  segments:
+  - {lab: H#, end: 0.521937}
+  - {lab: d, end: 0.562778}
+  - {lab: 'a:', end: 0.72273}
+  - {lab: b, end: 0.791804}
+  - {lab: aI, end: 0.970189}
+  - {lab: v, end: 1.017471}
+  - {lab: 'e:', end: 1.077647}
+  - {lab: '6', end: 1.121858}
+  - {lab: d, end: 1.173515}
+  - {lab: '@', end: 1.185}
+  - {lab: n, end: 1.239755}
+  - {lab: d, end: 1.302709}
+  - {lab: 'i:', end: 1.372388}
+  - {lab: b, end: 1.438754}
+  - {lab: aI, end: 1.59}
+  - {lab: n, end: 1.645}
+  - {lab: '@', end: 1.746341}
+  - {lab: _, end: 1.904764}
+  - {lab: '?', end: 1.945}
+  - {lab: a, end: 2.012836}
+  - {lab: p, end: 2.195}
+  - {lab: v, end: 2.21}
+  - {lab: E, end: 2.285}
+  - {lab: k, end: 2.367583}
+  - {lab: s, end: 2.47}
+  - {lab: '@', end: 2.506527}
+  - {lab: l, end: 2.555}
+  - {lab: n, end: 2.60416}
+  - {lab: t, end: 2.644073}
+  - {lab: g, end: 2.696441}
+  - {lab: '@', end: 2.790829}
+  - {lab: g, end: 2.856532}
+  - {lab: R, end: 2.970744}
+  - {lab: 'E:', end: 3.154957}
+  - {lab: tS, end: 3.335}
+  - {lab: t, end: 3.463821}
+  - {lab: _, end: 4.315}
+- prompt: m0127
+  text: Das gestaute Gewässer ist die Große Mittweida.
+  style: angry
+  start: 663.6
+  end: 667.86
+  segments:
+  - {lab: H#, end: 0.573075}
+  - {lab: d, end: 0.612752}
+  - {lab: a, end: 0.685}
+  - {lab: s, end: 0.762871}
+  - {lab: g, end: 0.812435}
