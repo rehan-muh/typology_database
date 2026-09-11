@@ -1,0 +1,2 @@
+source_id,utterance_id,prompt_original,text_original,style,start_s,end_s,duration_s,annotation_scope,upstream_blob_sha,upstream_source_line_window
+pavoque,pavoque::m0180,m0180,"Es ist die Enterprise...",angry,878.52,881.46,2.94,manually_corrected_phone_segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,8521-8920
