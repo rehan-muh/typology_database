@@ -1,0 +1,100 @@
+  - {lab: k, end: 0.707899}
+  - {lab: pf, end: 0.89}
+  - {lab: l, end: 0.939369}
+  - {lab: 'y:', end: 1.055}
+  - {lab: g, end: 1.11}
+  - {lab: '6', end: 1.338709}
+  - {lab: n, end: 1.43}
+  - {lab: 'a:', end: 1.565}
+  - {lab: m, end: 1.625}
+  - {lab: z, end: 1.7}
+  - {lab: aI, end: 1.79}
+  - {lab: n, end: 1.83}
+  - {lab: '@', end: 1.865}
+  - {lab: n, end: 1.94}
+  - {lab: p, end: 2.060591}
+  - {lab: l, end: 2.09}
+  - {lab: a, end: 2.17855}
+  - {lab: ts, end: 2.335}
+  - {lab: '?', end: 2.425}
+  - {lab: aI, end: 2.57}
+  - {lab: n, end: 2.69892}
+  - {lab: _, end: 3.595}
+- prompt: m0165
+  text: Diese Bemühungen scheiterten jedoch.
+  style: angry
+  start: 818.28
+  end: 821.94
+  segments:
+  - {lab: H#, end: 0.459991}
+  - {lab: d, end: 0.498397}
+  - {lab: 'i:', end: 0.601243}
+  - {lab: z, end: 0.670027}
+  - {lab: '@', end: 0.725}
+  - {lab: b, end: 0.785}
+  - {lab: '@', end: 0.845}
+  - {lab: m, end: 0.945}
+  - {lab: 'y:', end: 1.055}
+  - {lab: U, end: 1.145}
+  - {lab: N, end: 1.205}
+  - {lab: '@', end: 1.25}
+  - {lab: n, end: 1.32}
+  - {lab: S, end: 1.515}
+  - {lab: aI, end: 1.68}
+  - {lab: t, end: 1.732149}
+  - {lab: '6', end: 1.808643}
+  - {lab: t, end: 1.9}
+  - {lab: '@', end: 1.909362}
+  - {lab: n, end: 1.99}
+  - {lab: j, end: 2.049386}
+  - {lab: 'e:', end: 2.145}
+  - {lab: d, end: 2.215}
+  - {lab: O, end: 2.345}
+  - {lab: x, end: 2.543769}
+  - {lab: _, end: 3.655}
+- prompt: m0166
+  text: Am Sockel befindet sich auch ein Porträt Johann Duves.
+  style: angry
+  start: 821.94
+  end: 826.68
+  segments:
+  - {lab: H#, end: 0.6}
+  - {lab: '?', end: 0.622481}
+  - {lab: a, end: 0.68}
+  - {lab: m, end: 0.769397}
+  - {lab: z, end: 0.846766}
+  - {lab: O, end: 0.926592}
+  - {lab: k, end: 0.999297}
+  - {lab: '@', end: 1.055}
+  - {lab: l, end: 1.083173}
+  - {lab: b, end: 1.129469}
+  - {lab: '@', end: 1.175}
+  - {lab: f, end: 1.27}
+  - {lab: I, end: 1.345}
+  - {lab: n, end: 1.395108}
+  - {lab: d, end: 1.419177}
+  - {lab: '@', end: 1.464495}
+  - {lab: t, end: 1.522924}
+  - {lab: z, end: 1.565}
+  - {lab: I, end: 1.605}
+  - {lab: C, end: 1.68}
+  - {lab: '?', end: 1.755}
+  - {lab: aU, end: 1.82}
+  - {lab: x, end: 1.885}
+  - {lab: '?', end: 1.897396}
+  - {lab: aI, end: 1.95}
+  - {lab: n, end: 2.005}
+  - {lab: p, end: 2.09451}
+  - {lab: O, end: 2.126434}
+  - {lab: '6', end: 2.166347}
+  - {lab: t, end: 2.235}
+  - {lab: R, end: 2.315}
+  - {lab: 'E:', end: 2.461088}
+  - {lab: j, end: 2.555}
+  - {lab: 'o:', end: 2.655}
+  - {lab: h, end: 2.715}
+  - {lab: a, end: 2.77}
+  - {lab: n, end: 2.84}
+  - {lab: d, end: 2.925463}
+  - {lab: 'u:', end: 3.045}
+  - {lab: v, end: 3.105}
