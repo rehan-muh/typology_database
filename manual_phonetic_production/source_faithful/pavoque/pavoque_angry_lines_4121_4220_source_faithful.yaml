@@ -1,0 +1,100 @@
+  - {lab: p, end: 1.108807}
+  - {lab: '?', end: 1.12008}
+  - {lab: E, end: 1.144643}
+  - {lab: s, end: 1.204209}
+  - {lab: d, end: 1.268326}
+  - {lab: 'i:', end: 1.32}
+  - {lab: '?', end: 1.37}
+  - {lab: aU, end: 1.495}
+  - {lab: s, end: 1.525}
+  - {lab: S, end: 1.599062}
+  - {lab: t, end: 1.645}
+  - {lab: E, end: 1.71}
+  - {lab: l, end: 1.76}
+  - {lab: U, end: 1.815}
+  - {lab: N, end: 1.88}
+  - {lab: '?', end: 1.91347}
+  - {lab: 'o:', end: 1.995}
+  - {lab: m, end: 2.06}
+  - {lab: 'a:', end: 2.2}
+  - {lab: Z, end: 2.299726}
+  - {lab: '?', end: 2.34}
+  - {lab: a, end: 2.404733}
+  - {lab: S, end: 2.525}
+  - {lab: 'a:', end: 2.605}
+  - {lab: g, end: 2.694215}
+  - {lab: a, end: 2.821693}
+  - {lab: l, end: 2.94}
+  - {lab: '?', end: 2.994863}
+  - {lab: I, end: 3.04}
+  - {lab: m, end: 3.090045}
+  - {lab: p, end: 3.171794}
+  - {lab: a, end: 3.26997}
+  - {lab: R, end: 3.31}
+  - {lab: 'i:', end: 3.413051}
+  - {lab: z, end: 3.485}
+  - {lab: '6', end: 3.6071}
+  - {lab: g, end: 3.680691}
+  - {lab: R, end: 3.75}
+  - {lab: a~, end: 3.903822}
+  - {lab: p, end: 3.995}
+  - {lab: a, end: 4.065}
+  - {lab: l, end: 4.125}
+  - {lab: 'E:', end: 4.40356}
+  - {lab: _, end: 6.295}
+- prompt: m0068
+  text: Der Cancan galt als wild, anstößig und obszön.
+  style: angry
+  start: 432.9
+  end: 437.16
+  segments:
+  - {lab: H#, end: 0.37}
+  - {lab: d, end: 0.423836}
+  - {lab: E, end: 0.496911}
+  - {lab: '6', end: 0.538064}
+  - {lab: k, end: 0.662673}
+  - {lab: a~, end: 0.802182}
+  - {lab: k, end: 0.920107}
+  - {lab: a~, end: 1.101925}
+  - {lab: g, end: 1.2}
+  - {lab: a, end: 1.294179}
+  - {lab: l, end: 1.341474}
+  - {lab: t, end: 1.400716}
+  - {lab: '?', end: 1.430537}
+  - {lab: a, end: 1.488275}
+  - {lab: l, end: 1.55}
+  - {lab: s, end: 1.642446}
+  - {lab: v, end: 1.691584}
+  - {lab: I, end: 1.759149}
+  - {lab: l, end: 1.854969}
+  - {lab: t, end: 1.938504}
+  - {lab: '?', end: 2.04108}
+  - {lab: a, end: 2.115}
+  - {lab: n, end: 2.18}
+  - {lab: S, end: 2.283086}
+  - {lab: t, end: 2.334526}
+  - {lab: '2:', end: 2.435}
+  - {lab: s, end: 2.52}
+  - {lab: I, end: 2.6}
+  - {lab: C, end: 2.689705}
+  - {lab: '?', end: 2.757884}
+  - {lab: U, end: 2.815}
+  - {lab: n, end: 2.856775}
+  - {lab: t, end: 2.90421}
+  - {lab: '?', end: 2.927702}
+  - {lab: O, end: 2.977163}
+  - {lab: p, end: 3.039289}
+  - {lab: s, end: 3.120279}
+  - {lab: ts, end: 3.252676}
+  - {lab: '2:', end: 3.415}
+  - {lab: n, end: 3.502328}
+  - {lab: _, end: 4.255}
+- prompt: m0069
+  text: Der Philosoph Jean Jacques Rousseau ist einer ihrer prominenten Vertreter.
+  style: angry
+  start: 437.16
+  end: 443.1
+  segments:
+  - {lab: H#, end: 0.331036}
+  - {lab: d, end: 0.373903}
+  - {lab: E, end: 0.425003}
