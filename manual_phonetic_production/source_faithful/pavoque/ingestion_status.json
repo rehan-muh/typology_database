@@ -4,27 +4,29 @@
   "publication": "PAVOQUE Corpus of Expressive Speech",
   "upstream_repository": "marytts/pavoque-data",
   "source_faithful_yaml_files_inventoried": 6,
-  "source_faithful_lines_mirrored": 7720,
-  "complete_utterances_mirrored": 201,
+  "source_faithful_lines_mirrored": 8120,
+  "complete_utterances_mirrored": 210,
   "partial_utterances_mirrored": 1,
   "variable_dictionary_records": 7,
-  "core_rows_promoted": 7,
+  "promoted_utterance_rows_total": 16,
+  "promoted_segment_interval_rows_total": 20,
   "manual_scope": "Repository documentation explicitly states that the optional phonetic segments are manually corrected. Segment labels are German SAMPA; segment end times are relative to utterance start. Corpus is speech, not singing; speaker's professional singing background does not make these acted/read speech recordings singing data.",
   "processed": [
     "Inventoried six public style-level YAML annotation files with immutable Git blob SHAs and byte sizes",
-    "Mirrored exact source lines 1-7720 of pavoque-angry.yaml in source-faithful chunks; current increment closes prior partial m0151, completes m0152 through m0158, and enters m0159",
-    "Promoted seven newly complete utterance-level records (m0152-m0158) into a namespaced warehouse increment while retaining source text, style, start/end times, source labels and immutable blob provenance",
+    "Mirrored exact source lines 1-8120 of pavoque-angry.yaml in source-faithful chunks; current increment closes prior partial m0159, completes m0160, m0145, m0161, m0163-m0167, and enters m0168",
+    "Promoted nine complete utterance-level records (m0159, m0160, m0145, m0161, m0163-m0167) into a namespaced warehouse increment while retaining source text, style, source start/end times, derived duration and immutable blob provenance",
+    "Promoted all 20 manually corrected source-labelled segment/silence intervals for m0160 with source-native end times plus explicitly derived interval starts, durations, and absolute times; normalized_ipa intentionally left blank",
     "Documented utterance prompt/text/style/start/end and segment label/end variables without IPA invention",
     "Recorded CC-BY-NC-SA-4.0 license and 44.1 kHz, 16-bit mono audio metadata from upstream README",
     "Validated source-faithful continuation against immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423"
   ],
   "pending": [
-    "Continue pavoque-angry.yaml from source line 7721",
+    "Continue pavoque-angry.yaml from source line 8121 and close partial m0168 before promoting it",
     "Mirror pavoque-happy.yaml, pavoque-neutral.yaml, pavoque-poker.yaml, pavoque-sad.yaml, and pavoque-outtakes.yaml",
-    "Promote the full mirrored angry-style corpus into namespaced utterance and segment/interval tables rather than only incremental utterance rows",
-    "Derive segment start times from within-utterance preceding endpoints while retaining original end times",
+    "Promote all already mirrored complete angry-style utterances and segment/interval rows rather than only incremental slices",
+    "Continue deriving segment start times only from within-utterance preceding source endpoints while retaining original end times",
     "Create explicit German SAMPA-to-IPA mapping only where unambiguous and preserve source labels",
     "Inventory authoritative release audio manifests without committing large FLAC audio"
   ],
-  "updated": "2026-09-11T05:07:46-07:00"
+  "updated": "2026-09-11T06:11:42-07:00"
 }
