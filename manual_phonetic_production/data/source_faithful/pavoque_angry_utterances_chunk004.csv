@@ -1,0 +1,5 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::spike0013,spike0013,Vielleicht habe ich falsch verstanden.,angry,42.78,46.56,3.78,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0014,spike0014,Habe ich etwas falsches gesagt?,angry,46.56,49.92,3.36,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0015,spike0015,Bist du noch da?,angry,49.92,52.38,2.46,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0016,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,3.9,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
