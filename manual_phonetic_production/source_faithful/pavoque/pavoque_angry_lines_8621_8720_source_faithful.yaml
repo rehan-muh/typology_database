@@ -1,0 +1,100 @@
+  - {lab: H#, end: 0.431102}
+  - {lab: ts, end: 0.565}
+  - {lab: v, end: 0.607964}
+  - {lab: aI, end: 0.72}
+  - {lab: h, end: 0.765}
+  - {lab: U, end: 0.83}
+  - {lab: n, end: 0.872029}
+  - {lab: d, end: 0.899965}
+  - {lab: '6', end: 0.988709}
+  - {lab: t, end: 1.049249}
+  - {lab: z, end: 1.105}
+  - {lab: 'i:', end: 1.171099}
+  - {lab: p, end: 1.254792}
+  - {lab: ts, end: 1.34}
+  - {lab: I, end: 1.4}
+  - {lab: C, end: 1.485}
+  - {lab: '?', end: 1.510699}
+  - {lab: E, end: 1.577636}
+  - {lab: '6', end: 1.615}
+  - {lab: R, end: 1.66}
+  - {lab: aI, end: 1.795}
+  - {lab: C, end: 1.844772}
+  - {lab: t, end: 1.91}
+  - {lab: '@', end: 1.960224}
+  - {lab: z, end: 2.032074}
+  - {lab: 'i:', end: 2.091028}
+  - {lab: d, end: 2.143522}
+  - {lab: 'i:', end: 2.218148}
+  - {lab: v, end: 2.275}
+  - {lab: 'i:', end: 2.364305}
+  - {lab: d, end: 2.397467}
+  - {lab: '6', end: 2.475}
+  - {lab: f, end: 2.555}
+  - {lab: '6', end: 2.621001}
+  - {lab: '?', end: 2.659076}
+  - {lab: aI, end: 2.75}
+  - {lab: n, end: 2.79}
+  - {lab: I, end: 2.861116}
+  - {lab: g, end: 2.902074}
+  - {lab: U, end: 2.95}
+  - {lab: N, end: 3.040435}
+  - {lab: C, end: 3.205629}
+  - {lab: 'i:', end: 3.309413}
+  - {lab: n, end: 3.355}
+  - {lab: 'a:', end: 3.561196}
+  - {lab: s, end: 3.791486}
+  - {lab: _, end: 5.335}
+- prompt: m0183
+  text: Ihre Liaison hielt vier Jahre lang.
+  style: angry
+  start: 890.64
+  end: 894.24
+  segments:
+  - {lab: H#, end: 0.446031}
+  - {lab: '?', end: 0.469992}
+  - {lab: 'i:', end: 0.595323}
+  - {lab: R, end: 0.632799}
+  - {lab: '@', end: 0.67}
+  - {lab: l, end: 0.725}
+  - {lab: 'i:', end: 0.821411}
+  - {lab: '?', end: 0.83124}
+  - {lab: E, end: 0.93384}
+  - {lab: z, end: 0.996506}
+  - {lab: a~, end: 1.175}
+  - {lab: h, end: 1.250854}
+  - {lab: 'i:', end: 1.323964}
+  - {lab: l, end: 1.385}
+  - {lab: t, end: 1.465428}
+  - {lab: f, end: 1.556195}
+  - {lab: 'i:', end: 1.68767}
+  - {lab: '6', end: 1.756479}
+  - {lab: j, end: 1.840648}
+  - {lab: 'a:', end: 1.995469}
+  - {lab: R, end: 2.041546}
+  - {lab: '@', end: 2.085}
+  - {lab: l, end: 2.15}
+  - {lab: a, end: 2.285}
+  - {lab: N, end: 2.399109}
+  - {lab: _, end: 3.595}
+- prompt: m0184
+  text: Die Eltern tauften sie auf den Namen Shirley nach Shirley Temple.
+  style: angry
+  start: 894.24
+  end: 899.64
+  segments:
+  - {lab: H#, end: 0.385}
+  - {lab: d, end: 0.422545}
+  - {lab: 'i:', end: 0.535599}
+  - {lab: '?', end: 0.58}
+  - {lab: E, end: 0.65}
+  - {lab: l, end: 0.716794}
+  - {lab: t, end: 0.798445}
+  - {lab: '6', end: 0.89}
+  - {lab: n, end: 0.951426}
+  - {lab: t, end: 1.061849}
+  - {lab: aU, end: 1.175}
+  - {lab: f, end: 1.25485}
+  - {lab: t, end: 1.312906}
+  - {lab: '@', end: 1.321138}
+  - {lab: n, end: 1.375}
