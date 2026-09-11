@@ -1,0 +1,100 @@
+  - {lab: 'u:', end: 0.732087}
+  - {lab: d, end: 0.830698}
+  - {lab: 'i:', end: 0.904668}
+  - {lab: '6', end: 0.95}
+  - {lab: t, end: 1.025}
+  - {lab: '@', end: 1.06}
+  - {lab: d, end: 1.117603}
+  - {lab: 'i:', end: 1.206838}
+  - {lab: v, end: 1.255}
+  - {lab: E, end: 1.354238}
+  - {lab: '6', end: 1.395387}
+  - {lab: k, end: 1.47}
+  - {lab: '@', end: 1.525}
+  - {lab: p, end: 1.586392}
+  - {lab: l, end: 1.615}
+  - {lab: 'u:', end: 1.696943}
+  - {lab: t, end: 1.821004}
+  - {lab: a, end: 2.010782}
+  - {lab: R, end: 2.05}
+  - {lab: C, end: 2.1}
+  - {lab: s, end: 2.235567}
+  - {lab: _, end: 2.36577}
+  - {lab: S, end: 2.52}
+  - {lab: EI, end: 2.625}
+  - {lab: k, end: 2.67}
+  - {lab: s, end: 2.773577}
+  - {lab: p, end: 2.840428}
+  - {lab: 'i:', end: 2.93326}
+  - {lab: '6', end: 3.005}
+  - {lab: s, end: 3.11751}
+  - {lab: v, end: 3.320185}
+  - {lab: O, end: 3.368704}
+  - {lab: l, end: 3.422137}
+  - {lab: t, end: 3.544078}
+  - {lab: 'E:', end: 3.661048}
+  - {lab: '6', end: 3.755}
+  - {lab: s, end: 3.869864}
+  - {lab: R, end: 4.127814}
+  - {lab: U, end: 4.241435}
+  - {lab: s, end: 4.355}
+  - {lab: 'o:', end: 4.53}
+  - {lab: s, end: 4.63}
+  - {lab: '?', end: 4.745}
+  - {lab: U, end: 4.835}
+  - {lab: n, end: 4.898593}
+  - {lab: t, end: 4.954869}
+  - {lab: g, end: 5.012808}
+  - {lab: '2:', end: 5.17}
+  - {lab: t, end: 5.255735}
+  - {lab: '@', end: 5.385}
+  - {lab: s, end: 5.633137}
+  - {lab: _, end: 6.355}
+- prompt: m0031
+  text: Bei Magdeburg liegt der Flugplatz Magdeburg.
+  style: angry
+  start: 299.94
+  end: 304.08
+  segments:
+  - {lab: H#, end: 0.237124}
+  - {lab: b, end: 0.297623}
+  - {lab: aI, end: 0.435}
+  - {lab: m, end: 0.52}
+  - {lab: 'a:', end: 0.645}
+  - {lab: g, end: 0.695}
+  - {lab: d, end: 0.783219}
+  - {lab: '@', end: 0.82464}
+  - {lab: b, end: 0.907555}
+  - {lab: U, end: 0.995072}
+  - {lab: '6', end: 1.037416}
+  - {lab: k, end: 1.096507}
+  - {lab: l, end: 1.16}
+  - {lab: 'i:', end: 1.25}
+  - {lab: k, end: 1.287243}
+  - {lab: t, end: 1.315825}
+  - {lab: d, end: 1.34}
+  - {lab: E, end: 1.404746}
+  - {lab: '6', end: 1.435}
+  - {lab: f, end: 1.54}
+  - {lab: l, end: 1.61}
+  - {lab: 'u:', end: 1.67}
+  - {lab: k, end: 1.732873}
+  - {lab: p, end: 1.830775}
+  - {lab: l, end: 1.88}
+  - {lab: a, end: 1.99}
+  - {lab: ts, end: 2.121545}
+  - {lab: m, end: 2.175}
+  - {lab: 'a:', end: 2.288667}
+  - {lab: g, end: 2.328119}
+  - {lab: d, end: 2.4}
+  - {lab: '@', end: 2.460158}
+  - {lab: b, end: 2.519029}
+  - {lab: U, end: 2.625}
+  - {lab: '6', end: 2.695}
+  - {lab: k, end: 2.846542}
+  - {lab: _, end: 4.135}
+- prompt: m0032
+  text: Ein Fahrzeug manövriert, indem es ein Manöver fährt beziehungsweise fliegt.
+  style: angry
+  start: 304.08
+  end: 310.08
