@@ -1,0 +1,100 @@
+  - {lab: m, end: 2.005}
+  - {lab: '?', end: 2.02}
+  - {lab: aI, end: 2.085}
+  - {lab: n, end: 2.115}
+  - {lab: '@', end: 2.19}
+  - {lab: d, end: 2.34}
+  - {lab: OY, end: 2.525056}
+  - {lab: tS, end: 2.71055}
+  - {lab: tS, end: 2.865}
+  - {lab: E, end: 2.945}
+  - {lab: C, end: 3.045}
+  - {lab: I, end: 3.1}
+  - {lab: S, end: 3.195}
+  - {lab: '@', end: 3.265}
+  - {lab: k, end: 3.430364}
+  - {lab: 'o:', end: 3.548959}
+  - {lab: p, end: 3.62219}
+  - {lab: R, end: 3.66}
+  - {lab: 'o:', end: 3.725854}
+  - {lab: d, end: 3.77}
+  - {lab: U, end: 3.830272}
+  - {lab: k, end: 3.869803}
+  - {lab: ts, end: 4.02346}
+  - {lab: j, end: 4.099914}
+  - {lab: 'o:', end: 4.225}
+  - {lab: n, end: 4.338231}
+  - {lab: _, end: 5.395}
+- prompt: m0198
+  text: Das Weibchen legt im Durchschnitt zwei Eier.
+  style: angry
+  start: 960.18
+  end: 964.32
+  segments:
+  - {lab: H#, end: 0.515374}
+  - {lab: d, end: 0.551191}
+  - {lab: a, end: 0.63}
+  - {lab: s, end: 0.74}
+  - {lab: v, end: 0.788725}
+  - {lab: aI, end: 0.941065}
+  - {lab: p, end: 0.984898}
+  - {lab: C, end: 1.09}
+  - {lab: '@', end: 1.155}
+  - {lab: n, end: 1.24}
+  - {lab: l, end: 1.272771}
+  - {lab: 'e:', end: 1.36}
+  - {lab: k, end: 1.418354}
+  - {lab: t, end: 1.455}
+  - {lab: '?', end: 1.46381}
+  - {lab: I, end: 1.5}
+  - {lab: m, end: 1.595}
+  - {lab: d, end: 1.675}
+  - {lab: U, end: 1.746989}
+  - {lab: '6', end: 1.810259}
+  - {lab: C, end: 1.885}
+  - {lab: S, end: 2.004984}
+  - {lab: n, end: 2.036311}
+  - {lab: I, end: 2.137666}
+  - {lab: t, end: 2.175137}
+  - {lab: ts, end: 2.342805}
+  - {lab: v, end: 2.4}
+  - {lab: aI, end: 2.59}
+  - {lab: '?', end: 2.645}
+  - {lab: aI, end: 2.805}
+  - {lab: '6', end: 3.016075}
+  - {lab: _, end: 4.135}
+- prompt: m0199
+  text: Beide fuhren in einem Auto Konvoi in die Innenstadt.
+  style: angry
+  start: 964.32
+  end: 968.94
+  segments:
+  - {lab: H#, end: 0.622062}
+  - {lab: b, end: 0.655}
+  - {lab: aI, end: 0.862167}
+  - {lab: d, end: 0.92}
+  - {lab: '@', end: 1.08}
+  - {lab: f, end: 1.205}
+  - {lab: 'u:', end: 1.327025}
+  - {lab: R, end: 1.36694}
+  - {lab: '@', end: 1.415}
+  - {lab: n, end: 1.465}
+  - {lab: '?', end: 1.495}
+  - {lab: I, end: 1.555}
+  - {lab: n, end: 1.585}
+  - {lab: '?', end: 1.625}
+  - {lab: aI, end: 1.735}
+  - {lab: n, end: 1.76}
+  - {lab: '@', end: 1.8}
+  - {lab: m, end: 1.865}
+  - {lab: '?', end: 1.965}
+  - {lab: aU, end: 2.14}
+  - {lab: t, end: 2.247579}
+  - {lab: 'o:', end: 2.361748}
+  - {lab: k, end: 2.466855}
+  - {lab: O, end: 2.55}
+  - {lab: n, end: 2.62}
+  - {lab: v, end: 2.69}
+  - {lab: OY, end: 2.874504}
+  - {lab: '?', end: 2.92}
+  - {lab: I, end: 2.99}
