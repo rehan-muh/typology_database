@@ -1,0 +1,100 @@
+  - {lab: z, end: 2.76}
+  - {lab: 'y:', end: 2.925}
+  - {lab: t, end: 3.089126}
+  - {lab: _, end: 3.655}
+- prompt: m0160
+  text: Keine Sintflut für Noah.
+  style: angry
+  start: 796.2
+  end: 799.14
+  segments:
+  - {lab: H#, end: 0.465}
+  - {lab: k, end: 0.565}
+  - {lab: aI, end: 0.755}
+  - {lab: n, end: 0.805}
+  - {lab: '@', end: 0.94}
+  - {lab: z, end: 1.055}
+  - {lab: I, end: 1.14}
+  - {lab: n, end: 1.215}
+  - {lab: t, end: 1.292303}
+  - {lab: f, end: 1.395}
+  - {lab: l, end: 1.440077}
+  - {lab: 'u:', end: 1.573338}
+  - {lab: t, end: 1.645729}
+  - {lab: f, end: 1.72}
+  - {lab: 'y:', end: 1.801785}
+  - {lab: '6', end: 1.86}
+  - {lab: n, end: 1.95}
+  - {lab: 'o:', end: 2.132788}
+  - {lab: 'a:', end: 2.421417}
+  - {lab: _, end: 2.935}
+- prompt: m0145
+  text: Weder Chopin noch George Sand haben zu ihrer Trennung Stellung bezogen.
+  style: angry
+  start: 799.14
+  end: 804.9
+  segments:
+  - {lab: H#, end: 0.165}
+  - {lab: v, end: 0.275}
+  - {lab: 'e:', end: 0.435}
+  - {lab: d, end: 0.5}
+  - {lab: '6', end: 0.605}
+  - {lab: S, end: 0.740007}
+  - {lab: 'o:', end: 0.855}
+  - {lab: p, end: 0.994626}
+  - {lab: e~, end: 1.257091}
+  - {lab: n, end: 1.355}
+  - {lab: O, end: 1.46}
+  - {lab: x, end: 1.585}
+  - {lab: d, end: 1.664112}
+  - {lab: Z, end: 1.72}
+  - {lab: O, end: 1.863836}
+  - {lab: '6', end: 1.895}
+  - {lab: d, end: 1.945352}
+  - {lab: Z, end: 1.999555}
+  - {lab: z, end: 2.115}
+  - {lab: a, end: 2.24}
+  - {lab: n, end: 2.355}
+  - {lab: t, end: 2.432375}
+  - {lab: h, end: 2.5}
+  - {lab: 'a:', end: 2.592175}
+  - {lab: b, end: 2.636392}
+  - {lab: '@', end: 2.641919}
+  - {lab: n, end: 2.687977}
+  - {lab: ts, end: 2.777638}
+  - {lab: 'u:', end: 2.815}
+  - {lab: '?', end: 2.83}
+  - {lab: 'i:', end: 2.93178}
+  - {lab: R, end: 2.985}
+  - {lab: '6', end: 3.068114}
+  - {lab: t, end: 3.167713}
+  - {lab: R, end: 3.245}
+  - {lab: E, end: 3.315}
+  - {lab: n, end: 3.375}
+  - {lab: U, end: 3.415}
+  - {lab: N, end: 3.5}
+  - {lab: S, end: 3.64231}
+  - {lab: t, end: 3.690406}
+  - {lab: E, end: 3.76}
+  - {lab: l, end: 3.81}
+  - {lab: U, end: 3.87}
+  - {lab: N, end: 3.94}
+  - {lab: b, end: 3.992223}
+  - {lab: '@', end: 4.04}
+  - {lab: ts, end: 4.2}
+  - {lab: 'o:', end: 4.384906}
+  - {lab: g, end: 4.449256}
+  - {lab: '@', end: 4.462767}
+  - {lab: n, end: 4.548129}
+  - {lab: _, end: 5.755}
+- prompt: m0161
+  text: Als Ersatz empfehlen sich förmlichere Verabschiedungen wie Adieu und auf Wiedersehen.
+  style: angry
+  start: 804.9
+  end: 811.5
+  segments:
+  - {lab: H#, end: 0.33}
+  - {lab: '?', end: 0.345}
+  - {lab: a, end: 0.447676}
+  - {lab: l, end: 0.535}
+  - {lab: s, end: 0.633748}
