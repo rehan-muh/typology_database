@@ -1,0 +1,100 @@
+  - {lab: '?', end: 1.92}
+  - {lab: E, end: 2.005}
+  - {lab: f, end: 2.161805}
+  - {lab: g, end: 2.231818}
+  - {lab: l, end: 2.265}
+  - {lab: aI, end: 2.38}
+  - {lab: C, end: 2.460281}
+  - {lab: k, end: 2.575741}
+  - {lab: 'u:', end: 2.74}
+  - {lab: m, end: 2.815}
+  - {lab: 'a:', end: 2.93}
+  - {lab: l, end: 3.005}
+  - {lab: '?', end: 3.055}
+  - {lab: 'e:', end: 3.256833}
+  - {lab: b, end: 3.316717}
+  - {lab: '@', end: 3.385}
+  - {lab: S, end: 3.495}
+  - {lab: R, end: 3.565}
+  - {lab: aI, end: 3.792371}
+  - {lab: b, end: 3.850101}
+  - {lab: '@', end: 3.862998}
+  - {lab: n, end: 3.993812}
+  - {lab: _, end: 5.635}
+- prompt: m0123
+  text: Der Rock hat meist goldene Knöpfe.
+  style: angry
+  start: 647.22
+  end: 650.76
+  segments:
+  - {lab: H#, end: 0.287832}
+  - {lab: d, end: 0.34951}
+  - {lab: E, end: 0.452052}
+  - {lab: '6', end: 0.54}
+  - {lab: R, end: 0.64}
+  - {lab: O, end: 0.76591}
+  - {lab: k, end: 0.865}
+  - {lab: h, end: 0.935}
+  - {lab: a, end: 1.01589}
+  - {lab: t, end: 1.128811}
+  - {lab: m, end: 1.205}
+  - {lab: aI, end: 1.345}
+  - {lab: s, end: 1.413892}
+  - {lab: t, end: 1.494353}
+  - {lab: _, end: 1.536733}
+  - {lab: g, end: 1.586992}
+  - {lab: O, end: 1.727135}
+  - {lab: l, end: 1.809438}
+  - {lab: d, end: 1.863076}
+  - {lab: '@', end: 1.92}
+  - {lab: n, end: 1.965}
+  - {lab: '@', end: 2.06}
+  - {lab: k, end: 2.181257}
+  - {lab: n, end: 2.235}
+  - {lab: '9', end: 2.325}
+  - {lab: pf, end: 2.475}
+  - {lab: '@', end: 2.681605}
+  - {lab: _, end: 3.535}
+- prompt: m0124
+  text: Genauso ist Microsoft beim Train Simulator vorgegangen.
+  style: angry
+  start: 650.76
+  end: 655.56
+  segments:
+  - {lab: H#, end: 0.175}
+  - {lab: g, end: 0.220876}
+  - {lab: '@', end: 0.315}
+  - {lab: n, end: 0.4}
+  - {lab: aU, end: 0.62}
+  - {lab: z, end: 0.727788}
+  - {lab: 'o:', end: 0.92}
+  - {lab: '?', end: 0.97}
+  - {lab: I, end: 1.031186}
+  - {lab: s, end: 1.106114}
+  - {lab: t, end: 1.151023}
+  - {lab: _, end: 1.222361}
+  - {lab: m, end: 1.265}
+  - {lab: aI, end: 1.42}
+  - {lab: k, end: 1.520063}
+  - {lab: r, end: 1.555684}
+  - {lab: 'o:', end: 1.595}
+  - {lab: s, end: 1.705}
+  - {lab: O, end: 1.785}
+  - {lab: f, end: 1.84}
+  - {lab: t, end: 1.881193}
+  - {lab: b, end: 1.948095}
+  - {lab: aI, end: 2.025}
+  - {lab: m, end: 2.08}
+  - {lab: t, end: 2.234822}
+  - {lab: r, end: 2.27}
+  - {lab: EI, end: 2.388494}
+  - {lab: n, end: 2.463423}
+  - {lab: z, end: 2.53}
+  - {lab: 'i:', end: 2.57}
+  - {lab: m, end: 2.63}
+  - {lab: 'u:', end: 2.72}
+  - {lab: l, end: 2.76}
+  - {lab: 'a:', end: 2.901323}
+  - {lab: t, end: 2.978391}
+  - {lab: O, end: 3.017401}
+  - {lab: '6', end: 3.096014}
