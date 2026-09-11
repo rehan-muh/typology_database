@@ -1,0 +1,100 @@
+  text: Die Pygmäen helfen ihnen gerne.
+  style: angry
+  start: 356.88
+  end: 360.24
+  segments:
+  - {lab: H#, end: 0.2788}
+  - {lab: d, end: 0.352433}
+  - {lab: 'i:', end: 0.468556}
+  - {lab: p, end: 0.560956}
+  - {lab: Y, end: 0.645}
+  - {lab: g, end: 0.737172}
+  - {lab: m, end: 0.78}
+  - {lab: 'E:', end: 0.961675}
+  - {lab: '@', end: 1.055}
+  - {lab: n, end: 1.125}
+  - {lab: h, end: 1.185}
+  - {lab: E, end: 1.28}
+  - {lab: l, end: 1.355}
+  - {lab: f, end: 1.445}
+  - {lab: '@', end: 1.46}
+  - {lab: n, end: 1.52603}
+  - {lab: '?', end: 1.540768}
+  - {lab: 'i:', end: 1.635}
+  - {lab: n, end: 1.66}
+  - {lab: '@', end: 1.71}
+  - {lab: n, end: 1.773511}
+  - {lab: g, end: 1.860063}
+  - {lab: E, end: 2.026518}
+  - {lab: '6', end: 2.165}
+  - {lab: n, end: 2.225}
+  - {lab: '@', end: 2.444104}
+  - {lab: _, end: 3.355}
+- prompt: m0048
+  text: Danton war am zehnten Juli aus dem Ausschuss abberufen worden.
+  style: angry
+  start: 360.24
+  end: 365.46
+  segments:
+  - {lab: H#, end: 0.434819}
+  - {lab: d, end: 0.504992}
+  - {lab: a, end: 0.628891}
+  - {lab: n, end: 0.712416}
+  - {lab: t, end: 0.85144}
+  - {lab: 'o:', end: 0.985099}
+  - {lab: n, end: 1.050199}
+  - {lab: v, end: 1.09}
+  - {lab: 'a:', end: 1.141093}
+  - {lab: '6', end: 1.194952}
+  - {lab: '?', end: 1.229531}
+  - {lab: a, end: 1.27}
+  - {lab: m, end: 1.349905}
+  - {lab: ts, end: 1.515}
+  - {lab: 'e:', end: 1.625}
+  - {lab: n, end: 1.677861}
+  - {lab: t, end: 1.775302}
+  - {lab: '@', end: 1.785}
+  - {lab: n, end: 1.851052}
+  - {lab: j, end: 1.98}
+  - {lab: 'u:', end: 2.11}
+  - {lab: l, end: 2.163041}
+  - {lab: 'i:', end: 2.27}
+  - {lab: '?', end: 2.32}
+  - {lab: aU, end: 2.415}
+  - {lab: s, end: 2.463975}
+  - {lab: d, end: 2.536704}
+  - {lab: 'e:', end: 2.57}
+  - {lab: m, end: 2.635}
+  - {lab: '?', end: 2.73}
+  - {lab: aU, end: 2.85}
+  - {lab: s, end: 2.92}
+  - {lab: S, end: 3.035}
+  - {lab: U, end: 3.125}
+  - {lab: s, end: 3.258687}
+  - {lab: '?', end: 3.36}
+  - {lab: a, end: 3.435}
+  - {lab: p, end: 3.482238}
+  - {lab: b, end: 3.541795}
+  - {lab: '6', end: 3.629634}
+  - {lab: R, end: 3.692278}
+  - {lab: 'u:', end: 3.785}
+  - {lab: f, end: 3.865}
+  - {lab: '@', end: 3.88635}
+  - {lab: n, end: 3.96}
+  - {lab: v, end: 4.0}
+  - {lab: O, end: 4.111129}
+  - {lab: '6', end: 4.183599}
+  - {lab: d, end: 4.235187}
+  - {lab: '@', end: 4.252384}
+  - {lab: n, end: 4.372757}
+  - {lab: _, end: 5.215}
+- prompt: m0049
+  text: Viele Arten blühen nachts.
+  style: angry
+  start: 365.46
+  end: 368.52
+  segments:
+  - {lab: H#, end: 0.371502}
+  - {lab: f, end: 0.488618}
+  - {lab: 'i:', end: 0.595}
+  - {lab: l, end: 0.635}
