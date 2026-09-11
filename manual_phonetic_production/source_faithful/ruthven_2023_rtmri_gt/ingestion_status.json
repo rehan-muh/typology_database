@@ -1,0 +1,34 @@
+{
+  "source_id": "ruthven_2023_rtmri_gt",
+  "decision": "INCLUDE_PRIMARY_MANUAL_ARTICULATORY_IMAGING",
+  "publication": "Real-time speech MRI datasets with corresponding articulator ground-truth segmentations",
+  "repository": "Zenodo 10.5281/zenodo.10046815",
+  "participants": 5,
+  "recording_series": 5,
+  "mri_frames": 392,
+  "manual_segmentation_masks": 392,
+  "velopharyngeal_closure_labels": 392,
+  "source_archive_bytes": 21876078,
+  "source_archive_md5": "2c5fb95e6294ecf97204f64128137a96",
+  "file_manifest_records_added": 4,
+  "variable_dictionary_records_added": 10,
+  "core_rows_promoted": 0,
+  "manual_scope": "Every MRI frame has a manually created pixelwise ground-truth articulator segmentation. Every frame was independently visually classified for velopharyngeal closure by four MRI physicists and the majority label retained as ground truth.",
+  "processed": [
+    "Verified primary non-singing speech-production provenance: five healthy adults counting 1-10 in English at self-selected normal rate",
+    "Recorded exact participant-series frame counts of 105, 71, 71, 78, and 67 images (392 total)",
+    "Inventoried DICOM frame, MAT ground-truth mask, and XLSX closure-label structures",
+    "Documented all seven mask codes exactly: 0 background, 1 head, 2 soft palate, 3 jaw, 4 tongue, 5 vocal tract, 6 tooth space",
+    "Recorded MRI acquisition metadata including 3.0 T Philips TX Achieva, 10 mm midsagittal slice, 0.1 s temporal resolution, and reconstructed 1.17 x 1.17 mm2 pixels",
+    "Pinned authoritative Zenodo archive reference and MD5 checksum"
+  ],
+  "pending": [
+    "Retry source archive byte download in a runtime able to retrieve the 21.9 MB Zenodo ZIP",
+    "Enumerate every internal DICOM, MAT, and workbook object and compute per-file checksums",
+    "Parse velopharyngeal_closure.xlsx into namespaced participant-frame rows",
+    "Parse all 392 MAT masks into source-faithful arrays plus analysis-ready per-frame class areas/contours while preserving raw masks",
+    "Link each manual mask and closure label one-to-one with its source DICOM frame",
+    "Confirm repository-level license from authoritative metadata before redistributing any archive bytes"
+  ],
+  "updated": "2026-09-11T04:10:58-07:00"
+}
