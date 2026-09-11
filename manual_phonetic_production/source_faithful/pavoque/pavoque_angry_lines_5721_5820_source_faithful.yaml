@@ -1,0 +1,100 @@
+  - {lab: '2:', end: 5.691401}
+  - {lab: R, end: 5.718424}
+  - {lab: '@', end: 5.775}
+  - {lab: n, end: 5.900215}
+  - {lab: _, end: 7.915}
+- prompt: m0109
+  text: Ihre Hütten bauten sie auf Pfählen am Rand eines Gewässers.
+  style: angry
+  start: 593.16
+  end: 598.2
+  segments:
+  - {lab: H#, end: 0.565}
+  - {lab: '?', end: 0.586445}
+  - {lab: 'i:', end: 0.711718}
+  - {lab: R, end: 0.760844}
+  - {lab: '@', end: 0.829621}
+  - {lab: h, end: 0.883046}
+  - {lab: Y, end: 0.980684}
+  - {lab: t, end: 1.069932}
+  - {lab: '@', end: 1.079551}
+  - {lab: n, end: 1.215}
+  - {lab: b, end: 1.281373}
+  - {lab: aU, end: 1.435102}
+  - {lab: t, end: 1.525986}
+  - {lab: '@', end: 1.530899}
+  - {lab: n, end: 1.568972}
+  - {lab: z, end: 1.65}
+  - {lab: 'i:', end: 1.716351}
+  - {lab: '?', end: 1.727404}
+  - {lab: aU, end: 1.8}
+  - {lab: f, end: 1.89}
+  - {lab: pf, end: 2.052742}
+  - {lab: 'E:', end: 2.22}
+  - {lab: l, end: 2.285}
+  - {lab: '@', end: 2.335}
+  - {lab: n, end: 2.39}
+  - {lab: '?', end: 2.44}
+  - {lab: a, end: 2.51}
+  - {lab: m, end: 2.575}
+  - {lab: R, end: 2.665}
+  - {lab: a, end: 2.765}
+  - {lab: n, end: 2.850554}
+  - {lab: t, end: 2.911232}
+  - {lab: '?', end: 2.94}
+  - {lab: aI, end: 3.040919}
+  - {lab: n, end: 3.069781}
+  - {lab: '@', end: 3.13}
+  - {lab: s, end: 3.21}
+  - {lab: g, end: 3.264613}
+  - {lab: '@', end: 3.355327}
+  - {lab: v, end: 3.415}
+  - {lab: E, end: 3.515}
+  - {lab: s, end: 3.615}
+  - {lab: '6', end: 3.758777}
+  - {lab: s, end: 3.985372}
+  - {lab: _, end: 5.035}
+- prompt: m0110
+  text: Er war ein großer Bewunderer von Jean Paul.
+  style: angry
+  start: 598.2
+  end: 602.28
+  segments:
+  - {lab: H#, end: 0.27}
+  - {lab: '?', end: 0.29}
+  - {lab: 'e:', end: 0.343914}
+  - {lab: '6', end: 0.395}
+  - {lab: v, end: 0.436033}
+  - {lab: 'a:', end: 0.493148}
+  - {lab: '6', end: 0.523854}
+  - {lab: '?', end: 0.55}
+  - {lab: aI, end: 0.62}
+  - {lab: n, end: 0.67}
+  - {lab: g, end: 0.707668}
+  - {lab: R, end: 0.836447}
+  - {lab: 'o:', end: 0.93}
+  - {lab: s, end: 1.015}
+  - {lab: '6', end: 1.095}
+  - {lab: b, end: 1.160849}
+  - {lab: '@', end: 1.225}
+  - {lab: v, end: 1.285}
+  - {lab: U, end: 1.357231}
+  - {lab: n, end: 1.425}
+  - {lab: d, end: 1.46699}
+  - {lab: '6', end: 1.515063}
+  - {lab: R, end: 1.565421}
+  - {lab: '6', end: 1.655}
+  - {lab: f, end: 1.779753}
+  - {lab: O, end: 1.84}
+  - {lab: n, end: 1.915}
+  - {lab: Z, end: 1.993471}
+  - {lab: o~, end: 2.132408}
+  - {lab: p, end: 2.271356}
+  - {lab: O, end: 2.433189}
+  - {lab: l, end: 2.603918}
+  - {lab: _, end: 4.075}
+- prompt: m0111
+  text: Diese Reaktionen müssen in saurem Milieu stattfinden.
+  style: angry
+  start: 602.28
+  end: 606.96
