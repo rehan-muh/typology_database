@@ -1,0 +1,100 @@
+- prompt: m0155
+  text: So hat zwei Tausend drei Prinz Charles das Spiel eröffnet.
+  style: angry
+  start: 775.32
+  end: 780.3
+  segments:
+  - {lab: H#, end: 0.65}
+  - {lab: z, end: 0.732785}
+  - {lab: 'o:', end: 0.85}
+  - {lab: h, end: 0.899857}
+  - {lab: a, end: 0.955138}
+  - {lab: t, end: 1.006108}
+  - {lab: ts, end: 1.113611}
+  - {lab: v, end: 1.155}
+  - {lab: aI, end: 1.285}
+  - {lab: t, end: 1.395}
+  - {lab: aU, end: 1.501195}
+  - {lab: z, end: 1.575}
+  - {lab: '@', end: 1.583503}
+  - {lab: n, end: 1.642469}
+  - {lab: t, end: 1.672567}
+  - {lab: d, end: 1.72937}
+  - {lab: R, end: 1.805}
+  - {lab: aI, end: 2.014083}
+  - {lab: p, end: 2.112043}
+  - {lab: R, end: 2.18}
+  - {lab: I, end: 2.235}
+  - {lab: n, end: 2.285}
+  - {lab: ts, end: 2.365426}
+  - {lab: tS, end: 2.56}
+  - {lab: 'a:', end: 2.666402}
+  - {lab: '6', end: 2.751167}
+  - {lab: l, end: 2.808291}
+  - {lab: s, end: 2.921925}
+  - {lab: d, end: 2.975}
+  - {lab: a, end: 3.045}
+  - {lab: s, end: 3.115}
+  - {lab: S, end: 3.210002}
+  - {lab: p, end: 3.288446}
+  - {lab: 'i:', end: 3.387516}
+  - {lab: l, end: 3.453854}
+  - {lab: '?', end: 3.5}
+  - {lab: E, end: 3.55336}
+  - {lab: '6', end: 3.587757}
+  - {lab: '?', end: 3.637511}
+  - {lab: '9', end: 3.715}
+  - {lab: f, end: 3.834066}
+  - {lab: n, end: 3.875}
+  - {lab: '@', end: 3.98}
+  - {lab: t, end: 4.121529}
+  - {lab: _, end: 4.975}
+- prompt: m0156
+  text: Die Fassade war wohl mit acht Säulen geschmückt und zwanzig Meter hoch.
+  style: angry
+  start: 780.3
+  end: 786.06
+  segments:
+  - {lab: H#, end: 0.505416}
+  - {lab: d, end: 0.539304}
+  - {lab: 'i:', end: 0.61}
+  - {lab: f, end: 0.692107}
+  - {lab: a, end: 0.765}
+  - {lab: s, end: 0.86}
+  - {lab: 'a:', end: 1.025}
+  - {lab: d, end: 1.078609}
+  - {lab: '@', end: 1.135497}
+  - {lab: v, end: 1.194452}
+  - {lab: 'a:', end: 1.252793}
+  - {lab: '6', end: 1.295167}
+  - {lab: v, end: 1.335}
+  - {lab: 'o:', end: 1.411234}
+  - {lab: l, end: 1.435}
+  - {lab: m, end: 1.48}
+  - {lab: I, end: 1.54204}
+  - {lab: t, end: 1.596082}
+  - {lab: '?', end: 1.7}
+  - {lab: a, end: 1.73}
+  - {lab: x, end: 1.865}
+  - {lab: t, end: 1.96342}
+  - {lab: z, end: 2.02}
+  - {lab: OY, end: 2.153084}
+  - {lab: l, end: 2.19}
+  - {lab: '@', end: 2.24}
+  - {lab: n, end: 2.305}
+  - {lab: g, end: 2.349057}
+  - {lab: '@', end: 2.38}
+  - {lab: S, end: 2.502515}
+  - {lab: m, end: 2.545}
+  - {lab: Y, end: 2.625338}
+  - {lab: k, end: 2.676923}
+  - {lab: t, end: 2.726666}
+  - {lab: '?', end: 2.76904}
+  - {lab: U, end: 2.825}
+  - {lab: n, end: 2.864842}
+  - {lab: t, end: 2.899232}
+  - {lab: ts, end: 3.015}
+  - {lab: v, end: 3.057674}
+  - {lab: a, end: 3.16}
+  - {lab: n, end: 3.22287}
+  - {lab: ts, end: 3.315}
