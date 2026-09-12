@@ -1,0 +1,5 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::spike0031,spike0031,"Ich bin nicht wütend, ich bin Realist.",angry,105.0,108.78,3.78,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0032,spike0032,"Der Punkt ist, mein bester Kumpel hat immer das Gute an allem gesehen.",angry,108.78,114.48,5.7,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0033,spike0033,Er wurde von einem Bus überfahren.,angry,114.48,118.02,3.54,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0034,spike0034,"Du verstehst es einfach nicht, oder?",angry,118.02,121.68,3.66,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
