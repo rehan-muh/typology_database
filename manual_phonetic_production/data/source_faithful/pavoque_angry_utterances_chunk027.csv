@@ -1,0 +1,7 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0041,m0041,Kiew wird von drei Flughäfen bedient.,angry,336.72,340.44,3.72,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0043,m0043,Doch Lübben hat noch mehr zu bieten.,angry,340.44,344.1,3.66,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0044,m0044,Es entsteht eine Zyanose.,angry,344.1,347.1,3,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0045,m0045,Kooperationen bestehen mit:,angry,347.1,350.22,3.12,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0036,m0036,"Anekdote Heinz Damian, Club Kassier.",angry,350.22,353.88,3.66,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0046,m0046,Als Punch bezeichnet man:,angry,353.88,356.88,3,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
