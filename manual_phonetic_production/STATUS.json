@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-11T19:10:00-07:00",
-  "total_sources": 150,
+  "last_updated": "2026-09-11T20:07:00-07:00",
+  "total_sources": 151,
   "accepted_sources": 46,
   "excluded_sources": 25,
-  "review_sources": 79,
+  "review_sources": 80,
   "ingested_sources": 44,
   "parsed_rows_total": 1361571,
   "parsed_logical_tables_total": 86,
-  "inventory_file_records": 1017,
+  "inventory_file_records": 1019,
   "variable_dictionary_records": 1148,
-  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE durable source-faithful materialization advanced from 34 utterances / 1,059 manually corrected intervals through spike0036 to 36 utterances / 1,138 intervals through spike0038. The 2 newly committed utterances and 79 manually corrected German-SAMPA/silence intervals were reverified directly against upstream pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423; original labels/endpoints were retained, source-native 5-ms tail residuals were preserved, and chunk011 was registered in the canonical manifest. Global parsed_rows_total remains unchanged because these observations already exist in the validated full PAVOQUE CI parse. The next verified source record is spike0039. For the accepted IFA Spoken Language Corpus, direct Zenodo file URLs for compact annotation archives were resolved and persisted, but archive-byte retrieval still failed through the current execution path, so no IFA observation rows are overstated. Fresh discovery added the 2026 ROG Spoken Slovenian corpus to HIGH REVIEW because it contributes new manual prosodic/disfluency/interactional layers over reused SST/GOS 2 recordings; core admission is restricted to isolable new manual production annotations. All writes remained within manual_phonetic_production/."
+  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE durable source-faithful materialization advanced from 36 utterances / 1,138 manually corrected intervals through spike0038 to 40 utterances / 1,321 intervals through spike0042. Chunk012 adds 4 utterances and 183 manually corrected German-SAMPA/silence intervals verified directly against immutable upstream pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original labels and cumulative endpoints were preserved, derived starts/durations remain separate, and all four native 5-ms tail residuals were retained. Both new files were added to the canonical PAVOQUE manifest; next verified source record is spike0043. Global parsed_rows_total remains unchanged because these observations already exist in the validated full PAVOQUE CI parse. Fresh discovery added Cox et al. 2023 Danish infant-/adult-directed speech to HIGH REVIEW: 26 caregivers and 9,267 manually segmented vowel tokens, with raw formant data and code reported public on OSF ywf9m. The OSF file tree could not be enumerated through the current execution path, so no paper-only observations were promoted. All writes remained within manual_phonetic_production/."
 }
