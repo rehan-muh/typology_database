@@ -1,0 +1,5 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0056,m0056,Gebaut werden die Häuser von der Bayreuther Baufirma.,angry,382.5,387.18,4.68,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0052,m0052,Seht nur diesen Drake: Wer ist er?,angry,387.18,390.72,3.54,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0058,m0058,Schon bald wird Justine anonym verlegt.,angry,390.72,394.56,3.84,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0059,m0059,"Sie steht bei Neuwied, Rheinland Pfalz.",angry,394.56,398.4,3.84,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
