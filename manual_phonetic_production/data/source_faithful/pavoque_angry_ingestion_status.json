@@ -6,11 +6,11 @@
   "upstream_blob_sha": "bff79d978f740f6c2b09bc595ade03b6bdf33423",
   "license": "CC BY-NC-SA 4.0",
   "annotation_scope": "manually corrected German-SAMPA phonetic segments and silence labels with utterance-relative cumulative endpoints",
-  "durable_source_faithful_chunks": 29,
-  "durable_utterances": 103,
-  "durable_intervals": 3050,
-  "latest_committed_source_record": "m0054",
-  "next_verified_source_record": "m0056",
+  "durable_source_faithful_chunks": 30,
+  "durable_utterances": 107,
+  "durable_intervals": 3176,
+  "latest_committed_source_record": "m0059",
+  "next_verified_source_record": "m0060",
   "validation": {
     "namespaced_ids": true,
     "original_labels_preserved": true,
@@ -19,13 +19,15 @@
     "ipa_not_invented": true,
     "source_native_terminal_timing_preserved": true,
     "literal_upstream_record_order_preserved": true,
-    "chunk029_utterances": 2,
-    "chunk029_intervals": 55,
-    "chunk029_terminal_residuals_s": {
-      "m0053": 0.005,
-      "m0054": 0.005
+    "chunk030_utterances": 4,
+    "chunk030_intervals": 126,
+    "chunk030_terminal_residuals_s": {
+      "m0056": 0.005,
+      "m0052": 0.005,
+      "m0058": 0.005,
+      "m0059": 0.005
     }
   },
-  "notes": "Durable source-faithful mirror. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when these chunks are materialized. Chunk029 preserves literal upstream order m0053,m0054. The next literal record is m0056; m0052 occurs later upstream and must not be numerically reordered. Original labels/endpoints were retained without IPA invention or timing repair.",
-  "last_updated": "2026-09-12T12:10:40-07:00"
+  "notes": "Durable source-faithful mirror. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when these chunks are materialized. Chunk030 preserves literal upstream order m0056,m0052,m0058,m0059. The next literal record is m0060. Original labels/endpoints were retained without IPA invention or timing repair.",
+  "last_updated": "2026-09-12T13:10:50-07:00"
 }
