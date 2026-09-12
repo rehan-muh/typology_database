@@ -1,0 +1,6 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0022,m0022,"Prinz Johann von Frankreich, französisch Jean de Berry;",angry,265.02,269.82,4.8,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0023,m0023,"Er hat eine jüngere Schwester, Diane.",angry,269.82,273.54,3.72,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0024,m0024,Die Ernte kam sehr früh heim.,angry,273.54,276.78,3.24,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0025,m0025,Green trat in den Ruhestand.,angry,276.78,279.96,3.18,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0026,m0026,Dieser Bau ist zweistöckig.,angry,279.96,283.08,3.12,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
