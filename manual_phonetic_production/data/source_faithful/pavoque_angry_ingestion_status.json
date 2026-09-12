@@ -6,11 +6,11 @@
   "upstream_blob_sha": "bff79d978f740f6c2b09bc595ade03b6bdf33423",
   "license": "CC BY-NC-SA 4.0",
   "annotation_scope": "manually corrected German-SAMPA phonetic segments and silence labels with utterance-relative cumulative endpoints",
-  "durable_source_faithful_chunks": 28,
-  "durable_utterances": 101,
-  "durable_intervals": 2995,
-  "latest_committed_source_record": "m0051",
-  "next_verified_source_record": "m0053",
+  "durable_source_faithful_chunks": 29,
+  "durable_utterances": 103,
+  "durable_intervals": 3050,
+  "latest_committed_source_record": "m0054",
+  "next_verified_source_record": "m0056",
   "validation": {
     "namespaced_ids": true,
     "original_labels_preserved": true,
@@ -19,17 +19,13 @@
     "ipa_not_invented": true,
     "source_native_terminal_timing_preserved": true,
     "literal_upstream_record_order_preserved": true,
-    "chunk028_utterances": 5,
-    "chunk028_intervals": 152,
-    "chunk028_segment_files": 2,
-    "chunk028_terminal_residuals_s": {
-      "m0047": 0.005,
-      "m0048": 0.005,
-      "m0049": 0.005,
-      "m0050": 0.005,
-      "m0051": 0.005
+    "chunk029_utterances": 2,
+    "chunk029_intervals": 55,
+    "chunk029_terminal_residuals_s": {
+      "m0053": 0.005,
+      "m0054": 0.005
     }
   },
-  "notes": "Durable source-faithful mirror. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when these chunks are materialized. Chunk028 preserves the verified literal sequence m0047,m0048,m0049,m0050,m0051. m0052 exists upstream but occurs later; m0053 is the next literal source record after m0051 and is therefore the next continuation target. Original labels/endpoints were retained without IPA invention or timing repair.",
-  "last_updated": "2026-09-12T11:10:36-07:00"
+  "notes": "Durable source-faithful mirror. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when these chunks are materialized. Chunk029 preserves literal upstream order m0053,m0054. The next literal record is m0056; m0052 occurs later upstream and must not be numerically reordered. Original labels/endpoints were retained without IPA invention or timing repair.",
+  "last_updated": "2026-09-12T12:10:40-07:00"
 }
