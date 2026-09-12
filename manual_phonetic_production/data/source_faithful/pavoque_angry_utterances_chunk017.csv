@@ -1,0 +1,6 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0007,m0007,t - Grand Menhir Brisé;,angry,209.64,212.52,2.88,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0008,m0008,Ein wöchentliches Engagement im Club folgte.,angry,212.52,216.66,4.14,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0006,m0006,Mit Paul Rutherford und John Stevens.,angry,216.66,220.38,3.72,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0009,m0009,Alle Verfilmungen basieren auf dem Roman von Alexandre Dumas.,angry,220.38,225.54,5.16,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0011,m0011,Carmen bleibt mit José zurück.,angry,225.54,228.84,3.3,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
