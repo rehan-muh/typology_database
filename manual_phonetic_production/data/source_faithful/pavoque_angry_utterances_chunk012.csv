@@ -1,0 +1,5 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::spike0039,spike0039,Ich habe eigentlich keine Zeit für diesen glücklichen Blödsinn - du verschwendest meine Zeit.,angry,137.88,144.96,7.08,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0040,spike0040,Wen willst du hier eigentlich für dumm verkaufen?,angry,144.96,149.4,4.44,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0041,spike0041,"Du denkst wohl tatsächlich, dass du jemand bist.",angry,149.4,153.78,4.38,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0042,spike0042,"Du bist langweilig, tust du nie etwas spannendes?",angry,153.78,158.22,4.44,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
