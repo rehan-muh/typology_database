@@ -1,0 +1,31 @@
+{
+  "source_id": "ifa_spoken_language_corpus",
+  "status": "accepted",
+  "deposit": "https://zenodo.org/records/14904090",
+  "doi": "10.5281/zenodo.14904090",
+  "license": "GPL",
+  "language": "Dutch",
+  "primary_non_singing": true,
+  "manual_annotation_basis": "Corpus is explicitly hand-segmented; 1000 hours of labeling are reported, with inter- and intra-labeler boundary/label evaluation.",
+  "speakers_phonemically_segmented": 8,
+  "segmented_speech_seconds": 19867,
+  "segmented_sentences": 4492,
+  "segmented_words": 51782,
+  "segmented_syllables": 74702,
+  "segmented_phonemes": 187544,
+  "file_manifest_records": 35,
+  "observation_rows_promoted": 0,
+  "processed_files": [],
+  "pending_high_priority": [
+    "Labels-chunks.zip",
+    "Labels-sentences.zip",
+    "Labels-validation.zip",
+    "LabelProtocol.zip",
+    "SLcorpus.zip",
+    "DatabaseFiles.zip"
+  ],
+  "large_audio_policy": "Do not commit bulk audio to GitHub. Retain Zenodo authority, filenames, sizes and MD5 checksums; fetch audio only when required for validation or derived measurements.",
+  "download_note": "Direct archive retrieval was attempted during discovery but the execution download path failed; no observation rows are claimed until archive bytes are successfully retrieved and parsed.",
+  "next_action": "Download compact label/protocol archives first; enumerate every contained TextGrid/table; preserve source-faithful copies/checksums; derive namespaced speaker/recording/utterance/segment tables and annotator/reliability metadata.",
+  "last_updated": "2026-09-11T17:14:10-07:00"
+}
