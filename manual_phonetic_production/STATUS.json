@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-12T06:10:00-07:00",
-  "total_sources": 154,
+  "last_updated": "2026-09-12T07:08:54-07:00",
+  "total_sources": 155,
   "accepted_sources": 47,
   "excluded_sources": 25,
-  "review_sources": 82,
+  "review_sources": 83,
   "ingested_sources": 44,
   "parsed_rows_total": 1361571,
   "parsed_logical_tables_total": 86,
-  "inventory_file_records": 1055,
+  "inventory_file_records": 1057,
   "variable_dictionary_records": 1156,
-  "notes": "This pass performed both observation-level backlog ingestion and discovery/re-screening. PAVOQUE durable source-faithful materialization advanced from 80 utterances / 2,328 manually corrected intervals through m0029 to 81 utterances / 2,386 intervals through m0030. Chunk023 adds 1 complete source-faithful utterance and 58 manually corrected German-SAMPA/silence intervals verified directly against immutable upstream pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original labels and cumulative endpoints are preserved; starts/durations are deterministic derivatives; no IPA was invented; m0030 retains the source-native 0.005 s terminal residual. The next verified upstream record is m0031. Global parsed_rows_total remains unchanged because this PAVOQUE lineage is already represented in the validated full-corpus parse. Discovery/re-screening reverified the Consonant Challenge Corpus manual-only handsegm.91.mlf.txt layer (91 hand-segmented VCVs, separately identifiable from automatic segmentations) and the IFA Spoken Language Corpus annotation archive. Neither was falsely counted as newly parsed in this pass because byte-level archive retrieval/preview was unavailable through the active routes. All writes remained within manual_phonetic_production/."
+  "notes": "This pass performed both observation-level backlog ingestion and fresh discovery. PAVOQUE durable source-faithful materialization advanced from 81 utterances / 2,386 manually corrected intervals through m0030 to 82 utterances / 2,423 intervals through m0031. Chunk024 adds 1 complete utterance and 37 manually corrected German-SAMPA/silence intervals verified directly against immutable upstream pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original labels and cumulative endpoints are preserved exactly; interval starts/durations are deterministic derivatives; no IPA was invented; m0031 retains the source-native 0.005 s terminal residual. The next verified upstream record is m0032; m0032 and m0033 were inspected in full during this run but intentionally left uncommitted rather than creating a partial transactional chunk. Global parsed_rows_total remains unchanged because this PAVOQUE lineage is already represented in the validated full-corpus parse. Fresh discovery added the UltraSuite UXTD/UXSSD manually revised reference-label subset to HIGH review: primary child audio+ultrasound production with 60 speaker-level and 199 word-level utterance annotations manually revised by a single annotator, while its phone labels are explicitly only forced aligned and therefore remain outside core unless separately human-verified. All writes remained within manual_phonetic_production/."
 }
