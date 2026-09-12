@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-12T11:10:36-07:00",
-  "total_sources": 157,
+  "last_updated": "2026-09-12T12:10:40-07:00",
+  "total_sources": 158,
   "accepted_sources": 47,
   "excluded_sources": 25,
-  "review_sources": 85,
+  "review_sources": 86,
   "ingested_sources": 44,
   "parsed_rows_total": 1361571,
   "parsed_logical_tables_total": 86,
-  "inventory_file_records": 1070,
+  "inventory_file_records": 1073,
   "variable_dictionary_records": 1156,
-  "notes": "This pass performed both observation-level backlog ingestion and fresh discovery/screening. PAVOQUE durable source-faithful materialization advanced from 96 utterances / 2,843 manually corrected intervals through m0046 to 101 utterances / 2,995 intervals through m0051. Chunk028 adds 5 utterances and 152 manually corrected German-SAMPA/silence intervals in literal upstream order m0047,m0048,m0049,m0050,m0051, verified directly against immutable upstream pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original labels and cumulative endpoints are preserved; starts/durations are deterministic derivatives; no IPA was invented; all five records retain 0.005 s source-native terminal residuals. m0052 exists upstream but occurs later; m0053 is the next literal source record and is the next continuation target. Global parsed_rows_total remains unchanged because the PAVOQUE lineage is already represented in the validated full-corpus parse. Discovery screened current Zenodo/OSF/GitHub results for manual or human-verified production layers. AUSpeech was recognized as already present in the review queue and was not duplicated; PodcastFillers was rejected under the third-party-media exclusion; the French OSCE dialogue deposit was not admitted because the surfaced human layer is corrected transcription rather than qualifying phonetic interval/measurement annotation and its files are restricted. No registry counts were inflated by these screens. All writes remained within manual_phonetic_production/."
+  "notes": "This pass performed both observation-level backlog ingestion and fresh discovery. PAVOQUE durable source-faithful materialization advanced from 101 utterances / 2,995 manually corrected intervals through m0051 to 103 utterances / 3,050 intervals through m0054. Chunk029 adds m0053 and m0054 with 55 manually corrected German-SAMPA/silence intervals in literal upstream order, verified against immutable pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original labels and cumulative endpoints are preserved; starts/durations are deterministic derivatives; no IPA was invented; both records retain 0.005 s source-native terminal residuals. The next literal source record is m0056; m0052 occurs later and must not be numerically reordered. Global parsed_rows_total remains unchanged because the PAVOQUE lineage is already represented in the validated full-corpus parse. Fresh discovery added L2-ARCTIC to HIGH review: its 24-speaker primary non-native English corpus cleanly separates 3,599 manually annotated read-speech TextGrids with corrected word/phone boundaries and pronunciation-error labels from ordinary forced alignments, and its suitcase subset has human-checked transcriptions. Only the isolated manual layers are eligible for future ingestion. RescueSpeech was re-screened but remains ambiguous as to whether its human annotation is phonetic/temporal versus transcript-level. All writes remained within manual_phonetic_production/."
 }
