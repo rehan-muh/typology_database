@@ -1,0 +1,5 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0018,m0018,Es bildet keine Hydrate.,angry,251.82,254.76,2.94,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0019,m0019,Verlangte dafür allerdings Tantiemen.,angry,254.76,258.48,3.72,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0020,m0020,Der Begriff Teamwork bezeichnet:,angry,258.48,261.9,3.42,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0021,m0021,Der Schmuggel mit Öl blüht.,angry,261.9,265.02,3.12,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
