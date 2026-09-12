@@ -1,0 +1,3 @@
+source_id,chunk,path,role,row_count,blob_sha,upstream_source,upstream_blob_sha,notes
+pavoque,029,manual_phonetic_production/data/source_faithful/pavoque_angry_utterances_chunk029.csv,source_faithful_utterances,2,84a636428de3e833452f211ef9f1e97ea9dc0121,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,"Literal upstream records m0053,m0054; original text/style/start/end preserved."
+pavoque,029,manual_phonetic_production/data/source_faithful/pavoque_angry_segments_chunk029.csv,source_faithful_intervals,55,91552bb4db92ed7e0fd5645599c7e58e3ec073f8,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,"German-SAMPA/silence labels and cumulative endpoints preserved; interval starts/durations deterministic derivatives; no IPA invention."
