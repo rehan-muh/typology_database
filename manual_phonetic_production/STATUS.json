@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-11T16:10:34-07:00",
-  "total_sources": 147,
-  "accepted_sources": 45,
+  "last_updated": "2026-09-11T17:14:10-07:00",
+  "total_sources": 148,
+  "accepted_sources": 46,
   "excluded_sources": 25,
   "review_sources": 77,
   "ingested_sources": 44,
   "parsed_rows_total": 1361571,
   "parsed_logical_tables_total": 86,
-  "inventory_file_records": 976,
+  "inventory_file_records": 1013,
   "variable_dictionary_records": 1148,
-  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE durable source-faithful materialization advanced from 27 utterances / 796 manually corrected intervals to 28 utterances / 860 intervals by committing spike0030 (1 utterance + 64 intervals) from pavoque-angry.yaml, reverified against upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original German text, expressive style, German-SAMPA/silence labels and cumulative source endpoints were retained; interval starts/durations are deterministic derivatives and no IPA/context was invented. The source-native 5-ms residual between the final interval endpoint and utterance end is preserved. The next verified source record is spike0031. The PAVOQUE file manifest now covers 16 chunk files; a manifest-only typo in the preserved chunk007 utterance SHA was detected and corrected without changing source data. Global parsed_rows_total remains 1,361,571 because the validated full PAVOQUE CI parse already represents these observations. Fresh discovery sharpened L2-ARCTIC's manual subset to 3,599 annotated utterances / ~9,458 phone segments and added Mitra & Dutta's open Bengali-English production study as a high-priority review candidate because it supplies manually segmented vowels with F1/F2 at five trajectory timepoints and open OSF data. Two review candidates were added after repository-wide duplicate checks. All writes remained within manual_phonetic_production/."
+  "notes": "This pass performed both backlog ingestion and fresh discovery/admission. PAVOQUE durable source-faithful materialization advanced from 28 utterances / 860 manually corrected intervals through spike0030 to 32 utterances / 1,008 intervals through spike0034 by committing four complete utterances and 148 manually corrected German-SAMPA/silence intervals from pavoque-angry.yaml, reverified against blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original labels/endpoints were retained and the source-native 5-ms final residual for all four records was preserved. The next verified source record is spike0035. Global parsed_rows_total is unchanged because these observations already exist in the validated full PAVOQUE CI parse. Fresh discovery accepted the IFA Spoken Language Corpus (Zenodo 14904090): primary non-singing Dutch speech explicitly hand-segmented, with 8 phonemically segmented speakers, 19,867 s segmented speech, 4,492 segmented sentences and 187,544 phonemes. All 35 top-level Zenodo files were inventoried with sizes/checksums; compact annotation/protocol/database archives are queued for parsing and large audio remains reference/checksum-only. Direct archive retrieval failed in this execution path, so IFA is accepted but not falsely counted as materially ingested and no IFA observation rows are claimed. The Mitra-Dutta OSF trajectory source remains HIGH review pending resolvable file-tree access. All writes remained within manual_phonetic_production/."
 }
