@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T08:09:09-07:00",
+  "last_updated": "2026-09-12T09:11:44-07:00",
   "total_sources": 156,
   "accepted_sources": 47,
   "excluded_sources": 25,
@@ -7,7 +7,7 @@
   "ingested_sources": 44,
   "parsed_rows_total": 1361571,
   "parsed_logical_tables_total": 86,
-  "inventory_file_records": 1060,
+  "inventory_file_records": 1064,
   "variable_dictionary_records": 1156,
-  "notes": "This pass performed both observation-level backlog ingestion and fresh discovery. PAVOQUE durable source-faithful materialization advanced from 82 utterances / 2,423 manually corrected intervals through m0031 to 84 utterances / 2,512 intervals through m0033. Chunk025 adds 2 complete utterances (m0032-m0033) and 89 manually corrected German-SAMPA/silence intervals verified directly against immutable upstream pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original labels and cumulative endpoints are preserved exactly; interval starts/durations are deterministic derivatives; no IPA was invented; both utterances retain source-native 0.005 s terminal residuals. The next verified upstream record is m0034. Global parsed_rows_total remains unchanged because this PAVOQUE lineage is already represented in the validated full-corpus parse. Fresh discovery added Nagle, Huensch & Zárate-Sández (2023) L2 Spanish to HIGH review: 42 primary speakers / 84 picture-description utterances, phonemically segmented in Praat and checked by at least two researchers, with public OSF analysis data/materials and manual production coding spanning intonation, VOT, lenition, rhotics, coda-l velarization, vowel diphthongization and phonemic errors. It remains in review pending file-level OSF enumeration and observation extraction. All writes remained within manual_phonetic_production/."
+  "notes": "This pass performed both observation-level backlog ingestion and fresh discovery/screening. PAVOQUE durable source-faithful materialization advanced from 84 utterances / 2,512 manually corrected intervals through m0033 to 90 utterances / 2,685 intervals through m0040. Chunk026 adds 6 complete utterances in literal upstream order (m0034,m0035,m0037,m0038,m0039,m0040; m0036 is absent upstream and was not invented) and 173 manually corrected German-SAMPA/silence intervals verified directly against immutable upstream pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original labels and cumulative endpoints are preserved exactly; interval starts/durations are deterministic derivatives; no IPA was invented; all six utterances retain source-native 0.005 s terminal residuals. The next verified upstream record is m0041. The 173 intervals are split across two same-schema local segment files solely for write-size reasons, with a manifest recording both local blob SHAs. Global parsed_rows_total remains unchanged because this PAVOQUE lineage is already represented in the validated full-corpus parse. Fresh discovery re-screened IFCASL and several newly surfaced corpora; third-party-media COVYT was rejected by policy, while Hamburg MapTask/KEC/early-production candidates were not promoted because the surfaced human annotations did not yet establish a clean public manual phonetic interval/measurement layer. All writes remained within manual_phonetic_production/."
 }
