@@ -6,14 +6,14 @@
   "upstream_blob_sha": "bff79d978f740f6c2b09bc595ade03b6bdf33423",
   "license": "CC BY-NC-SA 4.0",
   "annotation_scope": "manually corrected German-SAMPA phonetic segments and silence labels with utterance-relative cumulative endpoints",
-  "durable_source_faithful_chunks": 14,
-  "durable_utterances": 52,
-  "durable_intervals": 1543,
-  "latest_committed_source_record": "spike0054",
-  "next_verified_source_record": "m0001",
-  "source_order_note": "Prompt numbering is non-contiguous in source order; spike0054 is followed by m0001 in the verified upstream sequence.",
+  "durable_source_faithful_chunks": 15,
+  "durable_utterances": 53,
+  "durable_intervals": 1571,
+  "latest_committed_source_record": "m0001",
+  "next_verified_source_record": "m0002",
+  "source_order_note": "Prompt numbering is non-contiguous in source order; source order is followed exactly rather than inferred from numeric prompt IDs.",
   "normalization_policy": "Original German-SAMPA labels are retained. Interval starts and durations are deterministic derivatives of cumulative endpoints. No IPA is invented.",
   "timing_policy": "Source-native final annotation endpoints are retained exactly; recurring 0.005 s residuals to utterance end are not absorbed into the final interval.",
   "distinct_observation_accounting": "These rows are already represented in the validated full PAVOQUE CI parse; durable source-faithful materialization does not increase the global distinct-observation count.",
-  "last_updated": "2026-09-11T22:10:00-07:00"
+  "last_updated": "2026-09-11T23:11:00-07:00"
 }
