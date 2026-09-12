@@ -1,0 +1,4 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0012,m0012,"Alan Iljitsch Dudajew, russisch;",angry,228.84,232.26,3.42,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0013,m0013,Sie lehnte ebenso ab wie Vivien Leigh und Katharine Hepburn.,angry,232.26,237.36,5.1,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0014,m0014,Dieses Vakuum füllte Magnus aus.,angry,237.36,240.78,3.42,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
