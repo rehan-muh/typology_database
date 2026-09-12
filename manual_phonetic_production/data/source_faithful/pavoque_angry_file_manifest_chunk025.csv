@@ -1,0 +1,3 @@
+source_id,subset,repository_path,git_blob_sha,size_bytes,row_scope,upstream_source,upstream_blob_sha,license,notes
+pavoque,angry,data/source_faithful/pavoque_angry_utterances_chunk025.csv,0a085a337ad67d9485d392c9cfcf14e64d5d5445,503,utterances,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,CC BY-NC-SA 4.0,"source-faithful durable materialization; 2 utterances in literal upstream order: m0032,m0033"
+pavoque,angry,data/source_faithful/pavoque_angry_segments_chunk025.csv,71abbfac3ed6f0c7d8bf4e21dd0c8816f3ae0d67,12441,segments,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,CC BY-NC-SA 4.0,"89 manually corrected German-SAMPA/silence intervals; exact source-native endpoints retained; both m0032 and m0033 end 0.005 s before nominal utterance end"
