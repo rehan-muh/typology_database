@@ -1,0 +1,5 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0002,m0002,"Ägyptologie, Pharao, Fluch des Pharao.",angry,196.44,200.22,3.78,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0003,m0003,Pfauen sind polygame Vögel.,angry,200.22,203.34,3.12,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0004,m0004,Framework drei Punkt null.,angry,203.34,206.4,3.06,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0005,m0005,Als Interieur bezeichnet man:,angry,206.4,209.64,3.24,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
