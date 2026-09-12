@@ -1,0 +1,7 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0034,m0034,Der Senator billigt die Deutsch Pflicht auf Schulhöfen.,angry,314.1,318.9,4.8,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0035,m0035,Die Hauptrolle übernahm Jeffrey Wright.,angry,318.9,322.74,3.84,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0037,m0037,Warren starb in Washington.,angry,322.74,325.86,3.12,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0038,m0038,Das Pendant dazu ist eine Scheibe;,angry,325.86,329.4,3.54,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0039,m0039,Einige Schüler gründen diesen Club neu.,angry,329.4,333.24,3.84,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0040,m0040,Alain Robert: Mit nackten Händen.,angry,333.24,336.72,3.48,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
