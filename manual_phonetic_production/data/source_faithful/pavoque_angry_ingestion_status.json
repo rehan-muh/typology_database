@@ -6,11 +6,11 @@
   "upstream_blob_sha": "bff79d978f740f6c2b09bc595ade03b6bdf33423",
   "license": "CC BY-NC-SA 4.0",
   "annotation_scope": "manually corrected German-SAMPA phonetic segments and silence labels with utterance-relative cumulative endpoints",
-  "durable_source_faithful_chunks": 21,
-  "durable_utterances": 77,
-  "durable_intervals": 2244,
-  "latest_committed_source_record": "m0026",
-  "next_verified_source_record": "m0027",
+  "durable_source_faithful_chunks": 22,
+  "durable_utterances": 80,
+  "durable_intervals": 2328,
+  "latest_committed_source_record": "m0029",
+  "next_verified_source_record": "m0030",
   "validation": {
     "namespaced_ids": true,
     "original_labels_preserved": true,
@@ -18,16 +18,14 @@
     "interval_starts_and_durations_are_deterministic_derivatives": true,
     "ipa_not_invented": true,
     "source_native_terminal_timing_preserved": true,
-    "chunk021_utterances": 5,
-    "chunk021_intervals": 138,
-    "chunk021_terminal_residuals_s": {
-      "m0022": 0.005,
-      "m0023": -0.010687,
-      "m0024": 0.005,
-      "m0025": 0.005,
-      "m0026": 0.005
+    "chunk022_utterances": 3,
+    "chunk022_intervals": 84,
+    "chunk022_terminal_residuals_s": {
+      "m0027": 0.005,
+      "m0028": 0.005,
+      "m0029": 0.005
     }
   },
-  "notes": "Durable source-faithful mirror. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when these chunks are materialized. Negative residual for m0023 means the final manual annotation endpoint extends 0.010687 s beyond the nominal utterance duration; this source-native inconsistency is retained rather than silently corrected.",
-  "last_updated": "2026-09-12T04:07:49-07:00"
+  "notes": "Durable source-faithful mirror. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when these chunks are materialized. Chunk022 preserves literal upstream order and exact source-native timing.",
+  "last_updated": "2026-09-12T05:09:08-07:00"
 }
