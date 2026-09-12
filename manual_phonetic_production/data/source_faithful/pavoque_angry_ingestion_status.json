@@ -6,11 +6,11 @@
   "upstream_blob_sha": "bff79d978f740f6c2b09bc595ade03b6bdf33423",
   "license": "CC BY-NC-SA 4.0",
   "annotation_scope": "manually corrected German-SAMPA phonetic segments and silence labels with utterance-relative cumulative endpoints",
-  "durable_source_faithful_chunks": 27,
-  "durable_utterances": 96,
-  "durable_intervals": 2843,
-  "latest_committed_source_record": "m0046",
-  "next_verified_source_record": "m0047",
+  "durable_source_faithful_chunks": 28,
+  "durable_utterances": 101,
+  "durable_intervals": 2995,
+  "latest_committed_source_record": "m0051",
+  "next_verified_source_record": "m0053",
   "validation": {
     "namespaced_ids": true,
     "original_labels_preserved": true,
@@ -19,18 +19,17 @@
     "ipa_not_invented": true,
     "source_native_terminal_timing_preserved": true,
     "literal_upstream_record_order_preserved": true,
-    "chunk027_utterances": 6,
-    "chunk027_intervals": 158,
-    "chunk027_segment_files": 2,
-    "chunk027_terminal_residuals_s": {
-      "m0041": 0.005,
-      "m0043": 0.005,
-      "m0044": 0.005,
-      "m0045": 0.005,
-      "m0036": 0.005,
-      "m0046": 0.005
+    "chunk028_utterances": 5,
+    "chunk028_intervals": 152,
+    "chunk028_segment_files": 2,
+    "chunk028_terminal_residuals_s": {
+      "m0047": 0.005,
+      "m0048": 0.005,
+      "m0049": 0.005,
+      "m0050": 0.005,
+      "m0051": 0.005
     }
   },
-  "notes": "Durable source-faithful mirror. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when these chunks are materialized. Chunk027 corrects an earlier provenance mistake: m0036 is not absent upstream; it occurs later in literal source order after m0045. Chunk027 therefore preserves the verified sequence m0041,m0043,m0044,m0045,m0036,m0046. m0042 is not present in this local sequence before m0043. m0047 is the next verified source record.",
-  "last_updated": "2026-09-12T10:08:01-07:00"
+  "notes": "Durable source-faithful mirror. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when these chunks are materialized. Chunk028 preserves the verified literal sequence m0047,m0048,m0049,m0050,m0051. m0052 exists upstream but occurs later; m0053 is the next literal source record after m0051 and is therefore the next continuation target. Original labels/endpoints were retained without IPA invention or timing repair.",
+  "last_updated": "2026-09-12T11:10:36-07:00"
 }
