@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-12T14:09:00-07:00",
-  "total_sources": 159,
+  "last_updated": "2026-09-12T15:12:58-07:00",
+  "total_sources": 160,
   "accepted_sources": 47,
-  "excluded_sources": 25,
+  "excluded_sources": 26,
   "review_sources": 87,
   "ingested_sources": 44,
   "parsed_rows_total": 1361571,
   "parsed_logical_tables_total": 86,
-  "inventory_file_records": 1079,
+  "inventory_file_records": 1082,
   "variable_dictionary_records": 1156,
-  "notes": "This pass performed both observation-level backlog ingestion and fresh discovery. PAVOQUE durable source-faithful materialization advanced from 107 utterances / 3,176 manually corrected intervals through m0059 to 110 utterances / 3,254 intervals through m0062. Chunk031 adds literal upstream records m0060,m0061,m0062 with 78 manually corrected German-SAMPA/silence intervals, verified against immutable pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original labels and cumulative endpoints are preserved; starts/durations are deterministic derivatives; no IPA was invented; all three records retain 0.005 s source-native terminal residuals. The next literal source record is m0063. Global parsed_rows_total remains unchanged because the PAVOQUE lineage is already represented in the validated full-corpus parse. Fresh discovery added the Estonian gemination EMA study (DataDOI DOI 10.15155/re-34) to HIGH review: its public deposit exposes README.txt and a 926.24 kB tipatapi_data.txt table, and the associated study documents manually annotated lip-closure boundaries. It is conservatively held from core admission until README/column semantics and annotation-to-row lineage can be parsed; direct bitstream retrieval returned HTTP 403 in this run. All writes remained within manual_phonetic_production/."
+  "notes": "This pass performed both observation-level backlog ingestion and fresh discovery. PAVOQUE durable source-faithful materialization advanced from 110 utterances / 3,254 manually corrected intervals through m0062 to 114 utterances / 3,417 intervals through m0066. Chunk032 adds literal upstream records m0063,m0064,m0065,m0066 with 163 manually corrected German-SAMPA/silence intervals, verified against immutable pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original labels and cumulative endpoints are preserved; source-faithful segment observations are stored as exact label/end-point records and starts/durations remain deterministic derivatives; no IPA was invented; all four records retain 0.005 s source-native terminal residuals. The canonical PAVOQUE status file was also reconciled because it had lagged the already committed chunk031. The next literal source record is m0067. Global parsed_rows_total remains unchanged because the PAVOQUE lineage is already represented in the validated full-corpus parse. Fresh discovery screened Hiemstra & Sadakata (2024), whose manually segmented speech-to-song stimulus data were excluded because the recordings derive from audiobooks/pre-existing stimulus collections, violating the primary-recording rule. All writes remained within manual_phonetic_production/."
 }
