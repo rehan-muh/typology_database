@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-11T21:11:00-07:00",
-  "total_sources": 151,
+  "last_updated": "2026-09-11T22:10:00-07:00",
+  "total_sources": 152,
   "accepted_sources": 46,
   "excluded_sources": 25,
-  "review_sources": 80,
+  "review_sources": 81,
   "ingested_sources": 44,
   "parsed_rows_total": 1361571,
   "parsed_logical_tables_total": 86,
-  "inventory_file_records": 1021,
+  "inventory_file_records": 1023,
   "variable_dictionary_records": 1148,
-  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE durable source-faithful materialization advanced from 40 utterances / 1,321 manually corrected intervals through spike0042 to 49 utterances / 1,472 intervals through spike0051. Chunk013 adds 9 complete utterances and 151 manually corrected German-SAMPA/silence intervals verified directly against immutable upstream pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original labels and cumulative endpoints were preserved; interval starts/durations are deterministic derivatives and no IPA was invented. Source-native terminal timing residuals were not absorbed into final intervals. Global parsed_rows_total remains unchanged because these observations are already represented in the validated full PAVOQUE parse. Fresh discovery added BESST (Pešán et al. 2024) to HIGH REVIEW: primary Czech speech from 79 participants in controlled stress/cognitive-load tasks, with BESSTiANNO used for precise segmentation and manual verification of audio/video streams and subsequent manual checks/corrections; dataset access requires a signed license, so exact human-verified speech annotation files must be isolated before core admission. All writes remained within manual_phonetic_production/."
+  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE durable source-faithful materialization advanced from 49 utterances / 1,472 manually corrected intervals through spike0051 to 52 utterances / 1,543 intervals through spike0054. Chunk014 adds the final three spike-series utterances and 71 manually corrected German-SAMPA/silence intervals verified directly against immutable upstream pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original labels and cumulative endpoints were preserved; interval starts/durations are deterministic derivatives and no IPA was invented. The verified next upstream record is m0001. Global parsed_rows_total remains unchanged because these observations are already represented in the validated full PAVOQUE parse. Fresh discovery added Hu 2025 Tibetan-Chinese-English trilingual English-vowel production to HIGH REVIEW: a CC BY 4.0 Mendeley Data deposit with manually annotated/validated Praat measurements, F1/F2 trajectories and peak values for English diphthongs, and participant metadata. Exact timepoint definitions, speaker counts, TXT schema, and manual-vs-automatic measurement provenance still require file-level enumeration before core admission. All writes remained within manual_phonetic_production/."
 }
