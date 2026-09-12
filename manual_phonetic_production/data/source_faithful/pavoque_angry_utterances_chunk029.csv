@@ -1,0 +1,3 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0053,m0053,Daher wechselte er zum Cello.,angry,375.48,378.72,3.24,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0054,m0054,Das Libretto schrieb Samuel Humphreys.,angry,378.72,382.5,3.78,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
