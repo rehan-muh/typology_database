@@ -1,0 +1,10 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::spike0043,spike0043,Was meinst du?,angry,158.22,160.56,2.34,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0044,spike0044,"Du findest dich wohl klug, hä?",angry,160.56,163.86,3.3,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0045,spike0045,Wieso genau hast du so gute Laune?,angry,163.86,167.4,3.54,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0046,spike0046,Wieso bist du da so sicher?,angry,167.4,170.52,3.12,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0047,spike0047,Wie was?,angry,170.52,172.5,1.98,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0048,spike0048,Wie?,angry,172.5,174.24,1.74,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0049,spike0049,Mach weiter.,angry,174.24,176.46,2.22,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0050,spike0050,Rede weiter.,angry,176.46,178.68,2.22,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0051,spike0051,Würdest du gerne mit jemand anderem sprechen?,angry,178.68,182.88,4.2,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
