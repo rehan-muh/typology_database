@@ -1,0 +1,6 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0047,m0047,Die Pygmäen helfen ihnen gerne.,angry,356.88,360.24,3.36,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0048,m0048,Danton war am zehnten Juli aus dem Ausschuss abberufen worden.,angry,360.24,365.46,5.22,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0049,m0049,Viele Arten blühen nachts.,angry,365.46,368.52,3.06,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0050,m0050,Aus dieser Ehe ging Paul Gauguin hervor.,angry,368.52,372.42,3.9,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0051,m0051,Radio China International;,angry,372.42,375.48,3.06,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
