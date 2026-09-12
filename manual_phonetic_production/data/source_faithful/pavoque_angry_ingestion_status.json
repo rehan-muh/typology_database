@@ -6,11 +6,11 @@
   "upstream_blob_sha": "bff79d978f740f6c2b09bc595ade03b6bdf33423",
   "license": "CC BY-NC-SA 4.0",
   "annotation_scope": "manually corrected German-SAMPA phonetic segments and silence labels with utterance-relative cumulative endpoints",
-  "durable_source_faithful_chunks": 24,
-  "durable_utterances": 82,
-  "durable_intervals": 2423,
-  "latest_committed_source_record": "m0031",
-  "next_verified_source_record": "m0032",
+  "durable_source_faithful_chunks": 25,
+  "durable_utterances": 84,
+  "durable_intervals": 2512,
+  "latest_committed_source_record": "m0033",
+  "next_verified_source_record": "m0034",
   "validation": {
     "namespaced_ids": true,
     "original_labels_preserved": true,
@@ -18,12 +18,13 @@
     "interval_starts_and_durations_are_deterministic_derivatives": true,
     "ipa_not_invented": true,
     "source_native_terminal_timing_preserved": true,
-    "chunk024_utterances": 1,
-    "chunk024_intervals": 37,
-    "chunk024_terminal_residuals_s": {
-      "m0031": 0.005
+    "chunk025_utterances": 2,
+    "chunk025_intervals": 89,
+    "chunk025_terminal_residuals_s": {
+      "m0032": 0.005,
+      "m0033": 0.005
     }
   },
-  "notes": "Durable source-faithful mirror. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when these chunks are materialized. Chunk024 preserves literal upstream order and exact source-native timing. m0032 is the next verified source record; its full upstream record was also inspected during this run but was intentionally left for the next transactional chunk rather than partially materialized.",
-  "last_updated": "2026-09-12T07:08:54-07:00"
+  "notes": "Durable source-faithful mirror. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when these chunks are materialized. Chunk025 preserves literal upstream order and exact source-native timing for m0032-m0033. m0034 is the next verified source record.",
+  "last_updated": "2026-09-12T08:09:09-07:00"
 }
