@@ -1,13 +1,13 @@
 {
   "last_updated": "2026-09-11T20:07:00-07:00",
-  "total_sources": 151,
+  "total_sources": 150,
   "accepted_sources": 46,
   "excluded_sources": 25,
-  "review_sources": 80,
+  "review_sources": 79,
   "ingested_sources": 44,
   "parsed_rows_total": 1361571,
   "parsed_logical_tables_total": 86,
   "inventory_file_records": 1019,
   "variable_dictionary_records": 1148,
-  "notes": "This pass performed both backlog ingestion and fresh discovery. PAVOQUE durable source-faithful materialization advanced from 36 utterances / 1,138 manually corrected intervals through spike0038 to 40 utterances / 1,321 intervals through spike0042. Chunk012 adds 4 utterances and 183 manually corrected German-SAMPA/silence intervals verified directly against immutable upstream pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original labels and cumulative endpoints were preserved, derived starts/durations remain separate, and all four native 5-ms tail residuals were retained. Both new files were added to the canonical PAVOQUE manifest; next verified source record is spike0043. Global parsed_rows_total remains unchanged because these observations already exist in the validated full PAVOQUE CI parse. Fresh discovery added Cox et al. 2023 Danish infant-/adult-directed speech to HIGH REVIEW: 26 caregivers and 9,267 manually segmented vowel tokens, with raw formant data and code reported public on OSF ywf9m. The OSF file tree could not be enumerated through the current execution path, so no paper-only observations were promoted. All writes remained within manual_phonetic_production/."
+  "notes": "This pass performed both backlog ingestion and fresh discovery with final lineage-level deduplication. PAVOQUE durable source-faithful materialization advanced from 36 utterances / 1,138 manually corrected intervals through spike0038 to 40 utterances / 1,321 intervals through spike0042. Chunk012 adds 4 utterances and 183 manually corrected German-SAMPA/silence intervals verified directly against immutable upstream pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original labels and cumulative endpoints were preserved, derived starts/durations remain separate, and all four native 5-ms tail residuals were retained. Both new files were added to the canonical PAVOQUE manifest; next verified source record is spike0043. Global parsed_rows_total remains unchanged because these observations already exist in the validated full PAVOQUE CI parse. Discovery rediscovered Cox et al. 2023 Danish infant-/adult-directed speech (26 caregivers; 9,267 manually segmented vowels; public OSF raw formant data/code), but warehouse deduplication showed it was already materially represented as cox_dideriksen_kerenportnoy_2023_danish_ids with 19 files, 15 parsed tables, 40,502 rows and 143 variable records. The provisional duplicate review entry was deleted, so source counts remain unchanged. All writes remained within manual_phonetic_production/."
 }
