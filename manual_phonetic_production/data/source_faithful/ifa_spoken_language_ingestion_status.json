@@ -24,8 +24,13 @@
     "SLcorpus.zip",
     "DatabaseFiles.zip"
   ],
+  "verified_direct_download_templates": [
+    "https://zenodo.org/records/14904090/files/Labels-chunks.zip?download=1",
+    "https://zenodo.org/records/14904090/files/Labels-validation.zip?download=1",
+    "https://zenodo.org/records/14904090/files/LabelProtocol.zip?download=1"
+  ],
   "large_audio_policy": "Do not commit bulk audio to GitHub. Retain Zenodo authority, filenames, sizes and MD5 checksums; fetch audio only when required for validation or derived measurements.",
-  "download_note": "Direct archive retrieval was attempted during discovery but the execution download path failed; no observation rows are claimed until archive bytes are successfully retrieved and parsed.",
-  "next_action": "Download compact label/protocol archives first; enumerate every contained TextGrid/table; preserve source-faithful copies/checksums; derive namespaced speaker/recording/utterance/segment tables and annotator/reliability metadata.",
-  "last_updated": "2026-09-11T17:14:10-07:00"
+  "download_note": "Zenodo file-level download URLs were resolved directly from the deposit on 2026-09-11, including Labels-chunks.zip. Archive-byte retrieval through the current execution path still failed transiently, so no observation rows are claimed until bytes are successfully retrieved and parsed.",
+  "next_action": "Retry compact archive retrieval from the verified file URLs; enumerate every contained TextGrid/table; preserve source-faithful copies/checksums; derive namespaced speaker/recording/utterance/segment tables and annotator/reliability metadata.",
+  "last_updated": "2026-09-11T19:10:00-07:00"
 }
