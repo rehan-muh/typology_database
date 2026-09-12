@@ -6,22 +6,28 @@
   "upstream_blob_sha": "bff79d978f740f6c2b09bc595ade03b6bdf33423",
   "license": "CC BY-NC-SA 4.0",
   "annotation_scope": "manually corrected German-SAMPA phonetic segments and silence labels with utterance-relative cumulative endpoints",
-  "durable_source_faithful_chunks": 20,
-  "durable_utterances": 72,
-  "durable_intervals": 2106,
-  "latest_committed_source_record": "m0021",
-  "next_verified_source_record": "m0022",
+  "durable_source_faithful_chunks": 21,
+  "durable_utterances": 77,
+  "durable_intervals": 2244,
+  "latest_committed_source_record": "m0026",
+  "next_verified_source_record": "m0027",
   "validation": {
     "namespaced_ids": true,
     "original_labels_preserved": true,
     "original_cumulative_endpoints_preserved": true,
     "interval_starts_and_durations_are_deterministic_derivatives": true,
     "ipa_not_invented": true,
-    "source_native_terminal_residual_preserved": true,
-    "chunk020_utterances": 4,
-    "chunk020_intervals": 100,
-    "chunk020_each_terminal_residual_s": 0.005
+    "source_native_terminal_timing_preserved": true,
+    "chunk021_utterances": 5,
+    "chunk021_intervals": 138,
+    "chunk021_terminal_residuals_s": {
+      "m0022": 0.005,
+      "m0023": -0.010687,
+      "m0024": 0.005,
+      "m0025": 0.005,
+      "m0026": 0.005
+    }
   },
-  "notes": "Durable source-faithful mirror. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when these chunks are materialized.",
-  "last_updated": "2026-09-12T03:07:59-07:00"
+  "notes": "Durable source-faithful mirror. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when these chunks are materialized. Negative residual for m0023 means the final manual annotation endpoint extends 0.010687 s beyond the nominal utterance duration; this source-native inconsistency is retained rather than silently corrected.",
+  "last_updated": "2026-09-12T04:07:49-07:00"
 }
