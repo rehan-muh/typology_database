@@ -1,0 +1,4 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0060,m0060,"George Green, Hermann Grassmann.",angry,398.4,401.82,3.42,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0061,m0061,Der Begriff Byzanz bezeichnet:,angry,401.82,405.12,3.3,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0062,m0062,"Ilja Michailowitsch Frank, russisch;",angry,405.12,408.78,3.66,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
