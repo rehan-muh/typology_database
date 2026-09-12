@@ -1,0 +1,4 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0027,m0027,Meist wird er Steve Redgrave genannt.,angry,283.08,286.8,3.72,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0028,m0028,Königin Elizabeths Schlüssel.,angry,286.8,290.04,3.24,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0029,m0029,Oft wird Gefängnis Jargon benutzt.,angry,290.04,293.58,3.54,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
