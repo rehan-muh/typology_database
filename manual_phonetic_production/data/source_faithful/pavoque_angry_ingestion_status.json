@@ -6,11 +6,11 @@
   "upstream_blob_sha": "bff79d978f740f6c2b09bc595ade03b6bdf33423",
   "license": "CC BY-NC-SA 4.0",
   "annotation_scope": "manually corrected German-SAMPA phonetic segments and silence labels with utterance-relative cumulative endpoints",
-  "durable_source_faithful_chunks": 36,
-  "durable_utterances": 125,
-  "durable_intervals": 3835,
-  "latest_committed_source_record": "m0077",
-  "next_verified_source_record": "m0078",
+  "durable_source_faithful_chunks": 37,
+  "durable_utterances": 129,
+  "durable_intervals": 3960,
+  "latest_committed_source_record": "m0081",
+  "next_verified_source_record": "m0082",
   "validation": {
     "namespaced_ids": true,
     "original_labels_preserved": true,
@@ -19,12 +19,12 @@
     "ipa_not_invented": true,
     "source_native_terminal_timing_preserved": true,
     "literal_upstream_record_order_preserved": true,
-    "chunk035_utterances": 3,
-    "chunk035_intervals": 96,
     "chunk036_utterances": 3,
     "chunk036_intervals": 94,
-    "chunk036_terminal_residuals_s": {"m0075": 0.005, "m0076": 0.005, "m0077": 0.005}
+    "chunk037_utterances": 4,
+    "chunk037_intervals": 125,
+    "chunk037_terminal_residuals_s": {"m0078": 0.005, "m0079": 0.005, "m0080": 0.005, "m0081": 0.005}
   },
-  "notes": "Durable source-faithful mirror advanced through chunk036. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when chunks are materialized. Chunk036 preserves literal upstream order m0075,m0076,m0077; next verified record is m0078. Original labels/endpoints were retained without IPA invention or timing repair.",
-  "last_updated": "2026-09-12T19:12:06-07:00"
+  "notes": "Durable source-faithful mirror advanced through chunk037. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when chunks are materialized. Chunk037 preserves literal upstream order m0078,m0079,m0080,m0081; next verified record is m0082. Original labels/endpoints were retained without IPA invention or timing repair.",
+  "last_updated": "2026-09-12T20:10:29-07:00"
 }
