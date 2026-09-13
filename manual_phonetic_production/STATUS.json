@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-13T01:07:00-07:00",
+  "last_updated": "2026-09-13T02:12:00-07:00",
   "total_sources": 170,
   "accepted_sources": 47,
   "excluded_sources": 29,
   "review_sources": 94,
   "ingested_sources": 45,
-  "parsed_rows_total": 1361619,
-  "parsed_logical_tables_total": 89,
+  "parsed_rows_total": 1361865,
+  "parsed_logical_tables_total": 90,
   "inventory_file_records": 1109,
-  "variable_dictionary_records": 1193,
-  "notes": "This pass materially advanced accepted backlog source CCOST from file-level inventory to observation-level ingestion. The authoritative Zenodo CCOST_metadata.csv endpoint exposes 488 recording rows and 37 original variables; rows 1-48 were committed source-faithfully with every original column/value retained, a complete 37-record variable dictionary was added, and linked namespaced speaker (6 rows) and recording (48 rows) tables were created. parsed_rows_total increases by 48 distinct source metadata observations only; the harmonized speaker/recording projections are linked derivatives and are not double-counted. The 6.2 GB WAV/TextGrid archive remains reference-only pending annotation-only enumeration. Fresh discovery added the LoKiS longitudinal German child-speech corpus to HIGH review: the project reports all recordings segmented/annotated, and the first-wave JSLHR methods document manually checked/corrected Praat TextGrids and target-word boundaries, but current corpus access is contact-mediated rather than an open downloadable deposit. PAVOQUE remains at 146 durable utterances / 4,484 intervals through m0099 with next verified literal record m0101; no PAVOQUE rows were fabricated during this pass. All writes were confined to manual_phonetic_production/."
+  "variable_dictionary_records": 1197,
+  "notes": "This pass materially advanced the accepted CCOST backlog. CCOST_metadata.csv progressed from 48/488 to 88/488 recording rows, with rows 49-88 committed source-faithfully and linked to collision-safe speaker/recording projections. The complete 206-row x 4-column Thai wordlist.csv was also ingested source-faithfully, preserving original orthography, duplicates, columns A-D and row order; four stimulus-variable dictionary records were added and no IPA or phonological context was inferred. The pass therefore adds 246 distinct source observations (40 metadata rows + 206 stimulus rows) without double-counting harmonized projections. The 6.2 GB WAV/TextGrid archive remains reference-only; manually corrected TextGrid tiers are still the highest-priority deeper ingest. Direct retrieval of sentences.txt continued to fail Unicode decoding, so no guessed sentence content was admitted. Fresh discovery searches across Zenodo/OSF/GitHub screened manual-correction candidates but yielded no new source strong enough for promotion in this run; transcript-only/restricted dialogue records were not inflated into phonetic-production entries. All writes were confined to manual_phonetic_production/."
 }
