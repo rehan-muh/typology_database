@@ -1,0 +1,25 @@
+{
+  "source_id": "pavoque",
+  "subset": "angry",
+  "chunk": 37,
+  "source_repository": "marytts/pavoque-data",
+  "source_file": "pavoque-angry.yaml",
+  "upstream_blob_sha": "bff79d978f740f6c2b09bc595ade03b6bdf33423",
+  "license": "CC BY-NC-SA 4.0",
+  "literal_source_records": ["m0078", "m0079", "m0080", "m0081"],
+  "utterances": 4,
+  "intervals": 125,
+  "terminal_residual_s": {"m0078": 0.005, "m0079": 0.005, "m0080": 0.005, "m0081": 0.005},
+  "files": [
+    {"path": "data/source_faithful/pavoque_angry_utterances_chunk037.csv", "blob_sha": "ef954278c0af2caadfcfd20bbcadf51d1a45d1fa"},
+    {"path": "data/source_faithful/pavoque_angry_segments_chunk037.csv", "blob_sha": "76e9c2bf9f1ab3fdc3c9f882445bdf0c083fd897"}
+  ],
+  "validation": {
+    "original_labels_preserved": true,
+    "original_cumulative_endpoints_preserved": true,
+    "starts_and_durations_deterministic": true,
+    "ipa_invented": false,
+    "literal_upstream_order_preserved": true,
+    "next_verified_source_record": "m0082"
+  }
+}
