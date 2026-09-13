@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-12T19:12:06-07:00",
-  "total_sources": 162,
+  "last_updated": "2026-09-12T20:10:29-07:00",
+  "total_sources": 163,
   "accepted_sources": 47,
   "excluded_sources": 26,
-  "review_sources": 89,
+  "review_sources": 90,
   "ingested_sources": 44,
   "parsed_rows_total": 1361571,
   "parsed_logical_tables_total": 86,
-  "inventory_file_records": 1094,
+  "inventory_file_records": 1097,
   "variable_dictionary_records": 1156,
-  "notes": "This pass advanced durable source-faithful PAVOQUE materialization from 122 utterances / 3,741 intervals through m0074 to 125 utterances / 3,835 intervals through m0077. Chunk036 contains 3 utterances and 94 manually corrected German-SAMPA/silence intervals from immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423; original labels and cumulative endpoints are preserved, starts/durations are deterministic derivatives, no IPA was invented, and each record retains its native 0.005-s terminal residual. Next verified literal upstream record is m0078. Distinct scientific-row total remains unchanged because the validated full PAVOQUE lineage is already represented and must not be double-counted. Fresh discovery added Ulrich 2022 Russian Fricatives to HIGH review: primary controlled Russian production from 59 speakers / 77 sessions with 22,561 target-fricative tokens whose target boundaries were manually inspected and corrected in Praat. The repository exposes strong metadata and file manifests but requires a SWISSUbase restricted-access contract; only the human-verified target-fricative layer should be ingested if access becomes available, while unrelated automatic segmentation remains excluded. All writes in this pass were confined to manual_phonetic_production/."
+  "notes": "This pass advanced durable source-faithful PAVOQUE materialization from 125 utterances / 3,835 intervals through m0077 to 129 utterances / 3,960 intervals through m0081. Chunk037 contains 4 utterances and 125 manually corrected German-SAMPA/silence intervals from immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423; original labels and cumulative endpoints are preserved, starts/durations are deterministic derivatives, no IPA was invented, literal upstream order is retained, and each record preserves its native 0.005-s terminal residual. Next verified literal upstream record is m0082. Distinct scientific-row total remains unchanged because the validated full PAVOQUE lineage is already represented and must not be double-counted. Fresh discovery added ROG-Art (Training corpus of spoken Slovenian ROG) to HIGH review: its public CLARIN.SI CC BY-SA 4.0 deposit exposes a 22.24 MB annotated archive with EXMARaLDA, TRS, TextGrid and speaker/recording metadata plus a separate 1.31 GB WAV archive; ROG-Art contributes isolable new manual prosodic-unit, disfluency and dialogue-act annotations to pre-existing GOS recordings. Only genuinely new ROG human annotation layers should enter core, with inherited recordings/annotations deduplicated at lineage level. All writes in this pass were confined to manual_phonetic_production/."
 }
