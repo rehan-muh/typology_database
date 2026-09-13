@@ -1,0 +1,43 @@
+{
+  "source_id": "ccost_2026",
+  "source_file": "data/source_faithful/ccost_2026/CCOST_metadata_chunk001_rows001_048.csv",
+  "source_file_git_blob_sha": "a4a3990c9e8c16d70010ff6ec023077e79e2336b",
+  "source_row_range": "30-48",
+  "source_rows_projected": 19,
+  "outputs": [
+    {
+      "path": "data/warehouse/ccost_2026_recording_quality_conditions_rows030_048.csv",
+      "rows": 19,
+      "git_blob_sha": "0c1c9b32427efdc933c6aafe3cc0ae919e64826d",
+      "role": "recording/task/quality/temporal projection"
+    },
+    {
+      "path": "data/warehouse/ccost_2026_acoustic_summary_rows030_048.csv",
+      "rows": 19,
+      "git_blob_sha": "d04f3e9286b3bbb1a60624f2b974abe0d7276a78",
+      "role": "recording-level acoustic/intensity projection"
+    }
+  ],
+  "id_rules": {
+    "recording_id": "ccost_2026::<bundle>",
+    "speaker_id": "ccost_2026::S<Speaker>"
+  },
+  "transformations": [
+    "task copied from the explicit INT/WL/ST component of source bundle identifiers",
+    "source quality, SNR, quality flags/comments, word-list order, pace, misread category, durations and interval counts copied without value transformation",
+    "all ten source acoustic/intensity columns copied without normalization, imputation or unit conversion",
+    "blank source condition fields remain empty CSV values",
+    "provenance records the authoritative CCOST_metadata.csv row number"
+  ],
+  "validation": {
+    "quality_condition_rows": 19,
+    "acoustic_summary_rows": 19,
+    "unique_source_recording_ids": 19,
+    "source_rows_one_to_one_in_each_projection": true,
+    "namespaced_ids": true,
+    "source_values_overwritten": false,
+    "new_distinct_scientific_observations": 0,
+    "double_counting_guard": "These are analysis-ready projections of already ingested source-faithful metadata rows and MUST NOT increment parsed_rows_total."
+  },
+  "created": "2026-09-13T15:13:00-07:00"
+}
