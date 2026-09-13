@@ -1,0 +1,4 @@
+source_id,speaker_id,source_speaker_id,sex,year_of_birth,birth_place,region,year_moved_to_bangkok,age_years,education_original,age_group_original,height_cm
+ccost_2026,ccost_2026::S18,18,Male,1997,Sakon Nakorn,Northeastern,NA,23,16,YM,166
+ccost_2026,ccost_2026::S19,19,Male,1950,Bangkok,Greater BKK,NA,70,-,OM,168
+ccost_2026,ccost_2026::S20,20,Male,1991,Phrae,Northern,NA,29,16,YM,171
