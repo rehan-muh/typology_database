@@ -8,6 +8,8 @@
   "source_faithful_rows_ingested": 401,
   "harmonized_speaker_rows": 24,
   "harmonized_recording_rows": 195,
+  "harmonized_quality_condition_rows": 17,
+  "harmonized_acoustic_summary_rows": 17,
   "variable_dictionary_records": 41,
   "license": "CC-BY-NC-SA-4.0",
   "recording_scope": "Primary Standard Thai production: approximately 7 hours interview speech plus 5 hours controlled word-list/sentence reading from 49 speakers.",
@@ -23,11 +25,17 @@
     "maintained the 37-record metadata variable dictionary and 4 wordlist-specific variable records",
     "created namespaced linked speaker rows through S24 and recording links for all 195 ingested metadata records",
     "committed the complete 206-row x 4-column Thai wordlist.csv table source-faithfully, preserving source row order and repeated values",
+    "harmonized source rows 179-195 into a 17-row recording quality/condition table retaining interviewer gender, source quality grade, SNR, quality flags/comments, word-list order, pace, misread category, durations and interval count",
+    "harmonized source rows 179-195 into a 17-row acoustic summary table retaining all ten supplied intensity/amplitude measures: mean/max/min/SD intensity, dynamic range, peak level dBFS, peak intensity, threshold, average speech level and average noise level",
+    "created a chunk006 harmonization manifest with one-to-one source-row lineage, namespaced IDs, Git blob hashes and a double-counting guard",
+    "validated blank condition fields as true missing CSV values rather than a literal whitespace category",
+    "did not normalize, impute, unit-convert, infer IPA, infer context, or overwrite any source-faithful field",
     "did not infer IPA, phonological features, or missing stimulus metadata from Thai orthography",
     "re-tested sentences.txt previously; endpoint decoding remained unavailable, so no guessed sentence content was admitted"
   ],
   "pending": [
     "continue CCOST_metadata.csv from source row 196 through row 488; do not repeat rows 1-195",
+    "extend quality/condition and acoustic-summary harmonization to metadata rows 1-178 and future rows 196-488 while retaining exact source-row lineage",
     "parse sentences.txt once its source bytes can be decoded faithfully",
     "retrieve/enumerate TextGrid members without mirroring raw WAV audio",
     "parse every qualifying manually corrected TextGrid tier and interval preserving original labels/times",
@@ -42,11 +50,17 @@
     "wordlist_source_rows": 206,
     "wordlist_original_variables": 4,
     "next_metadata_source_row": 196,
+    "chunk006_harmonized_source_rows": "179-195",
+    "chunk006_quality_condition_rows": 17,
+    "chunk006_acoustic_summary_rows": 17,
+    "chunk006_unique_recording_ids": 17,
+    "chunk006_source_rows_one_to_one": true,
     "namespaced_ids": true,
     "original_source_columns_preserved": true,
     "source_values_not_overwritten": true,
     "raw_audio_committed": false,
-    "duplicate_recording_ids_detected": 0
+    "duplicate_recording_ids_detected": 0,
+    "distinct_scientific_observation_increment_from_harmonization": 0
   },
-  "updated": "2026-09-13T05:13:00-07:00"
+  "updated": "2026-09-13T14:08:00-07:00"
 }
