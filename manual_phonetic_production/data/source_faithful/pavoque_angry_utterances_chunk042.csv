@@ -1,0 +1,5 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0101,m0101,Der Begriff Gaudi steht für:,angry,555.78,558.96,3.18,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0103,m0103,Natürlich erinnerte sich Waschbär.,angry,558.96,562.50,3.54,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0104,m0104,Zwerg Seepferdchen werden nur zwei Zentimeter lang.,angry,562.50,567.06,4.56,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0105,m0105,"Diese heißen dann Gateway, Transport, Agent.",angry,567.06,571.20,4.14,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
