@@ -1,0 +1,5 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0129,m0129,Auch die Verdauung wird angeregt.,angry,674.70,678.18,3.48,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0130,m0130,Sie ist Hauptstadt der Provinz San Juan (Provinz).,angry,678.18,682.62,4.44,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0131,m0131,Und diese Schwermut ist ihr Zauber.,angry,682.62,686.22,3.60,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0132,m0132,Auch über das anstehende amerikanische Remake.,angry,686.22,690.48,4.26,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
