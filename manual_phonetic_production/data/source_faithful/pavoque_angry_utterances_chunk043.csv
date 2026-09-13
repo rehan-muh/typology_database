@@ -1,0 +1,5 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0106,m0106,Saddam Hussein hatte Wahlen.,angry,571.20,574.38,3.18,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0102,m0102,Südöstlich von Heilbronn.,angry,574.38,577.38,3.00,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0100,m0100,"Topos, der, Plural Topoi;",angry,577.38,580.38,3.00,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0096,m0096,Zu seinen Lehrern zählten Schostakowitsch und Prokofjew.,angry,580.38,585.24,4.86,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
