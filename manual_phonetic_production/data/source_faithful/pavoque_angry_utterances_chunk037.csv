@@ -1,0 +1,5 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0078,m0078,Diese werden von der Björn Steiger Stiftung Service getragen.,angry,475.98,481.14,5.16,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0079,m0079,Niemand managt uns im Moment.,angry,481.14,484.38,3.24,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0080,m0080,Im Hintergrund die Stadt Coswig.,angry,484.38,487.80,3.42,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0081,m0081,Ein Stückchen blauer Himmel;,angry,487.80,490.98,3.18,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
