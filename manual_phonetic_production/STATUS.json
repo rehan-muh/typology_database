@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T16:08:40-07:00",
+  "last_updated": "2026-09-12T17:07:46-07:00",
   "total_sources": 160,
   "accepted_sources": 47,
   "excluded_sources": 26,
@@ -7,7 +7,7 @@
   "ingested_sources": 44,
   "parsed_rows_total": 1361571,
   "parsed_logical_tables_total": 86,
-  "inventory_file_records": 1085,
+  "inventory_file_records": 1088,
   "variable_dictionary_records": 1156,
-  "notes": "This pass advanced PAVOQUE source-faithful materialization from 114 utterances / 3,417 intervals through m0066 to 117 utterances / 3,567 intervals through m0069. Chunk033 contains literal upstream records m0067-m0069 and 150 manually corrected German-SAMPA/silence endpoints from immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original labels/text/timings were preserved; no IPA was invented; all three records retain the source-native 0.005 s terminal residual. The next verified literal source record is m0070. Global parsed scientific-observation count remains unchanged because this PAVOQUE lineage is already represented in the validated full-corpus parse and must not be double-counted. Fresh discovery/backlog screening also revisited AphasiaBD: the Zenodo record documents 38 primary Bengali post-stroke speakers and 335 manually sentence-segmented clips; archive preview exposes the 335 WAV clips but no separate annotation sidecars in the surfaced ZIP tree, so it remains review rather than core. All writes remained within manual_phonetic_production/."
+  "notes": "This pass performed both observation-level backlog ingestion and fresh discovery/re-screening. PAVOQUE durable source-faithful materialization advanced from 117 utterances / 3,567 intervals through m0069 to 119 utterances / 3,645 intervals through m0071. Chunk034 adds literal upstream records m0070,m0071 with 78 manually corrected German-SAMPA/silence intervals from immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original labels, text, timings, and cumulative endpoints are preserved; starts/durations are deterministic derivatives; no IPA was invented; both records retain 0.005 s source-native terminal residuals. Next verified literal record is m0072. Global parsed_rows_total remains unchanged because the complete PAVOQUE lineage is already represented in the validated full-corpus parse and must not be double-counted. Fresh screening materially upgraded HAMATAC evidence: repository metadata explicitly documents a manual 'pho' tier for phonetic phenomena, alongside manual transcription/disfluency layers, for 28 speakers / 26 recordings / 208 minutes; because access is restricted it remains HIGH review pending isolation and ingestion of the manual phonetic tier. All writes remained within manual_phonetic_production/."
 }
