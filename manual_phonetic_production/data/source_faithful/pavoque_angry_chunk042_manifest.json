@@ -1,0 +1,28 @@
+{
+  "source_id": "pavoque",
+  "subset": "angry",
+  "source_repository": "marytts/pavoque-data",
+  "source_file": "pavoque-angry.yaml",
+  "upstream_blob_sha": "bff79d978f740f6c2b09bc595ade03b6bdf33423",
+  "source_records": ["m0101", "m0103", "m0104", "m0105"],
+  "utterance_rows": 4,
+  "interval_rows": 124,
+  "utterance_table": {
+    "path": "manual_phonetic_production/data/source_faithful/pavoque_angry_utterances_chunk042.csv",
+    "git_blob_sha": "c3644e51f198e2fa4288521a5b88ffad18bb4a52"
+  },
+  "segment_table": {
+    "path": "manual_phonetic_production/data/source_faithful/pavoque_angry_segments_chunk042.csv",
+    "git_blob_sha": "c2f90f59213c247650b7023e819e1d0030afa514"
+  },
+  "transformations": [
+    "preserved original source utterance identifiers, text, style, utterance bounds, German-SAMPA/silence labels, and cumulative segment endpoints",
+    "derived interval starts from the preceding cumulative endpoint, with 0.0 for the first interval",
+    "derived interval durations as endpoint minus interval start",
+    "did not normalize labels to IPA or invent missing phonological context"
+  ],
+  "terminal_residuals_s": {"m0101": 0.005, "m0103": 0.005, "m0104": 0.005, "m0105": 0.005},
+  "source_order_note": "The upstream YAML is not numerically ordered by prompt ID. After m0105 the literal source sequence continues m0106, m0102, m0100, m0096, m0107. Therefore IDs previously not yet encountered must not be treated as absent merely because their number is lower than the current checkpoint.",
+  "next_verified_literal_source_record": "m0106",
+  "double_counting_guard": "These durable source-faithful rows mirror a PAVOQUE lineage already represented in the validated full parse; they must not increment the distinct scientific-observation total."
+}
