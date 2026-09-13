@@ -1,0 +1,5 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0091,m0091,Der Tachometer zeigt Tempo drei Hundert.,angry,523.98,527.88,3.90,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0092,m0092,Der Anschlag schlug jedoch fehl.,angry,527.88,531.30,3.42,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0093,m0093,In diesem Sinne hielten Elizabeth Taylor und George Michael kurze Ansprachen.,angry,531.30,537.42,6.12,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0094,m0094,Desiree ist dort geboren.,angry,537.42,540.42,3.00,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
