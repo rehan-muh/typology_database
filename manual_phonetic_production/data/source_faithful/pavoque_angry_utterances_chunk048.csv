@@ -1,0 +1,5 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0125,m0125,Sein Nachfolger wurde George Russell.,angry,655.56,659.28,3.72,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0126,m0126,Dabei werden die Beine abwechselnd gegrätscht.,angry,659.28,663.60,4.32,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0127,m0127,Das gestaute Gewässer ist die Große Mittweida.,angry,663.60,667.86,4.26,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0128,m0128,"Nur seine Mutter, von der er aber bald getrennt wird, und die Maus Timothy halten zu ihm.",angry,667.86,674.70,6.84,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
