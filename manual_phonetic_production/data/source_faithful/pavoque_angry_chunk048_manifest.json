@@ -1,0 +1,26 @@
+{
+  "source_id": "pavoque",
+  "subset": "angry",
+  "source_repository": "marytts/pavoque-data",
+  "source_file": "pavoque-angry.yaml",
+  "upstream_blob_sha": "bff79d978f740f6c2b09bc595ade03b6bdf33423",
+  "source_records": ["m0125", "m0126", "m0127", "m0128"],
+  "utterance_rows": 4,
+  "interval_rows": 169,
+  "utterance_table": {
+    "path": "manual_phonetic_production/data/source_faithful/pavoque_angry_utterances_chunk048.csv"
+  },
+  "segment_table": {
+    "path": "manual_phonetic_production/data/source_faithful/pavoque_angry_segments_chunk048.csv"
+  },
+  "transformations": [
+    "preserved original source utterance identifiers, text, style, utterance bounds, German-SAMPA/silence labels, and cumulative segment endpoints",
+    "derived interval starts from the preceding cumulative endpoint, with 0.0 for the first interval",
+    "derived interval durations as endpoint minus interval start",
+    "did not normalize labels to IPA or invent missing phonological context"
+  ],
+  "terminal_residuals_s": {"m0125": 0.005, "m0126": 0.005, "m0127": 0.005, "m0128": 0.005},
+  "source_order_note": "Literal upstream order after chunk047 is m0125, m0126, m0127, m0128, m0129. Prompt-number ordering is not assumed beyond the literal YAML sequence.",
+  "next_verified_literal_source_record": "m0129",
+  "double_counting_guard": "These durable source-faithful rows mirror a PAVOQUE lineage already represented in the validated full parse; they must not increment the distinct scientific-observation total."
+}
