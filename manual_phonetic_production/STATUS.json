@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-13T13:11:18-07:00",
-  "total_sources": 182,
+  "last_updated": "2026-09-13T14:08:00-07:00",
+  "total_sources": 184,
   "accepted_sources": 47,
-  "excluded_sources": 29,
+  "excluded_sources": 31,
   "review_sources": 106,
   "ingested_sources": 45,
   "parsed_rows_total": 1361972,
-  "parsed_logical_tables_total": 90,
+  "parsed_logical_tables_total": 92,
   "inventory_file_records": 1109,
   "variable_dictionary_records": 1197,
-  "notes": "This pass did both backlog ingestion and fresh discovery. PAVOQUE source-faithful materialization advanced through chunk049. The durable angry mirror now contains 178 utterances and 5,614 manually corrected German-SAMPA/silence intervals across 49 chunks. Chunk049 adds four literal upstream records (m0129, m0130, m0131, m0132) and 134 intervals, preserving source text/style/bounds, original labels and cumulative endpoints; starts/durations are deterministic derivatives and no IPA/context was invented. All four retain the source-native 5 ms terminal residual. The next verified literal record is m0133. The distinct scientific-observation total remains 1,361,972 because PAVOQUE is already represented by the validated full lineage and durable chunks are protected from double counting. Fresh discovery added two HIGH-review sources: L2-ARCTIC, whose manually corrected subset provides word/phone boundaries and substitution/deletion/addition production-error labels for 24 non-native English speakers while automatic-only tiers remain ineligible; and the Corpus of European Portuguese Stops, whose documentation describes manually located acoustic/EGG landmarks for six speakers, SAMPA transcriptions, word-position and voicing classifications, but whose data remain review-only pending authoritative public file access and redistribution terms. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass did both backlog ingestion/harmonization and fresh discovery screening. CCOST source-faithful metadata remains complete through row 195/488, but rows 179-195 were materially expanded into two new analysis-ready linked warehouse tables: 17 recording quality/condition rows and 17 acoustic-summary rows retaining all ten supplied intensity/amplitude measures. Every row has namespaced recording/speaker lineage back to the immutable source-faithful chunk; missing condition values remain true blanks; no raw value was overwritten, normalized, imputed, unit-converted or inferred. These projections do not increment the distinct scientific-observation total, which remains 1,361,972, but they raise the logical-table total from 90 to 92. Fresh screening added two explicit exclusions: TunSwitch, because its primary TO subset lacks documented exhaustive human phonetic verification while its manually annotated CS subset is third-party radio/podcast media; and Hiemstra & Sadakata 2024, because its excellent manual Praat word/phone/vowel segmentation and formant extraction operate on audiobook-derived, pre-existing stimuli rather than primary recordings. PAVOQUE's next literal checkpoint m0133 was reverified, but no chunk050 was fabricated because complete segment-level source retrieval was not available through the current path. All writes were confined to manual_phonetic_production/."
 }
