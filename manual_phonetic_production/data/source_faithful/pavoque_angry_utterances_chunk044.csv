@@ -1,0 +1,5 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0107,m0107,"Die Änderung hat das Forum Train Europe beschlossen, dem auch die Bahnen im deutschsprachigen Raum gehören.",angry,585.24,593.16,7.92,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0109,m0109,Ihre Hütten bauten sie auf Pfählen am Rand eines Gewässers.,angry,593.16,598.20,5.04,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0110,m0110,Er war ein großer Bewunderer von Jean Paul.,angry,598.20,602.28,4.08,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0111,m0111,Diese Reaktionen müssen in saurem Milieu stattfinden.,angry,602.28,606.96,4.68,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
