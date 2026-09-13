@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-13T12:10:00-07:00",
-  "total_sources": 180,
+  "last_updated": "2026-09-13T13:11:18-07:00",
+  "total_sources": 182,
   "accepted_sources": 47,
   "excluded_sources": 29,
-  "review_sources": 104,
+  "review_sources": 106,
   "ingested_sources": 45,
   "parsed_rows_total": 1361972,
   "parsed_logical_tables_total": 90,
   "inventory_file_records": 1109,
   "variable_dictionary_records": 1197,
-  "notes": "This pass did both backlog ingestion and fresh discovery. PAVOQUE source-faithful materialization advanced through chunk048. The durable angry mirror now contains 174 utterances and 5,480 manually corrected German-SAMPA/silence intervals across 48 chunks. Chunk048 adds four literal upstream records (m0125, m0126, m0127, m0128) and 169 intervals, preserving source text/style/bounds, original labels and cumulative endpoints; starts/durations are deterministic derivatives and no IPA/context was invented. All four retain the source-native 5 ms terminal residual. The next verified literal record is m0129. The distinct scientific-observation total remains 1,361,972 because PAVOQUE is already represented by the validated full lineage and durable chunks are protected from double counting. Fresh discovery added RescueSpeech (Zenodo DOI 10.5281/zenodo.8077622) to HIGH review: the authoritative deposit states that authentic German recordings from simulated search-and-rescue exercises are manually annotated and exposes Readme.md plus ASR/enhancement archives, but file-level scope/granularity of the manual annotation and redistribution terms still require resolution. Synthetic noisy augmentations are derivative and must not count as additional primary production. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass did both backlog ingestion and fresh discovery. PAVOQUE source-faithful materialization advanced through chunk049. The durable angry mirror now contains 178 utterances and 5,614 manually corrected German-SAMPA/silence intervals across 49 chunks. Chunk049 adds four literal upstream records (m0129, m0130, m0131, m0132) and 134 intervals, preserving source text/style/bounds, original labels and cumulative endpoints; starts/durations are deterministic derivatives and no IPA/context was invented. All four retain the source-native 5 ms terminal residual. The next verified literal record is m0133. The distinct scientific-observation total remains 1,361,972 because PAVOQUE is already represented by the validated full lineage and durable chunks are protected from double counting. Fresh discovery added two HIGH-review sources: L2-ARCTIC, whose manually corrected subset provides word/phone boundaries and substitution/deletion/addition production-error labels for 24 non-native English speakers while automatic-only tiers remain ineligible; and the Corpus of European Portuguese Stops, whose documentation describes manually located acoustic/EGG landmarks for six speakers, SAMPA transcriptions, word-position and voicing classifications, but whose data remain review-only pending authoritative public file access and redistribution terms. All writes were confined to manual_phonetic_production/."
 }
