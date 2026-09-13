@@ -1,0 +1,6 @@
+source_id,speaker_id,source_speaker_id,sex,year_of_birth,birth_place,region,year_moved_to_bangkok,age_years,education_original,age_group_original,height_cm
+ccost_2026,ccost_2026::S13,13,Female,1999,Bangkok,Greater BKK,NA,21,15,YF,163
+ccost_2026,ccost_2026::S14,14,Female,1997,Phrae,Northern,NA,23,16,YF,164
+ccost_2026,ccost_2026::S15,15,Male,1998,Bangkok,Greater BKK,NA,22,16,YM,169
+ccost_2026,ccost_2026::S16,16,Female,1998,Nakhon Si Thammarat,Southern,NA,22,16,YF,165
+ccost_2026,ccost_2026::S17,17,Male,1998,Chonburi,Central,NA,22,16,YM,170
