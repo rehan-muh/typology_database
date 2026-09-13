@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-13T06:12:00-07:00",
-  "total_sources": 174,
+  "last_updated": "2026-09-13T07:08:00-07:00",
+  "total_sources": 175,
   "accepted_sources": 47,
   "excluded_sources": 29,
-  "review_sources": 98,
+  "review_sources": 99,
   "ingested_sources": 45,
   "parsed_rows_total": 1361972,
   "parsed_logical_tables_total": 90,
   "inventory_file_records": 1109,
   "variable_dictionary_records": 1197,
-  "notes": "This pass verified the accepted CCOST backlog at 195/488 metadata records and attempted to continue from row 196, but the authoritative Zenodo CSV download endpoint timed out; no rows were reconstructed, guessed, or repeated. Backlog ingestion therefore shifted to the already qualified PAVOQUE lineage, adding durable source-faithful chunk 042 with four utterances (m0101, m0103, m0104, m0105) and 124 German-SAMPA/silence intervals. Original identifiers, text, style, utterance bounds, labels, and cumulative endpoints were preserved; interval starts/durations were deterministic derivatives and no IPA/context was invented. All four utterances retain the source-native 5 ms terminal residual. Direct upstream inspection also corrected an important sequencing assumption: pavoque-angry.yaml is not numerically ordered by prompt ID; after m0105 the literal source sequence is m0106, m0102, m0100, m0096, m0107, so lower-numbered IDs not yet encountered must not be marked absent. These durable PAVOQUE rows mirror a lineage already represented in the validated full parse, so the distinct scientific-observation total remains 1,361,972. Fresh discovery added AusKidTalk to HIGH review: primary Australian-English child production with exhaustive human correction/from-scratch transcription for the Task 1 annotation layer, but corpus data are currently custodian/on-request rather than openly downloadable. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass did both backlog ingestion and fresh discovery. PAVOQUE source-faithful materialization advanced through chunk043. After reconciling the already committed but previously unreflected chunk042, the durable angry mirror now contains 154 utterances and 4,717 manually corrected German-SAMPA/silence intervals. Chunk043 adds four literal upstream records (m0106, m0102, m0100, m0096) and 109 intervals, preserving source text/style/bounds, original labels and cumulative endpoints; starts/durations are deterministic derivatives and no IPA/context was invented. All four retain the source-native 5 ms terminal residual. Direct upstream order confirms that m0100 and m0096 were delayed in YAML order rather than absent; the next literal record is m0107. The distinct scientific-observation total remains 1,361,972 because PAVOQUE is already represented by the validated full lineage and durable chunks are protected from double counting. Fresh discovery added Russian Fricatives (Ulrich 2022; DOI 10.48656/4q9c-gz16) to HIGH review: primary Russian read speech with a first-session manually corrected target-fricative layer and rich metadata/context, while the second session is automatic-only. SWISSUbase's usage contract forbids redistribution and appears to require authenticated agreement, so no restricted files were copied; future ingestion should isolate Recording_1 and retain source references/checksums. All writes were confined to manual_phonetic_production/."
 }
