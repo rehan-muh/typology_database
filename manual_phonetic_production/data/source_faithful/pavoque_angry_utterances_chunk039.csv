@@ -1,0 +1,6 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0086,m0086,Botanik und Paläontologie.,angry,506.58,509.64,3.06,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0087,m0087,Auch Seuchen wie Typhus grassierten.,angry,509.64,513.30,3.66,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0088,m0088,Die Leute sind ja ganz ruhig.,angry,513.30,516.54,3.24,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0089,m0089,Wie stöpselt man so ein Gerät ein?,angry,516.54,520.08,3.54,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0090,m0090,Die Plebejer gewannen folglich an Macht.,angry,520.08,523.98,3.90,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
