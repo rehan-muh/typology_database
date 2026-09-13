@@ -1,0 +1,3 @@
+source_id,subset,repository_path,git_blob_sha,size_bytes,row_scope,upstream_source,upstream_blob_sha,license,notes
+pavoque,angry,data/source_faithful/pavoque_angry_utterances_chunk045.csv,3e16d3655ddd3655cb024ae7bd9b1bd442bb2593,807,utterances,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,CC BY-NC-SA 4.0,source-faithful durable materialization
+pavoque,angry,data/source_faithful/pavoque_angry_segments_chunk045.csv,29a47e49991f14a190c5e2690fba3b481b466fd9,9797,segments,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,CC BY-NC-SA 4.0,manually corrected German-SAMPA/silence intervals
