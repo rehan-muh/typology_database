@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-12T20:10:29-07:00",
-  "total_sources": 163,
+  "last_updated": "2026-09-12T21:12:37-07:00",
+  "total_sources": 164,
   "accepted_sources": 47,
   "excluded_sources": 26,
-  "review_sources": 90,
+  "review_sources": 91,
   "ingested_sources": 44,
   "parsed_rows_total": 1361571,
   "parsed_logical_tables_total": 86,
-  "inventory_file_records": 1097,
+  "inventory_file_records": 1100,
   "variable_dictionary_records": 1156,
-  "notes": "This pass advanced durable source-faithful PAVOQUE materialization from 125 utterances / 3,835 intervals through m0077 to 129 utterances / 3,960 intervals through m0081. Chunk037 contains 4 utterances and 125 manually corrected German-SAMPA/silence intervals from immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423; original labels and cumulative endpoints are preserved, starts/durations are deterministic derivatives, no IPA was invented, literal upstream order is retained, and each record preserves its native 0.005-s terminal residual. Next verified literal upstream record is m0082. Distinct scientific-row total remains unchanged because the validated full PAVOQUE lineage is already represented and must not be double-counted. Fresh discovery added ROG-Art (Training corpus of spoken Slovenian ROG) to HIGH review: its public CLARIN.SI CC BY-SA 4.0 deposit exposes a 22.24 MB annotated archive with EXMARaLDA, TRS, TextGrid and speaker/recording metadata plus a separate 1.31 GB WAV archive; ROG-Art contributes isolable new manual prosodic-unit, disfluency and dialogue-act annotations to pre-existing GOS recordings. Only genuinely new ROG human annotation layers should enter core, with inherited recordings/annotations deduplicated at lineage level. All writes in this pass were confined to manual_phonetic_production/."
+  "notes": "This pass advanced durable source-faithful PAVOQUE materialization from 129 utterances / 3,960 intervals through m0081 to 133 utterances / 4,091 intervals through m0085. Chunk038 contains 4 utterances and 131 manually corrected German-SAMPA/silence intervals from immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423; original labels and cumulative endpoints are preserved, starts/durations are deterministic derivatives, no IPA was invented, literal upstream order is retained, and every record preserves its native 0.005-s terminal residual. Next verified literal upstream record is m0086. Distinct scientific-row total remains unchanged because the validated full PAVOQUE lineage is already represented and must not be double-counted. Fresh discovery added Belz, Rasskazova, Krivokapic & Mooshammer's German phrasal-structure/vowel-tenseness acoustic-EMA dataset to HIGH review. The paper explicitly states that WebMAUS alignment was checked/corrected in Praat, every target segment was interval-annotated, and prosodic structure was audio-visually verified; the open Zenodo deposit exposes five data tables plus analysis code. The acoustic tables are therefore strong core candidates, while the semi-automatic mview articulatory landmarks require separate human-verification screening before promotion. All writes in this pass were confined to manual_phonetic_production/."
 }
