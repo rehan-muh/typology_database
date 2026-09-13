@@ -6,11 +6,11 @@
   "upstream_blob_sha": "bff79d978f740f6c2b09bc595ade03b6bdf33423",
   "license": "CC BY-NC-SA 4.0",
   "annotation_scope": "manually corrected German-SAMPA phonetic segments and silence labels with utterance-relative cumulative endpoints",
-  "durable_source_faithful_chunks": 39,
-  "durable_utterances": 138,
-  "durable_intervals": 4224,
-  "latest_committed_source_record": "m0090",
-  "next_verified_source_record": "m0091",
+  "durable_source_faithful_chunks": 40,
+  "durable_utterances": 142,
+  "durable_intervals": 4365,
+  "latest_committed_source_record": "m0094",
+  "next_verified_source_record": "m0095",
   "validation": {
     "namespaced_ids": true,
     "original_labels_preserved": true,
@@ -19,12 +19,12 @@
     "ipa_not_invented": true,
     "source_native_terminal_timing_preserved": true,
     "literal_upstream_record_order_preserved": true,
-    "chunk038_utterances": 4,
-    "chunk038_intervals": 131,
     "chunk039_utterances": 5,
     "chunk039_intervals": 133,
-    "chunk039_terminal_residuals_s": {"m0086": 0.005, "m0087": 0.005, "m0088": 0.005, "m0089": 0.005, "m0090": 0.005}
+    "chunk040_utterances": 4,
+    "chunk040_intervals": 141,
+    "chunk040_terminal_residuals_s": {"m0091": 0.005, "m0092": 0.005, "m0093": 0.005, "m0094": 0.005}
   },
-  "notes": "Durable source-faithful mirror advanced through chunk039. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when chunks are materialized. Chunk039 preserves literal upstream order m0086,m0087,m0088,m0089,m0090; next verified record is m0091. Original labels/endpoints were retained without IPA invention or timing repair.",
-  "last_updated": "2026-09-12T22:09:11-07:00"
+  "notes": "Durable source-faithful mirror advanced through chunk040. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when chunks are materialized. Chunk040 preserves literal upstream order m0091,m0092,m0093,m0094; next verified record is m0095 (the upstream sequence later skips m0096 and continues to m0097). Original labels/endpoints were retained without IPA invention or timing repair.",
+  "last_updated": "2026-09-12T23:11:48-07:00"
 }
