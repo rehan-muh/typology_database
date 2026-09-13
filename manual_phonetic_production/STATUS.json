@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-13T03:13:00-07:00",
-  "total_sources": 171,
+  "last_updated": "2026-09-13T04:09:00-07:00",
+  "total_sources": 172,
   "accepted_sources": 47,
   "excluded_sources": 29,
-  "review_sources": 95,
+  "review_sources": 96,
   "ingested_sources": 45,
-  "parsed_rows_total": 1361895,
+  "parsed_rows_total": 1361955,
   "parsed_logical_tables_total": 90,
   "inventory_file_records": 1109,
   "variable_dictionary_records": 1197,
-  "notes": "This pass advanced the accepted CCOST backlog from 88/488 to 118/488 metadata records. Thirty new source-faithful rows (89-118) preserve all 37 original variables and values, including recording-quality fields, annotation/correction notes, durations and interval counts. Matching collision-safe recording projections were added for all 30 records and new speaker projections for S13-S17; no source values were overwritten and no IPA/context was inferred. CCOST now has 324 source-faithful ingested rows when the 206-row wordlist is included, with the next metadata checkpoint fixed at row 119. The 6.2 GB audio/TextGrid archive remains reference-only pending annotation-only extraction. Fresh discovery screened manually corrected/aligned corpora and added SUMM-RE to HIGH review: its primary French dev/test speech has manual transcripts/alignment and word timestamps under CC BY-SA 4.0, but timing-level human verification must be confirmed before core admission; its automatic train split is explicitly excluded from any future core ingest. An MRPL2 hit was deduplicated against an already tracked source and was not re-added. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass aggressively advanced the accepted CCOST backlog from 118/488 to 178/488 metadata records. Sixty new source-faithful rows (119-178) preserve all 37 original variables and values, including recording-quality/acoustic fields, durations, interval counts, misread/pace fields, and free-text correction comments. Matching collision-safe recording projections were added for all 60 records and new speaker projections for S18-S23, without duplicating already represented speakers or inventing IPA/context. CCOST now has 384 source-faithful ingested rows when the complete 206-row wordlist is included; the next metadata checkpoint is fixed at source row 179. The 6.2 GB audio/TextGrid archive remains reference-only pending annotation-only extraction. Fresh discovery added Carignan (2024), Ground-truth validation of the earbuds method for measuring acoustic nasalance, to HIGH review: primary American-English read production with manually corrected WebMAUS word/phone TextGrids and public OSF data/R code, plus dense nasalance/intensity and F0-derived measures. Promotion is deferred until the OSF file tree and licensing can be enumerated and corrected TextGrids/trajectory files isolated. All writes were confined to manual_phonetic_production/."
 }
