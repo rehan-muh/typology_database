@@ -8,10 +8,12 @@
   "utterance_rows": 4,
   "interval_rows": 169,
   "utterance_table": {
-    "path": "manual_phonetic_production/data/source_faithful/pavoque_angry_utterances_chunk048.csv"
+    "path": "manual_phonetic_production/data/source_faithful/pavoque_angry_utterances_chunk048.csv",
+    "git_blob_sha": "91bb7be7021ed5eaeabf1a898f7cb91b64b3878e"
   },
   "segment_table": {
-    "path": "manual_phonetic_production/data/source_faithful/pavoque_angry_segments_chunk048.csv"
+    "path": "manual_phonetic_production/data/source_faithful/pavoque_angry_segments_chunk048.csv",
+    "git_blob_sha": "508122eab0762b0695cc44bf37791cf84e42b232"
   },
   "transformations": [
     "preserved original source utterance identifiers, text, style, utterance bounds, German-SAMPA/silence labels, and cumulative segment endpoints",
