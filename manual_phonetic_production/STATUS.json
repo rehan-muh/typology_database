@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-13T02:12:00-07:00",
-  "total_sources": 170,
+  "last_updated": "2026-09-13T03:13:00-07:00",
+  "total_sources": 171,
   "accepted_sources": 47,
   "excluded_sources": 29,
-  "review_sources": 94,
+  "review_sources": 95,
   "ingested_sources": 45,
-  "parsed_rows_total": 1361865,
+  "parsed_rows_total": 1361895,
   "parsed_logical_tables_total": 90,
   "inventory_file_records": 1109,
   "variable_dictionary_records": 1197,
-  "notes": "This pass materially advanced the accepted CCOST backlog. CCOST_metadata.csv progressed from 48/488 to 88/488 recording rows, with rows 49-88 committed source-faithfully and linked to collision-safe speaker/recording projections. The complete 206-row x 4-column Thai wordlist.csv was also ingested source-faithfully, preserving original orthography, duplicates, columns A-D and row order; four stimulus-variable dictionary records were added and no IPA or phonological context was inferred. The pass therefore adds 246 distinct source observations (40 metadata rows + 206 stimulus rows) without double-counting harmonized projections. The 6.2 GB WAV/TextGrid archive remains reference-only; manually corrected TextGrid tiers are still the highest-priority deeper ingest. Direct retrieval of sentences.txt continued to fail Unicode decoding, so no guessed sentence content was admitted. Fresh discovery searches across Zenodo/OSF/GitHub screened manual-correction candidates but yielded no new source strong enough for promotion in this run; transcript-only/restricted dialogue records were not inflated into phonetic-production entries. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass advanced the accepted CCOST backlog from 88/488 to 118/488 metadata records. Thirty new source-faithful rows (89-118) preserve all 37 original variables and values, including recording-quality fields, annotation/correction notes, durations and interval counts. Matching collision-safe recording projections were added for all 30 records and new speaker projections for S13-S17; no source values were overwritten and no IPA/context was inferred. CCOST now has 324 source-faithful ingested rows when the 206-row wordlist is included, with the next metadata checkpoint fixed at row 119. The 6.2 GB audio/TextGrid archive remains reference-only pending annotation-only extraction. Fresh discovery screened manually corrected/aligned corpora and added SUMM-RE to HIGH review: its primary French dev/test speech has manual transcripts/alignment and word timestamps under CC BY-SA 4.0, but timing-level human verification must be confirmed before core admission; its automatic train split is explicitly excluded from any future core ingest. An MRPL2 hit was deduplicated against an already tracked source and was not re-added. All writes were confined to manual_phonetic_production/."
 }
