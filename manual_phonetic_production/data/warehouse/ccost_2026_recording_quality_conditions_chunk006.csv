@@ -1,0 +1,18 @@
+source_id,recording_id,source_recording_id,speaker_id,task,interviewer_gender,audio_quality_grade,snr_db,audio_quality_issues,audio_quality_comment,wordlist_order,pace_condition,misread_frequency,total_duration_s,labeled_duration_s,num_intervals,provenance
+ccost_2026,ccost_2026::ccost_S23_INT_2,ccost_S23_INT_2,ccost_2026::S23,INT,F,A,19.8,Clipping;,,, ,few,222.56,140.11,442,CCOST_metadata.csv source row 179
+ccost_2026,ccost_2026::ccost_S23_INT_3,ccost_S23_INT_3,ccost_2026::S23,INT,F,A,18.63,Clipping;,,, ,few,192.07,109.96,352,CCOST_metadata.csv source row 180
+ccost_2026,ccost_2026::ccost_S23_INT_4,ccost_S23_INT_4,ccost_2026::S23,INT,F,A,17.79,Clipping;,,, ,few,194.1,104.02,379,CCOST_metadata.csv source row 181
+ccost_2026,ccost_2026::ccost_S23_INT_5,ccost_S23_INT_5,ccost_2026::S23,INT,F,A,17.37,Clipping;,,, ,few,178.23,81.76,309,CCOST_metadata.csv source row 182
+ccost_2026,ccost_2026::ccost_S23_WL_1,ccost_S23_WL_1,ccost_2026::S23,WL,F,A,25.44,Clipping;,,A,A,few,130.6,52.55,100,CCOST_metadata.csv source row 183
+ccost_2026,ccost_2026::ccost_S23_WL_2,ccost_S23_WL_2,ccost_2026::S23,WL,F,A,26.52,Clipping;,,A,A,few,131.68,52.15,106,CCOST_metadata.csv source row 184
+ccost_2026,ccost_2026::ccost_S23_WL_3,ccost_S23_WL_3,ccost_2026::S23,WL,F,A,27.71,Clipping;,,A,A,few,130.34,53.42,100,CCOST_metadata.csv source row 185
+ccost_2026,ccost_2026::ccost_S23_WL_4,ccost_S23_WL_4,ccost_2026::S23,WL,F,A,23.69,Clipping;,,A,A,few,137.54,58.48,106,CCOST_metadata.csv source row 186
+ccost_2026,ccost_2026::ccost_S23_ST_1,ccost_S23_ST_1,ccost_2026::S23,ST,F,A,21.28,Clipping;,,,A,few,57.66,35.76,100,CCOST_metadata.csv source row 187
+ccost_2026,ccost_2026::ccost_S23_ST_2,ccost_S23_ST_2,ccost_2026::S23,ST,F,A,22.03,Clipping;,,,A,few,54.53,36.28,100,CCOST_metadata.csv source row 188
+ccost_2026,ccost_2026::ccost_S23_ST_3,ccost_S23_ST_3,ccost_2026::S23,ST,F,A,19.88,Clipping;,,,A,few,57.6,36.52,100,CCOST_metadata.csv source row 189
+ccost_2026,ccost_2026::ccost_S24_INT_1,ccost_S24_INT_1,ccost_2026::S24,INT,F,B,11.63,Clipping;,occasional background noise,,,none,247.48,158.97,552,CCOST_metadata.csv source row 190
+ccost_2026,ccost_2026::ccost_S24_INT_2,ccost_S24_INT_2,ccost_2026::S24,INT,F,B,11.88,None,occasional background noise,,,none,202.86,122.27,446,CCOST_metadata.csv source row 191
+ccost_2026,ccost_2026::ccost_S24_INT_3,ccost_S24_INT_3,ccost_2026::S24,INT,F,B,10.01,Clipping;,occasional background noise,,,none,241.39,153.2,565,CCOST_metadata.csv source row 192
+ccost_2026,ccost_2026::ccost_S24_INT_4,ccost_S24_INT_4,ccost_2026::S24,INT,F,B,10.93,Clipping;,occasional background noise,,,none,182.46,79.65,281,CCOST_metadata.csv source row 193
+ccost_2026,ccost_2026::ccost_S24_INT_5,ccost_S24_INT_5,ccost_2026::S24,INT,F,B,11.24,None,occasional background noise,,,none,222.55,97.69,369,CCOST_metadata.csv source row 194
+ccost_2026,ccost_2026::ccost_S24_WL_1,ccost_S24_WL_1,ccost_2026::S24,WL,F,B,16.64,None,occasional background noise,A,A,none,117.83,54.52,101,CCOST_metadata.csv source row 195
