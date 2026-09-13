@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-13T15:13:00-07:00",
-  "total_sources": 186,
+  "last_updated": "2026-09-13T16:11:00-07:00",
+  "total_sources": 187,
   "accepted_sources": 47,
   "excluded_sources": 31,
-  "review_sources": 108,
+  "review_sources": 109,
   "ingested_sources": 45,
   "parsed_rows_total": 1361972,
-  "parsed_logical_tables_total": 94,
-  "inventory_file_records": 1109,
+  "parsed_logical_tables_total": 96,
+  "inventory_file_records": 1110,
   "variable_dictionary_records": 1197,
-  "notes": "This pass completed both backlog harmonization and fresh discovery. CCOST remains source-faithfully ingested through metadata row 195/488, and a further exact 19-record block (source rows 30-48) was projected into two linked analysis-ready tables: recording/task/quality/condition/temporal metadata and all ten supplied acoustic intensity/amplitude summaries. Together with the earlier rows 179-195 projection, CCOST now has 36 quality-condition rows and 36 acoustic-summary rows with one-to-one source-row provenance, namespaced IDs, preserved missingness, and no normalization, imputation, unit conversion or source-value replacement. Because these are projections of already promoted source-faithful observations, parsed_rows_total remains 1,361,972 while parsed_logical_tables_total rises from 92 to 94. Fresh discovery added two HIGH review sources: the TaL Tongue and Lips corpus (82 English speakers; synchronized audio, ultrasound tongue imaging and lip video; manually annotated short-segment boundaries/transcriptions; public CC BY-NC 4.0 distribution) and the MRPL2 Non-native Speech Corpus (4,500 L2-English utterances from 23 speakers/14 L1s with manual phonetic mispronunciation annotation, but currently restricted Zenodo files). Neither was prematurely admitted to core: TaL requires file-level enumeration and separation of manual versus automatic layers, and MRPL2 requires authorized access plus explicit redistribution terms. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass completed both backlog harmonization and fresh discovery. CCOST remains source-faithfully ingested through metadata row 195/488, while source rows 49-68 were newly projected into two linked analysis-ready tables: 20 recording/task/quality/condition/temporal rows and 20 acoustic-summary rows preserving all ten supplied intensity/amplitude measures. These rows retain namespaced IDs, one-to-one source-row provenance and source missingness; no normalization, imputation, unit conversion, IPA inference, context inference, or source-value replacement was performed. Together with existing projections for rows 30-48 and 179-195, CCOST now has 56 harmonized quality-condition rows and 56 acoustic-summary rows. Because these are projections of already promoted source-faithful observations, parsed_rows_total remains 1,361,972 while parsed_logical_tables_total rises from 94 to 96. Fresh discovery added ProsSegue/NURC-SP manual reference annotations to HIGH review. The repository explicitly distinguishes inquiry-level manually segmented reference TextGrids from UFPAlign forced-alignment files and automatic prosodic outputs; one public SP_D2_255 reference TextGrid was inventoried with its authoritative Git blob. This is a potentially admissible exception to the secondary-recording exclusion because the new manual annotation layer is isolatable, but core promotion is withheld until tier-level manual provenance and licensing scope are verified. Forced-aligned phone/word tiers and model outputs are explicitly excluded. All writes were confined to manual_phonetic_production/."
 }
