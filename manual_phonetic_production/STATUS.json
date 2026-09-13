@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-13T08:09:00-07:00",
-  "total_sources": 176,
+  "last_updated": "2026-09-13T09:20:00-07:00",
+  "total_sources": 177,
   "accepted_sources": 47,
   "excluded_sources": 29,
-  "review_sources": 100,
+  "review_sources": 101,
   "ingested_sources": 45,
   "parsed_rows_total": 1361972,
   "parsed_logical_tables_total": 90,
   "inventory_file_records": 1109,
   "variable_dictionary_records": 1197,
-  "notes": "This pass did both backlog ingestion and fresh discovery. PAVOQUE source-faithful materialization advanced through chunk044. The durable angry mirror now contains 158 utterances and 4,917 manually corrected German-SAMPA/silence intervals. Chunk044 adds four literal upstream records (m0107, m0109, m0110, m0111) and 200 intervals, preserving source text/style/bounds, original labels and cumulative endpoints; starts/durations are deterministic derivatives and no IPA/context was invented. All four retain the source-native 5 ms terminal residual. Because the upstream YAML is not prompt-number ordered, no inference is made that m0108 is absent; the next verified literal record is m0112. The distinct scientific-observation total remains 1,361,972 because PAVOQUE is already represented by the validated full lineage and durable chunks are protected from double counting. Fresh discovery added Parker's Data for studying sonority / Sound level protrusions as physical correlates of sonority to HIGH review: primary English/Spanish production linked to Journal of Phonetics, with the public deposit explicitly stating that recordings were manually segmented and analyzed in Praat and released under CC BY 4.0. Core promotion is withheld until the downloadable bundle/API is enumerated to establish whether the manual boundaries and derived measurements themselves are publicly deposited rather than only the raw WAVs. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass did both backlog ingestion and fresh discovery. PAVOQUE source-faithful materialization advanced through chunk045. The durable angry mirror now contains 162 utterances and 5,055 manually corrected German-SAMPA/silence intervals across 45 chunks. Chunk045 adds four literal upstream records (m0112, m0113, m0114, m0116) and 138 intervals, preserving source text/style/bounds, original labels and cumulative endpoints; starts/durations are deterministic derivatives and no IPA/context was invented. All four retain the source-native 5 ms terminal residual. Because the upstream YAML is not prompt-number ordered, no inference is made that m0115 is absent; the next verified literal record is m0117. The distinct scientific-observation total remains 1,361,972 because PAVOQUE is already represented by the validated full lineage and durable chunks are protected from double counting. Fresh discovery added AphasiaBD (Zenodo 10.5281/zenodo.21863777) to HIGH review: primary Bengali clinical production from 38 post-stroke aphasia patients, 335 public clips spanning conversation, repetition, question-answering and reading, explicitly manually segmented at sentence level. The public archive is 194.3 MB with MD5 c2b0b71f5599d0c2a0f64bd03ed9dcb0, but direct archive retrieval failed in this run, so no internal filenames, transcripts, finer annotations, or inferred error labels were admitted. All writes were confined to manual_phonetic_production/."
 }
