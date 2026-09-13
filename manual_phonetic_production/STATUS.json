@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-12T21:12:37-07:00",
-  "total_sources": 164,
+  "last_updated": "2026-09-12T22:09:11-07:00",
+  "total_sources": 167,
   "accepted_sources": 47,
-  "excluded_sources": 26,
+  "excluded_sources": 29,
   "review_sources": 91,
   "ingested_sources": 44,
   "parsed_rows_total": 1361571,
   "parsed_logical_tables_total": 86,
-  "inventory_file_records": 1100,
+  "inventory_file_records": 1103,
   "variable_dictionary_records": 1156,
-  "notes": "This pass advanced durable source-faithful PAVOQUE materialization from 129 utterances / 3,960 intervals through m0081 to 133 utterances / 4,091 intervals through m0085. Chunk038 contains 4 utterances and 131 manually corrected German-SAMPA/silence intervals from immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423; original labels and cumulative endpoints are preserved, starts/durations are deterministic derivatives, no IPA was invented, literal upstream order is retained, and every record preserves its native 0.005-s terminal residual. Next verified literal upstream record is m0086. Distinct scientific-row total remains unchanged because the validated full PAVOQUE lineage is already represented and must not be double-counted. Fresh discovery added Belz, Rasskazova, Krivokapic & Mooshammer's German phrasal-structure/vowel-tenseness acoustic-EMA dataset to HIGH review. The paper explicitly states that WebMAUS alignment was checked/corrected in Praat, every target segment was interval-annotated, and prosodic structure was audio-visually verified; the open Zenodo deposit exposes five data tables plus analysis code. The acoustic tables are therefore strong core candidates, while the semi-automatic mview articulatory landmarks require separate human-verification screening before promotion. All writes in this pass were confined to manual_phonetic_production/."
+  "notes": "This pass advanced durable source-faithful PAVOQUE materialization from 133 utterances / 4,091 intervals through m0085 to 138 utterances / 4,224 intervals through m0090. Chunk039 contains 5 utterances and 133 manually corrected German-SAMPA/silence intervals from immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423; original labels and cumulative endpoints are preserved, starts/durations are deterministic derivatives, no IPA was invented, literal upstream order is retained, and every record preserves its native 0.005-s terminal residual. Next verified literal upstream record is m0091. Distinct scientific-row total remains unchanged because the validated full PAVOQUE lineage is already represented and must not be double-counted. Fresh discovery screened repository deposits conservatively and added three explicit exclusions: the Code-Switching Speech Corpus (secondary resegmentation of Spoken Wikipedia with no documented new isolable manual phonetic layer), Passau-SFCH (third-party football press-conference media), and CAFE (third-party YouTube podcast media despite a human-annotated small subset). Existing MRPL2 and RescueSpeech candidates were re-encountered but not duplicated. All writes in this pass were confined to manual_phonetic_production/."
 }
