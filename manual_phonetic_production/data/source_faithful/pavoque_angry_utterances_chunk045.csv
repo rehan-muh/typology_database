@@ -1,0 +1,5 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0112,m0112,Die Familie Stein war deutsch jüdischer Herkunft.,angry,606.96,611.40,4.44,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0113,m0113,Außerdem hatte Chruschtschow die Armee hinter sich.,angry,611.40,615.96,4.56,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0114,m0114,Jean-Claude van Damme ist zum fünften Mal verheiratet.,angry,615.96,620.70,4.74,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0116,m0116,Sie bekam sehr starken Keuchhusten.,angry,620.70,624.30,3.60,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
