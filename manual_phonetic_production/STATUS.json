@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-12T23:11:48-07:00",
-  "total_sources": 168,
+  "last_updated": "2026-09-13T00:13:00-07:00",
+  "total_sources": 169,
   "accepted_sources": 47,
   "excluded_sources": 29,
-  "review_sources": 92,
+  "review_sources": 93,
   "ingested_sources": 44,
   "parsed_rows_total": 1361571,
   "parsed_logical_tables_total": 86,
-  "inventory_file_records": 1106,
+  "inventory_file_records": 1109,
   "variable_dictionary_records": 1156,
-  "notes": "This pass advanced durable source-faithful PAVOQUE materialization from 138 utterances / 4,224 intervals through m0090 to 142 utterances / 4,365 intervals through m0094. Chunk040 contains 4 utterances and 141 manually corrected German-SAMPA/silence intervals from immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423; original labels and cumulative endpoints are preserved, starts/durations are deterministic derivatives, no IPA was invented, literal upstream order is retained, and every record preserves its native 0.005-s terminal residual. Next verified literal upstream record is m0095. Distinct scientific-row total remains unchanged because the validated full PAVOQUE lineage is already represented and must not be double-counted. Fresh discovery added SwehVd / Persson 2024 (Phonetica) to HIGH review: primary Swedish h-VOWEL-d production from 44 L1 talkers with manually corrected word/segment boundaries and F1-F3 measured at five within-vowel timepoints; the paper points to a public OSF dataset and separate analysis repository. The OSF file tree still needs enumeration before admission so that corrected boundaries, token-level trajectories, metadata, licensing and raw-vs-normalized values can be isolated faithfully. All writes in this pass were confined to manual_phonetic_production/."
+  "notes": "This pass advanced durable source-faithful PAVOQUE materialization from 142 utterances / 4,365 intervals through m0094 to 146 utterances / 4,484 intervals through m0099. Chunk041 contains 4 utterances and 119 manually corrected German-SAMPA/silence intervals from immutable upstream blob bff79d978f740f6c2b09bc595ade03b6bdf33423; original labels and cumulative endpoints are preserved, starts/durations are deterministic derivatives, no IPA was invented, and every record preserves its native 0.005-s terminal residual. Literal upstream gaps m0096 and m0100 were preserved rather than fabricated; next verified record is m0101. Distinct scientific-row total remains unchanged because the validated full PAVOQUE lineage is already represented and must not be double-counted. Fresh discovery added IFCASL (Trouvain et al. 2016) to HIGH review: primary French-German L1/L2 read-speech from about 100 speakers, with more than half of the corpus manually corrected at phone/word level and project documentation confirming manual checking after forced alignment. Admission remains pending until a public corpus endpoint is located and manually corrected tiers/utterances can be isolated from automatic-only material. C-COST remains an accepted high-priority backlog source; its public metadata exposes 488 recording rows and 37 source variables, but direct byte retrieval was unavailable in this runtime, so no partial or fabricated row ingestion was committed. All writes in this pass were confined to manual_phonetic_production/."
 }
