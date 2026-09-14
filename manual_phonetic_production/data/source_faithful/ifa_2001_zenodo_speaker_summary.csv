@@ -1,0 +1,9 @@
+source_id,source_speaker_id,sex,age_years,recorded_sentences_seconds,segmented_sentences_seconds,source_url,provenance_note
+ifa_spoken_language_corpus_2001,N,F,20,3736,2760,https://zenodo.org/records/14904090,"Authoritative Zenodo summary table; values copied source-faithfully."
+ifa_spoken_language_corpus_2001,G,F,28,4180,3978,https://zenodo.org/records/14904090,"Authoritative Zenodo summary table; values copied source-faithfully."
+ifa_spoken_language_corpus_2001,L,F,40,3112,2485,https://zenodo.org/records/14904090,"Authoritative Zenodo summary table; values copied source-faithfully."
+ifa_spoken_language_corpus_2001,E,F,60,4181,3245,https://zenodo.org/records/14904090,"Authoritative Zenodo summary table; values copied source-faithfully."
+ifa_spoken_language_corpus_2001,R,M,15,2125,1439,https://zenodo.org/records/14904090,"Authoritative Zenodo summary table; values copied source-faithfully."
+ifa_spoken_language_corpus_2001,K,M,40,2720,1891,https://zenodo.org/records/14904090,"Authoritative Zenodo summary table; values copied source-faithfully."
+ifa_spoken_language_corpus_2001,H,M,56,2894,2368,https://zenodo.org/records/14904090,"Authoritative Zenodo summary table; values copied source-faithfully."
+ifa_spoken_language_corpus_2001,O,M,66,3781,1696,https://zenodo.org/records/14904090,"Authoritative Zenodo summary table; values copied source-faithfully."
