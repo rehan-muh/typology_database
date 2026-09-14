@@ -1,0 +1,2 @@
+source_id,recorded_sentences,recorded_words,segmented_sentences,segmented_words,segmented_syllables,segmented_phonemes,recorded_net_seconds,segmented_net_seconds,segmented_speakers,source_url,provenance_note
+ifa_spoken_language_corpus_2001,6128,73067,4492,51782,74702,187544,26733,19867,8,https://zenodo.org/records/14904090,"Authoritative Zenodo summary; no inferred counts."
