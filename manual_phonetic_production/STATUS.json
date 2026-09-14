@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-13T20:13:33-07:00",
-  "total_sources": 190,
+  "last_updated": "2026-09-13T21:09:34-07:00",
+  "total_sources": 191,
   "accepted_sources": 47,
   "excluded_sources": 31,
-  "review_sources": 112,
+  "review_sources": 113,
   "ingested_sources": 45,
   "parsed_rows_total": 1361972,
-  "parsed_logical_tables_total": 102,
+  "parsed_logical_tables_total": 104,
   "inventory_file_records": 1128,
   "variable_dictionary_records": 1197,
-  "notes": "This pass completed both backlog harmonization and fresh discovery. CCOST remains source-faithfully ingested through metadata row 195/488; source rows 109-128 were newly projected into two linked analysis-ready tables: 20 recording/task/quality/condition/temporal rows and 20 acoustic-summary rows preserving all ten supplied intensity/amplitude measures. Low-SNR, clipping, low-volume, and other quality-flagged cases were retained rather than filtered, with exact source-row provenance across source-faithful chunks 003 and 004. CCOST now has 116 harmonized quality-condition rows and 116 acoustic-summary rows, with next harmonization row 129 and next external source-faithful row 196. These projections add no new distinct scientific observations, so parsed_rows_total remains 1,361,972 while parsed_logical_tables_total rises from 100 to 102. Fresh discovery added the Open Oldenburg Conversation Corpus (OOCC) version 2 to HIGH review and inventoried all 18 Zenodo record files with published MD5 checksums and sizes. OOCC is primary German dyadic production with separate transcript and landmark archives, but core promotion is withheld until documentation establishes which transcript/landmark layers were manually created/corrected or exhaustively human-verified. Version 2 is treated as the current lineage rather than duplicating version 1; large media remain authoritative-reference only under the deposit's CC BY-NC-ND 4.0 plus participant-protection/use conditions. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass completed both backlog harmonization and fresh discovery. CCOST remains source-faithfully ingested through metadata row 195/488; source rows 129-148 were newly projected into two linked analysis-ready tables: 20 recording/task/quality/condition/temporal rows and 20 acoustic-summary rows preserving all ten supplied intensity/amplitude measures. Clipping, low-SNR, near-clip, background-noise and background-music cases were retained rather than filtered, with exact source-row provenance to source-faithful chunk 004. CCOST now has 136 harmonized quality-condition rows and 136 acoustic-summary rows; next harmonization row is 149 and next external source-faithful row remains 196. These projections add no new distinct scientific observations, so parsed_rows_total remains 1,361,972 while parsed_logical_tables_total rises from 102 to 104. Fresh discovery added WroDiaCo current v2.1 lineage to HIGH review. Its published documentation identifies a manually corrected phone-segmentation layer (KORphon) distinct from WebMAUS automatic tiers, making that layer potentially eligible, but the HU corpus repository requires scientific-access credentials or a requested download link. Core promotion is withheld pending file-level access, version-specific verification of manual tiers and license terms, and v1/v2/v2.1 lineage deduplication. All writes were confined to manual_phonetic_production/."
 }
