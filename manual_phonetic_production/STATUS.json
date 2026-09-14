@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-14T00:16:42-07:00",
-  "total_sources": 193,
+  "last_updated": "2026-09-14T01:07:45-07:00",
+  "total_sources": 194,
   "accepted_sources": 47,
   "excluded_sources": 31,
-  "review_sources": 115,
+  "review_sources": 116,
   "ingested_sources": 45,
   "parsed_rows_total": 1361972,
-  "parsed_logical_tables_total": 108,
-  "inventory_file_records": 1133,
+  "parsed_logical_tables_total": 110,
+  "inventory_file_records": 1136,
   "variable_dictionary_records": 1197,
-  "notes": "This pass completed both backlog harmonization and fresh discovery. CCOST remains source-faithfully ingested through metadata row 195/488; source rows 169-178 were newly projected into two linked analysis-ready tables: 10 recording/task/quality/condition/temporal rows and 10 acoustic-summary rows preserving all ten supplied intensity/amplitude measures. This closes the internal harmonization gap between rows 30-195 except rows 1-29; next external source-faithful row and next sequential harmonization row are both 196. The projections add no distinct scientific observations. Fresh discovery added PxCorpus (Zenodo v4, DOI 10.5281/zenodo.10080490) to HIGH review: primary French prescription speech from 55 participants, approximately four hours, with 2067 recordings reported, human-verified/manually transcribed speech and semantic/dialogue annotations under CC BY 4.0. Its 375.7 MB archive was inventoried with MD5 97247fc5278cf4e3ab147aab4fc72f14 but not mirrored. Core promotion is withheld until archive-level inspection establishes whether any phone/segment/prosodic annotations or production measurements meet the manual phonetic criterion. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass completed both backlog harmonization and fresh discovery. CCOST remains source-faithfully ingested through metadata row 195/488; source rows 1-29 were backfilled into two linked analysis-ready tables: 29 recording/task/quality/condition/temporal rows and 29 acoustic-summary rows preserving all ten supplied intensity/amplitude measures. This closes the final internal harmonization gap, giving continuous warehouse coverage for CCOST metadata rows 1-195; next external source-faithful and sequential harmonization row is 196. The 58 projection rows add no distinct scientific observations. Fresh discovery added RescueSpeech (Zenodo v2, DOI 10.5281/zenodo.8077622) to HIGH review. The deposit contains authentic German speech from simulated search-and-rescue exercises described as manually annotated, but released ASR/enhancement archives mix original clean speech with explicitly synthesized noisy derivatives. Three Zenodo files were inventoried with published MD5s; synthetic enhancement/noisy derivatives are barred from primary core and clean speech remains review-only until archive inspection establishes the exact manual phonetic annotation layer. All writes were confined to manual_phonetic_production/."
 }
