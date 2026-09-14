@@ -1,0 +1,27 @@
+{
+  "source_id": "ccost_2026",
+  "source_file": "manual_phonetic_production/data/source_faithful/ccost_2026/CCOST_metadata_chunk002_rows049_088.csv",
+  "source_blob_sha": "b7ee876c270dc5105ea7317a26f63fcf69033fc1",
+  "source_rows": "69-88",
+  "recording_quality_conditions_file": "manual_phonetic_production/data/warehouse/ccost_2026_recording_quality_conditions_rows069_088.csv",
+  "recording_quality_conditions_blob_sha": "a9b2c8201b792d4861051c7735b79d04050a22bd",
+  "acoustic_summary_file": "manual_phonetic_production/data/warehouse/ccost_2026_acoustic_summary_rows069_088.csv",
+  "acoustic_summary_blob_sha": "125de2e96f794080a21febd60fab92219633bca9",
+  "rows_each": 20,
+  "unique_recording_ids": 20,
+  "namespacing": "recording_id=source_id::source_recording_id; speaker_id=source_id::S<Speaker>",
+  "transformations": [
+    "task parsed only from explicit bundle marker INT/WL/ST",
+    "source numeric values copied without unit conversion or normalization",
+    "source missing values retained as empty CSV fields",
+    "no IPA, segment context, demographic value, or annotation content inferred"
+  ],
+  "validation": {
+    "source_rows_one_to_one": true,
+    "duplicate_recording_ids": 0,
+    "acoustic_measures_preserved": 10,
+    "quality_flags_preserved": true,
+    "low_snr_rows_retained": true,
+    "double_counting_guard": "warehouse projections are derived views of already ingested source-faithful rows and do not increment distinct scientific observations"
+  }
+}
