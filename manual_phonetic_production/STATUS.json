@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-14T06:20:00-07:00",
-  "total_sources": 200,
-  "accepted_sources": 48,
+  "last_updated": "2026-09-14T07:14:00-07:00",
+  "total_sources": 201,
+  "accepted_sources": 49,
   "excluded_sources": 31,
   "review_sources": 121,
   "ingested_sources": 48,
-  "parsed_rows_total": 1362086,
-  "parsed_logical_tables_total": 125,
-  "inventory_file_records": 1180,
+  "parsed_rows_total": 1362126,
+  "parsed_logical_tables_total": 127,
+  "inventory_file_records": 1182,
   "variable_dictionary_records": 1229,
-  "notes": "This pass completed both aggressive backlog ingestion and fresh discovery. JSUT-label BASIC5000 manual symbolic annotation ingestion advanced from 20 to 80 authoritative utterance rows: rows 21-40 and 41-80 were preserved source-faithfully and linked through namespaced harmonized indexes, while Julius-estimated automatic timing remained excluded. The next JSUT checkpoint is BASIC5000_0081. Fresh discovery identified and accepted the manual layer of L2-ARCTIC v5.0. Public documentation was materially ingested into 24 source-faithful speaker rows, one corpus-summary row, 24 harmonized participants, one harmonized corpus summary, 10 variable-dictionary mappings, and 3 resource-manifest records. Speaker-level counts reconcile exactly to the documented 26,867 recordings and 3,599 human-examined utterances. Manual annotations include corrected word/phone boundaries and substitution/deletion/addition tags; forced-alignment-only tiers remain excluded. L2-ARCTIC v5.0 is fixed as the current corpus lineage to avoid duplicate counts across earlier releases. The release package is CC BY-NC 4.0 and form/license-gated, so package-level TextGrid/audio ingestion remains pending authorized acquisition. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass completed both backlog ingestion and fresh discovery. JSUT-label BASIC5000 manual symbolic annotations advanced from rows 1-80 to rows 1-120: 40 additional authoritative manual phonetic/prosodic symbol rows (BASIC5000_0081 through BASIC5000_0120) were preserved source-faithfully and linked through a namespaced harmonized annotation index. Julius-derived automatic timing remains explicitly excluded; next checkpoint is BASIC5000_0121. Fresh discovery identified and accepted Parker's Data for studying sonority (Journal of Phonetics-linked; Mendeley Data v6, DOI 10.1016/j.wocn.2007.09.003): primary English and Spanish recordings collected in 2005, digitized at 44.1 kHz, and explicitly manually segmented and analyzed in Praat 4.3.17. The deposit is CC BY 4.0. Exact Mendeley per-file enumeration remains pending because the public HTML exposes the collection and manual-segmentation provenance but not the file list in the surfaced view. No annotation intervals or measurements were invented. All writes were confined to manual_phonetic_production/."
 }
