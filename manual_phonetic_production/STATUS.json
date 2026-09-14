@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-13T23:12:40-07:00",
-  "total_sources": 192,
+  "last_updated": "2026-09-14T00:16:42-07:00",
+  "total_sources": 193,
   "accepted_sources": 47,
   "excluded_sources": 31,
-  "review_sources": 114,
+  "review_sources": 115,
   "ingested_sources": 45,
   "parsed_rows_total": 1361972,
-  "parsed_logical_tables_total": 106,
-  "inventory_file_records": 1132,
+  "parsed_logical_tables_total": 108,
+  "inventory_file_records": 1133,
   "variable_dictionary_records": 1197,
-  "notes": "This pass completed both backlog harmonization and fresh discovery. CCOST remains source-faithfully ingested through metadata row 195/488; source rows 149-168 were newly projected into two linked analysis-ready tables: 20 recording/task/quality/condition/temporal rows and 20 acoustic-summary rows preserving all ten supplied intensity/amplitude measures. Quality-flagged cases were retained with exact source-row provenance, and the new projections add no distinct scientific observations. CCOST now has 156 harmonized quality-condition rows and 156 acoustic-summary rows; next harmonization row is 169 and next external source-faithful row remains 196. Fresh discovery added AUSpeech to HIGH review. Its public documentation describes synchronized Mandarin audio and ultrasound from 54 participants (43 healthy, 11 dysarthric), MFA alignment followed by manual labeling checks for normal speakers, and manual pronunciation labeling for patient speech. Four public example files were inventoried (TextGrid, LAB, WAV, DICOM) with Git blob hashes and sizes; the example TextGrid was directly inspected and contains a words tier with a 0.79-0.80 s interval labeled yu1. Core promotion is withheld until the corpus-access endpoint/license and file/tier-level manual-verification scope are established. No binary audio or DICOM files were copied into this repository. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass completed both backlog harmonization and fresh discovery. CCOST remains source-faithfully ingested through metadata row 195/488; source rows 169-178 were newly projected into two linked analysis-ready tables: 10 recording/task/quality/condition/temporal rows and 10 acoustic-summary rows preserving all ten supplied intensity/amplitude measures. This closes the internal harmonization gap between rows 30-195 except rows 1-29; next external source-faithful row and next sequential harmonization row are both 196. The projections add no distinct scientific observations. Fresh discovery added PxCorpus (Zenodo v4, DOI 10.5281/zenodo.10080490) to HIGH review: primary French prescription speech from 55 participants, approximately four hours, with 2067 recordings reported, human-verified/manually transcribed speech and semantic/dialogue annotations under CC BY 4.0. Its 375.7 MB archive was inventoried with MD5 97247fc5278cf4e3ab147aab4fc72f14 but not mirrored. Core promotion is withheld until archive-level inspection establishes whether any phone/segment/prosodic annotations or production measurements meet the manual phonetic criterion. All writes were confined to manual_phonetic_production/."
 }
