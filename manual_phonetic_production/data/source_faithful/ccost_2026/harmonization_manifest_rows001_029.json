@@ -1,0 +1,38 @@
+{
+  "source_id": "ccost_2026",
+  "source_file": "data/source_faithful/ccost_2026/CCOST_metadata_chunk001_rows001_048.csv",
+  "source_blob_sha": "a4a3990c9e8c16d70010ff6ec023077e79e2336b",
+  "source_rows_projected": "1-29",
+  "source_row_count": 29,
+  "output_files": [
+    {
+      "path": "data/warehouse/ccost_2026_recording_quality_conditions_rows001_029.csv",
+      "blob_sha": "faeabe47aa24bf7c9afd1efc16d9e6a943761128",
+      "rows": 29
+    },
+    {
+      "path": "data/warehouse/ccost_2026_acoustic_summary_rows001_029.csv",
+      "blob_sha": "3508a2013adba8fc51bf71283dd52a11f7f6cc28",
+      "rows": 29
+    }
+  ],
+  "namespacing": "recording_id = source_id::source_recording_id; speaker_id = source_id::source_speaker_id",
+  "transformations": [
+    "projection from already-ingested source-faithful metadata only",
+    "retain source task, interviewer, quality grade/flags/comments, wordlist order, pace, misread frequency, durations and interval counts",
+    "retain all ten supplied intensity/amplitude summary measures without unit conversion",
+    "preserve source-faithful values unchanged; standardized missingness may only be represented in warehouse fields where explicitly documented",
+    "no normalization, imputation, IPA inference, context inference, quality filtering, or source-value overwrite"
+  ],
+  "validation": {
+    "quality_condition_rows": 29,
+    "acoustic_summary_rows": 29,
+    "unique_recording_ids_each_table": 29,
+    "source_rows_one_to_one": true,
+    "duplicate_recording_ids": 0,
+    "post_run_harmonized_coverage": "1-195 continuous",
+    "distinct_scientific_observation_increment": 0,
+    "double_counting_guard": "These warehouse rows are projections of source-faithful CCOST metadata already represented in the scientific-observation count; do not count them as new observations."
+  },
+  "created": "2026-09-14T01:07:45-07:00"
+}
