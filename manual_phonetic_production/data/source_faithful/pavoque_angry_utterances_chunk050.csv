@@ -1,0 +1,5 @@
+source_id,utterance_id,source_utterance_id,text_original,style_original,utterance_start_s,utterance_end_s,utterance_duration_s,source_file,source_blob_sha
+pavoque,pavoque::m0133,m0133,Artikel zur Geschichte Chinas hier einordnen.,angry,690.48,694.68,4.20,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0134,m0134,Feuchte Luft ist förderlich.,angry,694.68,697.86,3.18,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0135,m0135,"Mich jammert deine Jugend, deine Schönheit!",angry,697.86,701.94,4.08,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::m0136,m0136,Westlich von Oslo gelegen.,angry,701.94,705.00,3.06,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
