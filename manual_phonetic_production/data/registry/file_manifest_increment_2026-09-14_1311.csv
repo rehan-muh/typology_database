@@ -1,0 +1,3 @@
+source_id,file_id,file_or_resource,url,role,format,access,checksum,license_or_terms,processed_status,notes
+danpass_2014,danpass_website,DanPASS authoritative corpus website,https://www.danpass.hum.ku.dk/,documentation,HTML,public,,non-commercial reuse with attribution,processed,"Authoritative counts, tier definitions, annotation provenance, access terms"
+danpass_2014,danpass_textgrids_2014,textgrids_2014.zip,https://www.danpass.hum.ku.dk/links_2014/textgrids_2014.zip,primary_annotation_archive,ZIP/Praat TextGrid,public,,non-commercial reuse with attribution,pending_binary_parse,"Direct archive link exposed by authoritative site; binary retrieval not completed in this run; do not fabricate checksums or interval counts"
