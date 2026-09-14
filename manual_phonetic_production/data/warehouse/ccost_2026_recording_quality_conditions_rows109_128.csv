@@ -1,0 +1,21 @@
+source_id,recording_id,source_recording_id,speaker_id,task,interviewer_gender,audio_quality_grade,snr_db,audio_quality_issues,audio_quality_comment,wordlist_order,pace_condition,misread_frequency,total_duration_s,labeled_duration_s,num_intervals,provenance
+ccost_2026,ccost_2026::ccost_S15_ST_123,ccost_S15_ST_123,ccost_2026::S15,ST,F,B,12.26,None,low volume but does not affect pitch estimator;,,A,few,134.1,85.2,300,CCOST_metadata.csv source row 109
+ccost_2026,ccost_2026::ccost_S16_INT_1,ccost_S16_INT_1,ccost_2026::S16,INT,F,B,14.62,None,low volume,,,few,437.4,223.45,828,CCOST_metadata.csv source row 110
+ccost_2026,ccost_2026::ccost_S16_INT_2,ccost_S16_INT_2,ccost_2026::S16,INT,F,B,12.84,None,low volume,,,few,244.52,137.3,499,CCOST_metadata.csv source row 111
+ccost_2026,ccost_2026::ccost_S16_INT_3,ccost_S16_INT_3,ccost_2026::S16,INT,F,B,13.64,None,low volume,,,few,312.06,151.31,585,CCOST_metadata.csv source row 112
+ccost_2026,ccost_2026::ccost_S16_WL_12,ccost_S16_WL_12,ccost_2026::S16,WL,F,B,18.63,None,low volume but does not affect pitch estimator,B,A,few,195.97,125.79,206,CCOST_metadata.csv source row 113
+ccost_2026,ccost_2026::ccost_S16_WL_34,ccost_S16_WL_34,ccost_2026::S16,WL,F,B,17.95,None,low volume but does not affect pitch estimator,B,A,few,204.96,136.39,206,CCOST_metadata.csv source row 114
+ccost_2026,ccost_2026::ccost_S16_ST_123,ccost_S16_ST_123,ccost_2026::S16,ST,F,B,16.95,None,low volume but does not affect pitch estimator,,A,few,183.88,134.24,300,CCOST_metadata.csv source row 115
+ccost_2026,ccost_2026::ccost_S17_INT_1,ccost_S17_INT_1,ccost_2026::S17,INT,F,A,14.5,None,,,,few,230.7,86.05,353,CCOST_metadata.csv source row 116
+ccost_2026,ccost_2026::ccost_S17_INT_2,ccost_S17_INT_2,ccost_2026::S17,INT,F,A,11.97,None,,,,few,326.31,130.68,560,CCOST_metadata.csv source row 117
+ccost_2026,ccost_2026::ccost_S17_INT_3,ccost_S17_INT_3,ccost_2026::S17,INT,F,A,11.75,None,,,,few,439.67,158.67,693,CCOST_metadata.csv source row 118
+ccost_2026,ccost_2026::ccost_S17_WL_12,ccost_S17_WL_12,ccost_2026::S17,WL,F,A,21.71,None,,B,A,few,202.95,111.08,206,CCOST_metadata.csv source row 119
+ccost_2026,ccost_2026::ccost_S17_WL_34,ccost_S17_WL_34,ccost_2026::S17,WL,F,A,19.93,None,,B,A,few,187.86,108.98,206,CCOST_metadata.csv source row 120
+ccost_2026,ccost_2026::ccost_S17_ST_123,ccost_S17_ST_123,ccost_2026::S17,ST,F,A,16,None,,,A,few,125.27,93.23,300,CCOST_metadata.csv source row 121
+ccost_2026,ccost_2026::ccost_S18_INT_1,ccost_S18_INT_1,ccost_2026::S18,INT,F,A,12.76,None,,,,few,280.52,135.1,486,CCOST_metadata.csv source row 122
+ccost_2026,ccost_2026::ccost_S18_INT_2,ccost_S18_INT_2,ccost_2026::S18,INT,F,A,8.52,Low-SNR;,,,,few,309.83,159.39,597,CCOST_metadata.csv source row 123
+ccost_2026,ccost_2026::ccost_S18_INT_3,ccost_S18_INT_3,ccost_2026::S18,INT,F,A,12.62,None,,,,few,382.36,181.37,702,CCOST_metadata.csv source row 124
+ccost_2026,ccost_2026::ccost_S18_WL_12,ccost_S18_WL_12,ccost_2026::S18,WL,F,A,18.75,None,,B,A,few,207.52,93.86,205,CCOST_metadata.csv source row 125
+ccost_2026,ccost_2026::ccost_S18_WL_34,ccost_S18_WL_34,ccost_2026::S18,WL,F,A,16.79,None,,B,A,few,194.53,140.21,206,CCOST_metadata.csv source row 126
+ccost_2026,ccost_2026::ccost_S18_ST_123,ccost_S18_ST_123,ccost_2026::S18,ST,F,A,14.87,None,,,A,few,145.8,109.98,300,CCOST_metadata.csv source row 127
+ccost_2026,ccost_2026::ccost_S19_INT_1,ccost_S19_INT_1,ccost_2026::S19,INT,F,B,17.64,Clipping;,"clock ticking, low level background noise",,,few,138.07,73.59,285,CCOST_metadata.csv source row 128
