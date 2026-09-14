@@ -1,0 +1,21 @@
+source_id,recording_id,source_recording_id,speaker_id,task,interviewer_gender,audio_quality_grade,snr_db,audio_quality_issues,audio_quality_comment,wordlist_order,pace_condition,misread_frequency,total_duration_s,labeled_duration_s,num_intervals,provenance
+ccost_2026,ccost_2026::ccost_S20_WL_4,ccost_S20_WL_4,ccost_2026::S20,WL,F,B,11.37,Clipping;,recorded in public space; music playing in background,A,A,none,124.96,41.54,107,CCOST_metadata.csv source row 149
+ccost_2026,ccost_2026::ccost_S20_ST_1,ccost_S20_ST_1,ccost_2026::S20,ST,F,B,7.73,Low-SNR;Near-Clip;,recorded in public space; music playing in background,,A,none,53.98,30.72,100,CCOST_metadata.csv source row 150
+ccost_2026,ccost_2026::ccost_S20_ST_2,ccost_S20_ST_2,ccost_2026::S20,ST,F,B,7.78,Low-SNR;,recorded in public space; music playing in background,,A,none,47.23,39.77,100,CCOST_metadata.csv source row 151
+ccost_2026,ccost_2026::ccost_S20_ST_3,ccost_S20_ST_3,ccost_2026::S20,ST,F,B,8.15,Low-SNR;Near-Clip;,recorded in public space; music playing in background,,A,none,45.19,31.08,100,CCOST_metadata.csv source row 152
+ccost_2026,ccost_2026::ccost_S21_INT_1,ccost_S21_INT_1,ccost_2026::S21,INT,F,A,15.11,Clipping;,,,,none,246.83,136.99,535,CCOST_metadata.csv source row 153
+ccost_2026,ccost_2026::ccost_S21_INT_2,ccost_S21_INT_2,ccost_2026::S21,INT,F,A,14.17,Clipping;,,,,none,248.14,137.54,528,CCOST_metadata.csv source row 154
+ccost_2026,ccost_2026::ccost_S21_INT_3,ccost_S21_INT_3,ccost_2026::S21,INT,F,A,13.77,Clipping;,,,,none,249.38,151.75,632,CCOST_metadata.csv source row 155
+ccost_2026,ccost_2026::ccost_S21_INT_4,ccost_S21_INT_4,ccost_2026::S21,INT,F,A,14.08,Clipping;,,,,none,224.44,103.59,407,CCOST_metadata.csv source row 156
+ccost_2026,ccost_2026::ccost_S21_INT_5,ccost_S21_INT_5,ccost_2026::S21,INT,F,A,14.34,Near-Clip;,,,,none,201.51,125.57,471,CCOST_metadata.csv source row 157
+ccost_2026,ccost_2026::ccost_S21_WL_1,ccost_S21_WL_1,ccost_2026::S21,WL,F,A,20.12,Clipping;,,A,A,none,89.88,58.26,100,CCOST_metadata.csv source row 158
+ccost_2026,ccost_2026::ccost_S21_WL_2,ccost_S21_WL_2,ccost_2026::S21,WL,F,A,24.15,Clipping;,,A,A,none,104.68,55.87,106,CCOST_metadata.csv source row 159
+ccost_2026,ccost_2026::ccost_S21_WL_3,ccost_S21_WL_3,ccost_2026::S21,WL,F,A,23.76,Near-Clip;,,A,A,none,101.26,64.05,100,CCOST_metadata.csv source row 160
+ccost_2026,ccost_2026::ccost_S21_WL_4,ccost_S21_WL_4,ccost_2026::S21,WL,F,A,24.19,Clipping;,,A,A,none,106.01,58.81,106,CCOST_metadata.csv source row 161
+ccost_2026,ccost_2026::ccost_S21_ST_1,ccost_S21_ST_1,ccost_2026::S21,ST,F,A,18.43,None,,,A,none,50.45,39.29,100,CCOST_metadata.csv source row 162
+ccost_2026,ccost_2026::ccost_S21_ST_2,ccost_S21_ST_2,ccost_2026::S21,ST,F,A,17.97,None,,,A,none,49.55,37.83,100,CCOST_metadata.csv source row 163
+ccost_2026,ccost_2026::ccost_S21_ST_3,ccost_S21_ST_3,ccost_2026::S21,ST,F,A,16.45,None,,,A,none,44.24,35.99,100,CCOST_metadata.csv source row 164
+ccost_2026,ccost_2026::ccost_S22_INT_1,ccost_S22_INT_1,ccost_2026::S22,INT,F,A,14.02,Clipping;,,,,none,294.98,176.57,672,CCOST_metadata.csv source row 165
+ccost_2026,ccost_2026::ccost_S22_INT_2,ccost_S22_INT_2,ccost_2026::S22,INT,F,A,14.79,Clipping;,,,,none,256.73,151.5,610,CCOST_metadata.csv source row 166
+ccost_2026,ccost_2026::ccost_S22_INT_3,ccost_S22_INT_3,ccost_2026::S22,INT,F,A,14.51,Clipping;,,,,none,250.81,151.91,648,CCOST_metadata.csv source row 167
+ccost_2026,ccost_2026::ccost_S22_INT_4,ccost_S22_INT_4,ccost_2026::S22,INT,F,A,12.93,Clipping;,,,,none,289.32,168.16,650,CCOST_metadata.csv source row 168
