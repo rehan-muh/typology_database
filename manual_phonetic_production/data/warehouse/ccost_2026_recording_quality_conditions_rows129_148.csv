@@ -1,0 +1,21 @@
+source_id,recording_id,source_recording_id,speaker_id,task,interviewer_gender,audio_quality_grade,snr_db,audio_quality_issues,audio_quality_comment,wordlist_order,pace_condition,misread_frequency,total_duration_s,labeled_duration_s,num_intervals,provenance
+ccost_2026,ccost_2026::ccost_S19_INT_2,ccost_S19_INT_2,ccost_2026::S19,INT,F,B,18.57,Clipping;,"clock ticking, low level background noise",,,few,161.86,96.75,420,CCOST_metadata.csv source row 129
+ccost_2026,ccost_2026::ccost_S19_INT_3,ccost_S19_INT_3,ccost_2026::S19,INT,F,B,18.41,Clipping;,"clock ticking, low level background noise",,,few,141.23,88.61,387,CCOST_metadata.csv source row 130
+ccost_2026,ccost_2026::ccost_S19_INT_4,ccost_S19_INT_4,ccost_2026::S19,INT,F,B,19.16,Clipping;,"clock ticking, low level background noise",,,few,159.01,85.5,373,CCOST_metadata.csv source row 131
+ccost_2026,ccost_2026::ccost_S19_WL_1,ccost_S19_WL_1,ccost_2026::S19,WL,F,B,17.39,Clipping;,"clock ticking, low level background noise",A,A,few,123.81,63.82,100,CCOST_metadata.csv source row 132
+ccost_2026,ccost_2026::ccost_S19_WL_2,ccost_S19_WL_2,ccost_2026::S19,WL,F,B,17.2,Clipping;,"clock ticking, low level background noise",A,A,few,130.4,63.95,106,CCOST_metadata.csv source row 133
+ccost_2026,ccost_2026::ccost_S19_WL_3,ccost_S19_WL_3,ccost_2026::S19,WL,F,B,17.71,Clipping;,"clock ticking, low level background noise",A,A,few,114.15,57.05,100,CCOST_metadata.csv source row 134
+ccost_2026,ccost_2026::ccost_S19_WL_4,ccost_S19_WL_4,ccost_2026::S19,WL,F,B,15.78,Clipping;,"clock ticking, low level background noise",A,A,few,120.94,62.06,106,CCOST_metadata.csv source row 135
+ccost_2026,ccost_2026::ccost_S19_ST_1,ccost_S19_ST_1,ccost_2026::S19,ST,F,B,18.72,Clipping;,"clock ticking, low level background noise",,A,few,48,32.72,100,CCOST_metadata.csv source row 136
+ccost_2026,ccost_2026::ccost_S19_ST_2,ccost_S19_ST_2,ccost_2026::S19,ST,F,B,18.63,Clipping;,"clock ticking, low level background noise",,A,few,43.09,32.52,100,CCOST_metadata.csv source row 137
+ccost_2026,ccost_2026::ccost_S19_ST_3,ccost_S19_ST_3,ccost_2026::S19,ST,F,B,17.07,Clipping;,"clock ticking, low level background noise",,A,few,46.68,34.68,100,CCOST_metadata.csv source row 138
+ccost_2026,ccost_2026::ccost_S20_INT_1,ccost_S20_INT_1,ccost_2026::S20,INT,F,B,8.85,Low-SNR;,recorded in public space; music playing in background,,,none,176.57,98.39,509,CCOST_metadata.csv source row 139
+ccost_2026,ccost_2026::ccost_S20_INT_2,ccost_S20_INT_2,ccost_2026::S20,INT,F,B,10.06,None,recorded in public space; music playing in background,,,none,148.79,100.36,472,CCOST_metadata.csv source row 140
+ccost_2026,ccost_2026::ccost_S20_INT_3,ccost_S20_INT_3,ccost_2026::S20,INT,F,B,8.78,Low-SNR;,recorded in public space; music playing in background,,,none,140.91,74.9,369,CCOST_metadata.csv source row 141
+ccost_2026,ccost_2026::ccost_S20_INT_4,ccost_S20_INT_4,ccost_2026::S20,INT,F,B,9.2,Low-SNR;,recorded in public space; music playing in background,,,none,156.01,95.95,436,CCOST_metadata.csv source row 142
+ccost_2026,ccost_2026::ccost_S20_INT_5,ccost_S20_INT_5,ccost_2026::S20,INT,F,B,8.6,Low-SNR;,recorded in public space; music playing in background,,,none,152.94,104.67,493,CCOST_metadata.csv source row 143
+ccost_2026,ccost_2026::ccost_S20_INT_6,ccost_S20_INT_6,ccost_2026::S20,INT,F,B,7.34,Low-SNR;,recorded in public space; music playing in background,,,none,165.77,89.03,456,CCOST_metadata.csv source row 144
+ccost_2026,ccost_2026::ccost_S20_INT_7,ccost_S20_INT_7,ccost_2026::S20,INT,F,B,8.58,Low-SNR;,recorded in public space; music playing in background,,,none,159.89,91.4,465,CCOST_metadata.csv source row 145
+ccost_2026,ccost_2026::ccost_S20_INT_8,ccost_S20_INT_8,ccost_2026::S20,INT,F,B,9.31,Low-SNR;,recorded in public space; music playing in background,,,none,143.01,82.74,374,CCOST_metadata.csv source row 146
+ccost_2026,ccost_2026::ccost_S20_WL_2,ccost_S20_WL_2,ccost_2026::S20,WL,F,B,12.87,Clipping;,recorded in public space; music playing in background,A,A,none,129.76,38.65,107,CCOST_metadata.csv source row 147
+ccost_2026,ccost_2026::ccost_S20_WL_3,ccost_S20_WL_3,ccost_2026::S20,WL,F,B,8.55,Low-SNR;Near-Clip;,recorded in public space; music playing in background,A,A,none,111.59,42.84,100,CCOST_metadata.csv source row 148
