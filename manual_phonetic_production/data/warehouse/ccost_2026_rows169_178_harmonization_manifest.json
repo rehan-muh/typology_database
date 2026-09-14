@@ -1,0 +1,42 @@
+{
+  "source_id": "ccost_2026",
+  "source_file": "data/source_faithful/ccost_2026/CCOST_metadata_chunk005_rows149_178.csv",
+  "source_blob_sha": "2cdea637beac9c1cc8a310d69a66deef70f3b176",
+  "source_row_range": "169-178",
+  "source_rows": 10,
+  "outputs": [
+    {
+      "file": "data/warehouse/ccost_2026_recording_quality_conditions_rows169_178.csv",
+      "blob_sha": "a32a76899b3e1b0c99ea720bc3ee348a81cf1bea",
+      "rows": 10,
+      "logical_table": "recording_task_quality_condition_temporal"
+    },
+    {
+      "file": "data/warehouse/ccost_2026_acoustic_summary_rows169_178.csv",
+      "blob_sha": "7f55915ebdf3af9aee31a0873b5797c41dd10c67",
+      "rows": 10,
+      "logical_table": "recording_acoustic_summary"
+    }
+  ],
+  "id_rules": {
+    "recording_id": "ccost_2026::<bundle>",
+    "speaker_id": "ccost_2026::S<Speaker>"
+  },
+  "transformations": [
+    "Task is parsed only from the literal bundle identifier component INT/WL/ST.",
+    "All quality flags/comments, durations, interval counts, condition fields and acoustic values are copied from source-faithful rows without imputation or filtering.",
+    "The ten source intensity/amplitude fields are retained separately in the acoustic-summary projection.",
+    "No IPA, segment context, phonological category, missing condition, or missing demographic value is inferred.",
+    "Source-faithful values remain authoritative and are not overwritten by harmonized projections."
+  ],
+  "validation": {
+    "quality_condition_rows": 10,
+    "acoustic_summary_rows": 10,
+    "unique_recording_ids_each_output": 10,
+    "source_rows_one_to_one": true,
+    "rows_with_quality_flags_retained": true,
+    "scientific_observation_increment": 0,
+    "double_count_guard": "These are linked projections of already ingested source-faithful metadata rows and must not increment the distinct promoted-observation count."
+  },
+  "created": "2026-09-14T00:16:42-07:00"
+}
