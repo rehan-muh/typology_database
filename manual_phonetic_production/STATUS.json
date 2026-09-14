@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-14T13:11:54-07:00",
-  "total_sources": 208,
+  "last_updated": "2026-09-14T14:11:57-07:00",
+  "total_sources": 209,
   "accepted_sources": 51,
   "excluded_sources": 31,
-  "review_sources": 126,
+  "review_sources": 127,
   "ingested_sources": 49,
-  "parsed_rows_total": 1362332,
-  "parsed_logical_tables_total": 137,
-  "inventory_file_records": 1198,
+  "parsed_rows_total": 1362352,
+  "parsed_logical_tables_total": 139,
+  "inventory_file_records": 1201,
   "variable_dictionary_records": 1246,
-  "notes": "This pass did both backlog ingestion and discovery. JSUT-label BASIC5000 advanced from 240 through 280 manually annotated phonetic/prosodic symbol rows: rows 241-280 were preserved source-faithfully from the unchanged authoritative git blob ae8933677c082c22238a895012b6b6dcba1f6625 and linked to 40 collision-safe harmonized utterance IDs under lineage JSUT::BASIC5000. Julius-derived automatic timing remains excluded; BASIC5000_0281 is next. Fresh discovery accepted DanPASS, a primary Danish spontaneous-speech corpus with 27 speakers, 9h46m and approximately 73,500 running words. Its authoritative documentation specifies ten TextGrid annotation tiers; segmental/prosodic tiers were independently annotated by two assistants, disagreements adjudicated, and whole files proof-read. Two DanPASS resources and ten source-variable definitions were inventoried. The public textgrids_2014.zip archive remains pending binary enumeration/parsing; no checksum, file count, or interval rows were invented. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass did both backlog ingestion and discovery. JSUT-label BASIC5000 advanced from 280 through 300 manually annotated phonetic/prosodic symbol rows. BASIC5000_0281-0300 were preserved verbatim from authoritative git blob ae8933677c082c22238a895012b6b6dcba1f6625 and linked to 20 collision-safe harmonized utterance IDs under lineage JSUT::BASIC5000; Julius-derived automatic timing remains excluded and BASIC5000_0301 is next. DanPASS public annotation-archive retrieval was retried but binary access did not complete, so no TextGrid rows/checksums were fabricated. Fresh discovery added RescueSpeech v2 to HIGH review rather than core: Zenodo explicitly describes manually annotated primary German SAR recordings, but the exact manual annotation protocol still needs verification. All three v2 deposit files were inventoried with published MD5s and access/license metadata. The clean 2,412-utterance ASR layer is isolated conceptually from synthetically noise-contaminated derivatives; augmentation archives are not to be counted as new primary recordings. All writes were confined to manual_phonetic_production/."
 }
