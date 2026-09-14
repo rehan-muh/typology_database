@@ -1,0 +1,25 @@
+source_id,speaker_id,source_speaker_id,gender_original,l1_original,recording_count,manual_annotation_count,language_target,task,underlying_recording_lineage
+l2_arctic_v5_0,l2_arctic_v5_0::ABA,ABA,M,Arabic,1129,150,English,read speech,L2-ARCTIC::v5.0::ABA
+l2_arctic_v5_0,l2_arctic_v5_0::SKA,SKA,F,Arabic,974,150,English,read speech,L2-ARCTIC::v5.0::SKA
+l2_arctic_v5_0,l2_arctic_v5_0::YBAA,YBAA,M,Arabic,1130,149,English,read speech,L2-ARCTIC::v5.0::YBAA
+l2_arctic_v5_0,l2_arctic_v5_0::ZHAA,ZHAA,F,Arabic,1132,150,English,read speech,L2-ARCTIC::v5.0::ZHAA
+l2_arctic_v5_0,l2_arctic_v5_0::BWC,BWC,M,Chinese,1130,150,English,read speech,L2-ARCTIC::v5.0::BWC
+l2_arctic_v5_0,l2_arctic_v5_0::LXC,LXC,F,Chinese,1131,150,English,read speech,L2-ARCTIC::v5.0::LXC
+l2_arctic_v5_0,l2_arctic_v5_0::NCC,NCC,F,Chinese,1131,150,English,read speech,L2-ARCTIC::v5.0::NCC
+l2_arctic_v5_0,l2_arctic_v5_0::TXHC,TXHC,M,Chinese,1132,150,English,read speech,L2-ARCTIC::v5.0::TXHC
+l2_arctic_v5_0,l2_arctic_v5_0::ASI,ASI,M,Hindi,1131,150,English,read speech,L2-ARCTIC::v5.0::ASI
+l2_arctic_v5_0,l2_arctic_v5_0::RRBI,RRBI,M,Hindi,1130,150,English,read speech,L2-ARCTIC::v5.0::RRBI
+l2_arctic_v5_0,l2_arctic_v5_0::SVBI,SVBI,F,Hindi,1132,150,English,read speech,L2-ARCTIC::v5.0::SVBI
+l2_arctic_v5_0,l2_arctic_v5_0::TNI,TNI,F,Hindi,1131,150,English,read speech,L2-ARCTIC::v5.0::TNI
+l2_arctic_v5_0,l2_arctic_v5_0::HJK,HJK,F,Korean,1131,150,English,read speech,L2-ARCTIC::v5.0::HJK
+l2_arctic_v5_0,l2_arctic_v5_0::HKK,HKK,M,Korean,1131,150,English,read speech,L2-ARCTIC::v5.0::HKK
+l2_arctic_v5_0,l2_arctic_v5_0::YDCK,YDCK,F,Korean,1131,150,English,read speech,L2-ARCTIC::v5.0::YDCK
+l2_arctic_v5_0,l2_arctic_v5_0::YKWK,YKWK,M,Korean,1131,150,English,read speech,L2-ARCTIC::v5.0::YKWK
+l2_arctic_v5_0,l2_arctic_v5_0::EBVS,EBVS,M,Spanish,1007,150,English,read speech,L2-ARCTIC::v5.0::EBVS
+l2_arctic_v5_0,l2_arctic_v5_0::ERMS,ERMS,M,Spanish,1132,150,English,read speech,L2-ARCTIC::v5.0::ERMS
+l2_arctic_v5_0,l2_arctic_v5_0::MBMPS,MBMPS,F,Spanish,1132,150,English,read speech,L2-ARCTIC::v5.0::MBMPS
+l2_arctic_v5_0,l2_arctic_v5_0::NJS,NJS,F,Spanish,1131,150,English,read speech,L2-ARCTIC::v5.0::NJS
+l2_arctic_v5_0,l2_arctic_v5_0::HQTV,HQTV,M,Vietnamese,1132,150,English,read speech,L2-ARCTIC::v5.0::HQTV
+l2_arctic_v5_0,l2_arctic_v5_0::PNV,PNV,F,Vietnamese,1132,150,English,read speech,L2-ARCTIC::v5.0::PNV
+l2_arctic_v5_0,l2_arctic_v5_0::THV,THV,F,Vietnamese,1132,150,English,read speech,L2-ARCTIC::v5.0::THV
+l2_arctic_v5_0,l2_arctic_v5_0::TLV,TLV,M,Vietnamese,1132,150,English,read speech,L2-ARCTIC::v5.0::TLV
