@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-13T21:09:34-07:00",
-  "total_sources": 191,
+  "last_updated": "2026-09-13T23:12:40-07:00",
+  "total_sources": 192,
   "accepted_sources": 47,
   "excluded_sources": 31,
-  "review_sources": 113,
+  "review_sources": 114,
   "ingested_sources": 45,
   "parsed_rows_total": 1361972,
-  "parsed_logical_tables_total": 104,
-  "inventory_file_records": 1128,
+  "parsed_logical_tables_total": 106,
+  "inventory_file_records": 1132,
   "variable_dictionary_records": 1197,
-  "notes": "This pass completed both backlog harmonization and fresh discovery. CCOST remains source-faithfully ingested through metadata row 195/488; source rows 129-148 were newly projected into two linked analysis-ready tables: 20 recording/task/quality/condition/temporal rows and 20 acoustic-summary rows preserving all ten supplied intensity/amplitude measures. Clipping, low-SNR, near-clip, background-noise and background-music cases were retained rather than filtered, with exact source-row provenance to source-faithful chunk 004. CCOST now has 136 harmonized quality-condition rows and 136 acoustic-summary rows; next harmonization row is 149 and next external source-faithful row remains 196. These projections add no new distinct scientific observations, so parsed_rows_total remains 1,361,972 while parsed_logical_tables_total rises from 102 to 104. Fresh discovery added WroDiaCo current v2.1 lineage to HIGH review. Its published documentation identifies a manually corrected phone-segmentation layer (KORphon) distinct from WebMAUS automatic tiers, making that layer potentially eligible, but the HU corpus repository requires scientific-access credentials or a requested download link. Core promotion is withheld pending file-level access, version-specific verification of manual tiers and license terms, and v1/v2/v2.1 lineage deduplication. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass completed both backlog harmonization and fresh discovery. CCOST remains source-faithfully ingested through metadata row 195/488; source rows 149-168 were newly projected into two linked analysis-ready tables: 20 recording/task/quality/condition/temporal rows and 20 acoustic-summary rows preserving all ten supplied intensity/amplitude measures. Quality-flagged cases were retained with exact source-row provenance, and the new projections add no distinct scientific observations. CCOST now has 156 harmonized quality-condition rows and 156 acoustic-summary rows; next harmonization row is 169 and next external source-faithful row remains 196. Fresh discovery added AUSpeech to HIGH review. Its public documentation describes synchronized Mandarin audio and ultrasound from 54 participants (43 healthy, 11 dysarthric), MFA alignment followed by manual labeling checks for normal speakers, and manual pronunciation labeling for patient speech. Four public example files were inventoried (TextGrid, LAB, WAV, DICOM) with Git blob hashes and sizes; the example TextGrid was directly inspected and contains a words tier with a 0.79-0.80 s interval labeled yu1. Core promotion is withheld until the corpus-access endpoint/license and file/tier-level manual-verification scope are established. No binary audio or DICOM files were copied into this repository. All writes were confined to manual_phonetic_production/."
 }
