@@ -1,0 +1,2 @@
+source_id,language,recorded_sentences,recorded_words,manually_segmented_sentences,manually_segmented_words,manually_segmented_syllables,manually_segmented_phonemes,recorded_net_duration_s,manually_segmented_net_duration_s,manually_segmented_speakers,recording_sample_rate_hz,recording_bit_depth,microphones,license,source_url
+ifa_spoken_language_corpus_2001,Dutch,6128,73067,4492,51782,74702,187544,26733,19867,8,44100,16,"Shure SM10A head-mounted; Sennheiser MKH 105 fixed",GPL,https://zenodo.org/records/14904090
