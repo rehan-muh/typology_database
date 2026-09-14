@@ -1,0 +1,23 @@
+{
+  "source_id": "l2_arctic_v5_0",
+  "decision": "accepted_manual_annotation_layer",
+  "material_ingestion": {
+    "speaker_metadata_rows": 24,
+    "corpus_summary_rows": 1,
+    "harmonized_participant_rows": 24,
+    "harmonized_corpus_summary_rows": 1,
+    "variable_dictionary_rows": 10
+  },
+  "public_documentation_processed": true,
+  "release_package_access": "form_gated_license_agreement",
+  "license": "CC BY-NC 4.0",
+  "pending": [
+    "Acquire v5.0 package through authorized access flow.",
+    "Inventory every WAV, annotation TextGrid, transcript, forced-aligned TextGrid and suitcase-corpus file with checksums where available.",
+    "Parse manual /annotation TextGrids including corrected word/phone boundaries, substitution/deletion/addition tags and annotator comments.",
+    "Parse suitcase manual annotations separately and retain their cross-check/PI-verification provenance.",
+    "Exclude forced-alignment-only /textgrid tiers from the manual core unless a human-corrected tier can be explicitly isolated."
+  ],
+  "lineage": "L2-ARCTIC::v5.0",
+  "deduplication_rule": "Treat v5.0 as the current corpus lineage; do not count earlier release versions as independent recordings. CMU ARCTIC supplies prompts, not the underlying L2 recordings."
+}
