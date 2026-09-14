@@ -1,0 +1,39 @@
+{
+  "source_id": "ccost_2026",
+  "source_file": "manual_phonetic_production/data/source_faithful/ccost_2026/CCOST_metadata_chunk004_rows119_148.csv",
+  "source_blob_sha": "b758b920f4fff8676666030f079c8c60859c841e",
+  "source_rows": "129-148",
+  "row_count": 20,
+  "outputs": [
+    {
+      "path": "manual_phonetic_production/data/warehouse/ccost_2026_recording_quality_conditions_rows129_148.csv",
+      "blob_sha": "80825a168635cfe95a973de619c8ced642bb6b48",
+      "rows": 20,
+      "logical_table": "recording_quality_conditions"
+    },
+    {
+      "path": "manual_phonetic_production/data/warehouse/ccost_2026_acoustic_summary_rows129_148.csv",
+      "blob_sha": "41c6a67b32454b66908c8a18a289641baa9e32b3",
+      "rows": 20,
+      "logical_table": "acoustic_summary"
+    }
+  ],
+  "id_rule": "recording_id=source_id::source_recording_id; speaker_id=source_id::S<Speaker>",
+  "task_rule": "task is parsed only from the literal bundle identifier (INT/WL/ST); no task context is inferred beyond that source encoding",
+  "transformations": [
+    "projected source recording/task/quality/condition/temporal fields into a linked recording-level table",
+    "projected all ten supplied intensity/amplitude fields into a linked acoustic-summary table",
+    "preserved source numerical values without normalization, imputation, unit conversion, or replacement",
+    "retained low-SNR, clipping, near-clip, background-noise/music flags and comments rather than filtering affected recordings"
+  ],
+  "double_counting_guard": "Both outputs are harmonized projections of source-faithful CCOST metadata already represented in parsed_rows_total; they add zero new distinct scientific observations.",
+  "validation": {
+    "quality_condition_rows": 20,
+    "acoustic_summary_rows": 20,
+    "unique_recording_ids_each_table": 20,
+    "source_rows_one_to_one": true,
+    "source_values_overwritten": false,
+    "raw_audio_committed": false
+  },
+  "created": "2026-09-13T21:09:34-07:00"
+}
