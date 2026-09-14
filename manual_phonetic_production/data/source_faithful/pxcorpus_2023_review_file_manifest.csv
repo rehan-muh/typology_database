@@ -1,0 +1,2 @@
+source_id,file_name,file_url,file_size_bytes,file_size_published,checksum_type,checksum,format,access,license,ingestion_state,notes
+pxcorpus_2023,PxCorpus.zip,https://zenodo.org/records/10080490/files/PxCorpus.zip,375700000,375.7 MB,md5,97247fc5278cf4e3ab147aab4fc72f14,zip,open,CC-BY-4.0,manifest_only,"Primary French speech archive. Do not commit bulk WAV media to GitHub. Next step: enumerate archive members and ingest structured PxSLU/PxDialogue metadata/transcript/label files source-faithfully; promote only annotation layers meeting manual phonetic-production criteria."
