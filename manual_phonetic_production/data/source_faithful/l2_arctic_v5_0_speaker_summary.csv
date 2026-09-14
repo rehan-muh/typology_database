@@ -1,0 +1,25 @@
+source_id,source_speaker_id,gender,native_language,wav_files,manual_annotation_files,provenance
+l2_arctic_v5_0,ABA,M,Arabic,1129,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,SKA,F,Arabic,974,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,YBAA,M,Arabic,1130,149,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,ZHAA,F,Arabic,1132,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,BWC,M,Chinese,1130,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,LXC,F,Chinese,1131,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,NCC,F,Chinese,1131,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,TXHC,M,Chinese,1132,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,ASI,M,Hindi,1131,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,RRBI,M,Hindi,1130,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,SVBI,F,Hindi,1132,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,TNI,F,Hindi,1131,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,HJK,F,Korean,1131,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,HKK,M,Korean,1131,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,YDCK,F,Korean,1131,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,YKWK,M,Korean,1131,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,EBVS,M,Spanish,1007,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,ERMS,M,Spanish,1132,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,MBMPS,F,Spanish,1132,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,NJS,F,Spanish,1131,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,HQTV,M,Vietnamese,1132,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,PNV,F,Vietnamese,1132,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,THV,F,Vietnamese,1132,150,PSI Lab L2-ARCTIC v5.0 documentation
+l2_arctic_v5_0,TLV,M,Vietnamese,1132,150,PSI Lab L2-ARCTIC v5.0 documentation
