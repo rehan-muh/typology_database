@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-14T05:14:00-07:00",
-  "total_sources": 199,
-  "accepted_sources": 47,
+  "last_updated": "2026-09-14T06:20:00-07:00",
+  "total_sources": 200,
+  "accepted_sources": 48,
   "excluded_sources": 31,
   "review_sources": 121,
-  "ingested_sources": 47,
-  "parsed_rows_total": 1362001,
-  "parsed_logical_tables_total": 117,
-  "inventory_file_records": 1177,
-  "variable_dictionary_records": 1219,
-  "notes": "This pass completed both material backlog ingestion and fresh discovery. JSUT-label BASIC5000 advanced from review-only to partial source-faithful ingestion: the first 20 authoritative e2e_symbol/phoneme.yaml utterance sequences were preserved exactly and linked through a namespaced harmonized annotation index. Repository documentation explicitly separates manual phonetic/prosodic information from Julius-estimated automatic timing, so only the manual symbolic layer was admitted; automatic timing was marked automatic_not_ingested. Underlying media remain lineage-linked to JSUT BASIC5000 to prevent duplicate recording counts. Eight variable-dictionary mappings and three JSUT-label manifest records were added. Fresh discovery added the MRPL2 Non-native Speech Corpus to HIGH review: public Zenodo metadata reports 4,500 utterances from 23 speakers/14 L1s with manual phonetic mispronunciation annotations, annotated TextGrids, and expected/ground-truth phoneme masters, but files are restricted and license/protocol verification is pending. All writes were confined to manual_phonetic_production/."
+  "ingested_sources": 48,
+  "parsed_rows_total": 1362086,
+  "parsed_logical_tables_total": 125,
+  "inventory_file_records": 1180,
+  "variable_dictionary_records": 1229,
+  "notes": "This pass completed both aggressive backlog ingestion and fresh discovery. JSUT-label BASIC5000 manual symbolic annotation ingestion advanced from 20 to 80 authoritative utterance rows: rows 21-40 and 41-80 were preserved source-faithfully and linked through namespaced harmonized indexes, while Julius-estimated automatic timing remained excluded. The next JSUT checkpoint is BASIC5000_0081. Fresh discovery identified and accepted the manual layer of L2-ARCTIC v5.0. Public documentation was materially ingested into 24 source-faithful speaker rows, one corpus-summary row, 24 harmonized participants, one harmonized corpus summary, 10 variable-dictionary mappings, and 3 resource-manifest records. Speaker-level counts reconcile exactly to the documented 26,867 recordings and 3,599 human-examined utterances. Manual annotations include corrected word/phone boundaries and substitution/deletion/addition tags; forced-alignment-only tiers remain excluded. L2-ARCTIC v5.0 is fixed as the current corpus lineage to avoid duplicate counts across earlier releases. The release package is CC BY-NC 4.0 and form/license-gated, so package-level TextGrid/audio ingestion remains pending authorized acquisition. All writes were confined to manual_phonetic_production/."
 }
