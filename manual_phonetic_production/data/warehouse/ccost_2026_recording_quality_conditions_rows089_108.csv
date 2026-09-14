@@ -1,0 +1,21 @@
+source_id,recording_id,source_recording_id,speaker_id,task,interviewer_gender,audio_quality_grade,snr_db,audio_quality_issues,audio_quality_comment,wordlist_order,pace_condition,misread_frequency,total_duration_s,labeled_duration_s,num_intervals,provenance
+ccost_2026,ccost_2026::ccost_S12_WL_34,ccost_S12_WL_34,ccost_2026::S12,WL,F,C,8.47,Low-SNR;,static in background interferes with pitch estimator,B,A,few,277.11,110.99,206,CCOST_metadata.csv source row 89
+ccost_2026,ccost_2026::ccost_S12_ST_123,ccost_S12_ST_123,ccost_2026::S12,ST,F,C,,Low-Range;No-Noise-Detected;,static in background interferes with pitch estimator,,A,few,164.03,94.48,300,CCOST_metadata.csv source row 90
+ccost_2026,ccost_2026::ccost_S13_INT_1,ccost_S13_INT_1,ccost_2026::S13,INT,F,C,40.74,None,static in background,,,few,311.26,124.47,443,CCOST_metadata.csv source row 91
+ccost_2026,ccost_2026::ccost_S13_INT_2,ccost_S13_INT_2,ccost_2026::S13,INT,F,C,,No-Noise-Detected;,static in background,,,few,341.64,196.67,711,CCOST_metadata.csv source row 92
+ccost_2026,ccost_2026::ccost_S13_INT_3,ccost_S13_INT_3,ccost_2026::S13,INT,F,C,11.06,None,static in background,,,few,321.13,185.14,768,CCOST_metadata.csv source row 93
+ccost_2026,ccost_2026::ccost_S13_WL_12,ccost_S13_WL_12,ccost_2026::S13,WL,F,C,39.04,None,static in background interferes with pitch estimator,B,A,few,331.61,116.83,206,CCOST_metadata.csv source row 94
+ccost_2026,ccost_2026::ccost_S13_WL_34,ccost_S13_WL_34,ccost_2026::S13,WL,F,C,36.85,Low-Range;,static in background interferes with pitch estimator,B,A,few,286.54,116.28,206,CCOST_metadata.csv source row 95
+ccost_2026,ccost_2026::ccost_S13_ST_123,ccost_S13_ST_123,ccost_2026::S13,ST,F,C,,Low-Range;No-Noise-Detected;,static in background interferes with pitch estimator,,A,few,139.86,92.8,300,CCOST_metadata.csv source row 96
+ccost_2026,ccost_2026::ccost_S14_INT_1,ccost_S14_INT_1,ccost_2026::S14,INT,F,B,17.48,Weak-Signal;,low volume,,,few,300.28,101.71,352,CCOST_metadata.csv source row 97
+ccost_2026,ccost_2026::ccost_S14_INT_2,ccost_S14_INT_2,ccost_2026::S14,INT,F,B,14.95,Weak-Signal;,low volume,,,few,412.43,148.3,512,CCOST_metadata.csv source row 98
+ccost_2026,ccost_2026::ccost_S14_INT_3,ccost_S14_INT_3,ccost_2026::S14,INT,F,B,16.19,None,low volume,,,few,218.43,67.68,242,CCOST_metadata.csv source row 99
+ccost_2026,ccost_2026::ccost_S14_WL_12,ccost_S14_WL_12,ccost_2026::S14,WL,F,B,16.47,None,low volume but does not affect pitch estimator;,B,A,few,188.88,112.79,206,CCOST_metadata.csv source row 100
+ccost_2026,ccost_2026::ccost_S14_WL_34,ccost_S14_WL_34,ccost_2026::S14,WL,F,B,13.96,None,low volume but does not affect pitch estimator;,B,A,few,188.91,110.08,206,CCOST_metadata.csv source row 101
+ccost_2026,ccost_2026::ccost_S14_ST_123,ccost_S14_ST_123,ccost_2026::S14,ST,F,B,15.05,None,low volume but does not affect pitch estimator;,,A,few,144.18,116.41,300,CCOST_metadata.csv source row 102
+ccost_2026,ccost_2026::ccost_S15_INT_1,ccost_S15_INT_1,ccost_2026::S15,INT,F,B,15.46,None,low volume,,,few,267.14,61.42,261,CCOST_metadata.csv source row 103
+ccost_2026,ccost_2026::ccost_S15_INT_2,ccost_S15_INT_2,ccost_2026::S15,INT,F,B,13.58,Weak-Signal;,low volume,,,few,169.3,55.77,208,CCOST_metadata.csv source row 104
+ccost_2026,ccost_2026::ccost_S15_INT_3,ccost_S15_INT_3,ccost_2026::S15,INT,F,B,17.61,Weak-Signal;,low volume,,,few,305.26,144.46,582,CCOST_metadata.csv source row 105
+ccost_2026,ccost_2026::ccost_S15_INT_4,ccost_S15_INT_4,ccost_2026::S15,INT,F,B,17.4,None,low volume,,,few,304.81,142,590,CCOST_metadata.csv source row 106
+ccost_2026,ccost_2026::ccost_S15_WL_12,ccost_S15_WL_12,ccost_2026::S15,WL,F,B,18.58,Weak-Signal;,low volume but does not affect pitch estimator;,B,A,few,252.83,137.89,206,CCOST_metadata.csv source row 107
+ccost_2026,ccost_2026::ccost_S15_WL_34,ccost_S15_WL_34,ccost_2026::S15,WL,F,B,14.56,None,low volume but does not affect pitch estimator;,B,A,few,190.33,117.68,206,CCOST_metadata.csv source row 108
