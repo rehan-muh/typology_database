@@ -6,11 +6,11 @@
   "upstream_blob_sha": "bff79d978f740f6c2b09bc595ade03b6bdf33423",
   "license": "CC BY-NC-SA 4.0",
   "annotation_scope": "manually corrected German-SAMPA phonetic segments and silence labels with utterance-relative cumulative endpoints",
-  "durable_source_faithful_chunks": 49,
-  "durable_utterances": 178,
-  "durable_intervals": 5614,
-  "latest_committed_source_record": "m0132",
-  "next_verified_source_record": "m0133",
+  "durable_source_faithful_chunks": 50,
+  "durable_utterances": 182,
+  "durable_intervals": 5729,
+  "latest_committed_source_record": "m0136",
+  "next_verified_source_record": "m0137",
   "validation": {
     "namespaced_ids": true,
     "original_labels_preserved": true,
@@ -19,13 +19,11 @@
     "ipa_not_invented": true,
     "source_native_terminal_timing_preserved": true,
     "literal_upstream_record_order_preserved": true,
-    "chunk048_utterances": 4,
-    "chunk048_intervals": 169,
-    "chunk049_utterances": 4,
-    "chunk049_intervals": 134,
-    "chunk049_terminal_residuals_s": {"m0129": 0.005, "m0130": 0.005, "m0131": 0.005, "m0132": 0.005},
+    "chunk050_utterances": 4,
+    "chunk050_intervals": 115,
+    "chunk050_terminal_residuals_s": {"m0133": 0.005, "m0134": 0.005, "m0135": 0.005, "m0136": 0.005},
     "numeric_gap_not_inferred": "Literal source order remains authoritative; prompt-number gaps are not inferred as missing records."
   },
-  "notes": "Durable source-faithful mirror advanced through chunk049. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when chunks are materialized. Chunk049 follows literal upstream order m0129,m0130,m0131,m0132; m0133 is next. Original labels/endpoints were retained without IPA invention or timing repair.",
-  "last_updated": "2026-09-13T13:11:18-07:00"
+  "notes": "Durable source-faithful mirror advanced through chunk050. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when chunks are materialized. Chunk050 follows literal upstream order m0133,m0134,m0135,m0136; m0137 is next. Original labels/endpoints were retained without IPA invention or timing repair.",
+  "last_updated": "2026-09-14T12:09:10-07:00"
 }
