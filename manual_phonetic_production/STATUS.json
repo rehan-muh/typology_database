@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-14T07:14:00-07:00",
-  "total_sources": 201,
+  "last_updated": "2026-09-14T08:10:00-07:00",
+  "total_sources": 202,
   "accepted_sources": 49,
   "excluded_sources": 31,
-  "review_sources": 121,
+  "review_sources": 122,
   "ingested_sources": 48,
-  "parsed_rows_total": 1362126,
-  "parsed_logical_tables_total": 127,
-  "inventory_file_records": 1182,
+  "parsed_rows_total": 1362166,
+  "parsed_logical_tables_total": 129,
+  "inventory_file_records": 1186,
   "variable_dictionary_records": 1229,
-  "notes": "This pass completed both backlog ingestion and fresh discovery. JSUT-label BASIC5000 manual symbolic annotations advanced from rows 1-80 to rows 1-120: 40 additional authoritative manual phonetic/prosodic symbol rows (BASIC5000_0081 through BASIC5000_0120) were preserved source-faithfully and linked through a namespaced harmonized annotation index. Julius-derived automatic timing remains explicitly excluded; next checkpoint is BASIC5000_0121. Fresh discovery identified and accepted Parker's Data for studying sonority (Journal of Phonetics-linked; Mendeley Data v6, DOI 10.1016/j.wocn.2007.09.003): primary English and Spanish recordings collected in 2005, digitized at 44.1 kHz, and explicitly manually segmented and analyzed in Praat 4.3.17. The deposit is CC BY 4.0. Exact Mendeley per-file enumeration remains pending because the public HTML exposes the collection and manual-segmentation provenance but not the file list in the surfaced view. No annotation intervals or measurements were invented. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass completed both backlog ingestion and fresh discovery. JSUT-label BASIC5000 manual symbolic annotations advanced from rows 1-120 to rows 1-160: 40 additional authoritative manual phonetic/prosodic symbol rows (BASIC5000_0121 through BASIC5000_0160) were preserved source-faithfully and linked through a namespaced harmonized annotation index. Julius-derived automatic timing remains explicitly excluded; next checkpoint is BASIC5000_0161. Fresh discovery added the NURC/SP Minimum Corpus to HIGH review. Its authoritative repository describes a manually annotated Brazilian Portuguese spontaneous-speech subset with 21 audio files and audio-aligned multilevel transcripts organized by linguistically motivated intonation units, but the underlying recordings are legacy NURC material. Core promotion is withheld until the linked Portulan CLARIN files are enumerated and the genuinely new manual annotation tiers can be isolated from legacy recording lineage. All writes were confined to manual_phonetic_production/."
 }
