@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-14T14:11:57-07:00",
-  "total_sources": 209,
+  "last_updated": "2026-09-14T15:10:09-07:00",
+  "total_sources": 210,
   "accepted_sources": 51,
   "excluded_sources": 31,
-  "review_sources": 127,
+  "review_sources": 128,
   "ingested_sources": 49,
-  "parsed_rows_total": 1362352,
-  "parsed_logical_tables_total": 139,
+  "parsed_rows_total": 1362392,
+  "parsed_logical_tables_total": 141,
   "inventory_file_records": 1201,
   "variable_dictionary_records": 1246,
-  "notes": "This pass did both backlog ingestion and discovery. JSUT-label BASIC5000 advanced from 280 through 300 manually annotated phonetic/prosodic symbol rows. BASIC5000_0281-0300 were preserved verbatim from authoritative git blob ae8933677c082c22238a895012b6b6dcba1f6625 and linked to 20 collision-safe harmonized utterance IDs under lineage JSUT::BASIC5000; Julius-derived automatic timing remains excluded and BASIC5000_0301 is next. DanPASS public annotation-archive retrieval was retried but binary access did not complete, so no TextGrid rows/checksums were fabricated. Fresh discovery added RescueSpeech v2 to HIGH review rather than core: Zenodo explicitly describes manually annotated primary German SAR recordings, but the exact manual annotation protocol still needs verification. All three v2 deposit files were inventoried with published MD5s and access/license metadata. The clean 2,412-utterance ASR layer is isolated conceptually from synthetically noise-contaminated derivatives; augmentation archives are not to be counted as new primary recordings. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass did both backlog ingestion and discovery. JSUT-label BASIC5000 advanced from 300 through 340 manually annotated phonetic/prosodic symbol rows. BASIC5000_0301-0340 were re-read directly from authoritative git blob ae8933677c082c22238a895012b6b6dcba1f6625, preserved verbatim in a new source-faithful YAML slice, and linked to 40 collision-safe harmonized utterance IDs under lineage JSUT::BASIC5000. Julius-derived automatic timing remains excluded and BASIC5000_0341 is next. Fresh discovery added IFCASL (French/German native and non-native read speech) to HIGH review: the corpus reports about 100 speakers, word/phone annotation, and >50% manually corrected data, with project documentation confirming manual checking after automatic alignment. It was not promoted because a stable public corpus-data deposit and exact tier-level manual-vs-automatic provenance were not resolved in this pass. All writes were confined to manual_phonetic_production/."
 }
