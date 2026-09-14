@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-14T15:10:09-07:00",
-  "total_sources": 210,
+  "last_updated": "2026-09-14T16:13:00-07:00",
+  "total_sources": 211,
   "accepted_sources": 51,
   "excluded_sources": 31,
-  "review_sources": 128,
+  "review_sources": 129,
   "ingested_sources": 49,
-  "parsed_rows_total": 1362392,
-  "parsed_logical_tables_total": 141,
-  "inventory_file_records": 1201,
+  "parsed_rows_total": 1362432,
+  "parsed_logical_tables_total": 143,
+  "inventory_file_records": 1202,
   "variable_dictionary_records": 1246,
-  "notes": "This pass did both backlog ingestion and discovery. JSUT-label BASIC5000 advanced from 300 through 340 manually annotated phonetic/prosodic symbol rows. BASIC5000_0301-0340 were re-read directly from authoritative git blob ae8933677c082c22238a895012b6b6dcba1f6625, preserved verbatim in a new source-faithful YAML slice, and linked to 40 collision-safe harmonized utterance IDs under lineage JSUT::BASIC5000. Julius-derived automatic timing remains excluded and BASIC5000_0341 is next. Fresh discovery added IFCASL (French/German native and non-native read speech) to HIGH review: the corpus reports about 100 speakers, word/phone annotation, and >50% manually corrected data, with project documentation confirming manual checking after automatic alignment. It was not promoted because a stable public corpus-data deposit and exact tier-level manual-vs-automatic provenance were not resolved in this pass. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass did both backlog ingestion and discovery. JSUT-label BASIC5000 advanced from 340 through 380 manually annotated phonetic/prosodic symbol rows. BASIC5000_0341-0380 were re-read directly from authoritative git blob ae8933677c082c22238a895012b6b6dcba1f6625, preserved verbatim in a new source-faithful YAML slice, and linked to 40 collision-safe harmonized utterance IDs under lineage JSUT::BASIC5000. Julius-derived automatic timing remains excluded and BASIC5000_0381 is next. Fresh discovery added the MRPL2 Non-native Speech Corpus to HIGH review: its Zenodo record documents 4,500 utterances from 23 non-native English speakers across 14 L1s, with utterance-level manually annotated phonetic mispronunciations, TextGrids, word transcripts, and expected/ground-truth phoneme master files. Files are restricted, so the source was not promoted pending authorized file enumeration, annotation-tier provenance verification, and license review. All writes were confined to manual_phonetic_production/."
 }
