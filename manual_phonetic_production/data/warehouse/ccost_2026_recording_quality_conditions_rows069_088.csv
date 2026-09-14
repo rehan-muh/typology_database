@@ -1,0 +1,21 @@
+source_id,recording_id,source_recording_id,speaker_id,task,interviewer_gender,audio_quality_grade,snr_db,audio_quality_issues,audio_quality_comment,wordlist_order,pace_condition,misread_frequency,total_duration_s,labeled_duration_s,num_intervals,provenance
+ccost_2026,ccost_2026::ccost_S9_INT_2,ccost_S9_INT_2,ccost_2026::S9,INT,F,A,11.62,None,,,,few,234.98,114.31,496,CCOST_metadata.csv source row 69
+ccost_2026,ccost_2026::ccost_S9_INT_3,ccost_S9_INT_3,ccost_2026::S9,INT,F,A,12.19,None,,,,few,212.29,128.14,581,CCOST_metadata.csv source row 70
+ccost_2026,ccost_2026::ccost_S9_INT_4,ccost_S9_INT_4,ccost_2026::S9,INT,F,A,11.79,None,,,,few,232.25,139.64,653,CCOST_metadata.csv source row 71
+ccost_2026,ccost_2026::ccost_S10_WL_12,ccost_S10_WL_12,ccost_2026::S10,WL,F,A,13.74,None,,B,C,few,132.34,100.7,202,CCOST_metadata.csv source row 72
+ccost_2026,ccost_2026::ccost_S10_WL_34,ccost_S10_WL_34,ccost_2026::S10,WL,F,A,12.8,None,,B,C,few,109.26,94.92,201,CCOST_metadata.csv source row 73
+ccost_2026,ccost_2026::ccost_S10_ST_123,ccost_S10_ST_123,ccost_2026::S10,ST,F,A,10.68,None,,,C,few,81.99,75.46,300,CCOST_metadata.csv source row 74
+ccost_2026,ccost_2026::ccost_S10_INT_1,ccost_S10_INT_1,ccost_2026::S10,INT,F,A,13.79,None,,,,few,209.47,91.81,379,CCOST_metadata.csv source row 75
+ccost_2026,ccost_2026::ccost_S10_INT_2,ccost_S10_INT_2,ccost_2026::S10,INT,F,A,12.24,None,,,,few,227.18,116.12,443,CCOST_metadata.csv source row 76
+ccost_2026,ccost_2026::ccost_S10_INT_3,ccost_S10_INT_3,ccost_2026::S10,INT,F,A,12.91,None,,,,few,254.95,132.23,512,CCOST_metadata.csv source row 77
+ccost_2026,ccost_2026::ccost_S10_INT_4,ccost_S10_INT_4,ccost_2026::S10,INT,F,A,13.1,None,,,,few,225.6,106.68,443,CCOST_metadata.csv source row 78
+ccost_2026,ccost_2026::ccost_S11_WL_12,ccost_S11_WL_12,ccost_2026::S11,WL,F,A,19.45,None,,B,A,none,178.28,119.97,200,CCOST_metadata.csv source row 79
+ccost_2026,ccost_2026::ccost_S11_WL_34,ccost_S11_WL_34,ccost_2026::S11,WL,F,A,19.28,None,,B,A,none,164.67,114.39,203,CCOST_metadata.csv source row 80
+ccost_2026,ccost_2026::ccost_S11_ST_123,ccost_S11_ST_123,ccost_2026::S11,ST,F,A,15.56,None,,,A,none,96.27,84,300,CCOST_metadata.csv source row 81
+ccost_2026,ccost_2026::ccost_S11_INT_1,ccost_S11_INT_1,ccost_2026::S11,INT,F,A,12.7,None,,,,none,435.27,254.1,759,CCOST_metadata.csv source row 82
+ccost_2026,ccost_2026::ccost_S11_INT_2,ccost_S11_INT_2,ccost_2026::S11,INT,F,A,12.37,None,,,,none,502.29,291.6,1050,CCOST_metadata.csv source row 83
+ccost_2026,ccost_2026::ccost_S12_INT_1,ccost_S12_INT_1,ccost_2026::S12,INT,F,C,5.87,Low-SNR;,static in background,,,few,296.92,137.19,518,CCOST_metadata.csv source row 84
+ccost_2026,ccost_2026::ccost_S12_INT_2,ccost_S12_INT_2,ccost_2026::S12,INT,F,C,9.11,Low-SNR;,static in background,,,few,306.38,207.39,743,CCOST_metadata.csv source row 85
+ccost_2026,ccost_2026::ccost_S12_INT_3,ccost_S12_INT_3,ccost_2026::S12,INT,F,C,6.06,Low-SNR;,static in background,,,few,256.76,172.57,615,CCOST_metadata.csv source row 86
+ccost_2026,ccost_2026::ccost_S12_INT_4,ccost_S12_INT_4,ccost_2026::S12,INT,F,C,8.33,Low-SNR;,static in background,,,few,204.15,144.89,440,CCOST_metadata.csv source row 87
+ccost_2026,ccost_2026::ccost_S12_WL_12,ccost_S12_WL_12,ccost_2026::S12,WL,F,C,9.44,Low-SNR;,static in background interferes with pitch estimator,B,A,few,297.66,111.23,206,CCOST_metadata.csv source row 88
