@@ -1,0 +1,4 @@
+source_id,file_name,authoritative_url,size_bytes,size_display,checksum_type,checksum,role,core_eligibility,notes
+rescuespeech_2023,Readme.md,https://zenodo.org/records/8077622,6400,6.4 kB,md5,5b6bf9922c78e37aef96199f0eb34b4d,documentation,review,"Inspect for annotation schema and manual provenance."
+rescuespeech_2023,Task_ASR.tar.gz,https://zenodo.org/records/8077622,643200000,643.2 MB,md5,c5b9f7857c1970bfe34eae0805c6987b,mixed_primary_and_synthetic,review,"Contains original clean SAR utterances plus synthesized noisy counterparts; isolate clean lineage before any promotion."
+rescuespeech_2023,Task_enhancement.tar.gz,https://zenodo.org/records/8077622,3300000000,3.3 GB,md5,0a933817af7ccd56982225ae46c3722c,synthetic_derivative,exclude_from_primary_core,"Speech-enhancement archive is explicitly augmentation-derived from clean utterances with added noise/SNR conditions; retain lineage/reference only."
