@@ -1,0 +1,9 @@
+source_id,speaker_id,source_speaker_id,language,variety,sex_original,age_years,recorded_duration_s,manually_segmented_duration_s,annotation_status,source_url
+ifa_spoken_language_corpus_2001,ifa_spoken_language_corpus_2001::N,N,Dutch,,F,20,3736,2760,hand_segmented,https://zenodo.org/records/14904090
+ifa_spoken_language_corpus_2001,ifa_spoken_language_corpus_2001::G,G,Dutch,,F,28,4180,3978,hand_segmented,https://zenodo.org/records/14904090
+ifa_spoken_language_corpus_2001,ifa_spoken_language_corpus_2001::L,L,Dutch,,F,40,3112,2485,hand_segmented,https://zenodo.org/records/14904090
+ifa_spoken_language_corpus_2001,ifa_spoken_language_corpus_2001::E,E,Dutch,,F,60,4181,3245,hand_segmented,https://zenodo.org/records/14904090
+ifa_spoken_language_corpus_2001,ifa_spoken_language_corpus_2001::R,R,Dutch,,M,15,2125,1439,hand_segmented,https://zenodo.org/records/14904090
+ifa_spoken_language_corpus_2001,ifa_spoken_language_corpus_2001::K,K,Dutch,,M,40,2720,1891,hand_segmented,https://zenodo.org/records/14904090
+ifa_spoken_language_corpus_2001,ifa_spoken_language_corpus_2001::H,H,Dutch,,M,56,2894,2368,hand_segmented,https://zenodo.org/records/14904090
+ifa_spoken_language_corpus_2001,ifa_spoken_language_corpus_2001::O,O,Dutch,,M,66,3781,1696,hand_segmented,https://zenodo.org/records/14904090
