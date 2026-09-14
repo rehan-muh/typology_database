@@ -1,0 +1,21 @@
+{
+  "source_id": "jsut_label_basic5000_manual",
+  "authoritative_source": "https://github.com/sarulab-speech/jsut-label/blob/master/e2e_symbol/phoneme.yaml",
+  "authoritative_git_blob_sha": "ae8933677c082c22238a895012b6b6dcba1f6625",
+  "manual_layer": "phonetic_and_prosodic_symbol_sequence",
+  "timing_layer": "automatic_not_ingested",
+  "processed_rows": "1-40",
+  "processed_utterances": 40,
+  "next_source_row": 41,
+  "next_source_utterance": "BASIC5000_0041",
+  "underlying_recording_lineage": "JSUT::BASIC5000",
+  "deduplication_rule": "Count only the new manual annotation layer; do not count underlying JSUT recordings as new recordings.",
+  "validation": {
+    "source_faithful_rows_1_20": 20,
+    "source_faithful_rows_21_40": 20,
+    "harmonized_rows_1_20": 20,
+    "harmonized_rows_21_40": 20,
+    "namespaced_ids_unique_within_each_harmonized_slice": true
+  },
+  "notes": "Repository documentation states that phonetic/prosodic information is manual and time information is automatically estimated using Julius. Automatic times remain excluded from the manual core."
+}
