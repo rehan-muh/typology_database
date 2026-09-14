@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-13T16:11:00-07:00",
-  "total_sources": 187,
+  "last_updated": "2026-09-13T18:13:00-07:00",
+  "total_sources": 188,
   "accepted_sources": 47,
   "excluded_sources": 31,
-  "review_sources": 109,
+  "review_sources": 110,
   "ingested_sources": 45,
   "parsed_rows_total": 1361972,
-  "parsed_logical_tables_total": 96,
+  "parsed_logical_tables_total": 98,
   "inventory_file_records": 1110,
   "variable_dictionary_records": 1197,
-  "notes": "This pass completed both backlog harmonization and fresh discovery. CCOST remains source-faithfully ingested through metadata row 195/488, while source rows 49-68 were newly projected into two linked analysis-ready tables: 20 recording/task/quality/condition/temporal rows and 20 acoustic-summary rows preserving all ten supplied intensity/amplitude measures. These rows retain namespaced IDs, one-to-one source-row provenance and source missingness; no normalization, imputation, unit conversion, IPA inference, context inference, or source-value replacement was performed. Together with existing projections for rows 30-48 and 179-195, CCOST now has 56 harmonized quality-condition rows and 56 acoustic-summary rows. Because these are projections of already promoted source-faithful observations, parsed_rows_total remains 1,361,972 while parsed_logical_tables_total rises from 94 to 96. Fresh discovery added ProsSegue/NURC-SP manual reference annotations to HIGH review. The repository explicitly distinguishes inquiry-level manually segmented reference TextGrids from UFPAlign forced-alignment files and automatic prosodic outputs; one public SP_D2_255 reference TextGrid was inventoried with its authoritative Git blob. This is a potentially admissible exception to the secondary-recording exclusion because the new manual annotation layer is isolatable, but core promotion is withheld until tier-level manual provenance and licensing scope are verified. Forced-aligned phone/word tiers and model outputs are explicitly excluded. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass completed both backlog harmonization and fresh discovery. CCOST remains source-faithfully ingested through metadata row 195/488, while source rows 69-88 were newly projected into two linked analysis-ready tables: 20 recording/task/quality/condition/temporal rows and 20 acoustic-summary rows preserving all ten supplied intensity/amplitude measures. Low-SNR and background-noise cases were retained rather than filtered, with exact quality flags/comments and source-row provenance. Together with prior projections, CCOST now has 76 harmonized quality-condition rows and 76 acoustic-summary rows. These are derived views of already ingested source-faithful observations, so parsed_rows_total remains 1,361,972 while parsed_logical_tables_total rises from 96 to 98. Fresh discovery added the French Lombard Dataset to HIGH review: primary French production with synchronized speech and EGG from 40 speakers under four Lombard-noise conditions, publicly released under CC BY-NC-SA and described by Zenodo as having recordings and annotation by Maxime Jacquelin. Core promotion is withheld until FLombard.zip is enumerated and the manual provenance of each annotation object is verified; Fharvard stimulus lineage must not be double-counted as new production data. All writes were confined to manual_phonetic_production/."
 }
