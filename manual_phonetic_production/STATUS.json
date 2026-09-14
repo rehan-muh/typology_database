@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-14T11:11:00-07:00",
-  "total_sources": 205,
+  "last_updated": "2026-09-14T12:09:10-07:00",
+  "total_sources": 207,
   "accepted_sources": 50,
   "excluded_sources": 31,
-  "review_sources": 124,
+  "review_sources": 126,
   "ingested_sources": 49,
   "parsed_rows_total": 1362292,
   "parsed_logical_tables_total": 135,
-  "inventory_file_records": 1194,
+  "inventory_file_records": 1196,
   "variable_dictionary_records": 1236,
-  "notes": "This pass did both backlog ingestion and discovery. PAVOQUE moved from accepted-but-unparsed to materially ingested: five angry-style utterances (spike0001-spike0005) were preserved source-faithfully with original prompt/text/style and source-FLAC utterance boundaries, and 41 manually corrected segment observations from spike0001-spike0002 were parsed into a linked harmonized interval table retaining source SAMPA-like labels, relative end times, defensibly derived segment starts/durations, and absolute source-FLAC times. No IPA was invented. Seven source-variable dictionary mappings were added. Fresh discovery added the Phonetic Corpus of Estonian Spontaneous Speech v1.3 to HIGH review: repository metadata reports manual word/phoneme transcription for a primary 207-speaker, 135-hour corpus with 106 annotated hours, but the repository has migrated to Dataverse, so current file enumeration and license verification are required before core promotion. All writes were confined to manual_phonetic_production/."
+  "notes": "This pass did both backlog ingestion and discovery. The durable source-faithful PAVOQUE angry mirror advanced from m0132 through m0136: four utterances and 115 manually corrected German-SAMPA/silence intervals were committed as chunk050 with original labels and cumulative endpoints preserved, deterministic interval starts/durations only, no IPA invention, and explicit lineage/double-counting guards because these observations are already represented in the validated full PAVOQUE parse. Durable PAVOQUE coverage is now 182 utterances and 5,729 intervals; m0137 is next. Fresh discovery added HAMATAC v1.0.0 and CLIPS_MT_MANUAL to HIGH review. HAMATAC has explicit manual orthographic, disfluency, and phonetic-phenomena annotation but restricted file access. CLIPS_MT_MANUAL reports 3,228 corrected/repaired turns and 104,056 manually segmented phonetic segments; because it derives from legacy CLIPS recordings, only its isolatable new correction/manual-annotation layer may be promoted. Two authoritative repository/documentation records were added to the file inventory. All writes were confined to manual_phonetic_production/."
 }
