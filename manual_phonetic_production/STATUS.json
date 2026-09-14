@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-14T03:13:00-07:00",
-  "total_sources": 197,
+  "last_updated": "2026-09-14T04:07:00-07:00",
+  "total_sources": 198,
   "accepted_sources": 47,
   "excluded_sources": 31,
-  "review_sources": 119,
-  "ingested_sources": 45,
-  "parsed_rows_total": 1361972,
-  "parsed_logical_tables_total": 111,
-  "inventory_file_records": 1145,
-  "variable_dictionary_records": 1197,
-  "notes": "This pass completed both backlog file-level ingestion and fresh discovery. IFA was expanded from corpus-level tracking to an authoritative Zenodo file manifest for eight compact/data archives with exact filenames, roles, sizes and MD5 checksums: Additional Documents.zip, Articles.zip, DatabaseFiles.zip, LabelProtocol.zip, Labels-chunks.zip, Labels-sentences.zip, Labels-validation.zip and SLcorpus.zip. The three TextGrid archives, TSV database archive, labeling protocol and auxiliary transcription archive are explicitly queued for byte-level parsing; no observations were fabricated because Zenodo file retrieval remained unavailable in this run. Fresh discovery added IFCASL and BeDiaCo v2 to HIGH review. IFCASL reports word/phone segmentation with >50% manual correction and project documentation confirms forced alignment followed by manual checking/annotation; BeDiaCo documents 36 participants, spontaneous dialogue plus read wordlists, TextGrid phonetic segmentation and multi-layer prosodic/dialogue annotation. Both remain review-only pending public file enumeration and tier-level provenance separation. All writes were confined to manual_phonetic_production/."
+  "review_sources": 120,
+  "ingested_sources": 46,
+  "parsed_rows_total": 1361981,
+  "parsed_logical_tables_total": 115,
+  "inventory_file_records": 1173,
+  "variable_dictionary_records": 1211,
+  "notes": "This pass completed both backlog ingestion and fresh discovery. IFA advanced from manifest-only tracking to source-faithful ingestion of the authoritative Zenodo speaker summary (8 manually segmented speakers) and corpus-level counts, with harmonized namespaced speaker and corpus-summary projections plus 14 variable-dictionary mappings. The IFA manifest was expanded by 27 previously uninventoried audio archives with published MD5 checksums, completing authoritative archive-level coverage of the visible Zenodo file list; bulk audio remains reference-only. Direct Zenodo ZIP retrieval was attempted but rate limiting/network resolution prevented byte-level TextGrid/TSV parsing, so no interval rows were fabricated. Fresh discovery added the JSUT-label BASIC5000 derivative annotation release to HIGH review: phonetic/prosodic information is documented as manually annotated but timing is automatic, so only the new manual label layer may qualify and must be lineage-linked to JSUT without duplicating recordings. All writes were confined to manual_phonetic_production/."
 }
