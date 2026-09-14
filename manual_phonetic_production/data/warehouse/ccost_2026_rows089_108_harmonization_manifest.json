@@ -1,0 +1,40 @@
+{
+  "source_id": "ccost_2026",
+  "source_file": "CCOST_metadata.csv",
+  "source_faithful_chunk": "manual_phonetic_production/data/source_faithful/ccost_2026/CCOST_metadata_chunk003_rows089_118.csv",
+  "source_rows": "89-108",
+  "row_count": 20,
+  "warehouse_tables": [
+    {
+      "path": "manual_phonetic_production/data/warehouse/ccost_2026_recording_quality_conditions_rows089_108.csv",
+      "git_blob_sha": "25acbf32835a504014765c28666f0e4f1199b27d",
+      "rows": 20,
+      "domains": ["recording", "experimental_condition", "equipment_recording", "temporal", "categorical_production_judgment", "annotation_summary"]
+    },
+    {
+      "path": "manual_phonetic_production/data/warehouse/ccost_2026_acoustic_summary_rows089_108.csv",
+      "git_blob_sha": "34d53f9e492d336fb1caa78f695ebd57bdf2a70b",
+      "rows": 20,
+      "domains": ["acoustic_measurement", "equipment_recording"]
+    }
+  ],
+  "id_policy": "recording_id=ccost_2026::source bundle; speaker_id=ccost_2026::S{Speaker}",
+  "transformations": [
+    "task was parsed only from the explicit INT/WL/ST component of the source bundle identifier",
+    "source values were copied into standardized columns according to the existing CCOST variable dictionary",
+    "source SNR value '/' is represented as an empty standardized snr_db field while the literal '/' remains preserved in the source-faithful layer",
+    "no raw source field or source-faithful value was overwritten",
+    "blank source fields remain empty rather than becoming a new categorical level",
+    "no unit conversion, normalization, imputation, IPA inference, or context inference was performed"
+  ],
+  "acoustic_fields_preserved": ["MeanIntensity.dB", "MaxIntensity.dB", "MinIntensity.dB", "StdDev.dB", "DynamicRange.dB", "PeakLevel.dBFS", "PeakIntensity.dB", "Threshold.dB", "AvgSpeech.dB", "AvgNoise.dB"],
+  "validation": {
+    "unique_source_recording_ids": 20,
+    "unique_namespaced_recording_ids": 20,
+    "source_rows_one_to_one": true,
+    "source_faithful_layer_unchanged": true,
+    "raw_audio_committed": false,
+    "distinct_scientific_observation_increment": 0
+  },
+  "double_counting_guard": "These are harmonized projections of already ingested CCOST metadata rows 89-108. They add analysis-ready linked tables but must not increment the database-wide distinct scientific-observation total."
+}
