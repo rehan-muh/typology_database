@@ -1,0 +1,11 @@
+source_id,recording_id,source_recording_id,speaker_id,task,interviewer_gender,audio_quality_grade,snr_db,audio_quality_issues,audio_quality_comment,wordlist_order,pace_condition,misread_frequency,total_duration_s,labeled_duration_s,num_intervals,provenance
+ccost_2026,ccost_2026::ccost_S22_INT_5,ccost_S22_INT_5,ccost_2026::S22,INT,F,A,14.33,Clipping;,,,,none,273.74,159.35,724,CCOST_metadata.csv source row 169
+ccost_2026,ccost_2026::ccost_S22_INT_6,ccost_S22_INT_6,ccost_2026::S22,INT,F,A,15.8,Clipping;,,,,none,210.86,92.56,357,CCOST_metadata.csv source row 170
+ccost_2026,ccost_2026::ccost_S22_WL_1,ccost_S22_WL_1,ccost_2026::S22,WL,F,A,23.17,Clipping;,,A,A,none,95.61,50.61,98,CCOST_metadata.csv source row 171
+ccost_2026,ccost_2026::ccost_S22_WL_2,ccost_S22_WL_2,ccost_2026::S22,WL,F,A,25.99,Clipping;,,A,A,none,112.16,55.65,105,CCOST_metadata.csv source row 172
+ccost_2026,ccost_2026::ccost_S22_WL_3,ccost_S22_WL_3,ccost_2026::S22,WL,F,A,23.87,Clipping;,,A,A,none,105.19,51.87,100,CCOST_metadata.csv source row 173
+ccost_2026,ccost_2026::ccost_S22_WL_4,ccost_S22_WL_4,ccost_2026::S22,WL,F,A,25.1,Clipping;,,A,A,none,109.37,53.85,106,CCOST_metadata.csv source row 174
+ccost_2026,ccost_2026::ccost_S22_ST_1,ccost_S22_ST_1,ccost_2026::S22,ST,F,A,18.67,Clipping;,,,A,none,46.65,36.33,100,CCOST_metadata.csv source row 175
+ccost_2026,ccost_2026::ccost_S22_ST_2,ccost_S22_ST_2,ccost_2026::S22,ST,F,A,18.61,Clipping;,,,A,none,44.4,36.59,100,CCOST_metadata.csv source row 176
+ccost_2026,ccost_2026::ccost_S22_ST_3,ccost_S22_ST_3,ccost_2026::S22,ST,F,A,19.43,Clipping;,,,A,none,42.97,35.02,100,CCOST_metadata.csv source row 177
+ccost_2026,ccost_2026::ccost_S23_INT_1,ccost_S23_INT_1,ccost_2026::S23,INT,F,A,17.97,Clipping;,,,,few,199.57,123.29,375,CCOST_metadata.csv source row 178
