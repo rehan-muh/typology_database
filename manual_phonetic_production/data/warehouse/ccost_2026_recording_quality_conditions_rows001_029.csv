@@ -1,0 +1,30 @@
+source_id,recording_id,source_recording_id,speaker_id,task,interviewer_gender,audio_quality_grade,snr_db,audio_quality_issues,audio_quality_comment,wordlist_order,pace_condition,misread_frequency,total_duration_s,labeled_duration_s,num_intervals,provenance
+ccost_2026,ccost_2026::ccost_S1_INT_1,ccost_S1_INT_1,ccost_2026::S1,INT,F,A,20.19,Clipping;,,,,none,336.16,174.51,597,CCOST_metadata.csv source row 1
+ccost_2026,ccost_2026::ccost_S1_INT_2,ccost_S1_INT_2,ccost_2026::S1,INT,F,A,19.15,Clipping;,,,,none,344.11,178.79,677,CCOST_metadata.csv source row 2
+ccost_2026,ccost_2026::ccost_S1_INT_3,ccost_S1_INT_3,ccost_2026::S1,INT,F,A,21.91,Clipping;,,,,none,209.44,103.22,387,CCOST_metadata.csv source row 3
+ccost_2026,ccost_2026::ccost_S1_INT_4,ccost_S1_INT_4,ccost_2026::S1,INT,F,A,21.11,Clipping;,,,,none,309.84,202.0,766,CCOST_metadata.csv source row 4
+ccost_2026,ccost_2026::ccost_S1_WL_12,ccost_S1_WL_12,ccost_2026::S1,WL,F,A,30.76,Clipping;,,A,A,none,242.05,104.77,211,CCOST_metadata.csv source row 5
+ccost_2026,ccost_2026::ccost_S1_WL_34,ccost_S1_WL_34,ccost_2026::S1,WL,F,A,29.74,Clipping;,,A,A,none,259.46,108.19,205,CCOST_metadata.csv source row 6
+ccost_2026,ccost_2026::ccost_S1_ST_123,ccost_S1_ST_123,ccost_2026::S1,ST,F,A,22.38,Clipping;,,,A,none,135.37,99.43,300,CCOST_metadata.csv source row 7
+ccost_2026,ccost_2026::ccost_S2_INT_1,ccost_S2_INT_1,ccost_2026::S2,INT,F,A,11.22,Clipping;,,,,few,227.08,78.32,221,CCOST_metadata.csv source row 8
+ccost_2026,ccost_2026::ccost_S2_INT_2,ccost_S2_INT_2,ccost_2026::S2,INT,F,A,12.3,Clipping;,,,,few,174.74,78.88,199,CCOST_metadata.csv source row 9
+ccost_2026,ccost_2026::ccost_S2_INT_3,ccost_S2_INT_3,ccost_2026::S2,INT,F,A,12.36,Clipping;,,,,few,94.81,31.54,110,CCOST_metadata.csv source row 10
+ccost_2026,ccost_2026::ccost_S2_INT_4,ccost_S2_INT_4,ccost_2026::S2,INT,F,A,10.73,Clipping;,,,,few,181.68,63.0,201,CCOST_metadata.csv source row 11
+ccost_2026,ccost_2026::ccost_S2_INT_5,ccost_S2_INT_5,ccost_2026::S2,INT,F,A,12.45,Clipping;,,,,few,251.94,89.79,290,CCOST_metadata.csv source row 12
+ccost_2026,ccost_2026::ccost_S2_INT_6,ccost_S2_INT_6,ccost_2026::S2,INT,F,A,10.98,Clipping;,,,,few,181.7,70.57,218,CCOST_metadata.csv source row 13
+ccost_2026,ccost_2026::ccost_S2_INT_7,ccost_S2_INT_7,ccost_2026::S2,INT,F,A,11.36,Clipping;,,,,few,136.43,49.57,158,CCOST_metadata.csv source row 14
+ccost_2026,ccost_2026::ccost_S2_INT_8,ccost_S2_INT_8,ccost_2026::S2,INT,F,A,11.28,Clipping;,,,,few,110.02,29.92,94,CCOST_metadata.csv source row 15
+ccost_2026,ccost_2026::ccost_S2_INT_9,ccost_S2_INT_9,ccost_2026::S2,INT,F,A,12.52,Clipping;,,,,few,97.95,30.88,117,CCOST_metadata.csv source row 16
+ccost_2026,ccost_2026::ccost_S2_WL_12,ccost_S2_WL_12,ccost_2026::S2,WL,F,A,14.35,Clipping;,,A,A,few,271.89,104.42,206,CCOST_metadata.csv source row 17
+ccost_2026,ccost_2026::ccost_S2_WL_34,ccost_S2_WL_34,ccost_2026::S2,WL,F,A,14.74,Clipping;,,A,A,few,246.81,121.81,206,CCOST_metadata.csv source row 18
+ccost_2026,ccost_2026::ccost_S2_ST_123,ccost_S2_ST_123,ccost_2026::S2,ST,F,A,12.94,Clipping;,,,A,few,121.75,98.23,300,CCOST_metadata.csv source row 19
+ccost_2026,ccost_2026::ccost_S3_INT_1,ccost_S3_INT_1,ccost_2026::S3,INT,F,B,9.24,Low-SNR;,low level static in background,,,none,195.11,154.58,439,CCOST_metadata.csv source row 20
+ccost_2026,ccost_2026::ccost_S3_INT_2,ccost_S3_INT_2,ccost_2026::S3,INT,F,B,9.92,Low-SNR;,low level static in background,,,none,190.55,137.91,433,CCOST_metadata.csv source row 21
+ccost_2026,ccost_2026::ccost_S3_INT_3,ccost_S3_INT_3,ccost_2026::S3,INT,F,B,10.26,None,low level static in background,,,none,228.1,166.01,488,CCOST_metadata.csv source row 22
+ccost_2026,ccost_2026::ccost_S3_INT_4,ccost_S3_INT_4,ccost_2026::S3,INT,F,B,10.57,None,low level static in background,,,none,187.93,150.48,489,CCOST_metadata.csv source row 23
+ccost_2026,ccost_2026::ccost_S3_INT_5,ccost_S3_INT_5,ccost_2026::S3,INT,F,B,9.66,Low-SNR;,low level static in background,,,none,340.09,259.6,889,CCOST_metadata.csv source row 24
+ccost_2026,ccost_2026::ccost_S3_INT_6,ccost_S3_INT_6,ccost_2026::S3,INT,F,B,10.74,None,low level static in background,,,none,381.64,314.17,1010,CCOST_metadata.csv source row 25
+ccost_2026,ccost_2026::ccost_S3_WL_12,ccost_S3_WL_12,ccost_2026::S3,WL,F,B,20.12,None,"low level static in background, but does not appear to affect pitch estimate",A,A,none,367.5,120.92,207,CCOST_metadata.csv source row 26
+ccost_2026,ccost_2026::ccost_S3_WL_34,ccost_S3_WL_34,ccost_2026::S3,WL,F,B,17.0,None,"low level static in background, but does not appear to affect pitch estimate",A,A,none,358.56,122.93,206,CCOST_metadata.csv source row 27
+ccost_2026,ccost_2026::ccost_S3_ST_123,ccost_S3_ST_123,ccost_2026::S3,ST,F,B,12.03,None,"low level static in background, but does not appear to affect pitch estimate",,A,none,145.09,76.63,200,CCOST_metadata.csv source row 28
+ccost_2026,ccost_2026::ccost_S4_INT_1,ccost_S4_INT_1,ccost_2026::S4,INT,F,A,15.12,Clipping;,,,,none,298.77,122.77,441,CCOST_metadata.csv source row 29
