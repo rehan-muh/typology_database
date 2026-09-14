@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-14T12:09:10-07:00",
-  "total_sources": 207,
-  "accepted_sources": 50,
+  "last_updated": "2026-09-14T13:11:54-07:00",
+  "total_sources": 208,
+  "accepted_sources": 51,
   "excluded_sources": 31,
   "review_sources": 126,
   "ingested_sources": 49,
-  "parsed_rows_total": 1362292,
-  "parsed_logical_tables_total": 135,
-  "inventory_file_records": 1196,
-  "variable_dictionary_records": 1236,
-  "notes": "This pass did both backlog ingestion and discovery. The durable source-faithful PAVOQUE angry mirror advanced from m0132 through m0136: four utterances and 115 manually corrected German-SAMPA/silence intervals were committed as chunk050 with original labels and cumulative endpoints preserved, deterministic interval starts/durations only, no IPA invention, and explicit lineage/double-counting guards because these observations are already represented in the validated full PAVOQUE parse. Durable PAVOQUE coverage is now 182 utterances and 5,729 intervals; m0137 is next. Fresh discovery added HAMATAC v1.0.0 and CLIPS_MT_MANUAL to HIGH review. HAMATAC has explicit manual orthographic, disfluency, and phonetic-phenomena annotation but restricted file access. CLIPS_MT_MANUAL reports 3,228 corrected/repaired turns and 104,056 manually segmented phonetic segments; because it derives from legacy CLIPS recordings, only its isolatable new correction/manual-annotation layer may be promoted. Two authoritative repository/documentation records were added to the file inventory. All writes were confined to manual_phonetic_production/."
+  "parsed_rows_total": 1362332,
+  "parsed_logical_tables_total": 137,
+  "inventory_file_records": 1198,
+  "variable_dictionary_records": 1246,
+  "notes": "This pass did both backlog ingestion and discovery. JSUT-label BASIC5000 advanced from 240 through 280 manually annotated phonetic/prosodic symbol rows: rows 241-280 were preserved source-faithfully from the unchanged authoritative git blob ae8933677c082c22238a895012b6b6dcba1f6625 and linked to 40 collision-safe harmonized utterance IDs under lineage JSUT::BASIC5000. Julius-derived automatic timing remains excluded; BASIC5000_0281 is next. Fresh discovery accepted DanPASS, a primary Danish spontaneous-speech corpus with 27 speakers, 9h46m and approximately 73,500 running words. Its authoritative documentation specifies ten TextGrid annotation tiers; segmental/prosodic tiers were independently annotated by two assistants, disagreements adjudicated, and whole files proof-read. Two DanPASS resources and ten source-variable definitions were inventoried. The public textgrids_2014.zip archive remains pending binary enumeration/parsing; no checksum, file count, or interval rows were invented. All writes were confined to manual_phonetic_production/."
 }
