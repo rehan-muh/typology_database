@@ -1,0 +1,37 @@
+- prompt: spike0007
+  text: Wie fühlst du dich heute?
+  style: angry
+  start: 24.0
+  end: 27.0
+  segments:
+  - {lab: H#, end: 0.17}
+  - {lab: v, end: 0.23}
+  - {lab: 'i:', end: 0.382713}
+  - {lab: f, end: 0.49}
+  - {lab: 'y:', end: 0.567005}
+  - {lab: l, end: 0.61}
+  - {lab: s, end: 0.716282}
+  - {lab: t, end: 0.725}
+  - {lab: d, end: 0.739892}
+  - {lab: 'u:', end: 0.786927}
+  - {lab: d, end: 0.836957}
+  - {lab: I, end: 0.886445}
+  - {lab: C, end: 0.977362}
+  - {lab: h, end: 1.015}
+  - {lab: OY, end: 1.16104}
+  - {lab: t, end: 1.247613}
+  - {lab: '@', end: 1.363147}
+  - {lab: _, end: 2.995}
+- prompt: spike0008
+  text: Ach ja?
+  style: angry
+  start: 27.0
+  end: 28.92
+  segments:
+  - {lab: H#, end: 0.280902}
+  - {lab: '?', end: 0.324898}
+  - {lab: a, end: 0.408238}
+  - {lab: x, end: 0.475}
+  - {lab: j, end: 0.61}
+  - {lab: 'a:', end: 0.963273}
+  - {lab: _, end: 1.915}
