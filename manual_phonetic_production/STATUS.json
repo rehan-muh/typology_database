@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-15T14:09:00-07:00",
+  "last_updated": "2026-09-15T15:09:00-07:00",
   "total_sources": 214,
   "accepted_sources": 53,
   "excluded_sources": 31,
   "review_sources": 130,
   "ingested_sources": 50,
-  "parsed_rows_total": 1363422,
-  "parsed_logical_tables_total": 180,
+  "parsed_rows_total": 1363448,
+  "parsed_logical_tables_total": 181,
   "inventory_file_records": 1220,
   "variable_dictionary_records": 1256,
-  "notes": "This pass completed both discovery and backlog ingestion. CCOST source-faithful metadata advanced from row 195 through row 233 using the authoritative Zenodo CCOST_metadata.csv endpoint: 38 new recording-level rows x 37 original columns were preserved without normalization, renaming, imputation, inferred IPA, or source-value overwrite. CCOST source-faithful metadata is now continuous 1-233 of 488; next source row is 234. Harmonization remains continuous 1-195, making 196-233 the immediate linked-table backlog. Fresh discovery surfaced French OSCE Dialogue Dataset for Clinical Training (Zenodo 20719833): primary French recorded clinical-training interactions with 26 manually corrected transcriptions, but files are restricted, so it remains a review lead rather than core ingestion pending access/layer-isolation verification. Search noise from NLP/text annotation and automatic/secondary speech resources was not admitted. Next backlog: CCOST rows 234-488 + TextGrid extraction, PAVOQUE spike0009+, Chenghai TextGrid/XLSX, JSUT BASIC5000_0941+, IFCASL, HeyJay. All writes confined to manual_phonetic_production/."
+  "notes": "This pass completed both discovery and backlog ingestion. CCOST source-faithful metadata advanced continuously from row 233 through row 259 using the authoritative Zenodo CCOST_metadata.csv endpoint: 26 new recording-level rows x 37 original columns were preserved without normalization, renaming, imputation, inferred IPA, or source-value overwrite. CCOST source-faithful metadata is now continuous 1-259 of 488; next source row is 260. Harmonization remains continuous 1-195, making 196-259 the immediate linked-table backlog. Fresh discovery identified Jaeger et al. 2026, Dataset of audiovisual unscripted monologues with speech annotations (Data in Brief 67:112932; DOI 10.1016/j.dib.2026.112932), a strong primary German spontaneous-production candidate with >300 minutes/6 speakers/60 takes and manual correction steps applied to transcripts/forced alignment; it remains a review target until its public deposit, exact manually corrected layers, file inventory, and license lineage are opened and isolated. LibriSpeech Keywords was explicitly rejected as secondary reuse of LibriSpeech despite some manual correction. Next backlog: CCOST rows 260-488 + harmonization 196-259 + TextGrid extraction; PAVOQUE spike0009+; Chenghai TextGrid/XLSX; JSUT BASIC5000_0941+; IFCASL; HeyJay; Jaeger et al. audiovisual monologues. All writes confined to manual_phonetic_production/."
 }
