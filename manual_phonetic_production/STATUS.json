@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-15T00:15:43-07:00",
+  "last_updated": "2026-09-15T01:08:34-07:00",
   "total_sources": 212,
   "accepted_sources": 52,
   "excluded_sources": 31,
   "review_sources": 129,
   "ingested_sources": 49,
-  "parsed_rows_total": 1362672,
-  "parsed_logical_tables_total": 154,
+  "parsed_rows_total": 1362712,
+  "parsed_logical_tables_total": 156,
   "inventory_file_records": 1206,
   "variable_dictionary_records": 1252,
-  "notes": "This pass completed discovery screening and concrete backlog ingestion. JSUT-label BASIC5000 advanced from 0580 through 0620: 40 authoritative manual phonetic/prosodic symbol sequences were read directly from sarulab-speech/jsut-label e2e_symbol/phoneme.yaml (blob ae8933677c082c22238a895012b6b6dcba1f6625), preserved source-faithfully, and indexed with namespaced utterance IDs plus exact source-row/value pointers. Julius-estimated timing remains explicitly excluded. Fresh searches surfaced no admissible new core source: MRPL2 and RescueSpeech are already represented/backlogged; PodcastFillers is excluded as third-party podcast media; the code-switching hit is secondary resegmentation of Spoken Wikipedia; other hits were non-production. Next JSUT checkpoint is BASIC5000_0621. Continue PAVOQUE exhaustive parsing, DanPASS TextGrid retrieval, CLIPS_MT_MANUAL corrected-layer verification, and high-priority review-source file verification. All writes confined to manual_phonetic_production/."
+  "notes": "This pass completed discovery screening and concrete backlog ingestion. JSUT-label BASIC5000 advanced from 0620 through 0660: 40 authoritative manual phonetic/prosodic symbol sequences were read directly from sarulab-speech/jsut-label e2e_symbol/phoneme.yaml (blob ae8933677c082c22238a895012b6b6dcba1f6625), preserved source-faithfully, and indexed with namespaced utterance IDs plus exact source-row/value pointers. Julius-estimated timing remains explicitly excluded. Fresh searches identified PxCorpus as a potentially relevant primary French production deposit (55 participants; roughly four hours; human-verified transcriptions and semantic/dialogue annotations), but it was not promoted in this pass because its phonetic/manual interval or landmark content and fit to the production-phonetics core require closer file-level verification. TunSwitch CS was rejected as third-party radio/podcast media; TunSwitch TO is primary prompted speech but the surfaced annotation is orthographic/code-switch labeling rather than a qualifying phonetic production annotation. Next JSUT checkpoint is BASIC5000_0661. Continue PAVOQUE exhaustive parsing, DanPASS TextGrid retrieval, CLIPS_MT_MANUAL corrected-layer verification, and high-priority review-source file verification. All writes confined to manual_phonetic_production/."
 }
