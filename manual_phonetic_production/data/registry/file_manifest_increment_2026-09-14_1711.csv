@@ -1,0 +1,4 @@
+source_id,repository_record,file_or_collection,public_access,checksum,size_or_count,status,notes
+aphasiabd_zenodo_21863777,https://zenodo.org/records/21863777,"Zenodo dataset record and deposited files",record_public,,,pending_enumeration,"Record reports 335 manually sentence-segmented audio clips from 38 patients; exact file list/checksums to enumerate before promotion"
+french_osce_dialogue_zenodo_21810895,https://zenodo.org/records/21810895,"recorded_transcripts/",restricted,,,blocked_access,"Contains automatic speaker-diarized transcription and manually corrected transcription when available; 26 corrected transcriptions reported"
+french_osce_dialogue_zenodo_21810895,https://zenodo.org/records/21810895,"generated_dialogues/",restricted,,,excluded_derivative,"800 generated dialogues are synthetic/non-primary and must never enter production core"
