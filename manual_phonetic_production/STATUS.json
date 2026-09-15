@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-15T09:08:00-07:00",
+  "last_updated": "2026-09-15T10:08:00-07:00",
   "total_sources": 213,
   "accepted_sources": 52,
   "excluded_sources": 31,
   "review_sources": 130,
   "ingested_sources": 49,
-  "parsed_rows_total": 1362992,
-  "parsed_logical_tables_total": 170,
+  "parsed_rows_total": 1363048,
+  "parsed_logical_tables_total": 172,
   "inventory_file_records": 1209,
   "variable_dictionary_records": 1252,
-  "notes": "This pass completed both discovery and backlog ingestion. JSUT BASIC5000 manual phonetic/prosodic symbol coverage advanced contiguously through 0940 using authoritative sarulab-speech/jsut-label e2e_symbol/phoneme.yaml blob ae8933677c082c22238a895012b6b6dcba1f6625. Forty exact source rows (0901-0940) were preserved and forty namespaced harmonized utterance records were added; automatic Julius timing remains excluded. Fresh repository discovery screened manual-segmentation/manual-correction candidates. PAVOQUE remains a known high-value backlog source with manually corrected segment labels/times; InCroMin was not admitted because corrected transcripts retain automatic timestamps except an isolated corrected diarization file requiring separate review. Next backlog: JSUT BASIC5000_0941+, download/parse Chenghai textgrid.zip and data analysis.xlsx, verify/ingest Bangla Speech Corpora annotations, PAVOQUE exhaustive parsing, DanPASS TextGrid retrieval, CLIPS_MT_MANUAL corrected-layer verification. All writes confined to manual_phonetic_production/."
+  "notes": "This pass completed both discovery and backlog ingestion, prioritizing a non-JSUT high-value source. PAVOQUE angry utterance spike0003 was parsed from the authoritative marytts/pavoque-data pavoque-angry.yaml: 56 manually corrected phone-level segments were converted to namespaced segment records with original SAMPA-like labels, relative and absolute boundaries, durations, style, and source provenance; no IPA mapping was invented. A source-faithful utterance record was preserved separately. This extends prior PAVOQUE parsing beyond spike0001-0002. Fresh repository discovery reconfirmed PAVOQUE's corpus-level documentation: phone segmentation is manually checked/corrected, corpus is primary studio German expressive/read speech, and source YAML exposes utterance text/style/times plus corrected segments. Next backlog: continue PAVOQUE spike0004+, JSUT BASIC5000_0941+, download/parse Chenghai textgrid.zip and data analysis.xlsx, verify/ingest Bangla Speech Corpora annotations, DanPASS TextGrid retrieval, CLIPS_MT_MANUAL corrected-layer verification. All writes confined to manual_phonetic_production/."
 }
