@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-15T05:10:14-07:00",
+  "last_updated": "2026-09-15T06:08:56-07:00",
   "total_sources": 213,
   "accepted_sources": 52,
   "excluded_sources": 31,
   "review_sources": 130,
   "ingested_sources": 49,
-  "parsed_rows_total": 1362832,
-  "parsed_logical_tables_total": 162,
+  "parsed_rows_total": 1362872,
+  "parsed_logical_tables_total": 164,
   "inventory_file_records": 1209,
   "variable_dictionary_records": 1252,
-  "notes": "This pass completed both discovery and backlog ingestion. JSUT BASIC5000 manual phonetic/prosodic symbol coverage advanced contiguously through 0780 using authoritative sarulab-speech/jsut-label e2e_symbol/phoneme.yaml blob ae8933677c082c22238a895012b6b6dcba1f6625. Forty exact source rows (0741-0780) were preserved in a source-faithful YAML slice and forty namespaced harmonized utterance records were added; automatic Julius timing remains excluded. Fresh discovery screened Zenodo/OSF/GitHub candidates and surfaced the supervised, manually segmented Bangla Speech Corpora (Alam et al. 2010) as a potentially qualifying primary production resource requiring file-level verification before admission. Next backlog: JSUT BASIC5000_0781+, download/parse Chenghai textgrid.zip and data analysis.xlsx, verify/ingest Bangla Speech Corpora annotations, PAVOQUE exhaustive parsing, DanPASS TextGrid retrieval, CLIPS_MT_MANUAL corrected-layer verification. All writes confined to manual_phonetic_production/."
+  "notes": "This pass completed both discovery and backlog ingestion. JSUT BASIC5000 manual phonetic/prosodic symbol coverage advanced contiguously through 0820 using authoritative sarulab-speech/jsut-label e2e_symbol/phoneme.yaml blob ae8933677c082c22238a895012b6b6dcba1f6625. Forty exact source rows (0781-0820) were preserved and forty namespaced harmonized utterance records were added; automatic Julius timing remains excluded. Fresh Zenodo/OSF discovery was screened conservatively; returned candidates were primarily non-speech annotation, third-party/social-media material, or otherwise outside scope, so no weak source was promoted. Next backlog: JSUT BASIC5000_0821+, download/parse Chenghai textgrid.zip and data analysis.xlsx, verify/ingest Bangla Speech Corpora annotations, PAVOQUE exhaustive parsing, DanPASS TextGrid retrieval, CLIPS_MT_MANUAL corrected-layer verification. All writes confined to manual_phonetic_production/."
 }
