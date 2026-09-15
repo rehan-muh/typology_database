@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-15T11:11:00-07:00",
+  "last_updated": "2026-09-15T12:10:00-07:00",
   "total_sources": 213,
   "accepted_sources": 52,
   "excluded_sources": 31,
   "review_sources": 130,
   "ingested_sources": 49,
-  "parsed_rows_total": 1363153,
-  "parsed_logical_tables_total": 175,
+  "parsed_rows_total": 1363178,
+  "parsed_logical_tables_total": 177,
   "inventory_file_records": 1212,
   "variable_dictionary_records": 1252,
-  "notes": "This pass completed both discovery and backlog ingestion. PAVOQUE angry utterances spike0004-spike0006 were read from the authoritative marytts/pavoque-data pavoque-angry.yaml and 105 manually corrected phone/silence segments were converted to harmonized records while preserving original labels, relative endpoints, derived starts/durations, absolute boundaries, utterance text/style, and source provenance. Source utterance metadata for all three utterances was preserved separately. No IPA mapping or missing context was invented. Boundary validation is monotonic/nonnegative; supplied final segment endpoints fall 0.005 s short of each nominal utterance end and are retained unchanged. Fresh discovery screened repository/web candidates; IFCASL remains a strong manual-correction candidate (about 100 speakers, word/phone segmentation, >50% manually corrected) requiring public-file/access verification; singing/manual music datasets remain excluded. Next backlog: PAVOQUE spike0007+, JSUT BASIC5000_0941+, Chenghai textgrid.zip/XLSX, IFCASL access verification, Bangla annotations, DanPASS TextGrid, CLIPS_MT_MANUAL. All writes confined to manual_phonetic_production/."
+  "notes": "This pass completed both discovery and backlog ingestion. PAVOQUE angry utterances spike0007-spike0008 were read from the authoritative marytts/pavoque-data pavoque-angry.yaml and 25 manually corrected phone/silence segments were converted to harmonized records while preserving original SAMPA-like labels, relative endpoints, derived starts/durations, absolute boundaries, utterance text/style, and source provenance. Exact source YAML slices were preserved separately. No IPA mapping or missing context was invented. Boundary validation is monotonic/nonnegative; supplied final segment endpoints remain 0.005 s short of each nominal utterance end and are retained unchanged. Fresh discovery screened public production resources: HeyJay! (Scientific Data, 2026-06-03) is a potentially valuable clinical/atypical-speech source with primary WAVs, transcription/intent tables, participant clinical metadata, and independent SLP perceptual ratings; it requires verification of which production annotations meet the manual/manual-corrected inclusion rule before promotion. IFCASL remains a strong manual-correction candidate (>50% manually corrected phone/word segmentation) requiring public-file/access verification. Next backlog: PAVOQUE spike0009+, JSUT BASIC5000_0941+, Chenghai textgrid.zip/XLSX, IFCASL access verification, HeyJay annotation-method verification, Bangla annotations, DanPASS TextGrid, CLIPS_MT_MANUAL. All writes confined to manual_phonetic_production/."
 }
