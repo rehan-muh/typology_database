@@ -1,0 +1,9 @@
+source_id,file_name,file_role,size,checksum_type,checksum,processed_status,redistribution,notes
+ccost_zenodo_17366698,C-COST.zip,audio+hand-corrected TextGrid archive,6.2 GB,md5,5e38579433e111231b9cbfc5bb4bf90d,pending_annotation_extraction,CC-BY-NC-SA-4.0,"Do not commit bulk audio; enumerate/extract annotation members next."
+ccost_zenodo_17366698,CCOST_manual.pdf,annotation manual,2.2 MB,md5,caecb20d26e8458b20c7c269ca22b59e,pending_parse,CC-BY-NC-SA-4.0,Manual for force-alignment correction/transcription.
+ccost_zenodo_17366698,CCOST_metadata.csv,speaker+recording metadata,137.6 kB,md5,03848e05d05a2e5156e4b34019732d01,pending_retry_download,CC-BY-NC-SA-4.0,Direct fetch timed out this pass; retry before TextGrid joins.
+ccost_zenodo_17366698,check_audio_quality_praat,audio QC script,20.7 kB,md5,53815e31f63014936aa445be5804a554,pending,CC-BY-NC-SA-4.0,Preserve equipment/QC provenance where useful.
+ccost_zenodo_17366698,Interview schedule.pdf,elicitation guide,395.8 kB,md5,c90a23887085d4adcac1832363abf5d6,pending,CC-BY-NC-SA-4.0,Task/style context.
+ccost_zenodo_17366698,Pittayaporn et al 2026_CCOST.pdf,corpus paper,695.9 kB,md5,6a171bd316ee56d1374b8399c6bdb595,pending,CC-BY-NC,Manual-correction evidence independently verified via ACL Anthology.
+ccost_zenodo_17366698,sentences.txt,sentence stimuli,702 B,md5,a655027991af58110b0c711d9700abb2,pending_retry_download,CC-BY-NC-SA-4.0,25 sentence stimuli.
+ccost_zenodo_17366698,wordlist.csv,word-list stimulus schedule,9.7 kB,md5,e62f500d87b4ff8c6deb4c4595854d34,processed_source_faithful,CC-BY-NC-SA-4.0,"206 source rows ingested; first 20 rows additionally harmonized this pass."
