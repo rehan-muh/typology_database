@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-15T13:09:00-07:00",
+  "last_updated": "2026-09-15T14:09:00-07:00",
   "total_sources": 214,
   "accepted_sources": 53,
   "excluded_sources": 31,
   "review_sources": 130,
   "ingested_sources": 50,
-  "parsed_rows_total": 1363384,
-  "parsed_logical_tables_total": 179,
+  "parsed_rows_total": 1363422,
+  "parsed_logical_tables_total": 180,
   "inventory_file_records": 1220,
   "variable_dictionary_records": 1256,
-  "notes": "This pass completed both discovery and backlog ingestion and deliberately broadened beyond PAVOQUE/JSUT. Newly accepted CCOST (Chulalongkorn Corpus of Spoken Thai; Zenodo 17366698) is primary Standard Thai production from 49 speakers (~7h spontaneous + ~5h controlled). LREC 2026 independently confirms ASR/MAUS initial annotation followed by manual correction by phonetically trained native Thai speakers, with orthographic, word, syllable, phone, and toneme tiers. The full 8-file Zenodo deposit was inventoried with published MD5s and license. The complete public wordlist.csv was ingested source-faithfully (206 rows, original A/B/C/D Thai orthography preserved); first 20 schedule rows were additionally harmonized with namespaced IDs, language/task/provenance. Four source variables were entered into the variable dictionary. The 6.2GB C-COST.zip is queued for annotation-member extraction without committing bulk audio. CCOST_metadata.csv and sentences.txt direct fetches timed out and remain explicit retry items. Fresh discovery also screened MRPL2 (manual mispronunciation corpus, files restricted), MRP (restricted), OOCC, and excluded forced-alignment-only SSL-NL and singing Vocadito. Next backlog: CCOST metadata + TextGrid extraction, complete harmonization of wordlist schedule, PAVOQUE spike0009+, Chenghai TextGrid/XLSX, JSUT BASIC5000_0941+, IFCASL, HeyJay. All writes confined to manual_phonetic_production/."
+  "notes": "This pass completed both discovery and backlog ingestion. CCOST source-faithful metadata advanced from row 195 through row 233 using the authoritative Zenodo CCOST_metadata.csv endpoint: 38 new recording-level rows x 37 original columns were preserved without normalization, renaming, imputation, inferred IPA, or source-value overwrite. CCOST source-faithful metadata is now continuous 1-233 of 488; next source row is 234. Harmonization remains continuous 1-195, making 196-233 the immediate linked-table backlog. Fresh discovery surfaced French OSCE Dialogue Dataset for Clinical Training (Zenodo 20719833): primary French recorded clinical-training interactions with 26 manually corrected transcriptions, but files are restricted, so it remains a review lead rather than core ingestion pending access/layer-isolation verification. Search noise from NLP/text annotation and automatic/secondary speech resources was not admitted. Next backlog: CCOST rows 234-488 + TextGrid extraction, PAVOQUE spike0009+, Chenghai TextGrid/XLSX, JSUT BASIC5000_0941+, IFCASL, HeyJay. All writes confined to manual_phonetic_production/."
 }
