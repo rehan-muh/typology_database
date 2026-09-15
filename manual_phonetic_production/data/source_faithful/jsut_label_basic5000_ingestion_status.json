@@ -4,17 +4,17 @@
   "authoritative_git_blob_sha": "ae8933677c082c22238a895012b6b6dcba1f6625",
   "manual_layer": "phonetic_and_prosodic_symbol_sequence",
   "timing_layer": "automatic_not_ingested",
-  "processed_rows": "1-500",
-  "processed_utterances": 500,
-  "next_source_row": 501,
-  "next_source_utterance": "BASIC5000_0501",
+  "processed_rows": "1-580",
+  "processed_utterances": 580,
+  "next_source_row": 581,
+  "next_source_utterance": "BASIC5000_0581",
   "underlying_recording_lineage": "JSUT::BASIC5000",
   "deduplication_rule": "Count only the new manual annotation layer; do not count underlying JSUT recordings as new recordings.",
   "validation": {
-    "total_manual_symbol_rows_ingested": 500,
-    "source_rows_contiguous_through_500": true,
+    "total_manual_symbol_rows_ingested": 580,
+    "source_rows_contiguous_through_580": true,
     "namespaced_ids_unique_within_each_harmonized_slice": true,
     "automatic_timing_rows_ingested": 0
   },
-  "notes": "Rows 461-500 were read directly from authoritative blob ae8933677c082c22238a895012b6b6dcba1f6625. The immutable authoritative source reference, blob checksum, exact source-row numbers, source utterance IDs, and value pointers are retained in the harmonized index. Julius-estimated timing remains excluded."
+  "notes": "Checkpoint reconciled against the durable 501-540 slice and advanced with rows 541-580 read directly from authoritative blob ae8933677c082c22238a895012b6b6dcba1f6625. Immutable source reference, blob checksum, exact source rows, utterance IDs, and value pointers are retained. Julius-estimated timing remains excluded."
 }
