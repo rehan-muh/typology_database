@@ -1,0 +1,4 @@
+source_id,prompt,text,style,start,end,source_file,annotation_status
+pavoque,spike0004,Na dann werde ich mich mal vorstellen.,angry,11.94,15.72,pavoque-angry.yaml,segments manually corrected
+pavoque,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,pavoque-angry.yaml,segments manually corrected
+pavoque,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,pavoque-angry.yaml,segments manually corrected
