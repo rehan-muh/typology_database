@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-14T16:13:00-07:00",
-  "total_sources": 211,
-  "accepted_sources": 51,
+  "last_updated": "2026-09-14T18:07:00-07:00",
+  "total_sources": 212,
+  "accepted_sources": 52,
   "excluded_sources": 31,
   "review_sources": 129,
   "ingested_sources": 49,
   "parsed_rows_total": 1362432,
   "parsed_logical_tables_total": 143,
-  "inventory_file_records": 1202,
-  "variable_dictionary_records": 1246,
-  "notes": "This pass did both backlog ingestion and discovery. JSUT-label BASIC5000 advanced from 340 through 380 manually annotated phonetic/prosodic symbol rows. BASIC5000_0341-0380 were re-read directly from authoritative git blob ae8933677c082c22238a895012b6b6dcba1f6625, preserved verbatim in a new source-faithful YAML slice, and linked to 40 collision-safe harmonized utterance IDs under lineage JSUT::BASIC5000. Julius-derived automatic timing remains excluded and BASIC5000_0381 is next. Fresh discovery added the MRPL2 Non-native Speech Corpus to HIGH review: its Zenodo record documents 4,500 utterances from 23 non-native English speakers across 14 L1s, with utterance-level manually annotated phonetic mispronunciations, TextGrids, word transcripts, and expected/ground-truth phoneme master files. Files are restricted, so the source was not promoted pending authorized file enumeration, annotation-tier provenance verification, and license review. All writes were confined to manual_phonetic_production/."
+  "inventory_file_records": 1206,
+  "variable_dictionary_records": 1252,
+  "notes": "This pass did both discovery and backlog verification. L2-ARCTIC was accepted at the isolated manual-annotation layer: 24 L2-English speakers, 26,867 scripted utterances, 3,599 manually examined scripted utterances with corrected word/phone boundaries and production-error labels, plus a 22-speaker spontaneous suitcase subset whose phonetic transcriptions were cross-checked by two trained RAs and finally checked by the project PI. Ordinary forced-aligned /textgrid material is explicitly excluded; only /annotation and suitcase manual layers qualify. Four source collections and six variables were inventoried. Corpus bytes remain accepted_pending_download because authoritative access requires the corpus license form; no unofficial mirror was treated as immutable provenance. Backlog verification confirmed JSUT durable coverage remains through BASIC5000_0380 with BASIC5000_0381 next. No observation counts were inflated without actual row-level parsing. All writes were confined to manual_phonetic_production/."
 }
