@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-15T01:08:34-07:00",
-  "total_sources": 212,
+  "last_updated": "2026-09-15T02:11:53-07:00",
+  "total_sources": 213,
   "accepted_sources": 52,
   "excluded_sources": 31,
-  "review_sources": 129,
+  "review_sources": 130,
   "ingested_sources": 49,
   "parsed_rows_total": 1362712,
   "parsed_logical_tables_total": 156,
-  "inventory_file_records": 1206,
+  "inventory_file_records": 1209,
   "variable_dictionary_records": 1252,
-  "notes": "This pass completed discovery screening and concrete backlog ingestion. JSUT-label BASIC5000 advanced from 0620 through 0660: 40 authoritative manual phonetic/prosodic symbol sequences were read directly from sarulab-speech/jsut-label e2e_symbol/phoneme.yaml (blob ae8933677c082c22238a895012b6b6dcba1f6625), preserved source-faithfully, and indexed with namespaced utterance IDs plus exact source-row/value pointers. Julius-estimated timing remains explicitly excluded. Fresh searches identified PxCorpus as a potentially relevant primary French production deposit (55 participants; roughly four hours; human-verified transcriptions and semantic/dialogue annotations), but it was not promoted in this pass because its phonetic/manual interval or landmark content and fit to the production-phonetics core require closer file-level verification. TunSwitch CS was rejected as third-party radio/podcast media; TunSwitch TO is primary prompted speech but the surfaced annotation is orthographic/code-switch labeling rather than a qualifying phonetic production annotation. Next JSUT checkpoint is BASIC5000_0661. Continue PAVOQUE exhaustive parsing, DanPASS TextGrid retrieval, CLIPS_MT_MANUAL corrected-layer verification, and high-priority review-source file verification. All writes confined to manual_phonetic_production/."
+  "notes": "This pass completed fresh discovery screening and backlog-oriented repository maintenance. A strong new HIGH-review source was added: Wang 2026, An Acoustic Study of Stops in the Chenghai Dialect (DOI 10.17632/4bw5rh6n3y.1). The public deposit describes primary summer-2026 Chenghai fieldwork recordings, textgrid.zip manually annotated in Praat for VOT and closure duration/GAP, and data analysis.xlsx containing extracted/analyzed acoustic measures; license CC BY 4.0. Three deposit payloads were inventoried as pending download/parse. No observation rows were claimed without byte-level parsing. Other surfaced resources were conservatively screened: AutoVOT is automatic-measurement infrastructure; Jingju is singing and excluded by scope; newly surfaced articulatory datasets require manual-provenance verification before promotion. Existing backlog remains JSUT BASIC5000_0661+, PAVOQUE exhaustive parsing, DanPASS TextGrid retrieval, CLIPS_MT_MANUAL corrected-layer verification, plus immediate Chenghai TextGrid/XLSX parsing. All writes confined to manual_phonetic_production/."
 }
