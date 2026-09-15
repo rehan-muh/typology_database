@@ -4,17 +4,17 @@
   "authoritative_git_blob_sha": "ae8933677c082c22238a895012b6b6dcba1f6625",
   "manual_layer": "phonetic_and_prosodic_symbol_sequence",
   "timing_layer": "automatic_not_ingested",
-  "processed_rows": "1-740",
-  "processed_utterances": 740,
-  "next_source_row": 741,
-  "next_source_utterance": "BASIC5000_0741",
+  "processed_rows": "1-780",
+  "processed_utterances": 780,
+  "next_source_row": 781,
+  "next_source_utterance": "BASIC5000_0781",
   "underlying_recording_lineage": "JSUT::BASIC5000",
   "deduplication_rule": "Count only the new manual annotation layer; do not count underlying JSUT recordings as new recordings.",
   "validation": {
-    "total_manual_symbol_rows_ingested": 740,
-    "source_rows_contiguous_through_740": true,
+    "total_manual_symbol_rows_ingested": 780,
+    "source_rows_contiguous_through_780": true,
     "namespaced_ids_unique_within_each_harmonized_slice": true,
     "automatic_timing_rows_ingested": 0
   },
-  "notes": "Reconciled stale per-source checkpoint (which lagged durable harmonized/source-faithful coverage through 700), then advanced rows 701-740 read directly from authoritative blob ae8933677c082c22238a895012b6b6dcba1f6625. Immutable source reference, blob checksum, exact source rows, utterance IDs, and value pointers retained. Julius-estimated timing remains excluded."
+  "notes": "Advanced rows 741-780 read directly from authoritative blob ae8933677c082c22238a895012b6b6dcba1f6625. Immutable source reference, blob checksum, exact source rows, utterance IDs, and value pointers retained. Julius-estimated timing remains excluded."
 }
