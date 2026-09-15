@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-15T02:11:53-07:00",
+  "last_updated": "2026-09-15T03:11:17-07:00",
   "total_sources": 213,
   "accepted_sources": 52,
   "excluded_sources": 31,
   "review_sources": 130,
   "ingested_sources": 49,
-  "parsed_rows_total": 1362712,
-  "parsed_logical_tables_total": 156,
+  "parsed_rows_total": 1362752,
+  "parsed_logical_tables_total": 158,
   "inventory_file_records": 1209,
   "variable_dictionary_records": 1252,
-  "notes": "This pass completed fresh discovery screening and backlog-oriented repository maintenance. A strong new HIGH-review source was added: Wang 2026, An Acoustic Study of Stops in the Chenghai Dialect (DOI 10.17632/4bw5rh6n3y.1). The public deposit describes primary summer-2026 Chenghai fieldwork recordings, textgrid.zip manually annotated in Praat for VOT and closure duration/GAP, and data analysis.xlsx containing extracted/analyzed acoustic measures; license CC BY 4.0. Three deposit payloads were inventoried as pending download/parse. No observation rows were claimed without byte-level parsing. Other surfaced resources were conservatively screened: AutoVOT is automatic-measurement infrastructure; Jingju is singing and excluded by scope; newly surfaced articulatory datasets require manual-provenance verification before promotion. Existing backlog remains JSUT BASIC5000_0661+, PAVOQUE exhaustive parsing, DanPASS TextGrid retrieval, CLIPS_MT_MANUAL corrected-layer verification, plus immediate Chenghai TextGrid/XLSX parsing. All writes confined to manual_phonetic_production/."
+  "notes": "This pass completed both discovery and backlog ingestion. JSUT BASIC5000 manual phonetic/prosodic symbol coverage advanced contiguously from 0660 through 0700 using authoritative sarulab-speech/jsut-label e2e_symbol/phoneme.yaml blob ae8933677c082c22238a895012b6b6dcba1f6625. Forty exact source rows were preserved in a source-faithful YAML slice and forty namespaced harmonized utterance records were added; automatic Julius timing remains excluded. Fresh discovery/screening reconfirmed the Chenghai stop dataset as a high-priority file-level parse target and rejected singing/non-production false positives; no weak source was promoted. Next backlog: JSUT BASIC5000_0701+, download/parse Chenghai textgrid.zip and data analysis.xlsx, PAVOQUE exhaustive parsing, DanPASS TextGrid retrieval, CLIPS_MT_MANUAL corrected-layer verification. All writes confined to manual_phonetic_production/."
 }
