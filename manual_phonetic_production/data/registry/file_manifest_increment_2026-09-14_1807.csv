@@ -1,0 +1,5 @@
+source_id,file_or_collection,role,status,format,count,checksum,authoritative_location,notes
+l2_arctic_manual,*/annotation/*.TextGrid,manual scripted annotation,accepted_pending_download,TextGrid,3599,,https://psi.engr.tamu.edu/l2-arctic-corpus/,Manual words/phones tiers; optional comments; corpus access requires license agreement form.
+l2_arctic_manual,*/textgrid/*.TextGrid,forced-aligned annotation,excluded_automatic,TextGrid,,,https://psi.engr.tamu.edu/l2-arctic-corpus/,Explicitly exclude as forced-aligned unless a specific manual-correction provenance is demonstrated.
+l2_arctic_manual,suitcase_corpus/*/annotation,manual spontaneous annotation,accepted_pending_download,TextGrid,22 speaker recordings,,https://psi.engr.tamu.edu/l2-arctic-corpus/,No ordinary forced-aligned TextGrid layer in suitcase corpus; manual transcriptions cross-checked and PI-checked.
+l2_arctic_manual,*/wav/*.wav,primary recordings,reference_only_large_audio,WAV,26867 scripted utterances,,https://psi.engr.tamu.edu/l2-arctic-corpus/,44.1 kHz primary audio; do not commit bulk audio to GitHub.
