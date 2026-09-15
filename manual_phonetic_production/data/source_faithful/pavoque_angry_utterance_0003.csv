@@ -1,0 +1,2 @@
+source_id,source_file,prompt,text,style,start_s,end_s,segment_count,annotation_method,source_reference
+pavoque,pavoque-angry.yaml,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,56,manually_corrected_phonetic_segments,https://github.com/marytts/pavoque-data/blob/master/pavoque-angry.yaml
