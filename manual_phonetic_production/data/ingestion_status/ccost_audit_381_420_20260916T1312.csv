@@ -1,0 +1,2 @@
+source_id,source_table,row_start,row_end,rows_audited,action,status,next_row,notes
+ccost_2026,source_faithful_ccost_recordings,381,420,40,backlog_audit,complete,421,"Continuation checkpoint only. Rows are already present in the durable source-faithful layer and must not be counted again as new observations. Preserve all original variables and human correction/comment fields; next pass should prioritize extracting human-corrected TextGrid interval tiers when accessible, then continue recording audit 421-460."
