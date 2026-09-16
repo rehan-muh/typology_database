@@ -1,0 +1,2 @@
+source_id,scope,status,rows_checked,new_observation_rows_claimed,source_variables_retained,next_checkpoint,notes
+ccost_2026,"metadata rows 461-488",AUDITED_EXISTING_SOURCE_FAITHFUL,28,0,37,METADATA_COMPLETE,"Final CCOST recording-metadata range audited. Do not count these as new observations: source-faithful CCOST metadata had already been ingested. Next work must prioritize parsing the publicly available human-corrected TextGrid tiers (word/syllable/phone/toneme), namespaced interval IDs, and linking intervals to recording metadata."
