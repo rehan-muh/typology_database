@@ -1,0 +1,2 @@
+source_id,component,status,processed_range,rows_audited,variables_retained,new_observation_rows,next_pending,notes
+ccost_2026,source_faithful_recording_metadata,AUDITED_EXISTING,341-380,40,37,0,381-420,"Backlog continuation checkpoint. Rows are already represented in the durable source-faithful CCOST layer, so audit does not duplicate observation counts. Preserve all original fields and manual Misread/Annotation_comment values verbatim; no IPA/context inference. Next prioritize actual TextGrid tier extraction and remaining source-faithful rows."
