@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-16T00:13:00-07:00",
+  "last_updated": "2026-09-16T01:12:00-07:00",
   "total_sources": 217,
   "accepted_sources": 53,
   "excluded_sources": 31,
   "review_sources": 133,
   "ingested_sources": 50,
-  "parsed_rows_total": 1363773,
-  "parsed_logical_tables_total": 189,
+  "parsed_rows_total": 1363789,
+  "parsed_logical_tables_total": 190,
   "inventory_file_records": 1220,
   "variable_dictionary_records": 1256,
-  "notes": "This pass completed both discovery and backlog ingestion. Repaired the previously truncated JSUT BASIC5000_1139 row and advanced exact authoritative manual phonetic/prosodic e2e_symbol/phoneme.yaml coverage continuously through BASIC5000_1184 (46 validated rows in this pass). Julius automatic timing remains excluded; no IPA/context was invented. Authoritative blob SHA ae8933677c082c22238a895012b6b6dcba1f6625 retained. Fresh discovery screened primary production deposits and identified RescueSpeech (Zenodo 8077622) as a potentially eligible primary German corpus explicitly described as manually annotated, requiring layer/file inventory before core admission; L2-ARCTIC manual subset remains relevant but is secondary/prompt-derived and requires lineage/isolation handling under inclusion rules; MRPL2 remains restricted. Next backlog: JSUT BASIC5000_1185+; harmonize CCOST 234-340; ingest CCOST 341-488; extract CCOST TextGrid tiers; PAVOQUE spike0009+; Chenghai TextGrid/XLSX; inventory RescueSpeech/AKiD/BeDiaCo/AusKidTalk/Jaeger/IFCASL/HeyJay. All writes confined to manual_phonetic_production/."
+  "notes": "This pass completed both discovery and backlog ingestion. Advanced exact authoritative JSUT manual phonetic/prosodic e2e_symbol/phoneme.yaml coverage continuously from BASIC5000_1185 through BASIC5000_1200 (16 validated source-faithful rows); authoritative blob SHA ae8933677c082c22238a895012b6b6dcba1f6625 retained. Julius automatic timing remains excluded and no IPA/context was invented. Discovery re-screened RescueSpeech, MRPL2 and French OSCE as review/restricted candidates; PodcastFillers, the derived interruption corpus, and the German-English code-switching subset fail current third-party/secondary-lineage criteria and were not admitted. Next backlog: JSUT BASIC5000_1201+; harmonize CCOST 234-340; ingest CCOST 341-488; extract CCOST TextGrid tiers; PAVOQUE spike0009+; Chenghai TextGrid/XLSX; inventory RescueSpeech/AKiD/BeDiaCo/AusKidTalk/Jaeger/IFCASL/HeyJay. All writes confined to manual_phonetic_production/."
 }
