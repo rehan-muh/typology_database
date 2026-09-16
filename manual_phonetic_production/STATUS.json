@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-16T03:09:00-07:00",
-  "total_sources": 217,
+  "last_updated": "2026-09-16T04:09:00-07:00",
+  "total_sources": 221,
   "accepted_sources": 53,
   "excluded_sources": 31,
-  "review_sources": 133,
+  "review_sources": 137,
   "ingested_sources": 50,
-  "parsed_rows_total": 1363869,
-  "parsed_logical_tables_total": 192,
+  "parsed_rows_total": 1363879,
+  "parsed_logical_tables_total": 193,
   "inventory_file_records": 1220,
   "variable_dictionary_records": 1256,
-  "notes": "Completed both discovery and backlog ingestion. Advanced exact authoritative JSUT manual phonetic/prosodic e2e_symbol/phoneme.yaml coverage continuously from BASIC5000_1241 through BASIC5000_1280 (40 validated source-faithful rows); authoritative blob SHA ae8933677c082c22238a895012b6b6dcba1f6625 retained. Julius automatic timing remains excluded and no IPA/context was invented. Fresh repository discovery targeted manually corrected/manually annotated production deposits; no candidate was promoted without layer-level provenance. Next backlog: JSUT BASIC5000_1281+; harmonize CCOST 234-340; ingest CCOST 341-488; extract CCOST TextGrid tiers; PAVOQUE spike0009+; Chenghai TextGrid/XLSX; inventory RescueSpeech/AKiD/BeDiaCo/AusKidTalk/Jaeger/IFCASL/HeyJay. All writes confined to manual_phonetic_production/."
+  "notes": "Completed both discovery and backlog ingestion. Advanced exact authoritative JSUT manual phonetic/prosodic e2e_symbol/phoneme.yaml coverage continuously from BASIC5000_1281 through BASIC5000_1290 (10 validated source-faithful rows); authoritative blob SHA ae8933677c082c22238a895012b6b6dcba1f6625 retained. Julius automatic timing remains excluded and no IPA/context was invented. Discovery added four conservative review records: SPIRE VCV EMA (explicit manually annotated VCV boundaries; simultaneous AG501 EMA/audio), RescueSpeech v2, the manually examined/corrected L2-ARCTIC subset, and IFCASL (>50% manually corrected word/phone segmentation). No candidate promoted to core without file/layer-level verification. Next backlog: JSUT BASIC5000_1291+; inventory SPIRE VCV downloads and RescueSpeech v2; isolate L2-ARCTIC manual subset; locate IFCASL repository; harmonize CCOST 234-340; ingest CCOST 341-488; extract CCOST TextGrid tiers; PAVOQUE spike0009+; Chenghai TextGrid/XLSX. All writes confined to manual_phonetic_production/."
 }
