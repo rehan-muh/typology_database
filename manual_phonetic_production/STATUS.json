@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-15T19:12:00-07:00",
-  "total_sources": 214,
+  "last_updated": "2026-09-15T20:08:00-07:00",
+  "total_sources": 217,
   "accepted_sources": 53,
   "excluded_sources": 31,
-  "review_sources": 130,
+  "review_sources": 133,
   "ingested_sources": 50,
-  "parsed_rows_total": 1363569,
-  "parsed_logical_tables_total": 184,
+  "parsed_rows_total": 1363609,
+  "parsed_logical_tables_total": 185,
   "inventory_file_records": 1220,
   "variable_dictionary_records": 1256,
-  "notes": "This pass completed both discovery and backlog ingestion. JSUT manual phonetic/prosodic symbol coverage advanced contiguously from BASIC5000_0940 through BASIC5000_0980 by ingesting 40 exact authoritative phoneme.yaml rows and a namespaced harmonized annotation index; Julius automatic timing remains excluded. Authoritative blob SHA ae8933677c082c22238a895012b6b6dcba1f6625 retained. Fresh discovery identified AusKidTalk hand-corrected child-speech TextGrids as a strong review target and revalidated Jaeger et al. 2026 German spontaneous monologues and IFCASL as high-priority manually corrected sources. LibriSpeech Keywords remains excluded as secondary recording reuse. Next backlog: JSUT BASIC5000_0981+; harmonize CCOST 234-340; ingest CCOST 341-488; extract CCOST TextGrid tiers; PAVOQUE spike0009+; Chenghai TextGrid/XLSX; inventory AusKidTalk/Jaeger/IFCASL/HeyJay. All writes confined to manual_phonetic_production/."
+  "notes": "This pass completed both discovery and backlog ingestion. JSUT manual phonetic/prosodic symbol coverage advanced contiguously from BASIC5000_0980 through BASIC5000_1020 by ingesting 40 exact authoritative e2e_symbol/phoneme.yaml rows; Julius automatic timing remains excluded. Authoritative blob SHA ae8933677c082c22238a895012b6b6dcba1f6625 retained. Discovery added AKiD cardinal-vowel formants, Friedrichs et al. 2026 multimodal EMA/EEG/audio/anatomy, and BeDiaCo as review candidates pending layer-level manual provenance/access verification. Next backlog: JSUT BASIC5000_1021+; harmonize CCOST 234-340; ingest CCOST 341-488; extract CCOST TextGrid tiers; PAVOQUE spike0009+; Chenghai TextGrid/XLSX; inventory AKiD/BeDiaCo/AusKidTalk/Jaeger/IFCASL/HeyJay. All writes confined to manual_phonetic_production/."
 }
