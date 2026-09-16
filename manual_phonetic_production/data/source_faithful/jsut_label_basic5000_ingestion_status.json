@@ -4,17 +4,17 @@
   "authoritative_git_blob_sha": "ae8933677c082c22238a895012b6b6dcba1f6625",
   "manual_layer": "phonetic_and_prosodic_symbol_sequence",
   "timing_layer": "automatic_not_ingested",
-  "processed_rows": "1-980",
-  "processed_utterances": 980,
-  "next_source_row": 981,
-  "next_source_utterance": "BASIC5000_0981",
+  "processed_rows": "1-1059",
+  "processed_utterances": 1059,
+  "next_source_row": 1060,
+  "next_source_utterance": "BASIC5000_1060",
   "underlying_recording_lineage": "JSUT::BASIC5000",
   "deduplication_rule": "Count only the new manual annotation layer; do not count underlying JSUT recordings as new recordings.",
   "validation": {
-    "total_manual_symbol_rows_ingested": 980,
-    "source_rows_contiguous_through_980": true,
+    "total_manual_symbol_rows_ingested": 1059,
+    "source_rows_contiguous_through_1059": true,
     "namespaced_ids_unique_within_each_harmonized_slice": true,
     "automatic_timing_rows_ingested": 0
   },
-  "notes": "Advanced rows 941-980 read directly from authoritative blob ae8933677c082c22238a895012b6b6dcba1f6625. Immutable source reference, blob checksum, exact source rows, utterance IDs, and value pointers retained. Julius-estimated timing remains excluded."
+  "notes": "Advanced rows 1021-1059 read directly from authoritative blob ae8933677c082c22238a895012b6b6dcba1f6625. Immutable source reference, exact symbol strings and source checksum retained. Julius-estimated timing remains excluded."
 }
