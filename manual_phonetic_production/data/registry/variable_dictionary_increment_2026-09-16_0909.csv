@@ -1,0 +1,38 @@
+source_id,file_table,original_variable,standardized_variable,variable_domain,description_meaning,units,datatype,coding_levels,missing_value_conventions,measurement_annotation_method,time_reference_window,anatomical_acoustic_target,provenance,notes
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,bundle,recording_id,recording,CCOST recording bundle identifier,,string,,,,,,source metadata,namespace as ccost_2026::bundle
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Speaker,speaker_id,speaker,Source speaker identifier,,integer,,,,,,source metadata,namespace as ccost_2026::Speaker
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Sex,sex,demographic,Speaker sex,,categorical,Female;Male,,,,,source metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,YOB,year_of_birth,demographic,Year of birth,year,integer,,,,,,source metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,BirthPlace,birth_place,demographic,Speaker birthplace,,string,,,,,,source metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Region,region,language_demographic,Regional origin,,categorical,,,,,,source metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Year_to_BKK,year_moved_to_bangkok,demographic,Year speaker moved to Bangkok,year,integer,,,,,,source metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Age,age,demographic,Speaker age,years,numeric,,,,,,source metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Education,education,demographic,Education variable as supplied,,numeric,,,,,,source metadata,retain source coding pending codebook mapping
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Age_Group,age_group,demographic,Source age-group code,,categorical,,,,,,source metadata,retain original code
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Height,height,demographic,Speaker height,cm,numeric,,,,,,source metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Interviewer_gender,interviewer_gender,condition,Interviewer gender,,categorical,,,,,,source metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Quality_grade,quality_grade,recording_quality,Source recording quality grade,,categorical,A;B;C,,,,,source metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,SNR.dB,snr_db,recording_quality,Signal-to-noise ratio,dB,numeric,,,source contains slash where unavailable,,,source acoustic metadata,retain raw string separately when nonnumeric
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Quality_issues,quality_issues,recording_quality,Semicolon-delimited recording quality flags,,string,,,,,,source metadata,retain verbatim
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Quality_comment,quality_comment,recording_quality,Free-text recording quality comment,,string,,,,,,source metadata,retain verbatim
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,WL_order,wordlist_order,condition,Word-list order code,,categorical,,,,,,source metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Pace,pace,condition,Speaking pace code,,categorical,,,,,,source metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Pace_comment,pace_comment,condition,Free-text pace comment,,string,,,,,,source metadata,retain verbatim
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Misread,misread,annotation,Source misreading annotation,,string,,,,,production judgment,source manual annotation,retain verbatim
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Annotation_comment,annotation_comment,annotator_reliability,Free-text annotation/correction comment,,string,,,,,manual annotation,source manual annotation,retain verbatim; documents corrector decisions
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Other_comment,other_comment,source_specific,Other source comment,,string,,,,,,source metadata,retain verbatim
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,TotalDur.s,total_duration_s,temporal,Total recording duration,s,numeric,,,,whole recording,,source derived metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,LabeledDur.s,labeled_duration_s,temporal,Labeled speech duration,s,numeric,,,,labeled intervals,,source derived metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,NumIntervals,num_intervals,annotation,Number of labeled intervals,count,integer,,,,whole recording,labeled intervals,source annotation summary,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,MeanIntensity.dB,mean_intensity_db,acoustic,Mean intensity,dB,numeric,,,,whole recording,intensity,source acoustic metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,MaxIntensity.dB,max_intensity_db,acoustic,Maximum intensity,dB,numeric,,,,whole recording,intensity,source acoustic metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,MinIntensity.dB,min_intensity_db,acoustic,Minimum intensity,dB,numeric,,,,whole recording,intensity,source acoustic metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,StdDev.dB,intensity_sd_db,acoustic,Intensity standard deviation,dB,numeric,,,,whole recording,intensity,source acoustic metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,DynamicRange.dB,dynamic_range_db,acoustic,Intensity dynamic range,dB,numeric,,,,whole recording,intensity,source acoustic metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,PeakLevel.dBFS,peak_level_dbfs,acoustic,Peak digital level,dBFS,numeric,,,,whole recording,amplitude,source acoustic metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,PeakIntensity.dB,peak_intensity_db,acoustic,Peak intensity,dB,numeric,,,,whole recording,intensity,source acoustic metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,Threshold.dB,threshold_db,acoustic,Source intensity/noise threshold,dB,numeric,,,,whole recording,intensity,source acoustic metadata,retain exact source definition
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,AvgSpeech.dB,average_speech_db,acoustic,Average speech level,dB,numeric,,,,speech-labeled regions,intensity,source acoustic metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,AvgNoise.dB,average_noise_db,acoustic,Average noise level,dB,numeric,,,,noise regions,intensity,source acoustic metadata,
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,old_filename,source_old_filename,provenance,Legacy source filename,,string,,,,,,source lineage metadata,retain verbatim
+ccost_2026,CCOST_metadata_chunk008_rows234_259.csv,old_filecode,source_old_filecode,provenance,Legacy source file code,,string,,,,,,source lineage metadata,retain verbatim
