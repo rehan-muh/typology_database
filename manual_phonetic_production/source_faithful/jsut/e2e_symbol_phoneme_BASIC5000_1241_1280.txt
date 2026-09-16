@@ -1,0 +1,44 @@
+# source_id: jsut_label
+# upstream_file: e2e_symbol/phoneme.yaml
+# upstream_blob_sha: ae8933677c082c22238a895012b6b6dcba1f6625
+# provenance: manually curated upstream phonetic/prosodic symbol layer; Julius automatic timing excluded
+BASIC5000_1241: ^-t-i-]-n-a-w-a-_-s-u-]-g-u-n-i-#-n-i-[-cl-p-o-N-n-o-#-t-a-[-b-e-]-m-o-n-o-n-i-#-n-a-]-r-e-t-a-$
+BASIC5000_1242: ^-a-[-k-a-sh-i-]-N-g-o-o-n-o-t-o-k-i-n-i-#-o-[-o-d-a-N-sh-i-t-e-]-w-a-#-i-[-k-e-n-a-]-i-t-o-_-k-e-[-e-k-a-N-w-a-#-w-a-[-t-a-sh-i-]-t-a-ch-i-n-i-#-i-[-i-m-a-]-sh-i-t-a-$
+BASIC5000_1243: ^-k-a-[-w-a-]-n-i-#-o-[-ch-i-s-o-]-o-n-i-#-n-a-]-cl-t-a-t-o-k-i-_-k-a-]-r-e-w-a-#-k-i-]-o-#-ts-u-[-k-a-]-N-d-a-$
+BASIC5000_1244: ^-i-[-cl-t-a-N-#-f-u-[-r-o-_-a-]-N-d-o-_-m-e-[-sh-i-o-ch-i-_-y-o-[-N-j-u-cl-p-u-N-g-u-]-r-a-i-sh-i-t-e-#-k-i-[-k-a-N-$
+BASIC5000_1245: ^-t-e-]-s-u-t-o-n-o-#-a-]-t-o-d-e-_-w-a-[-t-a-]-sh-i-t-a-ch-i-w-a-#-k-a-]-i-t-a-#-k-o-[-t-a-]-e-o-#-m-i-[-s-e-a-]-cl-t-a-$
+BASIC5000_1246: ^-k-a-[-w-a-n-o-m-i-z-u-o-#-s-e-[-k-i-t-o-m-e-]-r-u-t-a-m-e-n-i-_-t-e-[-e-b-o-o-g-a-#-k-e-[-N-s-e-ts-u-s-a-r-e-t-a-$
+BASIC5000_1247: ^-k-a-[-w-a-]-d-e-#-o-[-y-o-]-i-d-e-i-r-u-#-k-o-[-d-o-m-o-]-t-a-ch-i-g-a-_-n-a-]-N-n-i-N-k-a-#-i-[-r-u-$
+BASIC5000_1248: ^-j-i-[-j-o-o-n-i-#-a-[-w-a-]-s-e-t-e-_-k-i-]-sh-a-n-o-#-k-i-[-r-o-k-u-m-o-#-ch-o-[-o-s-e-e-sh-i-t-e-k-u-d-a-s-a-]-i-$
+BASIC5000_1249: ^-n-i-[-k-a-g-e-ts-u-m-a-]-e-n-i-_-m-u-[-ch-i-u-ch-i-sh-o-o-o-y-a-r-i-m-a-]-sh-i-t-a-$
+BASIC5000_1250: ^-k-o-[-cl-k-e-e-n-a-#-h-a-[-n-a-sh-i-]-o-#-sh-i-]-t-e-i-r-u-#-m-a-[-cl-s-a-]-i-ch-u-u-n-i-_-k-a-]-r-e-n-i-#-d-e-[-N-w-a-g-a-#-k-a-[-k-a-]-cl-t-e-k-i-t-a-n-o-d-e-_-h-a-[-n-a-sh-i-]-o-#-ch-u-[-u-sh-i-sh-i-t-a-$
+BASIC5000_1251: ^-g-o-[-e-N-ry-o-n-a-]-k-u-_-k-e-]-e-k-i-o-#-o-[-t-o-r-i-k-u-d-a-s-a-]-i-$
+BASIC5000_1252: ^-k-a-[-w-a-]-g-a-#-h-a-[-N-r-a-N-sh-i-t-e-i-t-e-_-h-i-[-r-o-]-i-#-s-u-[-i-i-k-i-g-a-#-m-i-[-z-u-b-i-d-a-sh-i-n-i-#-n-a-]-cl-t-a-$
+BASIC5000_1253: ^-m-a-[-i-ts-u-k-i-n-o-#-sh-u-[-u-ny-u-u-n-o-#-i-[-ch-i-]-b-u-o-_-ch-o-[-ch-i-k-u-s-u-r-e-]-b-a-#-s-o-]-N-w-a-#-n-a-]-i-$
+BASIC5000_1254: ^-n-i-[-k-u-t-a-i-t-o-#-s-e-]-e-sh-i-N-t-o-w-a-#-s-o-[-o-s-e-]-e-j-i-d-e-#-a-]-r-i-_-k-a-]-m-i-n-o-m-i-g-a-#-d-o-]-ch-i-r-a-g-a-#-d-o-]-ch-i-r-a-n-a-n-o-k-a-o-#-sh-i-[-cl-t-e-i-r-u-$
+BASIC5000_1255: ^-d-a-[-i-t-a-i-#-d-o-[-n-o-k-u-r-a-i-n-o-#-n-e-[-d-a-N-d-e-#-i-[-k-e-m-a-]-s-u-k-a-?-$
+BASIC5000_1256: ^-sh-i-]-N-j-i-ts-u-t-o-#-k-a-[-g-a-k-u-sh-a-]-n-o-#-k-a-[-N-k-e-e-w-a-_-k-o-[-t-o-b-a-]-t-o-#-sh-i-[-j-i-N-n-o-#-k-a-[-N-k-e-e-n-i-#-h-i-[-t-o-sh-i-]-i-t-o-_-sh-i-]-b-a-sh-i-b-a-#-i-[-w-a-r-e-t-e-k-i-]-t-a-$
+BASIC5000_1257: ^-d-a-]-g-a-_-b-e-[-cl-d-o-s-e-]-e-k-a-ts-u-d-e-w-a-_-m-a-[-cl-t-a-k-u-#-m-i-[-ry-o-k-u-t-e-k-i-j-a-#-n-a-]-i-N-d-a-$
+BASIC5000_1258: ^-d-a-]-k-a-r-a-#-h-i-[-t-o-]-r-i-d-e-#-i-[-k-u-]-n-a-t-o-#-i-[-cl-t-a-]-n-o-d-e-s-u-y-o-$
+BASIC5000_1259: ^-k-i-[-ts-u-e-N-n-i-y-o-cl-t-e-#-sh-i-[-b-o-o-sh-i-t-a-#-m-o-[-n-o-n-o-#-t-a-[-i-h-a-]-N-w-a-_-h-e-[-b-i-i-#-s-u-[-m-o-]-o-k-a-a-d-e-w-a-#-n-a-]-k-a-cl-t-a-$
+BASIC5000_1260: ^-d-a-]-k-e-d-o-_-o-[-r-e-n-o-#-k-o-[-k-o-r-o-]-w-a-#-m-a-]-d-a-#-k-a-]-o-s-u-n-o-#-n-a-]-k-a-n-i-i-r-u-$
+BASIC5000_1261: ^-j-i-[-ts-u-]-w-a-#-k-a-]-r-e-w-a-_-u-[-m-a-r-e-ts-u-k-i-#-y-o-]-i-#-n-i-[-N-g-e-N-n-a-]-n-o-d-e-s-u-$
+BASIC5000_1262: ^-d-a-]-cl-t-e-#-w-a-[-t-a-sh-i-]-t-a-ch-i-w-a-_-k-e-[-cl-ky-o-k-u-#-ts-u-[-m-e-t-a-i-#-ts-u-[-ch-i-]-n-i-#-t-a-[-o-r-e-]-r-u-n-o-d-a-k-a-r-a-$
+BASIC5000_1263: ^-k-i-]-r-e-e-d-a-cl-t-e-#-k-o-[-t-o-]-w-a-_-h-i-]-f-u-n-o-#-f-u-[-k-a-s-a-b-u-N-n-o-k-o-]-t-o-#-d-a-[-k-e-]-d-a-$
+BASIC5000_1264: ^-sh-i-[-r-i-a-i-n-o-#-sh-u-[-u-r-i-y-a-s-a-N-n-i-#-d-e-[-N-w-a-sh-i-t-e-_-k-o-[-w-a-]-r-e-t-a-#-s-e-[-N-t-a-k-u-]-k-i-o-#-s-u-]-g-u-s-a-m-a-#-n-a-[-o-]-sh-i-t-e-#-m-o-[-r-a-u-]-w-a-?-$
+BASIC5000_1265: ^-sh-i-[-r-a-n-a-i-u-ch-i-n-i-#-ts-u-[-k-i-]-h-i-w-a-#-t-a-]-cl-t-e-sh-i-m-a-u-_-o-[-r-e-w-a-#-ch-a-]-N-s-u-o-#-n-o-[-g-a-sh-i-t-a-]-k-u-#-n-a-]-i-$
+BASIC5000_1266: ^-ch-i-]-k-a-k-o-g-a-#-i-[-n-a-k-u-n-a-]-cl-t-e-_-h-a-[-j-i-]-m-e-t-e-#-k-a-]-n-o-j-o-o-#-d-o-]-N-n-a-n-i-#-s-u-[-k-i-]-d-a-cl-t-a-k-a-n-i-#-k-i-[-z-u-]-i-t-a-$
+BASIC5000_1267: ^-d-a-[-m-a-]-cl-t-e-i-t-a-#-k-o-[-t-o-y-o-]-r-i-m-o-_-sh-a-[-b-e-]-cl-t-a-k-o-t-o-o-#-k-o-]-o-k-a-i-sh-i-t-a-h-i-t-o-n-o-#-h-o-]-o-g-a-#-o-]-o-i-$
+BASIC5000_1268: ^-b-o-[-o-k-a-]-N-sh-a-n-i-w-a-_-g-e-]-e-m-u-n-o-#-d-a-[-i-b-u-]-b-u-N-g-a-#-m-i-[-e-]-r-u-$
+BASIC5000_1269: ^-r-a-[-i-ky-a-k-u-]-t-a-ch-i-w-a-_-k-a-]-r-e-n-o-#-o-]-k-u-s-a-N-n-o-#-ry-o-]-o-r-i-o-#-j-u-[-u-b-u-]-N-#-sh-o-]-o-m-i-sh-i-t-a-$
+BASIC5000_1270: ^-m-o-[-t-o-m-o-t-o-#-k-e-[-N-ch-i-k-u-#-d-e-[-z-a-]-i-N-t-o-y-u-u-#-b-u-]-N-y-a-d-e-#-t-e-[-e-a-N-s-a-r-e-t-a-#-e-[-m-e-cl-t-o-r-i-]-r-o-N-g-a-_-n-a-]-z-e-#-b-u-[-ts-u-r-i-]-g-a-k-u-n-i-#-o-]-i-t-e-#-j-u-[-u-y-o-o-n-a-]-n-o-k-a-o-#-a-[-k-i-]-r-a-k-a-n-i-#-sh-i-[-t-a-]-i-$
+BASIC5000_1271: ^-m-o-]-h-a-y-a-#-s-e-[-k-a-i-t-a-]-i-s-e-N-w-a-#-n-a-]-i-#-m-o-[-n-o-]-t-o-#-k-a-[-k-u-sh-i-N-s-u-r-u-$
+BASIC5000_1272: ^-m-o-[-n-o-]-n-i-w-a-#-s-u-]-b-e-t-e-_-h-a-[-j-i-m-e-t-o-y-u-u-]-n-o-g-a-#-a-]-r-u-h-a-z-u-d-a-$
+BASIC5000_1273: ^-m-o-]-cl-t-o-#-y-u-[-cl-k-u-]-r-i-#-a-[-r-u-]-k-u-#-y-o-]-o-n-i-#-s-e-[-N-s-e-]-e-n-i-#-t-a-[-n-o-]-N-d-a-$
+BASIC5000_1274: ^-m-o-[-ch-i-]-r-o-N-#-w-a-[-t-a-sh-i-w-a-_-s-o-[-n-o-#-p-a-]-a-t-i-i-n-i-#-i-[-k-i-m-a-s-u-$
+BASIC5000_1275: ^-r-i-[-k-o-t-e-k-i-n-a-h-i-t-o-]-w-a-_-j-i-[-b-u-N-n-o-#-k-a-[-N-j-o-o-sh-i-k-a-#-k-a-[-N-g-a-e-]-n-a-i-$
+BASIC5000_1276: ^-m-o-[-sh-i-#-m-a-[-N-i-ch-i-#-t-e-[-ts-u-]-d-a-i-g-a-#-h-i-[-ts-u-y-o-o-n-a-r-a-_-z-e-[-h-i-#-o-[-sh-i-r-a-s-e-k-u-d-a-s-a-]-i-$
+BASIC5000_1277: ^-ch-o-[-o-e-k-i-#-n-i-]-n-e-N-n-o-#-h-a-[-N-k-e-ts-u-n-i-_-ch-i-[-h-o-o-k-e-]-N-j-i-w-a-#-f-u-[-m-a-N-d-a-]-cl-t-a-$
+BASIC5000_1278: ^-m-o-]-o-_-a-[-i-ts-u-n-o-#-s-e-]-N-s-u-n-o-#-w-a-[-r-u-s-a-n-i-]-w-a-#-u-[-N-z-a-]-r-i-#-s-u-[-r-u-]-y-o-$
+BASIC5000_1279: ^-sh-i-[-N-d-a-i-t-o-]-o-ry-o-o-w-a-_-g-u-]-N-o-#-z-o-[-o-ky-o-o-sh-i-t-a-]-i-t-o-#-o-[-m-o-]-cl-t-e-i-r-u-$
+BASIC5000_1280: ^-k-i-]-n-u-w-a-#-t-e-[-z-a-]-w-a-r-i-g-a-#-y-a-[-w-a-r-a-k-a-]-k-u-_-s-u-]-b-e-s-u-b-e-sh-i-t-e-i-r-u-$
