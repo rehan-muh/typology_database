@@ -1,0 +1,39 @@
+source_id,recording_id,source_recording_id,speaker_id,task,interviewer_gender,audio_quality_grade,snr_db,audio_quality_issues,audio_quality_comment,wordlist_order,pace_condition,misread_frequency,total_duration_s,labeled_duration_s,num_intervals,provenance
+ccost_2026,ccost_2026::ccost_S24_WL_2,ccost_S24_WL_2,ccost_2026::S24,WL,F,B,15.94,None,occasional background noise,A,A,none,134.2,51.77,106,CCOST_metadata.csv source row 196
+ccost_2026,ccost_2026::ccost_S24_WL_3,ccost_S24_WL_3,ccost_2026::S24,WL,F,B,15.1,None,occasional background noise,A,A,none,124,54.51,100,CCOST_metadata.csv source row 197
+ccost_2026,ccost_2026::ccost_S24_WL_4,ccost_S24_WL_4,ccost_2026::S24,WL,F,B,15.32,None,occasional background noise,A,A,none,135.13,54.1,106,CCOST_metadata.csv source row 198
+ccost_2026,ccost_2026::ccost_S24_ST_1,ccost_S24_ST_1,ccost_2026::S24,ST,F,B,15.62,None,occasional background noise,,A,none,43.68,34.48,100,CCOST_metadata.csv source row 199
+ccost_2026,ccost_2026::ccost_S24_ST_2,ccost_S24_ST_2,ccost_2026::S24,ST,F,B,12.68,None,occasional background noise,,A,none,43.06,33.19,100,CCOST_metadata.csv source row 200
+ccost_2026,ccost_2026::ccost_S24_ST_3,ccost_S24_ST_3,ccost_2026::S24,ST,F,B,11.81,None,occasional background noise,,A,none,41.43,33.82,100,CCOST_metadata.csv source row 201
+ccost_2026,ccost_2026::ccost_S25_INT_1,ccost_S25_INT_1,ccost_2026::S25,INT,F,B,10.49,Clipping;,recorded in public space; birdsong and outdoor sounds in background,,,none,247.7,142.15,587,CCOST_metadata.csv source row 202
+ccost_2026,ccost_2026::ccost_S25_INT_2,ccost_S25_INT_2,ccost_2026::S25,INT,F,B,11.24,Clipping;,recorded in public space; birdsong and outdoor sounds in background,,,none,252.05,131.22,504,CCOST_metadata.csv source row 203
+ccost_2026,ccost_2026::ccost_S25_INT_3,ccost_S25_INT_3,ccost_2026::S25,INT,F,B,11.02,Clipping;,recorded in public space; birdsong and outdoor sounds in background,,,none,264.61,129.74,555,CCOST_metadata.csv source row 204
+ccost_2026,ccost_2026::ccost_S25_INT_4,ccost_S25_INT_4,ccost_2026::S25,INT,F,B,11.09,Clipping;,recorded in public space; birdsong and outdoor sounds in background,,,none,238.2,122.65,496,CCOST_metadata.csv source row 205
+ccost_2026,ccost_2026::ccost_S25_INT_5,ccost_S25_INT_5,ccost_2026::S25,INT,F,B,10.17,Clipping;,recorded in public space; birdsong and outdoor sounds in background,,,none,262.58,115.81,490,CCOST_metadata.csv source row 206
+ccost_2026,ccost_2026::ccost_S25_INT_6,ccost_S25_INT_6,ccost_2026::S25,INT,F,B,10.86,Clipping;,recorded in public space; birdsong and outdoor sounds in background,,,none,242.28,83.63,375,CCOST_metadata.csv source row 207
+ccost_2026,ccost_2026::ccost_S25_WL_1,ccost_S25_WL_1,ccost_2026::S25,WL,F,B,13.58,Clipping;,recorded in public space; birdsong and outdoor sounds in background,A,A,none,148.19,64.44,100,CCOST_metadata.csv source row 208
+ccost_2026,ccost_2026::ccost_S25_WL_2,ccost_S25_WL_2,ccost_2026::S25,WL,F,B,15.51,Near-Clip;,recorded in public space; birdsong and outdoor sounds in background,A,A,none,161.34,63.94,106,CCOST_metadata.csv source row 209
+ccost_2026,ccost_2026::ccost_S25_WL_3,ccost_S25_WL_3,ccost_2026::S25,WL,F,B,13.96,Clipping;,recorded in public space; birdsong and outdoor sounds in background,A,A,none,143.52,63.64,99,CCOST_metadata.csv source row 210
+ccost_2026,ccost_2026::ccost_S25_WL_4,ccost_S25_WL_4,ccost_2026::S25,WL,F,B,14.95,None,recorded in public space; birdsong and outdoor sounds in background,A,A,none,142.19,64.3,106,CCOST_metadata.csv source row 211
+ccost_2026,ccost_2026::ccost_S25_ST_1,ccost_S25_ST_1,ccost_2026::S25,ST,F,B,11.29,None,recorded in public space; birdsong and outdoor sounds in background,,A,none,52.2,34.53,96,CCOST_metadata.csv source row 212
+ccost_2026,ccost_2026::ccost_S25_ST_2,ccost_S25_ST_2,ccost_2026::S25,ST,F,B,10.75,Near-Clip;,recorded in public space; birdsong and outdoor sounds in background,,A,none,51.92,36.5,100,CCOST_metadata.csv source row 213
+ccost_2026,ccost_2026::ccost_S25_ST_3,ccost_S25_ST_3,ccost_2026::S25,ST,F,B,12.05,None,recorded in public space; birdsong and outdoor sounds in background,,A,none,46.7,37.47,100,CCOST_metadata.csv source row 214
+ccost_2026,ccost_2026::ccost_S26_INT_1,ccost_S26_INT_1,ccost_2026::S26,INT,F,A,14.74,Clipping;,,,,none,236.42,146.08,504,CCOST_metadata.csv source row 215
+ccost_2026,ccost_2026::ccost_S26_INT_2,ccost_S26_INT_2,ccost_2026::S26,INT,F,A,14.21,Clipping;,,,,none,212.09,126.52,460,CCOST_metadata.csv source row 216
+ccost_2026,ccost_2026::ccost_S26_INT_3,ccost_S26_INT_3,ccost_2026::S26,INT,F,A,15.03,Clipping;,,,,none,201.01,124.67,514,CCOST_metadata.csv source row 217
+ccost_2026,ccost_2026::ccost_S26_INT_4,ccost_S26_INT_4,ccost_2026::S26,INT,F,A,14.67,Clipping;,,,,none,158.27,102.75,421,CCOST_metadata.csv source row 218
+ccost_2026,ccost_2026::ccost_S26_INT_5,ccost_S26_INT_5,ccost_2026::S26,INT,F,A,14.79,Clipping;,,,,none,232.66,144.14,539,CCOST_metadata.csv source row 219
+ccost_2026,ccost_2026::ccost_S26_WL_1,ccost_S26_WL_1,ccost_2026::S26,WL,F,A,20.71,Near-Clip;,,A,B,none,118.38,64.82,100,CCOST_metadata.csv source row 220
+ccost_2026,ccost_2026::ccost_S26_WL_2,ccost_S26_WL_2,ccost_2026::S26,WL,F,A,20.92,Clipping;,,A,B,none,110.58,62.75,106,CCOST_metadata.csv source row 221
+ccost_2026,ccost_2026::ccost_S26_WL_3,ccost_S26_WL_3,ccost_2026::S26,WL,F,A,20.6,Near-Clip;,,A,B,none,101.52,65.98,100,CCOST_metadata.csv source row 222
+ccost_2026,ccost_2026::ccost_S26_WL_4,ccost_S26_WL_4,ccost_2026::S26,WL,F,A,19.49,Clipping;,,A,B,none,110.32,84.01,106,CCOST_metadata.csv source row 223
+ccost_2026,ccost_2026::ccost_S26_ST_1,ccost_S26_ST_1,ccost_2026::S26,ST,F,A,16.47,Near-Clip;,,,B,none,60.56,42.52,100,CCOST_metadata.csv source row 224
+ccost_2026,ccost_2026::ccost_S26_ST_2,ccost_S26_ST_2,ccost_2026::S26,ST,F,A,16.53,None,,,B,none,56.19,41.17,100,CCOST_metadata.csv source row 225
+ccost_2026,ccost_2026::ccost_S26_ST_3,ccost_S26_ST_3,ccost_2026::S26,ST,F,A,15.65,Near-Clip;,,,B,none,52.56,39.64,100,CCOST_metadata.csv source row 226
+ccost_2026,ccost_2026::ccost_S27_INT_1,ccost_S27_INT_1,ccost_2026::S27,INT,F,A,13.77,Clipping;,,,,none,231.78,129.86,481,CCOST_metadata.csv source row 227
+ccost_2026,ccost_2026::ccost_S27_INT_2,ccost_S27_INT_2,ccost_2026::S27,INT,F,A,13.61,Clipping;,,,,none,227.2,125.56,475,CCOST_metadata.csv source row 228
+ccost_2026,ccost_2026::ccost_S27_INT_3,ccost_S27_INT_3,ccost_2026::S27,INT,F,A,13.92,Clipping;,,,,none,220.14,121.55,463,CCOST_metadata.csv source row 229
+ccost_2026,ccost_2026::ccost_S27_INT_4,ccost_S27_INT_4,ccost_2026::S27,INT,F,A,13.52,Clipping;,,,,none,212.4,118.44,451,CCOST_metadata.csv source row 230
+ccost_2026,ccost_2026::ccost_S27_INT_5,ccost_S27_INT_5,ccost_2026::S27,INT,F,A,13.84,Clipping;,,,,none,205.11,113.62,439,CCOST_metadata.csv source row 231
+ccost_2026,ccost_2026::ccost_S27_WL_1,ccost_S27_WL_1,ccost_2026::S27,WL,F,A,18.72,Near-Clip;,,A,A,none,112.31,61.42,100,CCOST_metadata.csv source row 232
+ccost_2026,ccost_2026::ccost_S27_WL_2,ccost_S27_WL_2,ccost_2026::S27,WL,F,A,18.9,Near-Clip;,,A,A,none,109.75,60.83,106,CCOST_metadata.csv source row 233
