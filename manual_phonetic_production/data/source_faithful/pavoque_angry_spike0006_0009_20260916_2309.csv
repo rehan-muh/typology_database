@@ -1,0 +1,75 @@
+source_id,source_file,prompt,text,style,utterance_start_s,utterance_end_s,segment_index,label_original,segment_start_rel_s_derived,segment_end_rel_s_original,segment_start_abs_s_derived,segment_end_abs_s_derived
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,1,H#,0,0.387589,20.16,20.547589
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,2,?,0.387589,0.437957,20.547589,20.597957
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,3,a,0.437957,0.512895,20.597957,20.672895
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,4,l,0.512895,0.555,20.672895,20.715
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,5,z,0.555,0.598275,20.715,20.758275
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,6,o:,0.598275,0.802819,20.758275,20.962819
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,7,?,0.802819,0.89557,20.962819,21.05557
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,8,I,0.89557,0.923211,21.05557,21.083211
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,9,n,0.923211,0.982793,21.083211,21.142793
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,10,v,0.982793,1.015,21.142793,21.175
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,11,E,1.015,1.081687,21.175,21.241687
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,12,l,1.081687,1.105,21.241687,21.265
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,13,C,1.105,1.173823,21.265,21.333823
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,14,@,1.173823,1.178123,21.333823,21.338123
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,15,m,1.178123,1.240776,21.338123,21.400776
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,16,ts,1.240776,1.345,21.400776,21.505
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,17,u:,1.345,1.405,21.505,21.565
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,18,S,1.405,1.461905,21.565,21.621905
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,19,t,1.461905,1.508438,21.621905,21.668438
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,20,a,1.508438,1.55,21.668438,21.71
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,21,n,1.55,1.59151,21.71,21.75151
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,22,t,1.59151,1.628979,21.75151,21.788979
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,23,b,1.628979,1.676464,21.788979,21.836464
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,24,I,1.676464,1.715,21.836464,21.875
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,25,s,1.715,1.774556,21.875,21.934556
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,26,t,1.774556,1.802811,21.934556,21.962811
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,27,d,1.802811,1.84297,21.962811,22.00297
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,28,u:,1.84297,1.913375,22.00297,22.073375
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,29,h,1.913375,1.96,22.073375,22.12
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,30,OY,1.96,2.08045,22.12,22.24045
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,31,t,2.08045,2.148358,22.24045,22.308358
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,32,@,2.148358,2.303421,22.308358,22.463421
+pavoque_2010,pavoque-angry.yaml,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,33,_,2.303421,3.835,22.463421,23.995
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,1,H#,0,0.17,24,24.17
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,2,v,0.17,0.23,24.17,24.23
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,3,i:,0.23,0.382713,24.23,24.382713
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,4,f,0.382713,0.49,24.382713,24.49
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,5,y:,0.49,0.567005,24.49,24.567005
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,6,l,0.567005,0.61,24.567005,24.61
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,7,s,0.61,0.716282,24.61,24.716282
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,8,t,0.716282,0.725,24.716282,24.725
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,9,d,0.725,0.739892,24.725,24.739892
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,10,u:,0.739892,0.786927,24.739892,24.786927
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,11,d,0.786927,0.836957,24.786927,24.836957
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,12,I,0.836957,0.886445,24.836957,24.886445
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,13,C,0.886445,0.977362,24.886445,24.977362
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,14,h,0.977362,1.015,24.977362,25.015
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,15,OY,1.015,1.16104,25.015,25.16104
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,16,t,1.16104,1.247613,25.16104,25.247613
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,17,@,1.247613,1.363147,25.247613,25.363147
+pavoque_2010,pavoque-angry.yaml,spike0007,Wie fühlst du dich heute?,angry,24,27,18,_,1.363147,2.995,25.363147,26.995
+pavoque_2010,pavoque-angry.yaml,spike0008,Ach ja?,angry,27,28.92,1,H#,0,0.280902,27,27.280902
+pavoque_2010,pavoque-angry.yaml,spike0008,Ach ja?,angry,27,28.92,2,?,0.280902,0.324898,27.280902,27.324898
+pavoque_2010,pavoque-angry.yaml,spike0008,Ach ja?,angry,27,28.92,3,a,0.324898,0.408238,27.324898,27.408238
+pavoque_2010,pavoque-angry.yaml,spike0008,Ach ja?,angry,27,28.92,4,x,0.408238,0.475,27.408238,27.475
+pavoque_2010,pavoque-angry.yaml,spike0008,Ach ja?,angry,27,28.92,5,j,0.475,0.61,27.475,27.61
+pavoque_2010,pavoque-angry.yaml,spike0008,Ach ja?,angry,27,28.92,6,a:,0.61,0.963273,27.61,27.963273
+pavoque_2010,pavoque-angry.yaml,spike0008,Ach ja?,angry,27,28.92,7,_,0.963273,1.915,27.963273,28.915
+pavoque_2010,pavoque-angry.yaml,spike0009,Erzähl mir davon.,angry,28.92,31.44,1,H#,0,0.66,28.92,29.58
+pavoque_2010,pavoque-angry.yaml,spike0009,Erzähl mir davon.,angry,28.92,31.44,2,?,0.66,0.695,29.58,29.615
+pavoque_2010,pavoque-angry.yaml,spike0009,Erzähl mir davon.,angry,28.92,31.44,3,E,0.695,0.733213,29.615,29.653213
+pavoque_2010,pavoque-angry.yaml,spike0009,Erzähl mir davon.,angry,28.92,31.44,4,6,0.733213,0.770372,29.653213,29.690372
+pavoque_2010,pavoque-angry.yaml,spike0009,Erzähl mir davon.,angry,28.92,31.44,5,ts,0.770372,0.897462,29.690372,29.817462
+pavoque_2010,pavoque-angry.yaml,spike0009,Erzähl mir davon.,angry,28.92,31.44,6,E:,0.897462,0.966709,29.817462,29.886709
+pavoque_2010,pavoque-angry.yaml,spike0009,Erzähl mir davon.,angry,28.92,31.44,7,l,0.966709,1.002205,29.886709,29.922205
+pavoque_2010,pavoque-angry.yaml,spike0009,Erzähl mir davon.,angry,28.92,31.44,8,m,1.002205,1.063768,29.922205,29.983768
+pavoque_2010,pavoque-angry.yaml,spike0009,Erzähl mir davon.,angry,28.92,31.44,9,i:,1.063768,1.119231,29.983768,30.039231
+pavoque_2010,pavoque-angry.yaml,spike0009,Erzähl mir davon.,angry,28.92,31.44,10,6,1.119231,1.142525,30.039231,30.062525
+pavoque_2010,pavoque-angry.yaml,spike0009,Erzähl mir davon.,angry,28.92,31.44,11,d,1.142525,1.181619,30.062525,30.101619
+pavoque_2010,pavoque-angry.yaml,spike0009,Erzähl mir davon.,angry,28.92,31.44,12,a:,1.181619,1.275634,30.101619,30.195634
+pavoque_2010,pavoque-angry.yaml,spike0009,Erzähl mir davon.,angry,28.92,31.44,13,f,1.275634,1.375,30.195634,30.295
+pavoque_2010,pavoque-angry.yaml,spike0009,Erzähl mir davon.,angry,28.92,31.44,14,O,1.375,1.48,30.295,30.4
+pavoque_2010,pavoque-angry.yaml,spike0009,Erzähl mir davon.,angry,28.92,31.44,15,n,1.48,1.608409,30.4,30.528409
+pavoque_2010,pavoque-angry.yaml,spike0009,Erzähl mir davon.,angry,28.92,31.44,16,_,1.608409,2.515,30.528409,31.435
