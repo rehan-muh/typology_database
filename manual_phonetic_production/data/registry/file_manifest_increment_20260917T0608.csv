@@ -1,0 +1,11 @@
+source_id,file_or_object,authoritative_url,file_type,size_bytes,checksum,ingestion_state,notes
+pxcorpus_zenodo_v4,PxCorpus.zip,https://zenodo.org/records/10080490,zip,375700000,md5:97247fc5278cf4e3ab147aab4fc72f14,manifested,"Public CC-BY-4.0 archive; do not treat archive as core phonetic data until qualifying manual phonetic layer is isolated."
+pxcorpus_zenodo_v4,PxSLU/recordings/,https://zenodo.org/records/10080490,wav_collection,,,pending_archive_parse,"903 sessions; documentation reports 1,981 synchronized PxSLU recording rows; mono 16 kHz 16-bit signed PCM."
+pxcorpus_zenodo_v4,PxSLU/paths.txt,https://zenodo.org/records/10080490,text,,,pending_archive_parse,"Authoritative ordering of WAV paths; parallel files refer to these rows."
+pxcorpus_zenodo_v4,PxSLU/metadata.txt,https://zenodo.org/records/10080490,text,,,pending_archive_parse,"Participant id, age range, gender, participant category; synchronized with paths.txt."
+pxcorpus_zenodo_v4,PxSLU/seq.in,https://zenodo.org/records/10080490,text,,,pending_archive_parse,"Human-verified/manually transcribed utterance text; synchronized with paths.txt."
+pxcorpus_zenodo_v4,PxSLU/seq.label,https://zenodo.org/records/10080490,text,,,pending_archive_parse,"Intent label synchronized with paths.txt."
+pxcorpus_zenodo_v4,PxSLU/seq.out,https://zenodo.org/records/10080490,text,,,pending_archive_parse,"BIO entity labels synchronized with paths.txt."
+pxcorpus_zenodo_v4,PxSLU/PxSLU_conll.txt,https://zenodo.org/records/10080490,text,,,pending_archive_parse,"CONLL-like representation; documentation warns it is not aligned to paths.txt."
+pxcorpus_zenodo_v4,PxDialogue/events.txt,https://zenodo.org/records/10080490,text,,,pending_archive_parse,"Dialogue events and timestamps; includes ASR/TTS/UI events."
+pxcorpus_zenodo_v4,PxDialogue/dialogue_annotations.txt,https://zenodo.org/records/10080490,text,,,pending_archive_parse,"Manual OK/Fail dialogue-response annotation per recording."
