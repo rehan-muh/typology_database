@@ -1,0 +1,10 @@
+source_id,source_object,format,role,access,size,manual_status,ingestion_status,authoritative_reference
+ultrasuite_uxtd,core-uxtd,"wav/ult/param/txt","primary audio + ultrasound + acquisition metadata",rsync,82GB,"core signals; annotation status separate",pending_selective,"https://ultrasuite.github.io/download/"
+ultrasuite_uxssd,core-uxssd,"wav/ult/param/txt","primary audio + ultrasound + acquisition metadata",rsync,110GB,"core signals; annotation status separate",pending_selective,"https://ultrasuite.github.io/download/"
+ultrasuite_upx,core-upx,"wav/ult/param/txt","primary audio + ultrasound + acquisition metadata",rsync,191GB,"core signals; annotation status separate",pending_selective,"https://ultrasuite.github.io/download/"
+ultrasuite_cleft,core-cleft,"wav/ult/param/txt","primary audio + ultrasound + acquisition metadata",rsync,85GB,"core signals; annotation status separate",pending_selective,"https://ultrasuite.github.io/download/"
+ultrasuite_ux2020,core-ux2020,"wav/ult/param/txt","primary audio + ultrasound + acquisition metadata",rsync,91GB,"core signals; annotation status separate",pending_selective,"https://ultrasuite.github.io/download/"
+ultrasuite_uxtd,labels-uxtd-uxssd-upx/uxtd,"TextGrid/lab","manual SLT + reference + automatic labels",rsync,"part of ~80MB","mixed; must isolate slt_labels/reference labels",pending_parse,"https://ultrasuite.github.io/download/"
+ultrasuite_uxssd,labels-uxtd-uxssd-upx/uxssd,"TextGrid/lab","manual SLT + reference + automatic labels",rsync,"part of ~80MB","mixed; must isolate slt_labels/reference labels",pending_parse,"https://ultrasuite.github.io/download/"
+ultrasuite_upx,labels-uxtd-uxssd-upx/upx,"TextGrid/lab","manual SLT + automatic labels",rsync,"part of ~80MB","mixed; isolate slt_labels",pending_parse,"https://ultrasuite.github.io/download/"
+ultrasuite_cleft,labels-cleft,"TextGrid + docs","manual SLT labels",rsync,316KB,"manual SLT annotation when available",pending_parse,"https://ultrasuite.github.io/download/"
