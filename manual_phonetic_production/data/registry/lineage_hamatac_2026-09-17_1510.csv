@@ -1,0 +1,2 @@
+lineage_id,preferred_source_id,related_version,relationship,recordings,speakers,duration_minutes,decision,notes
+hamatac,hamatac_1_0_0,0.3,earlier_release,26,28,208,exclude_duplicate_lineage,"Version 0.3 is an earlier release of HAMATAC. Version 1.0.0 is preferred for registry/ingestion; counts from v0.3 must not be added independently. Earlier release metadata reports the same manual phonetic-phenomena annotation class."
