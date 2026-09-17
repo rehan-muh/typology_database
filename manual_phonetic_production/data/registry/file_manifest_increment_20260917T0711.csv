@@ -1,0 +1,10 @@
+source_id,file_name,file_type,size_reported,public_access,source_url_or_doi,license,processing_status,notes
+lmu_poehnlein_kleber_2023_vot_f0,CF0_trackdata.txt,space-separated table,7 MB,yes,10.5282/ubm/data.384,CC BY 4.0,pending_parse,"Full f0 trajectory input table; preserve every sampled timepoint."
+lmu_poehnlein_kleber_2023_vot_f0,CF0_VOT_correlation.Rdata,RData,17 kB,yes,10.5282/ubm/data.384,CC BY 4.0,pending_parse,"Load object inventory before harmonization."
+lmu_poehnlein_kleber_2023_vot_f0,VOT_landmarks.txt,space-separated table,356 kB,yes,10.5282/ubm/data.384,CC BY 4.0,inspected,"1723 data rows plus header exposed publicly. Columns: session var_age bundle word repetition c.type POA position freq word.start word.end vow.start vow.end clos.start clos.end VOT.end."
+lmu_poehnlein_kleber_2023_vot_f0,CF0_effects.R,R script,4 kB,yes,10.5282/ubm/data.384,CC BY 4.0,pending_parse,"Measurement definitions and model transformations may be recoverable here."
+lmu_poehnlein_kleber_2023_vot_f0,CF0_VOT_correlation.R,R script,6 kB,yes,10.5282/ubm/data.384,CC BY 4.0,pending_parse,"Preserve derivation provenance."
+lmu_poehnlein_kleber_2023_vot_f0,VOT_effects.R,R script,3 kB,yes,10.5282/ubm/data.384,CC BY 4.0,pending_parse,"Preserve derivation provenance."
+lmu_thon_kleber_2023_cue_weighting,medial.csv,CSV,106 kB,yes,10.5282/ubm/data.380,CC BY 4.0,pending_parse,"Input data table for medial condition."
+lmu_thon_kleber_2023_cue_weighting,initial.csv,CSV,98 kB,yes,10.5282/ubm/data.380,CC BY 4.0,pending_parse,"Input data table for initial condition."
+lmu_thon_kleber_2023_cue_weighting,Skript.txt,R/script text,4 kB,yes,10.5282/ubm/data.380,CC BY 4.0,pending_parse,"Use to recover variable meanings and transformations."
