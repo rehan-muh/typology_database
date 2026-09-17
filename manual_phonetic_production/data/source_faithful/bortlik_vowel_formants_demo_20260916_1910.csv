@@ -1,0 +1,9 @@
+source_id,source_file,source_speaker_id,word,vowel,F0,F1,F2,F3,F2_over_F1,F3_over_F2,duration,proportion,position,voicing,marked
+bortlik_vowel_formants_demo_2026,results/speaker1_f.csv,speaker1_f,sit,I,194.985,569.413,2101.772,3051.707,3.691,1.452,0.078,40,f,voiceless,0
+bortlik_vowel_formants_demo_2026,results/speaker1_f.csv,speaker1_f,bet,e,120.571,712.604,1932.555,3036.899,2.712,1.571,0.100,40,i,voiceless,0
+bortlik_vowel_formants_demo_2026,results/speaker1_f.csv,speaker1_f,cheat,i,191.999,359.578,2779.532,3713.976,7.730,1.336,0.126,40,i,voiceless,0
+bortlik_vowel_formants_demo_2026,results/speaker1_f.csv,speaker1_f,back,a,171.346,829.263,1704.303,2956.258,2.055,1.735,0.173,40,f,voiceless,0
+bortlik_vowel_formants_demo_2026,results/speaker1_f.csv,speaker1_f,back,a,178.706,847.867,1802.628,2850.090,2.126,1.581,0.184,40,f,voiceless,0
+bortlik_vowel_formants_demo_2026,results/speaker1_f.csv,speaker1_f,thick,I,186.455,518.931,2303.014,2961.297,4.438,1.286,0.090,40,f,voiceless,0
+bortlik_vowel_formants_demo_2026,results/speaker1_f.csv,speaker1_f,nieces,i,278.352,474.451,2802.059,3687.207,5.906,1.316,0.107,40,i,voiceless,0
+bortlik_vowel_formants_demo_2026,results/speaker1_f.csv,speaker1_f,betting,e,273.253,600.621,2040.803,3035.716,3.398,1.488,0.067,40,i,voiceless,0
