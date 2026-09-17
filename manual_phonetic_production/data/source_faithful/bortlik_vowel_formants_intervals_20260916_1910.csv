@@ -1,0 +1,17 @@
+source_id,source_file,source_speaker_id,tier,interval_index,xmin_s,xmax_s,label
+bortlik_vowel_formants_demo_2026,textgrids/speaker1_f.TextGrid,speaker1_f,word,2,17.94866176235762,18.41450162265198,sitf
+bortlik_vowel_formants_demo_2026,textgrids/speaker1_f.TextGrid,speaker1_f,word,4,83.67558067649253,83.98125090089465,beti
+bortlik_vowel_formants_demo_2026,textgrids/speaker1_f.TextGrid,speaker1_f,word,6,96.74517940844427,97.20506111379954,cheati
+bortlik_vowel_formants_demo_2026,textgrids/speaker1_f.TextGrid,speaker1_f,word,8,109.55365102668998,109.97377633954902,backf
+bortlik_vowel_formants_demo_2026,textgrids/speaker1_f.TextGrid,speaker1_f,word,10,122.6711087248286,123.12628124145998,backf
+bortlik_vowel_formants_demo_2026,textgrids/speaker1_f.TextGrid,speaker1_f,word,12,137.20013404295761,137.47815477713348,thickf
+bortlik_vowel_formants_demo_2026,textgrids/speaker1_f.TextGrid,speaker1_f,word,14,206.3169111725479,206.69133730671763,niecesi
+bortlik_vowel_formants_demo_2026,textgrids/speaker1_f.TextGrid,speaker1_f,word,16,213.37895300021611,213.67244981947636,bettingi
+bortlik_vowel_formants_demo_2026,textgrids/speaker1_f.TextGrid,speaker1_f,vowel,2,18.048395780886313,18.126544286745084,I
+bortlik_vowel_formants_demo_2026,textgrids/speaker1_f.TextGrid,speaker1_f,vowel,4,83.69901864897065,83.79863003200265,e
+bortlik_vowel_formants_demo_2026,textgrids/speaker1_f.TextGrid,speaker1_f,vowel,6,96.85570719340878,96.98174764994725,i
+bortlik_vowel_formants_demo_2026,textgrids/speaker1_f.TextGrid,speaker1_f,vowel,8,109.58745694304456,109.7607122643618,a
+bortlik_vowel_formants_demo_2026,textgrids/speaker1_f.TextGrid,speaker1_f,vowel,10,122.69445090516868,122.8780053232974,a
+bortlik_vowel_formants_demo_2026,textgrids/speaker1_f.TextGrid,speaker1_f,vowel,12,137.25175757972852,137.34194327649698,I
+bortlik_vowel_formants_demo_2026,textgrids/speaker1_f.TextGrid,speaker1_f,vowel,14,206.36371443931912,206.4703000300334,i
+bortlik_vowel_formants_demo_2026,textgrids/speaker1_f.TextGrid,speaker1_f,vowel,16,213.39380711497796,213.4603945259794,e
