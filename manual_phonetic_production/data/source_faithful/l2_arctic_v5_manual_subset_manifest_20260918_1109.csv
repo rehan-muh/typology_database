@@ -1,0 +1,10 @@
+source_id,object_scope,object_type,count,status,access,provenance,notes
+l2_arctic_v5_manual_subset,speakers,participant,24,documented,public_metadata,official PSI Lab corpus documentation,"Six L1 groups; two male and two female speakers per L1."
+l2_arctic_v5_manual_subset,total_utterances,utterance,26867,documented,public_metadata,official L2-ARCTIC documentation,"Includes automatic and manual portions; not all eligible for core."
+l2_arctic_v5_manual_subset,manual_utterances,utterance,3599,accepted_manual_subset,license_gated_files,official L2-ARCTIC documentation,"Human annotators manually examined these utterances."
+l2_arctic_v5_manual_subset,phone_substitutions,error_annotation,14098,accepted_manual_subset,license_gated_files,official L2-ARCTIC documentation,"Manual phone substitution annotations."
+l2_arctic_v5_manual_subset,phone_deletions,error_annotation,3420,accepted_manual_subset,license_gated_files,official L2-ARCTIC documentation,"Manual phone deletion annotations."
+l2_arctic_v5_manual_subset,phone_additions,error_annotation,1092,accepted_manual_subset,license_gated_files,official L2-ARCTIC documentation,"Manual phone addition annotations."
+l2_arctic_v5_manual_subset,word_boundaries,interval,3599 utterances,accepted_manual_subset,license_gated_files,official PSI Lab corpus page,"Corrected word boundaries in selected manually annotated utterances; preserve exact intervals when files become accessible."
+l2_arctic_v5_manual_subset,phone_boundaries,interval,3599 utterances,accepted_manual_subset,license_gated_files,official PSI Lab corpus page,"Corrected phone boundaries in selected manually annotated utterances; preserve exact intervals when files become accessible."
+l2_arctic_v5_manual_subset,full_audio,audio,~26867 utterance WAVs,primary_recordings_not_committed,license_gated_files,official PSI Lab corpus page,"Primary production recordings; avoid committing bulk audio. Retain authoritative source lineage."
