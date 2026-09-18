@@ -1,0 +1,14 @@
+source_id,object_type,object_name,source_value,unit_or_coding,provenance,admission_note
+rescuespeech_2023,repository_file,Readme.md,md5:5b6bf9922c78e37aef96199f0eb34b4d; size=6.4 kB,,Zenodo record 8077622 v2,public metadata ingested; archive contents pending
+rescuespeech_2023,repository_file,Task_ASR.tar.gz,md5:c5b9f7857c1970bfe34eae0805c6987b; size=643.2 MB,,Zenodo record 8077622 v2,contains primary clean speech plus synthetic noisy derivatives; only clean primary layer eligible
+rescuespeech_2023,repository_file,Task_enhancement.tar.gz,md5:0a933817af7ccd56982225ae46c3722c; size=3.3 GB,,Zenodo record 8077622 v2,synthetic noisy derivatives; exclude as synthetic production data
+rescuespeech_2023,corpus_count,ASR_total_recordings,2412,recordings,Zenodo README v2,primary clean utterance count
+rescuespeech_2023,corpus_count,ASR_total_duration,1:36:10,hh:mm:ss,Zenodo README v2,primary clean speech duration
+rescuespeech_2023,corpus_count,ASR_speakers,26,speakers,Zenodo README v2,38 recordings have undetermined speaker
+rescuespeech_2023,corpus_count,undetermined_speaker_recordings,38,recordings,Zenodo README v2,preserve unknown speaker rather than invent ID
+rescuespeech_2023,split_count,train,1591,files,Zenodo README v2,17 speakers
+rescuespeech_2023,split_count,test,576,files,Zenodo README v2,5 speaker categories including unknown
+rescuespeech_2023,split_count,dev,245,files,Zenodo README v2,4 speakers
+rescuespeech_2023,recording_metadata,original_sample_rate,44100,Hz,Zenodo record v2,source recording rate
+rescuespeech_2023,recording_metadata,released_sample_rate,16000,Hz,Zenodo record v2,downsampled mono release
+rescuespeech_2023,manual_provenance,annotation_status,manually annotated,verbatim repository description,Zenodo record v2,granularity unresolved; do not admit transcript/interval observations until archive inspection establishes annotation type
