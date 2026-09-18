@@ -1,0 +1,16 @@
+{
+  "source_id": "pavoque",
+  "source_file": "pavoque-angry.yaml",
+  "upstream_repository": "marytts/pavoque-data",
+  "upstream_blob_sha": "bff79d978f740f6c2b09bc595ade03b6bdf33423",
+  "annotation_provenance": "manually corrected phonetic segmentation",
+  "time_reference": "segment end times in seconds relative to utterance onset; utterance start/end in seconds in style audio",
+  "normalization": "none; labels preserved verbatim; no IPA inferred",
+  "utterances": [
+    {"prompt":"spike0009","text":"Erzähl mir davon.","style":"angry","start":28.92,"end":31.44,"segments":[["H#",0.66],["?",0.695],["E",0.733213],["6",0.770372],["ts",0.897462],["E:",0.966709],["l",1.002205],["m",1.063768],["i:",1.119231],["6",1.142525],["d",1.181619],["a:",1.275634],["f",1.375],["O",1.48],["n",1.608409],["_",2.515]]},
+    {"prompt":"spike0010","text":"Ich bin Spike, was für ein Problem hast du?","style":"angry","start":31.44,"end":35.52,"segments":[["H#",0.315],["?",0.367251],["I",0.455],["C",0.539822],["b",0.6273],["I",0.695],["n",0.770121],["s",0.87],["p",0.940697],["aI",1.165],["k",1.281078],["_",1.371649],["v",1.396535],["a",1.47],["s",1.55],["f",1.577704],["y:",1.605954],["6",1.61271],["?",1.616394],["aI",1.683949],["n",1.722639],["p",1.764092],["R",1.8],["o:",1.852221],["b",1.92649],["l",1.955],["e:",2.07],["m",2.13],["h",2.185],["a",2.245],["s",2.318961],["t",2.35151],["d",2.387845],["u:",2.581195],["_",4.075]]},
+    {"prompt":"spike0011","text":"Ich bin Spike, welches Problem hast du?","style":"angry","start":35.52,"end":39.36,"segments":[["H#",0.28],["?",0.308966],["I",0.401102],["C",0.474812],["b",0.535255],["I",0.605],["n",0.655],["s",0.722353],["p",0.817076],["aI",1.065],["k",1.191636],["_",1.25856],["v",1.279474],["E",1.329842],["l",1.365],["C",1.429964],["@",1.475418],["s",1.52],["p",1.591574],["R",1.611166],["o:",1.667063],["b",1.743635],["l",1.785],["e:",1.895],["m",1.95],["h",2.01],["a",2.085],["s",2.155388],["t",2.1904],["d",2.23],["u:",2.452683],["_",3.835]]}
+  ],
+  "counts": {"utterances":3,"segment_endpoints":83},
+  "integrity_checks": {"segment_endpoints_monotonic":true,"final_endpoint_within_utterance_duration":true,"source_verified_directly":true}
+}
