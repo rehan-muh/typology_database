@@ -1,0 +1,11 @@
+source_id,file_table,original_variable,standardized_variable,variable_domain,description_meaning,units,datatype,coding_levels,missing_value_conventions,measurement_annotation_method,time_reference_window,anatomical_acoustic_target,provenance,notes
+PAVOQUE,YAML utterance,prompt,source_recording_id,recording,"prompt code / file basename",,string,,,author supplied,utterance,,README + YAML,
+PAVOQUE,YAML utterance,text,utterance_text,stimulus,"orthographic utterance text",,string,,,author supplied,utterance,,README + YAML,
+PAVOQUE,YAML utterance,style,speaking_style,condition,"expressive speaking style",,categorical,"neutral; angry; happy; sad; poker; outtakes as file/style permits",,author supplied,utterance,,README + YAML,"retain original value"
+PAVOQUE,YAML utterance,start,utterance_start_s,temporal,"utterance start in source FLAC",seconds,float,,,author timing,absolute within style FLAC,,README + YAML,
+PAVOQUE,YAML utterance,end,utterance_end_s,temporal,"utterance end in source FLAC",seconds,float,,,author timing,absolute within style FLAC,,README + YAML,
+PAVOQUE,YAML segment,segments[].lab,segment_label_original,segment_annotation,"SAMPA-based manually corrected phonetic segment label",,string,"German SAMPA-based; _ silence; H# boundary marker occurs",,manually corrected phonetic segmentation,segment,phonetic segment,README + YAML,"no IPA invented; preserve source label"
+PAVOQUE,YAML segment,segments[].end,segment_end_relative_s,temporal,"manually corrected segment end relative to utterance start",seconds,float,,,manually corrected phonetic segmentation,relative to utterance start,phonetic segment,README + YAML,"segment start defensibly derived as previous segment end within utterance; preserve original endpoint separately"
+PAVOQUE,README,audio_sampling_rate_hz,sampling_rate_hz,equipment,"audio sample rate",Hz,integer,44100,,documentation,recording,audio,README,
+PAVOQUE,README,audio_bit_depth,bit_depth,equipment,"audio bit depth",bits,integer,16,,documentation,recording,audio,README,
+PAVOQUE,README,audio_channels,channels,equipment,"mono audio",channels,integer,1,,documentation,recording,audio,README,
