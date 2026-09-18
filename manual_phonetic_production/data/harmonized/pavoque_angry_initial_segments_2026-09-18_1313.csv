@@ -1,0 +1,13 @@
+source_id,recording_id,source_recording_id,style,utterance_text,utterance_start_s,utterance_end_s,segment_index,segment_label_original,segment_start_relative_s,segment_end_relative_s,segment_start_absolute_s,segment_end_absolute_s,manual_status,source_file,source_blob_sha
+PAVOQUE,PAVOQUE::spike0001,spike0001,angry,Ich bin Spike.,0.0,2.34,1,H#,0.0,0.416756,0.0,0.416756,manually_corrected,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,PAVOQUE::spike0001,spike0001,angry,Ich bin Spike.,0.0,2.34,2,?,0.416756,0.436332,0.416756,0.436332,manually_corrected,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,PAVOQUE::spike0001,spike0001,angry,Ich bin Spike.,0.0,2.34,3,I,0.436332,0.509483,0.436332,0.509483,manually_corrected,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,PAVOQUE::spike0001,spike0001,angry,Ich bin Spike.,0.0,2.34,4,C,0.509483,0.586756,0.509483,0.586756,manually_corrected,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,PAVOQUE::spike0001,spike0001,angry,Ich bin Spike.,0.0,2.34,5,b,0.586756,0.646513,0.586756,0.646513,manually_corrected,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,PAVOQUE::spike0001,spike0001,angry,Ich bin Spike.,0.0,2.34,6,I,0.646513,0.71,0.646513,0.71,manually_corrected,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,PAVOQUE::spike0001,spike0001,angry,Ich bin Spike.,0.0,2.34,7,n,0.71,0.765,0.71,0.765,manually_corrected,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,PAVOQUE::spike0001,spike0001,angry,Ich bin Spike.,0.0,2.34,8,S,0.765,0.86,0.765,0.86,manually_corrected,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,PAVOQUE::spike0001,spike0001,angry,Ich bin Spike.,0.0,2.34,9,p,0.86,0.960971,0.86,0.960971,manually_corrected,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,PAVOQUE::spike0001,spike0001,angry,Ich bin Spike.,0.0,2.34,10,aI,0.960971,1.185,0.960971,1.185,manually_corrected,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,PAVOQUE::spike0001,spike0001,angry,Ich bin Spike.,0.0,2.34,11,k,1.185,1.386784,1.185,1.386784,manually_corrected,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,PAVOQUE::spike0001,spike0001,angry,Ich bin Spike.,0.0,2.34,12,_,1.386784,2.335,1.386784,2.335,manually_corrected,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
