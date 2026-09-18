@@ -1,0 +1,7 @@
+source_id,object_name,object_type,availability,reported_contents,checksum,provenance
+ulrich2022_russian_fricatives,1_filter_the_noise.zip,archive,restricted,"filtering/preprocessing materials",,"SWISSUbase dataset overview DOI 10.48656/4q9c-gz16"
+ulrich2022_russian_fricatives,2_fricative_extraction.zip,archive,restricted,"target-fricative extraction materials",,"SWISSUbase dataset overview DOI 10.48656/4q9c-gz16"
+ulrich2022_russian_fricatives,Recording_1.zip,archive,restricted,"recording-session WAV/TextGrid data; first session additionally filtered below 80 Hz and above 20050 Hz per Data in Brief",,"SWISSUbase dataset overview DOI 10.48656/4q9c-gz16"
+ulrich2022_russian_fricatives,Recording_2.zip,archive,restricted,"recording-session WAV/TextGrid data",,"SWISSUbase dataset overview DOI 10.48656/4q9c-gz16"
+ulrich2022_russian_fricatives,metadata.zip,archive,restricted,"target metadata including SentenceNo; IntervalNo; SentenceTyp; Position; fricative position; Sampa; IPA; PrecedingSound; FollowingSound; Voicing; Palatalization",,"SWISSUbase dataset overview DOI 10.48656/4q9c-gz16"
+ulrich2022_russian_fricatives,sentence_list.zip,archive,restricted,"198 sentence stimulus list",,"SWISSUbase dataset overview DOI 10.48656/4q9c-gz16"
