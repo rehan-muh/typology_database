@@ -1,0 +1,4 @@
+source_id,file_name,file_type,role,manual_status,ingestion_status,authoritative_reference,notes
+chenghai_stops_2026,wav.zip,ZIP/WAV,primary recordings,primary production,pending archive enumeration,https://data.mendeley.com/datasets/4bw5rh6n3y/1,"Do not commit bulk audio; enumerate members and retain source references/checksums when accessible."
+chenghai_stops_2026,textgrid.zip,ZIP/TextGrid,interval and landmark annotations,manual,pending download and parsing,https://data.mendeley.com/datasets/4bw5rh6n3y/1,"Praat annotations mark VOT and closure duration/GAP; preserve all tiers/labels/times verbatim before harmonization."
+chenghai_stops_2026,data analysis.xlsx,XLSX,derived acoustic measurements,human-anchored,pending download and all-sheet parsing,https://data.mendeley.com/datasets/4bw5rh6n3y/1,"Contains extracted/analyzed VOT and closure duration; inventory every sheet and column before mapping."
