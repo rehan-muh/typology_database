@@ -1,0 +1,5 @@
+source_id,file_or_object,format,size_or_count,checksum_or_coding,status,provenance,notes
+ruthven2023_rtmri_gt,data.zip,ZIP,21.9 MB,MD5:2c5fb95e6294ecf97204f64128137a96,authoritative_public_archive,https://zenodo.org/records/10046815,"Immutable source reference; do not commit bulk binary archive to GitHub."
+ruthven2023_rtmri_gt,MRI_SSFP_10fps/<volunteer>/image_N.dcm,DICOM,392 images,"series counts 105;71;71;78;67",pending_archive_parse,https://zenodo.org/records/10046815,"Primary rtMRI frames; 0.1 s temporal resolution; reconstructed 256x256, 1.17x1.17 mm2 pixels."
+ruthven2023_rtmri_gt,GT_Segmentations/<volunteer>/mask_N.mat,MAT,392 masks,"0 background;1 head;2 soft palate;3 jaw;4 tongue;5 vocal tract;6 tooth space",pending_archive_parse,https://zenodo.org/records/10046815,"Manually pixel-labelled GT masks; preserve full matrices and frame linkage."
+ruthven2023_rtmri_gt,velopharyngeal_closure.xlsx,XLSX,5 sheets / 392 frame labels,"0=no contact;1=contact",pending_archive_parse,https://zenodo.org/records/10046815,"Four independent expert labels with majority/consensus GT; spreadsheet row corresponds to image number."
