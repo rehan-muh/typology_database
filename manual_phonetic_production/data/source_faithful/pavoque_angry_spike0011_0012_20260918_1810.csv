@@ -1,0 +1,60 @@
+source_id,source_file,source_blob_sha,prompt,text,style,utterance_start_s,utterance_end_s,segment_index,original_label,original_end_s
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,1,H#,0.28
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,2,?,0.308966
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,3,I,0.401102
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,4,C,0.474812
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,5,b,0.535255
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,6,I,0.605
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,7,n,0.655
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,8,s,0.722353
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,9,p,0.817076
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,10,aI,1.065
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,11,k,1.191636
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,12,_,1.25856
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,13,v,1.279474
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,14,E,1.329842
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,15,l,1.365
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,16,C,1.429964
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,17,@,1.475418
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,18,s,1.52
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,19,p,1.591574
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,20,R,1.611166
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,21,o:,1.667063
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,22,b,1.743635
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,23,l,1.785
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,24,e:,1.895
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,25,m,1.95
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,26,h,2.01
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,27,a,2.085
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,28,s,2.155388
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,29,t,2.1904
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,30,d,2.23
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,31,u:,2.452683
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.52,39.36,32,_,3.835
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,1,H#,0.340921
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,2,?,0.365492
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,3,E,0.44
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,4,n,0.492646
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,5,t,0.516768
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,6,S,0.6241
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,7,U,0.7
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,8,l,0.77
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,9,d,0.806959
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,10,I,0.865
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,11,g,0.929118
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,12,U,1.02
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,13,N,1.080504
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,14,_,1.290585
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,15,z,1.38
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,16,a:,1.475481
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,17,k,1.51
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,18,d,1.570693
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,19,a,1.63
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,20,s,1.701533
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,21,n,1.732861
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,22,O,1.8
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,23,x,1.850187
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,24,m,1.93
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,25,a:,2.079925
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,26,l,2.247621
+pavoque,marytts/pavoque-data/pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0012,"Entschuldigung, sag das nochmal.",angry,39.36,42.78,27,_,3.415
