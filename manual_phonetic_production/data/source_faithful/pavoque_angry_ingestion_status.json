@@ -22,8 +22,9 @@
     "chunk050_utterances": 4,
     "chunk050_intervals": 115,
     "chunk050_terminal_residuals_s": {"m0133": 0.005, "m0134": 0.005, "m0135": 0.005, "m0136": 0.005},
-    "numeric_gap_not_inferred": "Literal source order remains authoritative; prompt-number gaps are not inferred as missing records."
+    "numeric_gap_not_inferred": "Literal source order remains authoritative; prompt-number gaps are not inferred as missing records.",
+    "duplicate_lineage_guard": "Later spike0001-spike0019 convenience/reverification files overlap observations already represented in the durable full-source parse and MUST NOT increase scientific observation counts. Continue durable backlog from literal upstream record m0137, not spike0021."
   },
-  "notes": "Durable source-faithful mirror advanced through chunk050. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when chunks are materialized. Chunk050 follows literal upstream order m0133,m0134,m0135,m0136; m0137 is next. Original labels/endpoints were retained without IPA invention or timing repair.",
-  "last_updated": "2026-09-14T12:09:10-07:00"
+  "notes": "Durable source-faithful mirror advanced through chunk050. Scientific observations from this lineage are already represented in the validated full PAVOQUE parse and must not be double-counted when chunks or later spike-specific verification files are materialized. Chunk050 follows literal upstream order m0133,m0134,m0135,m0136; m0137 is next. Original labels/endpoints were retained without IPA invention or timing repair. 2026-09-19 audit explicitly reconciled the later spike-specific files against this durable lineage and restored m0137 as the authoritative continuation cursor.",
+  "last_updated": "2026-09-19T00:10:22-07:00"
 }
