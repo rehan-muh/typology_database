@@ -1,0 +1,52 @@
+source_id,source_file,upstream_blob_sha,prompt,text,style,utterance_start_s,utterance_end_s,segment_index,original_label,original_relative_end_s
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,"Erzähl mir davon.",angry,28.92,31.44,1,H#,0.66
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,"Erzähl mir davon.",angry,28.92,31.44,2,?,0.695
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,"Erzähl mir davon.",angry,28.92,31.44,3,E,0.733213
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,"Erzähl mir davon.",angry,28.92,31.44,4,6,0.770372
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,"Erzähl mir davon.",angry,28.92,31.44,5,ts,0.897462
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,"Erzähl mir davon.",angry,28.92,31.44,6,E:,0.966709
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,"Erzähl mir davon.",angry,28.92,31.44,7,l,1.002205
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,"Erzähl mir davon.",angry,28.92,31.44,8,m,1.063768
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,"Erzähl mir davon.",angry,28.92,31.44,9,i:,1.119231
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,"Erzähl mir davon.",angry,28.92,31.44,10,6,1.142525
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,"Erzähl mir davon.",angry,28.92,31.44,11,d,1.181619
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,"Erzähl mir davon.",angry,28.92,31.44,12,a:,1.275634
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,"Erzähl mir davon.",angry,28.92,31.44,13,f,1.375
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,"Erzähl mir davon.",angry,28.92,31.44,14,O,1.48
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,"Erzähl mir davon.",angry,28.92,31.44,15,n,1.608409
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,"Erzähl mir davon.",angry,28.92,31.44,16,_,2.515
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,1,H#,0.315
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,2,?,0.367251
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,3,I,0.455
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,4,C,0.539822
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,5,b,0.6273
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,6,I,0.695
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,7,n,0.770121
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,8,s,0.87
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,9,p,0.940697
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,10,aI,1.165
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,11,k,1.281078
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,12,_,1.371649
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,13,v,1.396535
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,14,a,1.47
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,15,s,1.55
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,16,f,1.577704
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,17,y:,1.605954
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,18,6,1.61271
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,19,?,1.616394
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,20,aI,1.683949
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,21,n,1.722639
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,22,p,1.764092
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,23,R,1.8
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,24,o:,1.852221
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,25,b,1.92649
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,26,l,1.955
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,27,e:,2.07
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,28,m,2.13
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,29,h,2.185
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,30,a,2.245
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,31,s,2.318961
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,32,t,2.35151
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,33,d,2.387845
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,34,u:,2.581195
+pavoque,annotations/angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,35,_,4.075
