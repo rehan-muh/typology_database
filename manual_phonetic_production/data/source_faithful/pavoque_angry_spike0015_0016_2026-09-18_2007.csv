@@ -1,0 +1,47 @@
+source_id,source_file,source_blob_sha,prompt,text,style,utterance_start_s,utterance_end_s,segment_index,original_label,original_endpoint_s
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0015,Bist du noch da?,angry,49.92,52.38,1,H#,0.489485
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0015,Bist du noch da?,angry,49.92,52.38,2,b,0.515475
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0015,Bist du noch da?,angry,49.92,52.38,3,I,0.565
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0015,Bist du noch da?,angry,49.92,52.38,4,s,0.6281
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0015,Bist du noch da?,angry,49.92,52.38,5,t,0.664379
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0015,Bist du noch da?,angry,49.92,52.38,6,d,0.701418
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0015,Bist du noch da?,angry,49.92,52.38,7,u:,0.748847
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0015,Bist du noch da?,angry,49.92,52.38,8,n,0.79
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0015,Bist du noch da?,angry,49.92,52.38,9,O,0.855
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0015,Bist du noch da?,angry,49.92,52.38,10,x,0.918326
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0015,Bist du noch da?,angry,49.92,52.38,11,d,1.025095
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0015,Bist du noch da?,angry,49.92,52.38,12,a:,1.348791
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0015,Bist du noch da?,angry,49.92,52.38,13,_,2.455
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,1,H#,0.571675
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,2,g,0.61549
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,3,i:,0.682203
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,4,p,0.71
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,5,t,0.761593
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,6,?,0.76736
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,7,E,0.793959
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,8,s,0.899574
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,9,n,0.975
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,10,O,1.045
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,11,x,1.13
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,12,?,1.155631
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,13,E,1.222561
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,14,t,1.303711
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,15,v,1.331861
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,16,a,1.41
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,17,s,1.479232
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,18,d,1.520301
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,19,a,1.565
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,20,s,1.628444
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,21,d,1.706775
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,22,u:,1.765376
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,23,z,1.842746
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,24,a:,1.992572
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,25,g,2.055205
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,26,@,2.061959
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,27,n,2.154066
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,28,v,2.195
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,29,I,2.299594
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,30,l,2.415649
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,31,s,2.533545
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,32,t,2.60678
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0016,"Gibt es noch etwas, das du sagen willst?",angry,52.38,56.28,33,_,3.895
