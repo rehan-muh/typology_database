@@ -1,0 +1,2 @@
+source_id,source_file,recording_id,tier,annotation_label,start_s,end_s,duration_s,source_blob_sha,annotation_provenance
+mlml_autovot_manual_training,experiments/data/tutorialExample/train/voiceless/cas7D_1054_11_1.TextGrid,cas7D_1054_11_1,vot,vot,0.9374492677584578,1.0190903846153845,0.0816411168569267,9eaf78b5372159db578ad32358b12e97e0904fef,"AutoVOT training example; project documentation specifies training VOT labels are manually labeled. Only the isolated VOT tier is admitted; phones/words are not asserted manual."
