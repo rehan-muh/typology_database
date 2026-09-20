@@ -1,0 +1,87 @@
+source_id,source_file,file_sha,source_utterance_id,text,style,utterance_start_s,utterance_end_s,segment_index,original_label,segment_start_rel_s,segment_end_rel_s
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,1,H#,0.0,0.5468
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,2,n,0.5468,0.585
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,3,a:,0.585,0.633876
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,4,d,0.633876,0.674784
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,5,a,0.674784,0.75
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,6,n,0.75,0.798863
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,7,v,0.798863,0.84246
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,8,aI,0.84246,0.974478
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,9,s,0.974478,1.04018
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,10,t,1.04018,1.078864
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,11,d,1.078864,1.129709
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,12,u:,1.129709,1.180795
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,13,j,1.180795,1.23
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,14,a:,1.23,1.3079
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,15,d,1.3079,1.348481
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,16,a,1.348481,1.39
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,17,s,1.39,1.462638
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,18,?,1.462638,1.468164
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,19,I,1.468164,1.50255
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,20,C,1.50255,1.576235
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,21,d,1.576235,1.671168
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,22,U,1.671168,1.733428
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,23,m,1.733428,1.807727
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,24,k,1.807727,1.936428
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,25,9,1.936428,1.97137
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,26,pf,1.97137,2.125
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,27,@,2.125,2.131325
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,28,n,2.131325,2.205
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,29,g,2.205,2.259115
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,30,e:,2.259115,2.32
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,31,g,2.32,2.360904
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,32,@,2.360904,2.364854
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,33,n,2.364854,2.413168
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,34,?,2.413168,2.442642
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,35,y:,2.442642,2.525
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,36,b,2.525,2.580587
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,37,6,2.580587,2.655
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,38,n,2.655,2.69
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,39,I,2.69,2.74
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,40,C,2.74,2.812424
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,41,t,2.812424,2.87
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,42,z,2.87,2.92
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,43,e:,2.92,2.96089
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,44,6,2.96089,3.006943
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,45,t,3.006943,3.115665
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,46,O,3.115665,3.155
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,47,l,3.155,3.183172
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,48,@,3.183172,3.262996
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,49,R,3.262996,3.305
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,50,a,3.305,3.385
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,51,n,3.385,3.44
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,52,t,3.44,3.500015
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,53,b,3.500015,3.572349
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,54,I,3.572349,3.660769
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,55,n,3.660769,3.741332
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0003,"Na dann weißt du ja, dass ich Dummköpfen gegenüber nicht sehr tolerant bin.",angry,5.94,11.94,56,_,3.741332,5.995
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,1,H#,0.0,0.415743
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,2,n,0.415743,0.44
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,3,a:,0.44,0.507244
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,4,d,0.507244,0.535
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,5,a,0.535,0.61
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,6,n,0.61,0.650942
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,7,v,0.650942,0.675506
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,8,e:,0.675506,0.730775
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,9,6,0.730775,0.760559
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,10,d,0.760559,0.792283
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,11,@,0.792283,0.811221
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,12,?,0.811221,0.816441
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,13,I,0.816441,0.84776
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,14,C,0.84776,0.900573
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,15,m,0.900573,0.938954
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,16,I,0.938954,0.99
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,17,C,0.99,1.039665
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,18,m,1.039665,1.09
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,19,a:,1.09,1.154501
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,20,l,1.154501,1.195
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,21,f,1.195,1.298814
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,22,o:,1.298814,1.367593
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,23,6,1.367593,1.42
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,24,S,1.42,1.508221
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,25,t,1.508221,1.566802
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,26,E,1.566802,1.681396
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,27,l,1.681396,1.761229
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,28,@,1.761229,1.77
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,29,n,1.77,1.874222
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,30,_,1.874222,3.775
