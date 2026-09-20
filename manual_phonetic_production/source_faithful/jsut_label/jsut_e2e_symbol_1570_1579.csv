@@ -1,0 +1,11 @@
+source_id,source_utterance_id,original_symbol_sequence,upstream_path,annotation_provenance
+jsut_label,BASIC5000_1570,"^-n-a-[-n-a-_-j-u-]-u-_-j-u-]-u-#-r-o-[-k-u-]-n-o-#-h-e-[-e-k-i-N-w-a-_-j-u-[-u-i-ch-i-]-d-e-#-a-]-r-u-$",e2e_symbol/phoneme.yaml,manual_label_repository
+jsut_label,BASIC5000_1571,"^-z-e-]-e-_-s-o-[-n-o-]-t-a-#-s-u-]-b-e-t-e-#-k-o-]-m-i-d-a-t-o-_-i-[-cl-p-a-k-u-#-i-]-k-u-r-a-d-e-s-u-k-a-?-$",e2e_symbol/phoneme.yaml,manual_label_repository
+jsut_label,BASIC5000_1572,"^-g-a-[-k-u-sh-a-n-o-n-a-]-k-a-n-i-w-a-_-a-[-m-e-r-i-k-a-ny-u-]-u-sh-o-k-u-o-#-n-i-[-sh-i-#-y-o-[-o-r-o-]-cl-p-a-n-o-#-sh-a-[-k-a-i-#-f-u-]-a-N-n-o-#-s-e-]-e-n-i-#-s-u-[-r-u-#-m-o-[-n-o-]-m-o-#-i-[-r-u-$",e2e_symbol/phoneme.yaml,manual_label_repository
+jsut_label,BASIC5000_1573,"^-ky-o-[-o-sh-u-u-j-o-]-n-o-#-ky-o-]-o-sh-i-n-i-#-s-o-[-o-_-a-[-s-e-]-r-u-n-a-t-o-#-i-[-w-a-r-e-t-e-i-m-a-s-u-$",e2e_symbol/phoneme.yaml,manual_label_repository
+jsut_label,BASIC5000_1574,"^-k-o-[-N-y-a-k-u-#-sh-i-[-t-e-i-r-u-]-n-o-n-i-_-k-i-]-s-u-o-#-ky-o-]-h-i-s-a-r-e-t-a-$",e2e_symbol/phoneme.yaml,manual_label_repository
+jsut_label,BASIC5000_1575,"^-k-o-]-o-k-i-g-a-#-n-i-[-d-o-#-o-[-t-o-z-u-r-e-]-r-u-#-k-o-[-t-o-]-w-a-_-m-e-]-cl-t-a-n-i-#-n-a-]-i-$",e2e_symbol/phoneme.yaml,manual_label_repository
+jsut_label,BASIC5000_1576,"^-j-u-]-u-t-a-N-n-o-#-i-[-r-o-]-w-a-_-k-a-[-b-e-t-o-#-ch-o-[-o-w-a-sh-i-t-e-i-r-u-$",e2e_symbol/phoneme.yaml,manual_label_repository
+jsut_label,BASIC5000_1577,"^-j-a-[-_-i-[-ch-i-n-e-N-m-a-]-e-n-o-w-a-#-m-o-]-o-#-k-i-[-k-i-m-e-g-a-#-n-a-]-i-N-d-a-$",e2e_symbol/phoneme.yaml,manual_label_repository
+jsut_label,BASIC5000_1578,"^-n-a-]-N-p-u-N-k-a-#-t-a-]-cl-t-a-n-o-k-a-_-s-o-[-r-e-t-o-]-m-o-#-n-a-[-N-j-i-]-k-a-N-k-a-#-t-a-]-cl-t-a-n-o-k-a-_-n-u-[-m-a-t-a-#-s-e-[-N-s-e-]-e-g-a-#-i-[-e-]-n-i-#-h-a-]-i-cl-t-e-#-k-i-]-t-e-_-t-e-]-e-k-o-n-o-#-h-i-[-t-a-i-n-i-#-t-e-]-o-#-a-[-t-e-t-a-$",e2e_symbol/phoneme.yaml,manual_label_repository
+jsut_label,BASIC5000_1579,"^-m-o-]-t-o-#-s-o-[-o-r-i-d-a-]-i-j-i-N-n-o-#-s-u-[-z-u-k-i-]-sh-i-g-a-_-i-[-i-]-N-k-a-i-n-o-#-g-i-]-ch-o-o-n-i-#-n-a-]-r-u-d-a-r-o-o-$",e2e_symbol/phoneme.yaml,manual_label_repository
