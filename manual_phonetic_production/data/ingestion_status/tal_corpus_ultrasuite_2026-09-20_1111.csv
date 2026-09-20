@@ -1,0 +1,4 @@
+source_id,component,status,processed_count,pending,provenance,notes
+tal_corpus_ultrasuite,manual_short_segment_csv,accepted_pending_parse,0,"Enumerate TaL1/TaL80 annotation CSV files via authoritative UltraSuite distribution; ingest every row preserving utterance id,start_s,end_s,transcription and any source-specific columns.","Manual annotation explicitly documented. Add normalized duration/end-relative fields only as derived columns, never overwrite source values."
+tal_corpus_ultrasuite,core_media,reference_only,0,"Build file manifest/checksums/authoritative paths for WAV, ULT, PARAM, SYNC, MP4 and prompt TXT without committing bulk media.","TaL1 ~49GB and TaL80 ~498GB according to repository documentation."
+tal_corpus_ultrasuite,automatic_alignment,excluded_pending_verification,0,"Do not ingest as manual annotation unless documentation establishes human correction/verification.","Keep layer-level inclusion boundary explicit."
