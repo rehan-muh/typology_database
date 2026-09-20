@@ -1,0 +1,8 @@
+source_id,file_table,original_variable,standardized_variable,variable_domain,description_meaning,units,datatype,coding_levels,missing_value_conventions,measurement_annotation_method,time_reference_window,anatomical_acoustic_target,provenance,notes
+pavoque,pavoque-*.yaml,prompt,source_utterance_id,identifier,prompt/file basename,,string,,,author metadata,utterance,,upstream YAML,Namespaced downstream as pavoque::prompt
+pavoque,pavoque-*.yaml,text,orthographic_text,lexical,utterance text,,string,,,author metadata,utterance,,upstream YAML,Preserve verbatim
+pavoque,pavoque-*.yaml,style,style,condition,expressive speaking style,,categorical,"angry;happy;neutral;outtakes;poker;sad",,author metadata,utterance,,upstream YAML,
+pavoque,pavoque-*.yaml,start,utterance_start_s,temporal,utterance onset in source style recording,seconds,float,,,author segmentation,recording-relative,,upstream YAML,
+pavoque,pavoque-*.yaml,end,utterance_end_s,temporal,utterance offset in source style recording,seconds,float,,,author segmentation,recording-relative,,upstream YAML,
+pavoque,pavoque-*.yaml,segments.lab,original_segment_label,segment_annotation,manually corrected phonetic segment label,,string,"SAMPA-like labels; _ silence; H# boundary/noise-like source label",,manually corrected phonetic segmentation,segment,phonetic segment,upstream YAML,Do not normalize to IPA without explicit mapping
+pavoque,pavoque-*.yaml,segments.end,segment_end_rel_s,temporal,manually corrected segment endpoint relative to utterance start,seconds,float,,,manually corrected phonetic segmentation,utterance-relative,phonetic segment boundary,upstream YAML,Segment start derived only as previous supplied endpoint within same utterance; first starts at 0
