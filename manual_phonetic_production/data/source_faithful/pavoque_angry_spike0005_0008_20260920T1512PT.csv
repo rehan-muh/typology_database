@@ -1,0 +1,5 @@
+source_id,source_recording_id,source_segment_index,prompt_original,style,utterance_start_s,utterance_end_s,segment_label_original,segment_start_relative_s,segment_end_relative_s,segment_start_absolute_s,segment_end_absolute_s,source_file,source_blob_sha,annotation_provenance
+PAVOQUE::angry,PAVOQUE::angry::spike0005,1,"Aber dann gibt es keinen Weg zurück.",angry,15.72,19.37,?,0,0.12,15.72,15.84,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,manual_source_annotation
+PAVOQUE::angry,PAVOQUE::angry::spike0005,2,"Aber dann gibt es keinen Weg zurück.",angry,15.72,19.37,a:,0.12,0.27,15.84,15.99,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,manual_source_annotation
+PAVOQUE::angry,PAVOQUE::angry::spike0005,3,"Aber dann gibt es keinen Weg zurück.",angry,15.72,19.37,b,0.27,0.335,15.99,16.055,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,manual_source_annotation
+PAVOQUE::angry,PAVOQUE::angry::spike0005,4,"Aber dann gibt es keinen Weg zurück.",angry,15.72,19.37,6,0.335,0.455,16.055,16.175,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,manual_source_annotation
