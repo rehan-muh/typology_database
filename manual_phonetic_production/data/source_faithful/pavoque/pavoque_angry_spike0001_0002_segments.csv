@@ -1,0 +1,42 @@
+source_id,source_file,file_sha,source_utterance_id,text,style,utterance_start_s,utterance_end_s,segment_index,original_label,segment_start_rel_s,segment_end_rel_s
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0001,"Ich bin Spike.",angry,0.0,2.34,1,H#,0.0,0.416756
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0001,"Ich bin Spike.",angry,0.0,2.34,2,?,0.416756,0.436332
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0001,"Ich bin Spike.",angry,0.0,2.34,3,I,0.436332,0.509483
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0001,"Ich bin Spike.",angry,0.0,2.34,4,C,0.509483,0.586756
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0001,"Ich bin Spike.",angry,0.0,2.34,5,b,0.586756,0.646513
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0001,"Ich bin Spike.",angry,0.0,2.34,6,I,0.646513,0.71
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0001,"Ich bin Spike.",angry,0.0,2.34,7,n,0.71,0.765
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0001,"Ich bin Spike.",angry,0.0,2.34,8,S,0.765,0.86
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0001,"Ich bin Spike.",angry,0.0,2.34,9,p,0.86,0.960971
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0001,"Ich bin Spike.",angry,0.0,2.34,10,aI,0.960971,1.185
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0001,"Ich bin Spike.",angry,0.0,2.34,11,k,1.185,1.386784
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0001,"Ich bin Spike.",angry,0.0,2.34,12,_,1.386784,2.335
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,1,H#,0.0,0.304112
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,2,h,0.304112,0.348223
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,3,a:,0.348223,0.43
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,4,b,0.43,0.457396
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,5,@,0.457396,0.461082
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,6,n,0.461082,0.515
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,7,v,0.515,0.535
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,8,i:,0.535,0.58
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,9,6,0.58,0.632798
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,10,?,0.632798,0.638634
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,11,U,0.638634,0.663209
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,12,n,0.663209,0.71
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,13,s,0.71,0.746148
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,14,S,0.746148,0.8125
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,15,o:,0.8125,0.865335
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,16,n,0.865335,0.895
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,17,?,0.895,0.938752
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,18,aI,0.938752,1.02
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,19,n,1.02,1.035
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,20,m,1.035,1.075
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,21,a:,1.075,1.15
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,22,l,1.15,1.18112
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,23,g,1.18112,1.233477
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,24,@,1.233477,1.294778
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,25,z,1.294778,1.382325
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,26,e:,1.382325,1.571737
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,27,@,1.571737,1.57921
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,28,n,1.57921,1.736815
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0002,"Haben wir uns schon einmal gesehen?",angry,2.34,5.94,29,_,1.736815,3.595
