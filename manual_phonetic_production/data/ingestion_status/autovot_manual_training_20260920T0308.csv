@@ -1,0 +1,2 @@
+source_id,status,files_enumerated,files_ingested,measurement_rows_ingested,variables_ingested,manual_scope,lineage_status,next_action
+mlml_autovot_manual_training,partial,voiceless_training_directory_enumerated,1,1,9,"manual VOT interval only; exact start/end retained",underlying_recording_lineage_unresolved,"enumerate voiced and voiceless train directories completely; parse every TextGrid VOT tier; retain blob SHAs; determine original corpus/speaker lineage; deduplicate recordings; do not ingest phone/word tiers without manual provenance"
