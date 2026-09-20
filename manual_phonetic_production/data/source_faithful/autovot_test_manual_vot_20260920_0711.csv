@@ -1,0 +1,4 @@
+source_id,source_file,upstream_blob_sha,annotation_tier,original_label,start_s,end_s,duration_s,duration_ms,provenance_note
+AUTOVOT_MANUAL,autovot/bin/test_data_in/cas7D_1054_27_1.TextGrid,964900f8d794ebcc1a8e2e2d85635055aec06d78,vot,vot,0.6900010000000001,0.79,0.099999,99.999,"Manual VOT tier; phones/words tiers not admitted pending independent manual-provenance verification"
+AUTOVOT_MANUAL,autovot/bin/test_data_in/cas7D_1054_27_2.TextGrid,829dfa9e58c0f495d60c9f47679ea7b9cb34e2ab,vot,vot,0.7100010000000001,0.8300000000000001,0.119999,119.999,"Manual VOT tier; phones/words tiers not admitted pending independent manual-provenance verification"
+AUTOVOT_MANUAL,autovot/bin/test_data_in/cas7D_1054_27_3.TextGrid,1328cfae3e2842b806d922e73a972150e8bd5191,vot,vot,0.7200010000000001,0.85,0.129999,129.999,"Manual VOT tier; phones/words tiers not admitted pending independent manual-provenance verification"
