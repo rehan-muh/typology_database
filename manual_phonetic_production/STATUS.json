@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-16T07:10:00-07:00",
+  "last_updated": "2026-09-20T13:09:00-07:00",
   "total_sources": 221,
   "accepted_sources": 53,
   "excluded_sources": 31,
   "review_sources": 137,
   "ingested_sources": 50,
-  "parsed_rows_total": 1363939,
-  "parsed_logical_tables_total": 196,
+  "parsed_rows_total": 1363959,
+  "parsed_logical_tables_total": 197,
   "inventory_file_records": 1220,
   "variable_dictionary_records": 1256,
-  "notes": "Completed both discovery and backlog ingestion. Advanced exact authoritative JSUT manual phonetic/prosodic e2e_symbol/phoneme.yaml coverage continuously from BASIC5000_1311 through BASIC5000_1350 (40 validated source-faithful rows); authoritative blob SHA ae8933677c082c22238a895012b6b6dcba1f6625 retained. Julius automatic timing remains excluded and no IPA/context was invented. Discovery identified Russian Fricatives (Ulrich et al.; SWISSUbase DOI 10.48656/4q9c-gz16) as a high-priority candidate because target-fricative forced-alignment boundaries were all manually inspected and corrected; also revalidated TaL manual short-segment boundaries, RescueSpeech v2 manual annotations, IFCASL >50% manually corrected phone/word segmentation, and L2-ARCTIC's isolatable 3,599-utterance human-annotated subset. Next backlog: JSUT BASIC5000_1351+; inspect/download Russian Fricatives public files and map acoustic variables; inventory TaL manual segment CSVs; inspect SAIT-EMA and SPIRE VCV annotation provenance; RescueSpeech v2; isolate L2-ARCTIC manual subset; harmonize CCOST 234-340; ingest CCOST 341-488; extract CCOST TextGrid tiers; PAVOQUE spike0009+; Chenghai TextGrid/XLSX. All writes confined to manual_phonetic_production/."
+  "notes": "Completed both discovery and backlog ingestion. Advanced exact authoritative JSUT manual phonetic/prosodic e2e_symbol/phoneme.yaml coverage continuously from BASIC5000_1351 through BASIC5000_1370 (20 validated source-faithful rows), preserving upstream blob SHA ae8933677c082c22238a895012b6b6dcba1f6625 and exact original symbols. Julius automatic timing remains excluded; no IPA/context/timing was invented. Fresh discovery identified a 2026 conversational Spanish vowel-reduction study with an isolatable 1,043-vowel manually bounded validation subset (duration/F1/F2/F3) as REVIEW pending a public observation-level deposit; revalidated L2-ARCTIC, VoxAngeles, Russian Fricatives, and MRPL2 backlog boundaries. Next backlog: JSUT BASIC5000_1371+; locate Spanish manual-subset files; parse Tibetan diphthong trajectories; enumerate TaL manual segment CSVs; continue PAVOQUE/Marathi/Chenghai/CCOST/Russian Fricatives. All writes confined to manual_phonetic_production/."
 }
