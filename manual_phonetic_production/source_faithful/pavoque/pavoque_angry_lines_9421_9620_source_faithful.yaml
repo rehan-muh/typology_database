@@ -1,0 +1,139 @@
+# Exact upstream excerpt from marytts/pavoque-data pavoque-angry.yaml lines 9421-9620
+# upstream_blob_sha: bff79d978f740f6c2b09bc595ade03b6bdf33423
+# NOTE: excerpt begins inside m0199 and ends inside m0253; partial boundary records are not independently promoted.
+  - {lab: n, end: 3.029251}
+  - {lab: d, end: 3.070395}
+  - {lab: 'i:', end: 3.177859}
+  - {lab: '?', end: 3.225}
+  - {lab: I, end: 3.29}
+  - {lab: n, end: 3.335}
+  - {lab: '@', end: 3.395}
+  - {lab: n, end: 3.45}
+  - {lab: S, end: 3.557359}
+  - {lab: t, end: 3.615}
+  - {lab: a, end: 3.76}
+  - {lab: t, end: 3.966336}
+  - {lab: _, end: 4.615}
+- prompt: m0200
+  text: Deines Wappens tapfrer Reiter möge Schutz und Schirm dir sein;
+  style: angry
+  start: 968.94
+  end: 974.16
+  segments:
+  - {lab: H#, end: 0.583442}
+  - {lab: d, end: 0.629283}
+  - {lab: aI, end: 0.745}
+  - {lab: n, end: 0.78}
+  - {lab: '@', end: 0.84}
+  - {lab: s, end: 0.95}
+  - {lab: v, end: 1.055}
+  - {lab: a, end: 1.135}
+  - {lab: p, end: 1.237035}
+  - {lab: '@', end: 1.245}
+  - {lab: n, end: 1.34}
+  - {lab: s, end: 1.441408}
+  - {lab: t, end: 1.555}
+  - {lab: a, end: 1.637936}
+  - {lab: pf, end: 1.775}
+  - {lab: R, end: 1.845}
+  - {lab: '6', end: 1.975}
+  - {lab: R, end: 2.05}
+  - {lab: aI, end: 2.215}
+  - {lab: t, end: 2.29}
+  - {lab: '6', end: 2.365}
+  - {lab: m, end: 2.44}
+  - {lab: '2:', end: 2.535}
+  - {lab: g, end: 2.582702}
+  - {lab: '@', end: 2.655}
+  - {lab: S, end: 2.81}
+  - {lab: U, end: 2.895}
+  - {lab: ts, end: 3.035}
+  - {lab: '?', end: 3.05}
+  - {lab: U, end: 3.145}
+  - {lab: n, end: 3.197874}
+  - {lab: t, end: 3.223728}
+  - {lab: S, end: 3.375}
+  - {lab: I, end: 3.453975}
+  - {lab: '6', end: 3.55}
+  - {lab: m, end: 3.62}
+  - {lab: d, end: 3.670979}
+  - {lab: 'i:', end: 3.755}
+  - {lab: '6', end: 3.835}
+  - {lab: z, end: 3.92994}
+  - {lab: aI, end: 4.19}
+  - {lab: n, end: 4.33098}
+  - {lab: _, end: 5.215}
+- prompt: m0251
+  text: Bulletin of Marine Science.
+  style: angry
+  start: 974.16
+  end: 977.78
+  segments:
+  - {lab: H#, end: 0.353097}
+  - {lab: b, end: 0.39}
+  - {lab: U, end: 0.49}
+  - {lab: l, end: 0.545}
+  - {lab: '@', end: 0.67}
+  - {lab: t, end: 0.805}
+  - {lab: 'i:', end: 0.95}
+  - {lab: n, end: 1.04}
+  - {lab: O, end: 1.205}
+  - {lab: f, end: 1.305}
+  - {lab: m, end: 1.36}
+  - {lab: a, end: 1.457251}
+  - {lab: r, end: 1.586858}
+  - {lab: 'i:', end: 1.705}
+  - {lab: n, end: 1.797885}
+  - {lab: s, end: 1.97}
+  - {lab: aI, end: 2.173414}
+  - {lab: '@', end: 2.235}
+  - {lab: n, end: 2.365}
+  - {lab: s, end: 2.641994}
+  - {lab: _, end: 3.615}
+- prompt: m0252
+  text: Derjenige, der die Bongos spielt, heißt bongocero.
+  style: angry
+  start: 977.78
+  end: 982.78
+  segments:
+  - {lab: H#, end: 0.564516}
+  - {lab: d, end: 0.612764}
+  - {lab: 'e:', end: 0.735}
+  - {lab: '6', end: 0.829267}
+  - {lab: j, end: 0.896837}
+  - {lab: 'e:', end: 1.02092}
+  - {lab: n, end: 1.065}
+  - {lab: I, end: 1.13}
+  - {lab: g, end: 1.200078}
+  - {lab: '@', end: 1.275}
+  - {lab: d, end: 1.323414}
+  - {lab: E, end: 1.388869}
+  - {lab: '6', end: 1.416511}
+  - {lab: d, end: 1.471222}
+  - {lab: 'i:', end: 1.56}
+  - {lab: b, end: 1.66}
+  - {lab: O, end: 1.769717}
+  - {lab: N, end: 1.86}
+  - {lab: g, end: 1.903876}
+  - {lab: 'o:', end: 2.051668}
+  - {lab: z, end: 2.095}
+  - {lab: S, end: 2.215}
+  - {lab: p, end: 2.273884}
+  - {lab: 'i:', end: 2.405489}
+  - {lab: l, end: 2.47}
+  - {lab: t, end: 2.533281}
+  - {lab: h, end: 2.62}
+  - {lab: aI, end: 2.735}
+  - {lab: s, end: 2.821351}
+  - {lab: t, end: 2.870493}
+  - {lab: b, end: 2.94538}
+  - {lab: O, end: 3.045}
+  - {lab: N, end: 3.105}
+  - {lab: g, end: 3.155834}
+  - {lab: 'o:', end: 3.265}
+  - {lab: s, end: 3.41}
+  - {lab: 'e:', end: 3.562163}
+  - {lab: r, end: 3.630961}
+  - {lab: 'o:', end: 3.837971}
+  - {lab: _, end: 4.995}
+# m0253 continues in upstream lines 9527 onward; retained in next exact chunk to avoid representing an incomplete record as complete.
