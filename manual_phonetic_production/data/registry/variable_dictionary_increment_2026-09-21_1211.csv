@@ -1,0 +1,9 @@
+source_id,file_table,original_variable,standardized_variable,variable_domain,description_meaning,units,datatype,coding_levels,missing_value_conventions,measurement_annotation_method,time_reference_window,anatomical_acoustic_target,provenance,notes
+PAVOQUE_2009,YAML,prompt,source_utterance_id,identifier,Prompt code/file basename,,string,,,author metadata,utterance,,source YAML,"Namespaced as PAVOQUE_2009::prompt in harmonized layer"
+PAVOQUE_2009,YAML,text,text_original,stimulus,Orthographic utterance text,,string,,,author metadata,utterance,,source YAML,"Preserve verbatim"
+PAVOQUE_2009,YAML,style,style,condition,Expressive speaking style,,categorical,"neutral; happy; sad; angry; poker; outtakes",,author metadata,utterance,,source YAML,
+PAVOQUE_2009,YAML,start,utterance_start_s,temporal,Utterance start time in source audio,s,numeric,,,author interval annotation,source audio time,,source YAML,
+PAVOQUE_2009,YAML,end,utterance_end_s,temporal,Utterance end time in source audio,s,numeric,,,author interval annotation,source audio time,,source YAML,
+PAVOQUE_2009,YAML,segments.lab,segment_label_original,segment_annotation,Manually corrected phonetic segment label in German SAMPA-like labeling,,string,"SAMPA; _ silence; H# and other source symbols retained",,manually corrected phonetic segmentation,segment,,source YAML,"No IPA invented"
+PAVOQUE_2009,YAML,segments.end,segment_end_relative_s,temporal,Segment end time relative to utterance start,s,numeric,,,manually corrected phonetic segmentation,relative to utterance start,,source YAML,"Do not overwrite with absolute time; absolute derived value may be added separately"
+PAVOQUE_2009,YAML,segment_index,segment_index,identifier,Order of segment within utterance,,integer,,,derived solely from source list order,utterance,,source YAML,"Lossless positional index; source list order preserved"
