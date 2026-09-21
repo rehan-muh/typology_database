@@ -1,0 +1,4 @@
+source_id,source_file,source_blob_sha,source_recording_id,tier,interval_index,xmin_s,xmax_s,original_label,normalized_label,annotation_status,provenance
+AUSPEECH_YANG2024,Example/speaker00042_F_s1_stn00021.TextGrid,e7e5e0178e49f0b2ee79e0667d11177136a83bfd,speaker00042_F_s1_stn00021,words,1,0.0,0.79,"","",human_verified_layer,"upstream TextGrid; normal-speaker alignments MFA then manually labeling-checked per README"
+AUSPEECH_YANG2024,Example/speaker00042_F_s1_stn00021.TextGrid,e7e5e0178e49f0b2ee79e0667d11177136a83bfd,speaker00042_F_s1_stn00021,words,2,0.79,0.8,yu1,"",human_verified_layer,"original source label retained; no IPA invented"
+AUSPEECH_YANG2024,Example/speaker00042_F_s1_stn00021.TextGrid,e7e5e0178e49f0b2ee79e0667d11177136a83bfd,speaker00042_F_s1_stn00021,words,3,0.8,2.51806,"","",human_verified_layer,"upstream TextGrid; normal-speaker alignments MFA then manually labeling-checked per README"
