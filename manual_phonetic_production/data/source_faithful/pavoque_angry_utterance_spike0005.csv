@@ -1,0 +1,2 @@
+source_id,prompt,text,style,start_s,end_s,source_file,source_blob_sha,annotation_provenance
+pavoque,spike0005,"Ich habe rote Haare und ein feuriges Temperament.",angry,15.72,20.16,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,manually_corrected_phonetic_segmentation
