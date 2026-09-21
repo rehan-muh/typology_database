@@ -1,0 +1,6 @@
+source_id,file_path,file_type,size_bytes,checksum_type,checksum,ingestion_status,redistribution_status,notes
+AUSPEECH_YANG2024,README.md,md,1503,git_blob_sha,aab9c857c03ed3883e0668cf6170850475d1378b,processed,public,"manual-verification provenance"
+AUSPEECH_YANG2024,Example/speaker00042_F_s1_stn00021.TextGrid,TextGrid,412,git_blob_sha,e7e5e0178e49f0b2ee79e0667d11177136a83bfd,processed,public,"1 words IntervalTier; 3 intervals; exact boundaries preserved"
+AUSPEECH_YANG2024,Example/speaker00042_F_s1_stn00021.lab,lab,8,git_blob_sha,7b12d35f188b96c6a4fcd3b0c65f84032b10d572,pending_parse,public,"paired text annotation"
+AUSPEECH_YANG2024,Example/speaker00042_F_s1_stn00021.wav,wav,80622,git_blob_sha,c3b857017e388c0e973c15462933902d5e0055e3,referenced_not_copied,public,"raw audio not copied to database"
+AUSPEECH_YANG2024,Example/speaker00042_F_s1_stn00021.dcm,dcm,99820856,git_blob_sha,acf523586772ce270fe7d9c6070b8a37bbb9e22a,referenced_not_copied,public,"ultrasound DICOM not copied to database"
