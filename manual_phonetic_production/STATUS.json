@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-21T12:11:00-07:00",
-  "total_sources": 234,
+  "last_updated": "2026-09-21T13:08:00-07:00",
+  "total_sources": 235,
   "accepted_sources": 59,
   "excluded_sources": 32,
-  "review_sources": 143,
+  "review_sources": 144,
   "ingested_sources": 50,
-  "parsed_rows_total": 1364313,
-  "parsed_logical_tables_total": 208,
+  "parsed_rows_total": 1364370,
+  "parsed_logical_tables_total": 210,
   "inventory_file_records": 1244,
   "variable_dictionary_records": 1269,
-  "notes": "Discovery plus backlog ingestion. Added PAVOQUE Corpus of Expressive Speech as ACCEPTED: primary German non-singing expressive speech with repository-documented manually corrected phonetic segments. Inventoried six public YAML annotation files with immutable Git blob SHAs. Parsed first two angry utterances source-faithfully (2 utterance rows + 41 segment rows = 43), preserving original orthography, style, source timing, list order, and SAMPA-like labels without invented IPA; next cursor spike0003. Outtakes remain lineage-sensitive pending duplicate/failed-take audit. Audio remains release-referenced rather than mirrored. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery plus backlog ingestion. Continued accepted PAVOQUE source: parsed spike0003 source-faithfully as one utterance plus all 56 manually corrected phonetic segment observations from pavoque-angry.yaml, preserving source orthography, SAMPA-like labels, utterance times, relative segment endpoints, and derived starts without IPA invention; next cursor spike0004. Added Code-Switching Speech Corpus (Zenodo 4434251) to REVIEW because its source SWC recordings are documented as manually annotated at word/segment level but the deposit is a secondary resegmented subset and new isolatable manual annotation has not yet been established. All writes confined to manual_phonetic_production/."
 }
