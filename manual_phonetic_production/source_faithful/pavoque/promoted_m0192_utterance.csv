@@ -1,0 +1,2 @@
+source_id,source_utterance_id,text_original,style,start_s,end_s,duration_s,source_file,source_blob_sha,source_lines
+pavoque,pavoque::m0192,"Die Bauweise ist vom Boden abhängig.",angry,922.8,926.46,3.66,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,"mirrored lines 8921-9020"
