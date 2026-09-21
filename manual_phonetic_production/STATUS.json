@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-20T23:13:00-07:00",
+  "last_updated": "2026-09-21T02:08:00-07:00",
   "total_sources": 223,
   "accepted_sources": 53,
   "excluded_sources": 32,
   "review_sources": 138,
   "ingested_sources": 50,
-  "parsed_rows_total": 1364147,
-  "parsed_logical_tables_total": 202,
+  "parsed_rows_total": 1364267,
+  "parsed_logical_tables_total": 205,
   "inventory_file_records": 1220,
   "variable_dictionary_records": 1256,
-  "notes": "Completed discovery and backlog ingestion. Added 40 source-faithful JSUT manual phonetic/prosodic symbol-sequence rows for BASIC5000_1481-1520 from immutable upstream blob ae8933677c082c22238a895012b6b6dcba1f6625; no IPA/timing/context invented and Julius automatic timing remains excluded. Fresh discovery screened Zenodo/OSF/GitHub candidates; inhaler/ECG/non-speech segmentation hits were excluded from consideration, and InCroMin was not promoted because manual correction currently established is transcript/translation plus limited diarization rather than a qualifying manual phonetic layer. Next contiguous JSUT cursor BASIC5000_1521. All writes confined to manual_phonetic_production/."
+  "notes": "Completed discovery and backlog ingestion/state reconciliation. Recursive source-faithful audit found three already-preserved but not yet reflected JSUT manual phonetic/prosodic files: BASIC5000_1521-1560, 1561-1600, and 1601-1640 (120 qualifying rows total), all from authoritative e2e_symbol/phoneme.yaml upstream blob ae8933677c082c22238a895012b6b6dcba1f6625. Existing source-faithful rows were not duplicated or rewritten; automatic Julius timing remains excluded and no IPA/context was inferred. Next contiguous JSUT cursor BASIC5000_1641. Fresh discovery re-screened IFCASL, CORPRES, Hiemstra & Sadakata, Russian Fricatives, and COVYT with conservative review/exclusion decisions. All writes confined to manual_phonetic_production/."
 }
