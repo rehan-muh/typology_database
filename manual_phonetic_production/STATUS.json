@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-21T06:13:00-07:00",
-  "total_sources": 228,
+  "last_updated": "2026-09-21T07:09:00-07:00",
+  "total_sources": 229,
   "accepted_sources": 55,
   "excluded_sources": 32,
-  "review_sources": 141,
+  "review_sources": 142,
   "ingested_sources": 50,
   "parsed_rows_total": 1364267,
   "parsed_logical_tables_total": 205,
   "inventory_file_records": 1226,
   "variable_dictionary_records": 1256,
-  "notes": "Discovery plus backlog audit. Added MRPL2 (Zenodo 20365865) to REVIEW: 4,500 primary non-native English utterances from 23 speakers/14 L1s, manually annotated phonetic mispronunciations with TextGrids and expected/ground-truth phoneme master files, but payloads are currently restricted so no observations were counted. Added RescueSpeech v2 (Zenodo 8077622) to REVIEW: primary German SAR speech described as manually annotated, but phonetic/prosodic annotation granularity must be verified before admission. Rechecked high-priority IFCASL and Parker/VoxAngeles backlog; no unverified automatic material or inaccessible payload was counted as parsed. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery plus backlog audit. Added GIRAFE to REVIEW: 65 primary high-speed videoendoscopic voice-production recordings from 50 patients, all reported manually annotated by an expert with semantic glottal-gap masks; automatic segmentation outputs remain excluded and license/payload/redistribution details must be audited before core admission. Rechecked IFCASL, L2-ARCTIC and CORPRES manual subsets without fabricating inaccessible observation rows. No parsed observation totals changed. All writes confined to manual_phonetic_production/."
 }
