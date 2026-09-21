@@ -1,0 +1,3 @@
+source_id,file_or_object,upstream_checksum,status,rows_or_objects,variables_or_tiers,notes
+APHASIABD_2026,Zenodo record 21863777,DOI:10.5281/zenodo.21863777,processed,1,"dataset metadata; participant count; task types; annotation method","Primary Bengali clinical speech; 38 patients; manual sentence-level segmentation verified from authoritative deposit."
+APHASIABD_2026,Patient Data.zip,md5:c2b0b71f5599d0c2a0f64bd03ed9dcb0,pending_parse,"335 segmented audio clips reported",unknown,"194.3 MB public archive. Enumerate every member, preserve paths/checksums, recover any labels/metadata/annotation sidecars, and namespace participant/recording IDs. Do not mirror raw audio into GitHub."
