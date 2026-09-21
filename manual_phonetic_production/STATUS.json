@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-21T02:08:00-07:00",
-  "total_sources": 223,
+  "last_updated": "2026-09-21T03:07:00-07:00",
+  "total_sources": 224,
   "accepted_sources": 53,
   "excluded_sources": 32,
-  "review_sources": 138,
+  "review_sources": 139,
   "ingested_sources": 50,
   "parsed_rows_total": 1364267,
   "parsed_logical_tables_total": 205,
   "inventory_file_records": 1220,
   "variable_dictionary_records": 1256,
-  "notes": "Completed discovery and backlog ingestion/state reconciliation. Recursive source-faithful audit found three already-preserved but not yet reflected JSUT manual phonetic/prosodic files: BASIC5000_1521-1560, 1561-1600, and 1601-1640 (120 qualifying rows total), all from authoritative e2e_symbol/phoneme.yaml upstream blob ae8933677c082c22238a895012b6b6dcba1f6625. Existing source-faithful rows were not duplicated or rewritten; automatic Julius timing remains excluded and no IPA/context was inferred. Next contiguous JSUT cursor BASIC5000_1641. Fresh discovery re-screened IFCASL, CORPRES, Hiemstra & Sadakata, Russian Fricatives, and COVYT with conservative review/exclusion decisions. All writes confined to manual_phonetic_production/."
+  "notes": "Completed fresh discovery plus backlog/cursor audit. Added Friedrichs et al. 2026 multimodal German EMA+EEG+audio+anatomy dataset to REVIEW: 29 primary speakers, ~17 h EMA, 8,700 DDK trials, native-rate 1250-Hz EMA trajectories, matched audio, TextGrids, pharyngometry/rhinometry, anthropometry and machine-readable task/session metadata are publicly documented under CC-BY 4.0, but inspected documentation did not explicitly establish that TextGrid cue/response landmarks were manually created/corrected, so no core observations were admitted. Rechecked JSUT continuation from BASIC5000_1641; no authoritative manual-symbol continuation was located this run, so derivative/automatic mirrors were not ingested. Existing cursor and parsed counts remain unchanged. All writes confined to manual_phonetic_production/."
 }
