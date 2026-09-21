@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-21T08:10:00-07:00",
-  "total_sources": 230,
+  "last_updated": "2026-09-21T09:10:00-07:00",
+  "total_sources": 231,
   "accepted_sources": 56,
   "excluded_sources": 32,
-  "review_sources": 142,
+  "review_sources": 143,
   "ingested_sources": 50,
   "parsed_rows_total": 1364267,
   "parsed_logical_tables_total": 205,
   "inventory_file_records": 1232,
   "variable_dictionary_records": 1256,
-  "notes": "Discovery plus backlog ingestion. Added VOT Analysis of Marathi as ACCEPTED: primary Marathi recordings from 6 reported native speakers and a 36-word stimulus list, manually annotated in Praat for stop burst and voicing onset. Enumerated repository payloads and immutable Git SHAs; inspected F1 TextGrid (word and phonemes tiers, 73 intervals each); queued remaining TextGrids, Male vot.xlsx and stimulus PDF for complete source-faithful parsing. Raw audio remains upstream-referenced. Fresh discovery also screened SAIT-EMA, BAS manual corpora, L2-ARCTIC/IFCASL/CORPRES and excluded singing hits; no uncertain observation rows were fabricated. Parsed observation totals unchanged pending complete file parsing. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery plus backlog ingestion. Added ROG spoken Slovenian corpus to REVIEW because it contributes new manual prosodic/disfluency/dialogue-act annotation over pre-existing SST/GOS 2 recordings; only the isolatable new annotation layer is potentially admissible. Continued accepted VOT Marathi audit: verified upstream tree/blob identities and inspected F2_mono.TextGrid (83.137833 s; word tier 73 intervals with 36 labeled lexical productions; phonemes tier 90 intervals), preserving exact source labels/times and making no inferred IPA normalization. Male vot.xlsx and remaining TextGrids remain pending complete parsing. No uncertain rows counted; no raw audio copied. All writes confined to manual_phonetic_production/."
 }
