@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-21T10:08:00-07:00",
-  "total_sources": 232,
-  "accepted_sources": 57,
+  "last_updated": "2026-09-21T11:11:00-07:00",
+  "total_sources": 233,
+  "accepted_sources": 58,
   "excluded_sources": 32,
   "review_sources": 143,
   "ingested_sources": 50,
   "parsed_rows_total": 1364270,
   "parsed_logical_tables_total": 206,
-  "inventory_file_records": 1237,
+  "inventory_file_records": 1238,
   "variable_dictionary_records": 1261,
-  "notes": "Discovery plus backlog ingestion. Added AUSpeech (Mandarin synchronized audio-ultrasound production; 54 participants, including 11 with dysarthria) as ACCEPTED because normal-speaker MFA alignments were followed by manual labeling checks for verification and patient pronunciation labeling was manual. Inventoried all four public example payloads plus README with immutable Git blob SHAs; parsed the public example TextGrid source-faithfully into 3 exact intervals, preserving yu1 without invented IPA. WAV/DCM referenced but not copied. Full ~700 GB dataset location/license and full annotation inventory remain backlog priorities. No unverified automatic intermediates admitted. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery plus backlog ingestion. Added AphasiaBD (Bengali clinical speech; 38 post-stroke patients; 335 clips) as ACCEPTED because the authoritative Zenodo record explicitly states recordings were manually segmented at sentence level. Registered the 194.3 MB Patient Data.zip with authoritative MD5 and pending archive/member parsing; raw audio not mirrored. Backlog work also reconciled the previously inspected Marathi VOT F2_mono.TextGrid into ingestion status: 83.138 s, 73 word-tier intervals with 36 labeled lexical productions, and 90 phoneme-tier intervals; exact source labels retained without invented IPA. AUSpeech processing notebook audited and confirms explicit handling of audio, LAB, TextGrid, and DICOM modalities. No unverified automatic data admitted. All writes confined to manual_phonetic_production/."
 }
