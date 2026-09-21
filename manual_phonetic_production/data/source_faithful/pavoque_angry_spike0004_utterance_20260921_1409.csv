@@ -1,0 +1,2 @@
+source_id,source_file,source_blob_sha,prompt,text,style,start_s,end_s,duration_s,annotation_status
+PAVOQUE_ROETTIG2009,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0004,"Na dann werde ich mich mal vorstellen.",angry,11.94,15.72,3.78,manually_corrected_phonetic_segments
