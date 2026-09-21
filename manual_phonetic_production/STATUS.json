@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-20T16:10:00-07:00",
-  "total_sources": 221,
+  "last_updated": "2026-09-20T20:11:00-07:00",
+  "total_sources": 223,
   "accepted_sources": 53,
-  "excluded_sources": 31,
-  "review_sources": 137,
+  "excluded_sources": 32,
+  "review_sources": 138,
   "ingested_sources": 50,
-  "parsed_rows_total": 1364017,
-  "parsed_logical_tables_total": 198,
+  "parsed_rows_total": 1364042,
+  "parsed_logical_tables_total": 199,
   "inventory_file_records": 1220,
   "variable_dictionary_records": 1256,
-  "notes": "Completed both discovery and backlog ingestion. Added 58 source-faithful PAVOQUE manually corrected angry-style segment rows for spike0006-0008 (33/18/7), preserving original labels, prompts, utterance times, supplied relative endpoints, reconstructed starts, absolute times, and upstream blob SHA bff79d978f740f6c2b09bc595ade03b6bdf33423; no IPA/context invented. Fresh screening excluded PodcastFillers under the third-party-media rule and singing datasets under the non-singing rule; Code-Switching Speech Corpus remains review/likely secondary reuse pending proof of a new isolatable manual layer; MRPL2 remains restricted. Next PAVOQUE cursor spike0009; other priorities: Tibetan trajectories, TaL manual CSVs, JSUT BASIC5000_1371+, Marathi/Chenghai/CCOST/Russian Fricatives, and Spanish 1,043-vowel manual validation subset. All writes confined to manual_phonetic_production/."
+  "notes": "Completed both discovery and backlog ingestion. Added 25 source-faithful JSUT manual phonetic/prosodic symbol-sequence rows for BASIC5000_1371-1395 from immutable upstream blob ae8933677c082c22238a895012b6b6dcba1f6625; no IPA/timing/context invented. Fresh discovery added CORPRES (40% of 60 h manually segmented and fully annotated on six phonetic/prosodic levels) and Hiemstra & Sadakata 2024 manually segmented spoken word/phoneme/vowel TextGrids to REVIEW pending public observation-level deposits; excluded Jingju a Cappella under the non-singing rule; reaffirmed L2-ARCTIC manual subset backlog. Next JSUT cursor BASIC5000_1396. All writes confined to manual_phonetic_production/."
 }
