@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-21T11:11:00-07:00",
-  "total_sources": 233,
-  "accepted_sources": 58,
+  "last_updated": "2026-09-21T12:11:00-07:00",
+  "total_sources": 234,
+  "accepted_sources": 59,
   "excluded_sources": 32,
   "review_sources": 143,
   "ingested_sources": 50,
-  "parsed_rows_total": 1364270,
-  "parsed_logical_tables_total": 206,
-  "inventory_file_records": 1238,
-  "variable_dictionary_records": 1261,
-  "notes": "Discovery plus backlog ingestion. Added AphasiaBD (Bengali clinical speech; 38 post-stroke patients; 335 clips) as ACCEPTED because the authoritative Zenodo record explicitly states recordings were manually segmented at sentence level. Registered the 194.3 MB Patient Data.zip with authoritative MD5 and pending archive/member parsing; raw audio not mirrored. Backlog work also reconciled the previously inspected Marathi VOT F2_mono.TextGrid into ingestion status: 83.138 s, 73 word-tier intervals with 36 labeled lexical productions, and 90 phoneme-tier intervals; exact source labels retained without invented IPA. AUSpeech processing notebook audited and confirms explicit handling of audio, LAB, TextGrid, and DICOM modalities. No unverified automatic data admitted. All writes confined to manual_phonetic_production/."
+  "parsed_rows_total": 1364313,
+  "parsed_logical_tables_total": 208,
+  "inventory_file_records": 1244,
+  "variable_dictionary_records": 1269,
+  "notes": "Discovery plus backlog ingestion. Added PAVOQUE Corpus of Expressive Speech as ACCEPTED: primary German non-singing expressive speech with repository-documented manually corrected phonetic segments. Inventoried six public YAML annotation files with immutable Git blob SHAs. Parsed first two angry utterances source-faithfully (2 utterance rows + 41 segment rows = 43), preserving original orthography, style, source timing, list order, and SAMPA-like labels without invented IPA; next cursor spike0003. Outtakes remain lineage-sensitive pending duplicate/failed-take audit. Audio remains release-referenced rather than mirrored. All writes confined to manual_phonetic_production/."
 }
