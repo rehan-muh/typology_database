@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-21T13:08:00-07:00",
-  "total_sources": 235,
+  "last_updated": "2026-09-21T14:09:00-07:00",
+  "total_sources": 236,
   "accepted_sources": 59,
   "excluded_sources": 32,
-  "review_sources": 144,
+  "review_sources": 145,
   "ingested_sources": 50,
-  "parsed_rows_total": 1364370,
-  "parsed_logical_tables_total": 210,
+  "parsed_rows_total": 1364401,
+  "parsed_logical_tables_total": 212,
   "inventory_file_records": 1244,
   "variable_dictionary_records": 1269,
-  "notes": "Discovery plus backlog ingestion. Continued accepted PAVOQUE source: parsed spike0003 source-faithfully as one utterance plus all 56 manually corrected phonetic segment observations from pavoque-angry.yaml, preserving source orthography, SAMPA-like labels, utterance times, relative segment endpoints, and derived starts without IPA invention; next cursor spike0004. Added Code-Switching Speech Corpus (Zenodo 4434251) to REVIEW because its source SWC recordings are documented as manually annotated at word/segment level but the deposit is a secondary resegmented subset and new isolatable manual annotation has not yet been established. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery plus backlog ingestion. Continued accepted PAVOQUE source: parsed spike0004 source-faithfully as one utterance plus all 30 manually corrected phonetic segment observations from immutable pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423, preserving source orthography, style, original SAMPA-like labels, relative endpoints, and derived absolute starts/ends without IPA invention; next cursor spike0005. Added PxCorpus (Zenodo 10080490) to REVIEW: primary French spoken-prescription production with human-verified/manual transcripts and semantic annotations, but phonetic timing/measurement manual provenance is not yet established. All writes confined to manual_phonetic_production/."
 }
