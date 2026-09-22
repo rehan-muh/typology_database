@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-21T19:08:02-07:00",
-  "total_sources": 239,
-  "accepted_sources": 59,
+  "last_updated": "2026-09-21T20:12:01-07:00",
+  "total_sources": 240,
+  "accepted_sources": 60,
   "excluded_sources": 32,
   "review_sources": 148,
   "ingested_sources": 50,
   "parsed_rows_total": 1364617,
   "parsed_logical_tables_total": 222,
-  "inventory_file_records": 1244,
-  "variable_dictionary_records": 1269,
-  "notes": "Discovery plus backlog ingestion. Advanced accepted PAVOQUE source-faithfully with m0195 and m0196: 2 utterances plus all 59 manually corrected phonetic/silence intervals from immutable pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Preserved original orthography, style, labels and source-relative endpoints; derived starts/durations/absolute timestamps are separate and normalized_ipa remains blank. Discovery added Jaeger et al. 2026 audiovisual unscripted German monologues to REVIEW: >300 min, 6 speakers, 60 takes, with manually corrected transcription and forced-alignment improvement, but file-level human-correction lineage must be confirmed before core admission. All writes confined to manual_phonetic_production/."
+  "inventory_file_records": 1247,
+  "variable_dictionary_records": 1272,
+  "notes": "Discovery plus source-level ingestion. Accepted RVD_MOCHATIMIT_ZHANG2024 only for its isolatable new manual correction layer over inherited Mocha-TIMIT: upstream README explicitly states inaccurate labels were identified and specific utterances manually corrected. Inventoried README, qualifying file list, and manually_corrected_subset Git tree; added source-faithful manifest and 3-row variable dictionary. The corrected observations are binary NPY arrays and were not counted as parsed scientific rows because array coding/frame timing has not yet been decoded; no inherited Mocha-TIMIT labels were admitted. Backlog audit confirmed L2-ARCTIC v5 manual layer remains package/form-gated and JSUT manual timing remains excluded. All writes confined to manual_phonetic_production/."
 }
