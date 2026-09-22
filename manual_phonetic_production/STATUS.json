@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-22T13:12:56-07:00",
-  "total_sources": 250,
-  "accepted_sources": 63,
+  "last_updated": "2026-09-22T14:11:40-07:00",
+  "total_sources": 251,
+  "accepted_sources": 64,
   "excluded_sources": 35,
   "review_sources": 152,
   "ingested_sources": 50,
-  "parsed_rows_total": 1364849,
-  "parsed_logical_tables_total": 238,
-  "inventory_file_records": 1259,
-  "variable_dictionary_records": 1286,
-  "notes": "Discovery plus backlog ingestion. Parsed two additional PAVOQUE angry utterances (spike0013-spike0014) from the authoritative upstream manually corrected YAML: 2 utterance rows plus all 55 segment rows, preserving original labels/endpoints and separately deriving starts, durations, and absolute times; both source utterances retain the 5 ms terminal residual and normalized IPA remains blank rather than inferred. Added ARTUR Slovenian corpus to review based on published evidence for 880 h of manually checked/created transcripts; core admission deferred pending recording-lineage isolation and public repository audit. All writes confined to manual_phonetic_production/."
+  "parsed_rows_total": 1364874,
+  "parsed_logical_tables_total": 239,
+  "inventory_file_records": 1267,
+  "variable_dictionary_records": 1297,
+  "notes": "Discovery plus backlog ingestion. Accepted CCOST (Chulalongkorn Corpus of Spoken Thai), a primary Standard Thai corpus of ~12 h from 49 speakers with explicit force-alignment correction/transcription manual and deposited wav+TextGrid annotations. Manifested all 8 Zenodo objects/checksums, added 11 source-level variable dictionary entries, and ingested all 25 sentence-reading stimuli verbatim as a source-faithful table. The 6.2 GB audio/TextGrid archive, 206-item word list, and recording-level metadata remain queued for deeper parse. No IPA, timing, or annotation values were inferred. All writes confined to manual_phonetic_production/."
 }
