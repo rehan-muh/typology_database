@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-21T23:10:32-07:00",
-  "total_sources": 240,
+  "last_updated": "2026-09-22T00:09:36-07:00",
+  "total_sources": 241,
   "accepted_sources": 60,
-  "excluded_sources": 32,
+  "excluded_sources": 33,
   "review_sources": 148,
   "ingested_sources": 50,
   "parsed_rows_total": 1364678,
   "parsed_logical_tables_total": 228,
   "inventory_file_records": 1247,
   "variable_dictionary_records": 1272,
-  "notes": "Discovery plus backlog ingestion. Continued accepted PAVOQUE with spike0008: 1 utterance and all 7 manually corrected segment/silence observations from immutable pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Preserved original labels/endpoints; derived starts/durations/absolute timestamps are separate; retained the source 5 ms terminal residual and did not invent IPA. Fresh discovery re-screened IFCASL, HAMATAC, L2-ARCTIC, GRAIN, ARTUR and other repository results. IFCASL has a particularly strong manual layer (>50% manually corrected; Real tier manually corrected phones/boundaries) but public observation-level distribution still requires isolation before core promotion. HAMATAC is restricted access and its demonstrated manual phonetic-phenomena annotation is not yet available for observation-level ingestion. Singing resources remain excluded. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery plus backlog audit. Fresh discovery screened COVYT (Zenodo 6962930): although it supplies manual segmentation/diarisation and a 330.4 MB release archive, its underlying speech was mined from public YouTube/Xiaohongshu, so it is explicitly excluded as a third-party media collection and no observations were ingested. PAVOQUE backlog was revalidated against immutable pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423; spike0008 remains the last committed contiguous angry-style unit and spike0009 is next. No speculative extraction was committed where the connector response truncated the source YAML. All writes confined to manual_phonetic_production/."
 }
