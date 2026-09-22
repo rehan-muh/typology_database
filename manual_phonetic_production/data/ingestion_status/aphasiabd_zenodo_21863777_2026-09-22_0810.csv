@@ -1,0 +1,2 @@
+source_id,repository_file,status,files_total_known,files_processed,files_pending,speakers,recordings_or_clips,utterances_or_trials,tokens_or_segments,measurement_rows,variables_discovered,checksum,notes
+aphasiabd_zenodo_21863777,Patient Data.zip,pending_archive_enumeration,1,0,1,38,335,335,,,0,md5:c2b0b71f5599d0c2a0f64bd03ed9dcb0,"Zenodo v1 public archive, 194.3 MB. Sentence-level manual segmentation established. Download/archive enumeration and source-faithful extraction pending; no observation rows counted until internal files and schemas are verified."
