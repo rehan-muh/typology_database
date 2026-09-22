@@ -1,0 +1,17 @@
+source_id,prompt,segment_index,original_label,relative_start_s,relative_end_s,duration_s,absolute_start_s,absolute_end_s,normalized_ipa,source_file,source_blob_sha
+PAVOQUE,spike0009,1,H#,0,0.66,0.66,28.92,29.58,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0009,2,?,0.66,0.695,0.035,29.58,29.615,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0009,3,E,0.695,0.733213,0.038213,29.615,29.653213,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0009,4,6,0.733213,0.770372,0.037159,29.653213,29.690372,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0009,5,ts,0.770372,0.897462,0.12709,29.690372,29.817462,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0009,6,E:,0.897462,0.966709,0.069247,29.817462,29.886709,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0009,7,l,0.966709,1.002205,0.035496,29.886709,29.922205,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0009,8,m,1.002205,1.063768,0.061563,29.922205,29.983768,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0009,9,i:,1.063768,1.119231,0.055463,29.983768,30.039231,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0009,10,6,1.119231,1.142525,0.023294,30.039231,30.062525,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0009,11,d,1.142525,1.181619,0.039094,30.062525,30.101619,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0009,12,a:,1.181619,1.275634,0.094015,30.101619,30.195634,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0009,13,f,1.275634,1.375,0.099366,30.195634,30.295,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0009,14,O,1.375,1.48,0.105,30.295,30.4,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0009,15,n,1.48,1.608409,0.128409,30.4,30.528409,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0009,16,_,1.608409,2.515,0.906591,30.528409,31.435,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
