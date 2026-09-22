@@ -1,0 +1,20 @@
+source_id: ifcasl_2016
+status: review
+title: The IFCASL Corpus of French and German Non-native and Native Read Speech
+publication_year: 2016
+publication_url: https://aclanthology.org/L16-1212/
+domains: [second-language phonetics, laboratory phonology, speech production]
+languages: [French, German]
+speakers_reported: approximately 100
+production_type: read speech
+primary_data: true
+manual_annotation_evidence: "Word- and phone-level annotations/segmentations; paper reports more than 50% manually corrected data and inter-annotator agreement."
+inclusion_assessment: "Potentially qualifying human-corrected primary production data, but core admission withheld until public downloadable members and manual-vs-automatic annotation lineage can be isolated file-by-file."
+lineage_risk: "Mixed manually corrected and automatic forced-alignment material; do not ingest unverified automatic subset."
+next_actions:
+  - locate authoritative public corpus deposit/download
+  - inventory all members and licenses
+  - isolate manually corrected subset using corpus metadata
+  - ingest word/phone intervals only where correction status is explicit
+  - preserve automatic-only material outside core
+provenance_checked: 2026-09-21T18:10:34-07:00
