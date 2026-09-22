@@ -1,0 +1,4 @@
+source_id,path,file_type,git_sha,size_bytes,processing_status,provenance,notes
+RVD_MOCHATIMIT_ZHANG2024,"corrected_labels/Mocha TIMIT/README.md",md,0982ca42a9f8dbe3a42105823f4b8b8757981b10,418,processed,upstream Git blob,"Manual-correction lineage statement"
+RVD_MOCHATIMIT_ZHANG2024,"corrected_labels/Mocha TIMIT/filelist.lst",lst,4f2a220292cf5be024354a659daa26ad84a95012,37894,pending_parse,upstream Git blob,"Qualifying sample filenames after low-quality laryngograph removal"
+RVD_MOCHATIMIT_ZHANG2024,"corrected_labels/Mocha TIMIT/manually_corrected_subset/",npy_collection,62b8305d24ad7ff81b76f50e8aefd65c7eb84a11,,inventoried_pending_binary_parse,upstream Git tree,"Each member is an isolatable manually corrected voicing-label array; preserve per-file Git blob SHA. First verified member ffes0_267_voicing.npy SHA 63b732dc6ad180c31423d821b5b75b20a69a8416 size 3720 bytes."
