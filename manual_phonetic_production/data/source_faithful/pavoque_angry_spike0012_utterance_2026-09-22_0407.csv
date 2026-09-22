@@ -1,0 +1,2 @@
+source_id,prompt,text,style,start_s,end_s,duration_s,annotation_method,source_blob_sha,terminal_segment_end_relative_s,terminal_residual_s
+PAVOQUE,spike0012,"Entschuldigung, sag das nochmal.",angry,39.360000,42.780000,3.420000,manually corrected phonetic segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,3.415000,0.005000
