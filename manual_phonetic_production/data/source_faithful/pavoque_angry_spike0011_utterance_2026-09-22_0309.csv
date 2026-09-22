@@ -1,0 +1,2 @@
+source_id,prompt,text,style,start_s,end_s,duration_s,annotation_method,source_blob_sha,terminal_segment_end_relative_s,terminal_residual_s
+PAVOQUE,spike0011,"Ich bin Spike, welches Problem hast du?",angry,35.520000,39.360000,3.840000,manually corrected phonetic segmentation,bff79d978f740f6c2b09bc595ade03b6bdf33423,3.835000,0.005000
