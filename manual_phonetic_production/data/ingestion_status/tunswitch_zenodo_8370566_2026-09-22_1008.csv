@@ -1,0 +1,8 @@
+source_id,file_name,size_bytes_or_reported,md5,component,eligibility,processed_status,notes
+zenodo_8370566,language_annotation.zip,312.1 kB,8db46856ae8ac1489e8752dc84a70bf4,TunSwitch CS annotations,excluded_from_core,pending_archive_enumeration,"Manual language-detailed annotation, but CS audio is sourced from radio shows/podcasts; retain provenance only unless new primary layer identified."
+zenodo_8370566,paper.pdf,180.4 kB,d02f41b1a1a20e50ab91e9974675e444,documentation,metadata_only,manifested,"Paper/documentation."
+zenodo_8370566,readme.txt,1.4 kB,dccdd3dacfbdf501dcd0bad5cd95aeb1,documentation,metadata_only,manifested,"Repository readme."
+zenodo_8370566,test_wavs.zip,284.1 MB,7cdd5b100f2f1f4429b74a920ca338fa,mixed annotated test audio,review,pending_archive_enumeration,"Repository says annotated testing data split between code-switched and Tunisian-only; must isolate lineage and human-verification provenance before core use."
+zenodo_8370566,TunSwitchCS.zip,1.6 GB,6bbb3c6014819d28c6cb08692d27a31e,TunSwitch CS,excluded_from_core,pending_archive_enumeration,"Annotated but sourced from radio shows/podcasts: third-party media exclusion."
+zenodo_8370566,TunSwitchTO.zip,92.3 MB,dce80d1ee335c602ae38637828b87e9e,TunSwitch TO,review,pending_archive_enumeration,"Primary prompted recordings from 89 participants; repository description does not establish manual correction/exhaustive human verification of transcript/annotation layer."
+zenodo_8370566,weakly_labeled_tn.zip,16.0 GB,231674424efccfd4d3f19b2706bafd52,weakly labeled audio,excluded_from_core,not_to_ingest,"Explicitly weakly labeled/unlabeled; fails inclusion rule."
