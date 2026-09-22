@@ -1,0 +1,26 @@
+source_id,source_file,source_row,original_text,standardized_stimulus_id,language,task,provenance
+ccost_2026,sentences.txt,1,เธอกินปลามา,ccost_2026::sentence::001,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,2,เธอแจกปลามา,ccost_2026::sentence::002,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,3,เธอต้มปลามา,ccost_2026::sentence::003,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,4,เธอซื้อปลามา,ccost_2026::sentence::004,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,5,เธอขายปลามา,ccost_2026::sentence::005,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,6,เธอกินตับมา,ccost_2026::sentence::006,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,7,เธอแจกตับมา,ccost_2026::sentence::007,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,8,เธอต้มตับมา,ccost_2026::sentence::008,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,9,เธอซื้อตับมา,ccost_2026::sentence::009,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,10,เธอขายตับมา,ccost_2026::sentence::010,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,11,เธอกินข้าวมา,ccost_2026::sentence::011,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,12,เธอแจกข้าวมา,ccost_2026::sentence::012,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,13,เธอต้มข้าวมา,ccost_2026::sentence::013,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,14,เธอซื้อข้าวมา,ccost_2026::sentence::014,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,15,เธอขายข้าวมา,ccost_2026::sentence::015,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,16,เธอกินเกี๊ยวมา,ccost_2026::sentence::016,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,17,เธอแจกเกี๊ยวมา,ccost_2026::sentence::017,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,18,เธอต้มเกี๊ยวมา,ccost_2026::sentence::018,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,19,เธอซื้อเกี๊ยวมา,ccost_2026::sentence::019,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,20,เธอขายเกี๊ยวมา,ccost_2026::sentence::020,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,21,เธอกินขิงมา,ccost_2026::sentence::021,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,22,เธอแจกขิงมา,ccost_2026::sentence::022,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,23,เธอต้มขิงมา,ccost_2026::sentence::023,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,24,เธอซื้อขิงมา,ccost_2026::sentence::024,Thai,sentence_reading,Zenodo 17366698 sentences.txt
+ccost_2026,sentences.txt,25,เธอขายขิงมา,ccost_2026::sentence::025,Thai,sentence_reading,Zenodo 17366698 sentences.txt
