@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-22T02:09:19-07:00",
+  "last_updated": "2026-09-22T03:09:23-07:00",
   "total_sources": 241,
   "accepted_sources": 60,
   "excluded_sources": 33,
   "review_sources": 148,
   "ingested_sources": 50,
-  "parsed_rows_total": 1364731,
-  "parsed_logical_tables_total": 232,
+  "parsed_rows_total": 1364764,
+  "parsed_logical_tables_total": 234,
   "inventory_file_records": 1247,
   "variable_dictionary_records": 1272,
-  "notes": "Discovery plus backlog ingestion. PAVOQUE spike0010 was verified directly against immutable pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423 and ingested as one utterance plus all 35 manually corrected segment/silence intervals; original labels/endpoints are preserved, derived relative starts/durations/absolute timestamps are separate, normalized IPA remains blank, and the source's 5 ms terminal residual is retained rather than repaired. Fresh discovery screened the 2026 Friedrichs et al. multimodal German EMA/EEG/audio production dataset and re-screened SAIT-EMA; manual-annotation eligibility is not yet sufficiently established for core admission. Next contiguous PAVOQUE target is spike0011. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery plus backlog ingestion. PAVOQUE spike0011 was verified directly against immutable pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423 and ingested as one utterance plus all 32 manually corrected segment/silence intervals; original labels/endpoints are preserved, derived relative starts/durations/absolute timestamps are separate, normalized IPA remains blank, and the source's 5 ms terminal residual is retained rather than repaired. Fresh discovery screened AKiD cardinal-vowel formant measurements, MRPL2, AVID, Common Phone, IFCASL, CCOST, and the Friedrichs et al. multimodal German production dataset. Common Phone is automatic and secondary Common Voice reuse; MRPL2 files are restricted; the others require source-level manual-annotation provenance or are already known/backlogged, so no weak admission was made. Next contiguous PAVOQUE target is spike0012. All writes confined to manual_phonetic_production/."
 }
