@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T05:12:49-07:00",
+  "last_updated": "2026-09-22T06:11:57-07:00",
   "total_sources": 242,
   "accepted_sources": 61,
   "excluded_sources": 33,
@@ -7,7 +7,7 @@
   "ingested_sources": 50,
   "parsed_rows_total": 1364792,
   "parsed_logical_tables_total": 236,
-  "inventory_file_records": 1247,
+  "inventory_file_records": 1250,
   "variable_dictionary_records": 1272,
-  "notes": "Discovery plus backlog verification. Added RescueSpeech v2 (Zenodo 8077622) as an accepted primary German production source because the authoritative deposit explicitly describes manually annotated recordings from native speakers collected in simulated search-and-rescue exercises. Observation counts remain unchanged: file-level archive enumeration and annotation-schema parsing are pending and no timing/phone-level semantics were inferred. Rechecked PAVOQUE after spike0012: code search finds spike0013 only as spike0013a in pavoque-outtakes.yaml rather than a verified next main angry-corpus unit, so no partial/alternate-take rows were fabricated. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery plus backlog ingestion. RescueSpeech v2 was advanced from paper-level acceptance to authoritative file-level inventory: Readme.md, Task_ASR.tar.gz, and Task_enhancement.tar.gz are now manifested with Zenodo MD5 checksums and lineage decisions. Zenodo reports 2412 clean ASR utterances; synthetic noisy ASR counterparts and the speech-enhancement augmentation package are explicitly excluded from core while their provenance is retained. Archive contents could not be safely enumerated in this run, so no observation rows or inferred annotation schema were fabricated. Discovery additionally identified ROG (LREC 2026) as a potentially relevant manually annotated Slovenian prosody resource, but because it reuses GOS 2 recordings and public observation-level release/isolation of the new manual layers was not established, it was not admitted. All writes confined to manual_phonetic_production/."
 }
