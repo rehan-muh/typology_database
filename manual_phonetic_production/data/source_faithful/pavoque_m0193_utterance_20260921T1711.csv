@@ -1,0 +1,2 @@
+source_id,source_file,source_blob_sha,utterance_id,prompt,text_original,style,utterance_start_s,utterance_end_s,utterance_duration_s
+PAVOQUE_2009,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,PAVOQUE_2009::m0193,m0193,Für ideale Gase gilt: siehe Joule Versuch.,angry,926.46,930.48,4.02
