@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-22T04:07:31-07:00",
-  "total_sources": 241,
-  "accepted_sources": 60,
+  "last_updated": "2026-09-22T05:12:49-07:00",
+  "total_sources": 242,
+  "accepted_sources": 61,
   "excluded_sources": 33,
   "review_sources": 148,
   "ingested_sources": 50,
@@ -9,5 +9,5 @@
   "parsed_logical_tables_total": 236,
   "inventory_file_records": 1247,
   "variable_dictionary_records": 1272,
-  "notes": "Discovery plus backlog ingestion. PAVOQUE spike0012 was verified directly against immutable pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423 and ingested as one utterance plus all 27 manually corrected segment/silence intervals; original labels/endpoints are preserved, derived relative starts/durations/absolute timestamps are separate, normalized IPA remains blank, and the source's 5 ms terminal residual is retained rather than repaired. Discovery queries targeted manually annotated/corrected production deposits across Zenodo/OSF/GitHub and articulatory/phonetic corpora; no candidate was promoted without observation-level accessibility plus defensible human-annotation provenance. Next contiguous PAVOQUE target is spike0013. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery plus backlog verification. Added RescueSpeech v2 (Zenodo 8077622) as an accepted primary German production source because the authoritative deposit explicitly describes manually annotated recordings from native speakers collected in simulated search-and-rescue exercises. Observation counts remain unchanged: file-level archive enumeration and annotation-schema parsing are pending and no timing/phone-level semantics were inferred. Rechecked PAVOQUE after spike0012: code search finds spike0013 only as spike0013a in pavoque-outtakes.yaml rather than a verified next main angry-corpus unit, so no partial/alternate-take rows were fabricated. All writes confined to manual_phonetic_production/."
 }
