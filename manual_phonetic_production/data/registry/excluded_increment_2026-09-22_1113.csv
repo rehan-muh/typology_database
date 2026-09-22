@@ -1,0 +1,2 @@
+source_id,title,repository,doi,status,exclusion_reason,manual_annotation_evidence,lineage_notes
+zenodo_7086222,Passau-SFCH,Zenodo,10.5281/zenodo.7086222,excluded,third_party_media_collection,"Repository states that segmented audio includes manually corrected transcriptions and continuous humour/sentiment/direction annotations at 2 Hz.","Underlying production consists of 2017 German Bundesliga football-coach press-conference recordings rather than recordings elicited/collected by the dataset study; exclude despite strong manual annotation."
