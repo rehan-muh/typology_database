@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-22T07:10:20-07:00",
-  "total_sources": 244,
-  "accepted_sources": 61,
+  "last_updated": "2026-09-22T08:10:09-07:00",
+  "total_sources": 245,
+  "accepted_sources": 62,
   "excluded_sources": 34,
   "review_sources": 149,
   "ingested_sources": 50,
   "parsed_rows_total": 1364792,
   "parsed_logical_tables_total": 236,
-  "inventory_file_records": 1250,
+  "inventory_file_records": 1251,
   "variable_dictionary_records": 1272,
-  "notes": "Discovery plus backlog ingestion. Added InCroMin cross-lingual test calls to review: primary consented recordings and human-corrected transcripts/translations are public, but timestamps are predominantly automatic, so only isolatable human-corrected layers may enter core. Excluded the German-English Code-Switching Speech Corpus because it resegments/reuses pre-existing Spoken Wikipedia Corpus recordings and no genuinely new isolatable manual phonetic annotation was established. RescueSpeech backlog was revalidated against Zenodo v2: 2412 clean manually annotated primary utterances remain eligible; synthetic noisy counterparts and enhancement augmentation remain excluded. Direct archive retrieval was unavailable this pass, so no observation rows were fabricated. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery plus backlog ingestion. Added AphasiaBD (Zenodo 21863777) as an accepted primary manually segmented Bengali clinical-production source: 38 post-stroke aphasia patients, 335 clips across conversation/repetition/question-answering/reading, manually segmented at sentence level. Manifested the single public Patient Data.zip (194.3 MB; md5 c2b0b71f5599d0c2a0f64bd03ed9dcb0) and initialized archive-enumeration backlog. No observation rows were fabricated because internal archive schemas were not yet enumerated. Re-screened MRPL2 (manual phonetic mispronunciation annotation but restricted files) and RescueSpeech backlog; no inaccessible data counted. All writes confined to manual_phonetic_production/."
 }
