@@ -1,0 +1,2 @@
+source_id,source_utterance_id,prompt,text,style,start_s,end_s,source_file,source_blob_sha
+pavoque,pavoque::m0194,m0194,"Man spricht deswegen von einem Zero Knowledge Protokoll.",angry,930.48,935.34,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
