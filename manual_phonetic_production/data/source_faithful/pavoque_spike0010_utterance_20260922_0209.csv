@@ -1,0 +1,2 @@
+source_id,source_utterance_id,prompt,text,style,start_s,end_s,duration_s,source_file,source_blob_sha,annotation_status,notes
+PAVOQUE,PAVOQUE::spike0010,spike0010,"Ich bin Spike, was für ein Problem hast du?",angry,31.44,35.52,4.08,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,manually_corrected,"Source-faithful utterance metadata; segment endpoints are relative to utterance start."
