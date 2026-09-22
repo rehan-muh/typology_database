@@ -1,0 +1,12 @@
+source_id,file_table,original_variable,standardized_variable,variable_domain,description_meaning,units,datatype,coding_levels,missing_value_conventions,measurement_annotation_method,time_reference_window,anatomical_acoustic_target,provenance,notes
+ccost_2026,sentences.txt,line_text,stimulus_text,lexical_stimulus,"Sentence presented in controlled sentence-reading task",,string,,,author-supplied stimulus,,,Zenodo 17366698 sentences.txt,"Original Thai retained verbatim; no IPA invented"
+ccost_2026,sentences.txt,line_number,stimulus_order,experimental_condition,"Order in deposited sentence stimulus file",,integer,1-25,,repository file order,,,Zenodo 17366698 sentences.txt,
+ccost_2026,README,file_basename,recording_id,recording_metadata,"Recording basename follows ccost_S[n]_[task]_[filenumber]",,string,,,author naming convention,,,Zenodo 17366698 README,"Namespace as ccost_2026::source basename when parsed"
+ccost_2026,README,S[n],source_speaker_id,speaker_metadata,"Speaker number encoded in recording basename",,string,,,author naming convention,,,Zenodo 17366698 README,"49 speakers reported"
+ccost_2026,README,task,task,experimental_condition,"Recording task encoded in basename",,categorical,"INT; WL; ST",,author naming convention,,,Zenodo 17366698 README,"INT interview; WL word list; ST sentence"
+ccost_2026,README,filenumber,recording_order,recording_metadata,"Order of recording; combined files may list a sequence",,string,,,author naming convention,,,Zenodo 17366698 README,
+ccost_2026,README,Age_Group,age_group,demographic,"Speaker age-group category",,categorical,,,author metadata,,,Zenodo 17366698 README,"Exact levels pending CCOST_metadata.csv parse"
+ccost_2026,README,YOB,year_of_birth,demographic,"Year of birth",year,integer,,,author metadata,,,Zenodo 17366698 README,
+ccost_2026,README,Year_to_BKK,year_moved_to_bangkok,demographic,"Year speaker moved to Bangkok if applicable",year,integer,,,author metadata,,,Zenodo 17366698 README,
+ccost_2026,README,SNR,snr_db,equipment_recording,"Signal-to-noise ratio",dB,numeric,,,automated audio quality assessment,recording-level,audio signal,Zenodo 17366698 README,"Do not classify as manual phonetic measurement"
+ccost_2026,README,dBFS,level_dbfs,equipment_recording,"Amplitude level relative to full scale",dBFS,numeric,,,automated audio quality assessment,recording-level,audio signal,Zenodo 17366698 README,"Do not classify as manual phonetic measurement"
