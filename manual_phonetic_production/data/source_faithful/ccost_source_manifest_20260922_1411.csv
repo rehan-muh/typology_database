@@ -1,0 +1,9 @@
+source_id,file_name,file_role,size_bytes,checksum_type,checksum,repository_record,ingestion_state,notes
+ccost_2026,C-COST.zip,"primary audio + TextGrid annotations",6200000000,md5,5e38579433e111231b9cbfc5bb4bf90d,10.5281/zenodo.17366698,pending_archive_enumeration,"Large archive; authoritative reference/checksum retained; do not commit raw audio"
+ccost_2026,CCOST_manual.pdf,annotation_manual,2200000,md5,caecb20d26e8458b20c7c269ca22b59e,10.5281/zenodo.17366698,manifested,"Manual for force-alignment correction and transcription"
+ccost_2026,CCOST_metadata.csv,speaker_recording_metadata,137600,md5,03848e05d05a2e5156e4b34019732d01,10.5281/zenodo.17366698,pending_parse,"One row per recording according to repository README"
+ccost_2026,check_audio_quality_praat,audio_quality_script,20700,md5,53815e31f63014936aa445be5804a554,10.5281/zenodo.17366698,manifested,"Automated QC script; provenance only"
+ccost_2026,Interview schedule.pdf,elicitation_material,395800,md5,c90a23887085d4adcac1832363abf5d6,10.5281/zenodo.17366698,manifested,"Semi-structured interview guide"
+ccost_2026,Pittayaporn et al 2026_CCOST.pdf,publication_preprint,695900,md5,6a171bd316ee56d1374b8399c6bdb595,10.5281/zenodo.17366698,manifested,"LREC 2026 preprint"
+ccost_2026,sentences.txt,stimuli,702,md5,a655027991af58110b0c711d9700abb2,10.5281/zenodo.17366698,parsed,"25 sentence-reading stimuli; all rows ingested source-faithfully"
+ccost_2026,wordlist.csv,stimuli,9700,md5,e62f500d87b4ff8c6deb4c4595854d34,10.5281/zenodo.17366698,pending_parse,"206-item monosyllabic word list"
