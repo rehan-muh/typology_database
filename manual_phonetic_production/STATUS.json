@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-21T18:10:34-07:00",
-  "total_sources": 238,
+  "last_updated": "2026-09-21T19:08:02-07:00",
+  "total_sources": 239,
   "accepted_sources": 59,
   "excluded_sources": 32,
-  "review_sources": 147,
+  "review_sources": 148,
   "ingested_sources": 50,
-  "parsed_rows_total": 1364556,
-  "parsed_logical_tables_total": 220,
+  "parsed_rows_total": 1364617,
+  "parsed_logical_tables_total": 222,
   "inventory_file_records": 1244,
   "variable_dictionary_records": 1269,
-  "notes": "Discovery plus backlog ingestion. Advanced accepted PAVOQUE with m0194 source-faithfully: one utterance plus all 46 manually corrected phonetic/silence intervals from immutable pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Preserved original German orthography, angry style, source labels and source-relative endpoints; no speculative IPA normalization. Discovery added IFCASL 2016 to REVIEW: primary French/German native and L2 read speech from about 100 speakers, word/phone segmented with >50% manually corrected according to the paper, but mixed automatic/manual lineage requires file-level isolation before core admission. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery plus backlog ingestion. Advanced accepted PAVOQUE source-faithfully with m0195 and m0196: 2 utterances plus all 59 manually corrected phonetic/silence intervals from immutable pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Preserved original orthography, style, labels and source-relative endpoints; derived starts/durations/absolute timestamps are separate and normalized_ipa remains blank. Discovery added Jaeger et al. 2026 audiovisual unscripted German monologues to REVIEW: >300 min, 6 speakers, 60 takes, with manually corrected transcription and forced-alignment improvement, but file-level human-correction lineage must be confirmed before core admission. All writes confined to manual_phonetic_production/."
 }
