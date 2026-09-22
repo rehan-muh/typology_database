@@ -1,0 +1,4 @@
+source_id,source_utterance_id,source_audio_file,original_text,original_start_s,original_end_s,derived_duration_s,emotion,annotation_provenance,upstream_file,upstream_commit
+pavoque,pavoque::spike0015,spike0015.wav,Herr Inuns? Aber wi,0.819909,2.759955,1.940046,angry,manually corrected MaryTTS labels as deposited,pavoque-angry.yaml,66c0f3a7d67bd185079744e1acbedbe69a7b6ad5
+pavoque,pavoque::spike0016,spike0016.wav,"Herr Inuns? Aber wie? Nein! Nein, versuchen Sie heimlich,",0.439909,4.819955,4.380046,angry,manually corrected MaryTTS labels as deposited,pavoque-angry.yaml,66c0f3a7d67bd185079744e1acbedbe69a7b6ad5
+pavoque,pavoque::spike0017,spike0017.wav,"Herr Inuns? Aber wie? Nein! Nein, versuchen Sie heimlich, a",0.479909,4.079955,3.600046,angry,manually corrected MaryTTS labels as deposited,pavoque-angry.yaml,66c0f3a7d67bd185079744e1acbedbe69a7b6ad5
