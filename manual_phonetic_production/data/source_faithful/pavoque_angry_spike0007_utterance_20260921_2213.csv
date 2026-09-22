@@ -1,0 +1,2 @@
+utterance_id,source_id,prompt,text,style,start_s,end_s,duration_s,source_blob_sha,annotation_status,terminal_segment_end_s,terminal_residual_s
+PAVOQUE::angry::spike0007,PAVOQUE,spike0007,Wie fühlst du dich heute?,angry,24.000000,27.000000,3.000000,bff79d978f740f6c2b09bc595ade03b6bdf33423,manual_corrected,2.995000,0.005000
