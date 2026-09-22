@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-21T21:09:40-07:00",
+  "last_updated": "2026-09-21T22:13:04-07:00",
   "total_sources": 240,
   "accepted_sources": 60,
   "excluded_sources": 32,
   "review_sources": 148,
   "ingested_sources": 50,
-  "parsed_rows_total": 1364651,
-  "parsed_logical_tables_total": 224,
+  "parsed_rows_total": 1364670,
+  "parsed_logical_tables_total": 226,
   "inventory_file_records": 1247,
   "variable_dictionary_records": 1272,
-  "notes": "Discovery plus backlog ingestion. Continued accepted PAVOQUE with spike0006: 1 utterance and all 33 manually corrected segment/silence observations, preserving original labels/endpoints and a 5 ms source terminal residual; derived starts/durations/absolute timestamps are separate and normalized IPA remains blank. Fresh discovery screened HAMATAC, BulPhonC, L2-ARCTIC, IFCASL, LibriSpeech-keyword corrections, and MEG-MASC; no weak or duplicate source was admitted. L2-ARCTIC documentation independently confirms 3,599 manually examined utterances with corrected word/phone boundaries and detailed error counts. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery plus backlog ingestion. Continued accepted PAVOQUE with spike0007: 1 utterance and all 18 manually corrected segment/silence observations from immutable pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Preserved original labels/endpoints; derived starts/durations/absolute timestamps are separate; retained the source 5 ms terminal residual and did not invent IPA. Fresh discovery screened CORPRES, HAMATAC, IFCASL, REYD and BAS manually segmented corpora. CORPRES is a strong candidate (60 h Russian, 8 speakers, six annotation levels, 40% manually segmented/fully annotated) but no public observation-level deposit was established in this pass, so no registry admission was made. HAMATAC manual layers are transcription/disfluency/POS rather than demonstrated phonetic segmentation; REYD segmentation is automatic. All writes confined to manual_phonetic_production/."
 }
