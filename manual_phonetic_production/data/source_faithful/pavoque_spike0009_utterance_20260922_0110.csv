@@ -1,0 +1,2 @@
+source_id,source_file,source_blob_sha,prompt,text,style,start_s,end_s,duration_s,annotation_provenance
+PAVOQUE,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0009,Erzähl mir davon.,angry,28.92,31.44,2.52,manual_corrected_source_segmentation
