@@ -1,0 +1,8 @@
+source_id,prompt,segment_index,original_label,relative_start_s,relative_end_s,duration_s,absolute_start_s,absolute_end_s,normalized_ipa,source_file,source_blob_sha
+PAVOQUE,spike0008,1,H#,0,0.280902,0.280902,27,27.280902,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0008,2,?,0.280902,0.324898,0.043996,27.280902,27.324898,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0008,3,a,0.324898,0.408238,0.08334,27.324898,27.408238,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0008,4,x,0.408238,0.475,0.066762,27.408238,27.475,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0008,5,j,0.475,0.61,0.135,27.475,27.61,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0008,6,a:,0.61,0.963273,0.353273,27.61,27.963273,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+PAVOQUE,spike0008,7,_,0.963273,1.915,0.951727,27.963273,28.915,,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
