@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-23T14:11:00-07:00",
-  "total_sources": 263,
-  "accepted_sources": 72,
+  "last_updated": "2026-09-23T16:09:00-07:00",
+  "total_sources": 265,
+  "accepted_sources": 73,
   "excluded_sources": 36,
-  "review_sources": 155,
+  "review_sources": 156,
   "ingested_sources": 50,
   "parsed_rows_total": 1364949,
   "parsed_logical_tables_total": 240,
-  "inventory_file_records": 1305,
-  "variable_dictionary_records": 1374,
-  "notes": "Discovery plus backlog-ingestion pass. Added Golos Russian speech corpus as accepted based on explicit official evidence that primary recorded audio was manually annotated on a crowdsourcing platform. Manifested 15 public distribution/derived objects with source-provided MD5 checksums, separating Crowd/Farfield domains and train/test partitions within one recording lineage and excluding acoustic/language models from observations. Seeded five source-faithful fields for path, human transcript, domain, split, and duration; no IPA/phone tiers or unavailable metadata invented. Large audio archives remain remote; row-level transcript/manifest extraction is pending. Fresh search also re-screened MRPL2, Spontal-N, GRAIN-S and previously represented candidates without duplicate admission. All writes confined to manual_phonetic_production/."
+  "inventory_file_records": 1311,
+  "variable_dictionary_records": 1378,
+  "notes": "Discovery plus backlog-ingestion pass. Added TunSwitch as accepted primary manually annotated Tunisian Arabic/code-switched production, explicitly isolating annotated TO/CS/test/language-annotation objects from weakly labeled audio and text-only material. Manifested six public archive-level objects and seeded four source-faithful variable concepts without inventing IPA or unverified coding. Added MultiFocus to review: 70 speakers, 2447 manually annotated Catalan/German productions, 16.5 h, with strong inter-rater evidence, but machine-readable TextGrid/EAF public availability still requires verification. Parsed row counts unchanged because archive members were not falsely counted before extraction. All writes confined to manual_phonetic_production/."
 }
