@@ -1,0 +1,26 @@
+source_id,source_file,file_sha,source_utterance_id,text,style,utterance_start_s,utterance_end_s,segment_index,original_label,segment_start_rel_s,segment_end_rel_s
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,1,H#,0.0,0.17
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,2,v,0.17,0.23
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,3,i:,0.23,0.382713
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,4,f,0.382713,0.49
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,5,y:,0.49,0.567005
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,6,l,0.567005,0.61
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,7,s,0.61,0.716282
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,8,t,0.716282,0.725
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,9,d,0.725,0.739892
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,10,u:,0.739892,0.786927
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,11,d,0.786927,0.836957
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,12,I,0.836957,0.886445
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,13,C,0.886445,0.977362
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,14,h,0.977362,1.015
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,15,OY,1.015,1.16104
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,16,t,1.16104,1.247613
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,17,@,1.247613,1.363147
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0007,Wie fühlst du dich heute?,angry,24.0,27.0,18,_,1.363147,2.995
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0008,Ach ja?,angry,27.0,28.92,1,H#,0.0,0.280902
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0008,Ach ja?,angry,27.0,28.92,2,?,0.280902,0.324898
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0008,Ach ja?,angry,27.0,28.92,3,a,0.324898,0.408238
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0008,Ach ja?,angry,27.0,28.92,4,x,0.408238,0.475
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0008,Ach ja?,angry,27.0,28.92,5,j,0.475,0.61
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0008,Ach ja?,angry,27.0,28.92,6,a:,0.61,0.963273
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0008,Ach ja?,angry,27.0,28.92,7,_,0.963273,1.915
