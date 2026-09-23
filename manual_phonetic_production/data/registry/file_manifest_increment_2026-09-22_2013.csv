@@ -1,0 +1,4 @@
+source_id,file_name,role,size_bytes,checksum_type,checksum,access,ingestion_state,core_eligibility,notes
+rescuespeech_zenodo_8077622,Readme.md,documentation,6400,md5,5b6bf9922c78e37aef96199f0eb34b4d,open,metadata_parsed,yes,"Authoritative corpus structure/counts and manual-annotation statement"
+rescuespeech_zenodo_8077622,Task_ASR.tar.gz,"primary clean speech plus synthetic noisy derivatives",643200000,md5,c5b9f7857c1970bfe34eae0805c6987b,open,pending_archive_parse,partial,"Core only for original clean recordings/manual annotations; synthetic AudioSet-contaminated copies excluded except lineage"
+rescuespeech_zenodo_8077622,Task_enhancement.tar.gz,"synthetic noisy derivatives for enhancement",3300000000,md5,0a933817af7ccd56982225ae46c3722c,open,lineage_only,no,"Derived repeatedly from clean speech with added external noise; exclude observations from core"
