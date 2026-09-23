@@ -1,0 +1,16 @@
+source_id,file_name,file_role,format,size_reported,checksum_type,checksum,processing_status,authoritative_url,notes
+golos_ru,golos_opus.tar,all_audio_and_transcripts,tar/op us,20.5 GB,MD5,453d4f8ef1d8adcc9d87020712f973c3,remote_manifested,https://openslr.org/114/,Compressed all-domain distribution; do not commit raw audio
+golos_ru,train_farfield.tar,train_audio_transcripts,tar/wav,15.4 GB,MD5,7531a7e76e04e794c5847d8e58b3154c,remote_manifested,https://openslr.org/114/,Farfield training partition
+golos_ru,train_crowd0.tar,train_audio_transcripts,tar/wav,11 GB,MD5,f88b397fc5dbc55ab326cd2360d5a0b2,remote_manifested,https://openslr.org/114/,Crowd shard 0
+golos_ru,train_crowd1.tar,train_audio_transcripts,tar/wav,14 GB,MD5,19db1416da982641f1565ec701939f39,remote_manifested,https://openslr.org/114/,Crowd shard 1
+golos_ru,train_crowd2.tar,train_audio_transcripts,tar/wav,13.2 GB,MD5,d032dfb48d548631400f3a78e24756f8,remote_manifested,https://openslr.org/114/,Crowd shard 2
+golos_ru,train_crowd3.tar,train_audio_transcripts,tar/wav,11.6 GB,MD5,83aeb8d3f8b93968b83224606801aceb,remote_manifested,https://openslr.org/114/,Crowd shard 3
+golos_ru,train_crowd4.tar,train_audio_transcripts,tar/wav,15.8 GB,MD5,df177493e1c1c7cbb0ac7f13f79dbc06,remote_manifested,https://openslr.org/114/,Crowd shard 4
+golos_ru,train_crowd5.tar,train_audio_transcripts,tar/wav,13.1 GB,MD5,724e4af231b3e226b32ca609db30862c,remote_manifested,https://openslr.org/114/,Crowd shard 5
+golos_ru,train_crowd6.tar,train_audio_transcripts,tar/wav,15.7 GB,MD5,bd6e18b94ad81aebb99039dedb71de25,remote_manifested,https://openslr.org/114/,Crowd shard 6
+golos_ru,train_crowd7.tar,train_audio_transcripts,tar/wav,12.2 GB,MD5,560960f748b7ac19bdb477dc9245cfc3,remote_manifested,https://openslr.org/114/,Official GitHub checksum; OpenSLR reports 12.2 GB
+golos_ru,train_crowd8.tar,train_audio_transcripts,tar/wav,12.2 GB,MD5,bbc6814ca8377aaa75a4a987adad0b94,remote_manifested,https://openslr.org/114/,Crowd shard 8
+golos_ru,train_crowd9.tar,train_audio_transcripts,tar/wav,8.08 GB,MD5,eee4ff6dbebf77c738c69713ace7b768,remote_manifested,https://openslr.org/114/,Contains manifest files with training transcription texts according to official README
+golos_ru,test.tar,test_audio_transcripts,tar/wav,1.3 GB,MD5,284a6e54ca7bf0dd599db1bea030775c,remote_manifested,https://openslr.org/114/,Crowd and Farfield test partitions
+golos_ru,QuartzNet15x5_golos.nemo,derived_acoustic_model,nemo,68 MB,MD5,5bdf7ce2ba610db4d309413ca3cb4064,manifested_excluded_from_observations,https://github.com/salute-developers/golos,Derived model; not production data
+golos_ru,kenlms.tar,derived_language_models,tar,4.8 GB,MD5,9ca0d96e47d5e2fb6f87ebec17066108,manifested_excluded_from_observations,https://github.com/salute-developers/golos,Derived/Common-Crawl language models; not production data
