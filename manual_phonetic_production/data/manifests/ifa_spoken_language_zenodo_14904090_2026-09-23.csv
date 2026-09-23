@@ -1,0 +1,8 @@
+source_id,file_name,role,size,md5,ingestion_state,authoritative_url,notes
+zenodo_14904090,DatabaseFiles.zip,relational_source_faithful,402.8 MB,ee42e7317d8cc7c504536b01d9a7aecd,pending_object_parse,https://zenodo.org/records/14904090,"All data as TSV database files; priority backlog object."
+zenodo_14904090,LabelProtocol.zip,annotation_protocol,325.7 kB,38dba02e2551ddaf8f4451c930423e35,manifested,https://zenodo.org/records/14904090,"Labeling protocol."
+zenodo_14904090,Labels-chunks.zip,annotations,626.0 kB,80200e4952786e24c97c540123fb1bf4,pending_object_parse,https://zenodo.org/records/14904090,"Praat annotation files: ASPEX/CELEX/phonemes/POS/SPEX/transliterations etc."
+zenodo_14904090,Labels-sentences.zip,annotations,34.2 MB,c1e052b8b9ccf87a348008acfdd65d96,pending_object_parse,https://zenodo.org/records/14904090,"Sentence-level Praat TextGrids; high-priority observation ingest."
+zenodo_14904090,Labels-validation.zip,annotation_validation,286.5 kB,b902ce5c9f76dd0607fa9087c1cc0170,pending_object_parse,https://zenodo.org/records/14904090,"Validation annotations; preserve annotator/reliability evidence."
+zenodo_14904090,SLcorpus.zip,transcriptions_auxiliary,4.1 MB,8c730878d4ef986bd092d1eea8234d32,pending_object_parse,https://zenodo.org/records/14904090,"Transcriptions, scripts, auxiliary files."
+zenodo_14904090,Additional Documents.zip,documentation,519.1 kB,abadd44992ff5ec406ea4060020c56a9,manifested,https://zenodo.org/records/14904090,"Documentation/forms."
