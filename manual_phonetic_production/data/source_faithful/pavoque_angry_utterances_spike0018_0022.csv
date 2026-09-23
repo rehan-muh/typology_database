@@ -1,0 +1,5 @@
+source_id,source_utterance_id,source_audio_file,original_text,original_start_s,original_end_s,derived_duration_s,emotion,annotation_provenance,upstream_file,upstream_blob_sha
+pavoque,pavoque::spike0018,spike0018.wav,"Ich kann Fragen nicht beantworten – erzähl mir einfach etwas und ich werde antworten.",60.36,66.96,6.60,angry,manually corrected phonetic segments as deposited,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0019,spike0019.wav,Würdest du gerne mit jemand anderem sprechen?,66.96,71.16,4.20,angry,manually corrected phonetic segments as deposited,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0021,spike0021.wav,Sprich lieber mal mit Obadiah.,71.16,74.46,3.30,angry,manually corrected phonetic segments as deposited,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
+pavoque,pavoque::spike0022,spike0022.wav,Sprich lieber mal mit Prudence.,74.46,77.82,3.36,angry,manually corrected phonetic segments as deposited,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423
