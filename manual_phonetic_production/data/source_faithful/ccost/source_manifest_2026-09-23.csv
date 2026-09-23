@@ -1,0 +1,9 @@
+source_id,file_name,size_bytes,md5,role,processing_status,authoritative_url,redistribution_note
+ccost_zenodo_17366698,C-COST.zip,6200000000,5e38579433e111231b9cbfc5bb4bf90d,"main corpus WAV + TextGrid",pending_archive_ingestion,https://zenodo.org/records/17366698,"CC-BY-NC-SA 4.0; large archive not committed to GitHub"
+ccost_zenodo_17366698,CCOST_manual.pdf,2200000,caecb20d26e8458b20c7c269ca22b59e,"annotation manual for force-alignment correction and transcription",manifested,https://zenodo.org/records/17366698,"reference/checksum retained"
+ccost_zenodo_17366698,CCOST_metadata.csv,137600,03848e05d05a2e5156e4b34019732d,"speaker and recording metadata; one row per file",pending_parse,https://zenodo.org/records/17366698,"public source object"
+ccost_zenodo_17366698,check_audio_quality_praat,20700,53815e31f63014936aa445be5804a554,"audio QC Praat script",manifested,https://zenodo.org/records/17366698,"public source object"
+ccost_zenodo_17366698,Interview schedule.pdf,395800,c90a23887085d4adcac1832363abf5d6,"semi-structured interview elicitation guide",manifested,https://zenodo.org/records/17366698,"reference/checksum retained"
+ccost_zenodo_17366698,Pittayaporn et al 2026_CCOST.pdf,695900,6a171bd316ee56d1374b8399c6bdb595,"corpus paper preprint",manifested,https://zenodo.org/records/17366698,"paper is CC-BY-NC per deposit"
+ccost_zenodo_17366698,sentences.txt,702,a655027991af58110b0c711d9700abb2,"25 sentence-reading stimuli",pending_parse,https://zenodo.org/records/17366698,"public source object"
+ccost_zenodo_17366698,wordlist.csv,9700,e62f500d87b4ff8c6deb4c4595854d34,"206-item monosyllabic word list",pending_parse,https://zenodo.org/records/17366698,"public source object"
