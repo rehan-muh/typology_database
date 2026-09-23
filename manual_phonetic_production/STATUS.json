@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-23T09:10:19-07:00",
-  "total_sources": 256,
-  "accepted_sources": 68,
+  "last_updated": "2026-09-23T10:09:14-07:00",
+  "total_sources": 257,
+  "accepted_sources": 69,
   "excluded_sources": 35,
   "review_sources": 153,
   "ingested_sources": 50,
   "parsed_rows_total": 1364949,
   "parsed_logical_tables_total": 240,
-  "inventory_file_records": 1279,
-  "variable_dictionary_records": 1306,
-  "notes": "Discovery plus backlog/object-ingestion attempt. Newly accepted RescueSpeech (Zenodo 8077622): primary German speech from simulated search-and-rescue exercises with explicitly manual annotation; only clean human recordings/manual transcripts qualify, while noise/synthetic enhancement derivatives are retained as lineage only. Re-screened MRPL2 (restricted) and German-English Code-Switching/SWC derivative (secondary lineage). Attempted object-level PxCorpus v4 archive retrieval; 375.7 MB transfer failed in current runtime, so no observation rows or file/dictionary counts were fabricated. PxCorpus synchronized file schema and manual dialogue annotation were reverified. All writes confined to manual_phonetic_production/."
+  "inventory_file_records": 1286,
+  "variable_dictionary_records": 1313,
+  "notes": "Discovery plus backlog pass. Newly accepted IFA Spoken Language Corpus (Zenodo 14904090): primary Dutch production, explicitly hand-segmented, 8 phonemically segmented speakers, 4,492 segmented sentences, 51,782 words, 74,702 syllables, 187,544 phonemes, 19,867 s segmented speech. Manifested seven key non-audio archives with exact MD5s and seeded seven dictionary variables. Observation counts were not incremented because archive member-level TSV/TextGrid parsing remains pending. Fresh screening also reconfirmed L2-ARCTIC manual subset and excluded singing/secondary forced-aligned hits from admission. All writes confined to manual_phonetic_production/."
 }
