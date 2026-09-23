@@ -1,0 +1,38 @@
+source_id,file_table,original_variable,standardized_variable,variable_domain,description_meaning,units,datatype,coding_levels,missing_value_conventions,measurement_annotation_method,time_reference_window,anatomical_acoustic_target,provenance,notes
+ccost_2025,CCOST_metadata.csv,bundle,recording_id,recording,Corpus bundle/file stem,,string,ccost_S[n]_[task]_[filenumber],,source metadata,,,Zenodo 10.5281/zenodo.17366698,namespaced as ccost_2025::bundle
+ccost_2025,CCOST_metadata.csv,Speaker,speaker_id,speaker,Speaker number,,integer,,,source metadata,,,Zenodo 10.5281/zenodo.17366698,namespaced on harmonization
+ccost_2025,CCOST_metadata.csv,Sex,sex,demographic,Speaker sex,,categorical,Female;Male,,source metadata,,,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,YOB,year_of_birth,demographic,Year of birth,year,integer,,,source metadata,,,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,BirthPlace,birth_place,demographic,Birth place,,string,,,source metadata,,,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,Region,region,language_demographic,Regional origin,,categorical,,,source metadata,,,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,Year_to_BKK,year_moved_bangkok,demographic,Year speaker moved to Bangkok,year,integer,,NA,source metadata,,,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,Age,age,demographic,Speaker age,years,numeric,,,source metadata,,,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,Education,education,demographic,Education metadata,source coding,string,,-,source metadata,,,Zenodo 10.5281/zenodo.17366698,retain source coding
+ccost_2025,CCOST_metadata.csv,Age_Group,age_group,demographic,Speaker age group,,categorical,YF;YM;MF;MM,,source metadata,,,Zenodo 10.5281/zenodo.17366698,do not infer expansion without manual
+ccost_2025,CCOST_metadata.csv,Height,height,demographic,Speaker height,cm,numeric,,,source metadata,,,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,Interviewer_gender,interviewer_gender,condition,Interviewer gender,,categorical,,,source metadata,,,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,Quality_grade,quality_grade,equipment_qc,Recording quality grade,,categorical,A;B;other source levels,,author QC,,,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,SNR.dB,snr_db,equipment_qc,Signal-to-noise ratio,dB,numeric,,,author audio-quality assessment,recording-level,audio,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,Quality_issues,quality_issues,equipment_qc,Recording quality issue labels,,string,,,author QC,recording-level,audio,Zenodo 10.5281/zenodo.17366698,retain semicolon-delimited source labels
+ccost_2025,CCOST_metadata.csv,Quality_comment,quality_comment,equipment_qc,Free-text recording quality comment,,string,,,author QC,recording-level,audio,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,WL_order,wordlist_order,condition,Word-list order/source coding,,categorical,,,experimental metadata,,,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,Pace,pace,condition,Production pace rating/source coding,,categorical,,,human/source metadata,recording-level,speech rate,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,Pace_comment,pace_comment,condition,Free-text pace comment,,string,,,human/source metadata,recording-level,speech rate,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,Misread,misread,annotation,Reading-error summary/source coding,,string,,,human correction/annotation,recording-level,production accuracy,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,Annotation_comment,annotation_comment,annotator_reliability,Free-text annotation/correction comment,,string,,,manual force-alignment correction/transcription,recording-level,annotation,Zenodo 10.5281/zenodo.17366698,preserve verbatim
+ccost_2025,CCOST_metadata.csv,Other_comment,other_comment,provenance,Other source comment,,string,,,source metadata,,,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,TotalDur.s,total_duration_s,temporal,Total recording duration,s,numeric,,,source metadata,recording-level,audio,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,LabeledDur.s,labeled_duration_s,temporal,Duration covered by labels,s,numeric,,,annotation summary,recording-level,annotated speech,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,NumIntervals,num_intervals,annotation,Number of annotation intervals,count,integer,,,annotation summary,recording-level,annotation intervals,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,MeanIntensity.dB,mean_intensity_db,acoustic,Mean intensity,dB,numeric,,,author audio-quality extraction,recording-level,acoustic intensity,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,MaxIntensity.dB,max_intensity_db,acoustic,Maximum intensity,dB,numeric,,,author audio-quality extraction,recording-level,acoustic intensity,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,MinIntensity.dB,min_intensity_db,acoustic,Minimum intensity,dB,numeric,,,author audio-quality extraction,recording-level,acoustic intensity,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,StdDev.dB,intensity_sd_db,acoustic,Intensity standard deviation,dB,numeric,,,author audio-quality extraction,recording-level,acoustic intensity,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,DynamicRange.dB,dynamic_range_db,acoustic,Dynamic range,dB,numeric,,,author audio-quality extraction,recording-level,audio,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,PeakLevel.dBFS,peak_level_dbfs,acoustic,Peak level,dBFS,numeric,,,author audio-quality extraction,recording-level,audio,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,PeakIntensity.dB,peak_intensity_db,acoustic,Peak intensity,dB,numeric,,,author audio-quality extraction,recording-level,acoustic intensity,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,Threshold.dB,threshold_db,equipment_qc,Intensity/noise threshold,dB,numeric,,,author audio-quality extraction,recording-level,audio,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,AvgSpeech.dB,average_speech_db,acoustic,Average speech level,dB,numeric,,,author audio-quality extraction,recording-level,speech signal,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,AvgNoise.dB,average_noise_db,acoustic,Average noise level,dB,numeric,,,author audio-quality extraction,recording-level,noise,Zenodo 10.5281/zenodo.17366698,
+ccost_2025,CCOST_metadata.csv,old_filename,source_old_filename,provenance,Original filename,,string,,,source lineage,,,Zenodo 10.5281/zenodo.17366698,preserve for lineage joins
+ccost_2025,CCOST_metadata.csv,old_filecode,source_old_filecode,provenance,Original file code,,string,,,source lineage,,,Zenodo 10.5281/zenodo.17366698,preserve for lineage joins
