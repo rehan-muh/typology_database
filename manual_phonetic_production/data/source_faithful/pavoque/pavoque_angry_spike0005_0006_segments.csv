@@ -1,0 +1,76 @@
+source_id,source_file,file_sha,source_utterance_id,text,style,utterance_start_s,utterance_end_s,segment_index,original_label,segment_start_rel_s,segment_end_rel_s
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,1,H#,0.0,0.71
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,2,?,0.71,0.735
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,3,I,0.735,0.78877
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,4,C,0.78877,0.865559
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,5,h,0.865559,0.887674
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,6,a:,0.887674,0.95
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,7,b,0.95,0.99654
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,8,@,0.99654,1.046779
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,9,R,1.046779,1.134011
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,10,o:,1.134011,1.216328
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,11,t,1.216328,1.285139
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,12,@,1.285139,1.349018
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,13,h,1.349018,1.415
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,14,a:,1.415,1.549897
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,15,R,1.549897,1.607027
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,16,@,1.607027,1.658629
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,17,?,1.658629,1.672144
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,18,U,1.672144,1.745
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,19,n,1.745,1.786323
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,20,t,1.786323,1.855749
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,21,?,1.855749,1.86031
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,22,aI,1.86031,1.930153
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,23,n,1.930153,1.99
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,24,f,1.99,2.12
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,25,OY,2.12,2.26
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,26,R,2.26,2.315
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,27,I,2.315,2.36
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,28,g,2.36,2.406849
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,29,@,2.406849,2.45
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,30,s,2.45,2.529102
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,31,t,2.529102,2.604991
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,32,E,2.604991,2.67
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,33,m,2.67,2.715
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,34,p,2.715,2.776022
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,35,6,2.776022,2.779823
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,36,R,2.779823,2.8
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,37,a,2.8,2.863285
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,38,m,2.863285,2.92533
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,39,E,2.92533,3.034062
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,40,n,3.034062,3.08075
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,41,t,3.08075,3.21774
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0005,Ich habe rote Haare und ein feuriges Temperament.,angry,15.72,20.16,42,_,3.21774,4.435
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,1,H#,0.0,0.387589
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,2,?,0.387589,0.437957
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,3,a,0.437957,0.512895
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,4,l,0.512895,0.555
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,5,z,0.555,0.598275
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,6,o:,0.598275,0.802819
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,7,?,0.802819,0.89557
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,8,I,0.89557,0.923211
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,9,n,0.923211,0.982793
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,10,v,0.982793,1.015
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,11,E,1.015,1.081687
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,12,l,1.081687,1.105
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,13,C,1.105,1.173823
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,14,@,1.173823,1.178123
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,15,m,1.178123,1.240776
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,16,ts,1.240776,1.345
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,17,u:,1.345,1.405
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,18,S,1.405,1.461905
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,19,t,1.461905,1.508438
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,20,a,1.508438,1.55
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,21,n,1.55,1.59151
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,22,t,1.59151,1.628979
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,23,b,1.628979,1.676464
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,24,I,1.676464,1.715
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,25,s,1.715,1.774556
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,26,t,1.774556,1.802811
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,27,d,1.802811,1.84297
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,28,u:,1.84297,1.913375
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,29,h,1.913375,1.96
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,30,OY,1.96,2.08045
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,31,t,2.08045,2.148358
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,32,@,2.148358,2.303421
+pavoque,pavoque-angry.yaml,bff79d978f740f6c2b09bc595ade03b6bdf33423,spike0006,"Also, in welchem Zustand bist du heute?",angry,20.16,24.0,33,_,2.303421,3.835
