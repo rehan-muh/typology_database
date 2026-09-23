@@ -1,0 +1,7 @@
+source_id,file_or_object,role,eligibility,access,provenance_url,notes
+zenodo_8342762_tunswitch,TunSwitchCS.zip,primary_audio_plus_annotations,eligible,public,https://zenodo.org/records/8370566,"Annotated code-switched primary speech; inspect archive members next pass"
+zenodo_8342762_tunswitch,TunSwitchTO.zip,primary_audio_plus_annotations,eligible,public,https://zenodo.org/records/8370566,"Annotated Tunisian-only primary speech; 89 participants and 2631 distinct phrases reported in original record"
+zenodo_8342762_tunswitch,test_wavs.zip,primary_audio_plus_annotations,eligible,public,https://zenodo.org/records/8370566,"Annotated test data divided into code-switched and Tunisian-only parts"
+zenodo_8342762_tunswitch,language_annotation.zip,manual_language_annotation,eligible,public,https://zenodo.org/records/8370566,"Language-detailed annotation for TunSwitchCS"
+zenodo_8342762_tunswitch,weakly_labeled_tn.zip,weak_or_unverified_annotation,excluded,public,https://zenodo.org/records/8370566,"Explicitly weakly labeled or unlabeled; excluded from manual core"
+zenodo_8342762_tunswitch,TextData.zip,language_model_text,excluded,public,https://zenodo.org/records/8370566,"Text-only language-model material, not primary phonetic production"
