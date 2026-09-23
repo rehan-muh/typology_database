@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-22T23:12:57-07:00",
-  "total_sources": 253,
-  "accepted_sources": 65,
+  "last_updated": "2026-09-23T04:12:31-07:00",
+  "total_sources": 254,
+  "accepted_sources": 66,
   "excluded_sources": 35,
   "review_sources": 153,
   "ingested_sources": 50,
   "parsed_rows_total": 1364949,
   "parsed_logical_tables_total": 240,
-  "inventory_file_records": 1270,
+  "inventory_file_records": 1278,
   "variable_dictionary_records": 1297,
-  "notes": "Discovery plus backlog ingestion. Reconciled canonical PAVOQUE source-faithful state on main and ingested the next contiguous angry-corpus block, spike0005-spike0006: 75 source-faithful segment rows (42 + 33) from upstream pavoque-angry.yaml blob bff79d978f740f6c2b09bc595ade03b6bdf33423. Original MaryTTS labels/endpoints retained; starts are deterministic previous-end derivatives; no IPA normalization invented. Both utterances retain the deposited 5 ms terminal residual (4.435 vs 4.440 s; 3.835 vs 3.840 s). Fresh discovery screened CORPRES, BAS manual-segmentation corpora, HAMATAC, IFCASL, MRPL2, SAIT-EMA and L2-ARCTIC; no weak promotion was made. CORPRES is high-value but public observation-level access/redistribution remains unresolved. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery plus backlog/object ingestion. Newly accepted CCOST (Chulalongkorn Corpus of Spoken Thai; Zenodo 17366698): primary Standard Thai production, 49 speakers, ~7 h spontaneous + ~5 h controlled speech, WAV+TextGrid, with deposited annotation manual explicitly for force-alignment correction and transcription. Manifested all 8 Zenodo objects with MD5s and processing states; 6.2 GB main archive retained by authoritative URL/checksum rather than committed. Metadata/stimulus parsing and TextGrid archive enumeration are next backlog priorities. MRPL2 remains restricted; spINAch automatic Whisper+MFA, SSL-NL secondary/forced-aligned, and singing corpora were not admitted. All writes confined to manual_phonetic_production/."
 }
