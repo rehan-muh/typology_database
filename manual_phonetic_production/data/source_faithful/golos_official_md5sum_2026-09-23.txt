@@ -1,0 +1,19 @@
+# Source-faithful provenance snapshot: Golos official distribution checksums
+# Upstream: salute-developers/golos, golos/md5sum.txt
+# Retrieved: 2026-09-23
+# Do not treat model artifacts as primary production observations.
+453d4f8ef1d8adcc9d87020712f973c3  golos_opus.tar
+7531a7e76e04e794c5847d8e58b3154c  train_farfield.tar
+f88b397fc5dbc55ab326cd2360d5a0b2  train_crowd0.tar
+19db1416da982641f1565ec701939f39  train_crowd1.tar
+d032dfb48d548631400f3a78e24756f8  train_crowd2.tar
+83aeb8d3f8b93968b83224606801aceb  train_crowd3.tar
+df177493e1c1c7cbb0ac7f13f79dbc06  train_crowd4.tar
+724e4af231b3e226b32ca609db30862c  train_crowd5.tar
+bd6e18b94ad81aebb99039dedb71de25  train_crowd6.tar
+560960f748b7ac19bdb477dc9245cfc3  train_crowd7.tar
+bbc6814ca8377aaa75a4a987adad0b94  train_crowd8.tar
+eee4ff6dbebf77c738c69713ace7b768  train_crowd9.tar
+284a6e54ca7bf0dd599db1bea030775c  test.tar
+5bdf7ce2ba610db4d309413ca3cb4064  QuartzNet15x5_golos.nemo
+9ca0d96e47d5e2fb6f87ebec17066108  kenlms.tar
