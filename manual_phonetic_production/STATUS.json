@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-23T18:11:00-07:00",
-  "total_sources": 267,
-  "accepted_sources": 74,
+  "last_updated": "2026-09-23T19:10:00-07:00",
+  "total_sources": 268,
+  "accepted_sources": 75,
   "excluded_sources": 36,
   "review_sources": 157,
   "ingested_sources": 51,
   "parsed_rows_total": 1364990,
   "parsed_logical_tables_total": 241,
-  "inventory_file_records": 1319,
-  "variable_dictionary_records": 1387,
-  "notes": "Discovery plus backlog-verification pass. Added IFCASL to high-priority review: primary French/German L1/L2 read speech with word/phone segmentation and >50% manually corrected data, but authoritative public machine-readable deposit and isolatable corrected tiers were not established, so no premature core admission. Reopened upstream PAVOQUE angry YAML and directly verified complete manually corrected segment sequences through spike0008; parsed totals intentionally unchanged because the connector response remains truncated and newly inspected rows were not fully materialized into warehouse tables. MRPL2 access restriction, HAMATAC annotation scope, ROG lineage, and UrduSpeech benchmark eligibility were also screened conservatively. All writes confined to manual_phonetic_production/."
+  "inventory_file_records": 1325,
+  "variable_dictionary_records": 1396,
+  "notes": "Discovery plus backlog pass. Added the Karl Eberhards Corpus (KEC) as accepted with tier-level eligibility: current corpus description reports 40 spontaneous Southern German dialogues / 79 speakers and EMA for 20 speakers. Only manually corrected word boundaries and primary recording/EMA/metadata are core-eligible; automatically forced-aligned segment boundaries remain explicitly excluded. Added six-object manifest and nine seed dictionary records, preserving version differences from the 2016 35-dialogue/13-EMA-speaker release. BAS access is ACA (scientific-user access), so observation-level files were not falsely counted as parsed. All writes confined to manual_phonetic_production/."
 }
