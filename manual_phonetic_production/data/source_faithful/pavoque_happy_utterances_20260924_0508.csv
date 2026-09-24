@@ -1,0 +1,4 @@
+source_id,source_utterance_id,utterance_id,text,style,utterance_start_s,utterance_end_s
+pavoque_2014,poppy0001,pavoque_2014::poppy0001,"Hi, ich heiße Poppy.",happy,0.0,1.6
+pavoque_2014,poppy0002,pavoque_2014::poppy0002,Kennen wir uns?,happy,1.6,2.9
+pavoque_2014,poppy0003,pavoque_2014::poppy0003,Haben wir uns schon mal getroffen?,happy,2.9,5.34
