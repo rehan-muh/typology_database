@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-24T02:13:00-07:00",
+  "last_updated": "2026-09-24T04:11:00-07:00",
   "total_sources": 274,
-  "accepted_sources": 81,
+  "accepted_sources": 82,
   "excluded_sources": 36,
-  "review_sources": 157,
+  "review_sources": 156,
   "ingested_sources": 55,
   "parsed_rows_total": 1365086,
   "parsed_logical_tables_total": 245,
-  "inventory_file_records": 1358,
-  "variable_dictionary_records": 1449,
-  "notes": "Discovery plus backlog pass. Added PhonDat 2 (PD2) at manual-layer scope: BAS current catalogue gives 16 speakers / 3,200 read-speech utterances; historical BAS report states 64 sentences per speaker manually segmented and SAM-PA-labelled, while the corpus also has an automatic MAUS layer that is explicitly excluded. Added 5 manifest object classes and 6 dictionary concepts. Historical prosody count (8 speakers / 8,000 utterances) conflicts with current edition totals and is preserved as a release/version ambiguity pending file-level reconciliation. No inaccessible observation rows fabricated. All writes confined to manual_phonetic_production/."
+  "inventory_file_records": 1365,
+  "variable_dictionary_records": 1457,
+  "notes": "Discovery plus backlog pass. Promoted HAMATAC v1.0.0 from review to accepted at manual-layer scope after repository metadata explicitly confirmed manual `pho` annotation of phonetic phenomena, manual simplified-HIAT transcription, and manual disfluency annotation. Automatic TreeTagger POS/lemma are excluded from the manual core. Added 7 manifest object classes, 8 dictionary concepts, and explicit restricted-access ingestion backlog. Current metadata: 26 speakers, 24 recordings, 198 minutes, 21,433 words. v0.3/v1.0.0 treated as one recording lineage. No inaccessible observation rows or labels fabricated; parsed totals unchanged. All writes confined to manual_phonetic_production/."
 }
