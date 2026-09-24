@@ -1,0 +1,7 @@
+source_id,file_or_object,file_format,count,status,redistribution,provenance,notes
+clips_mt_manual_bas_v1_1,WAV turn recordings,WAV,3228,pending_distribution_access,prohibited_to_third_parties,BAS CLIPS_MT_MANUAL v1.1,"22.05 kHz 16-bit; inspected and partially repaired"
+clips_mt_manual_bas_v1_1,corrected CLIPS annotations,acs/phn/std/wrd,3228,pending_distribution_access,prohibited_to_third_parties,BAS CLIPS_MT_MANUAL v1.1,"corrected original annotation files"
+clips_mt_manual_bas_v1_1,BAS Partitur annotations,par,3228,pending_distribution_access,prohibited_to_third_parties,BAS CLIPS_MT_MANUAL v1.1,"ORT KAN SAP tiers"
+clips_mt_manual_bas_v1_1,EMU annotations,vot/hlb,3228,pending_distribution_access,prohibited_to_third_parties,BAS CLIPS_MT_MANUAL v1.1,"EMU database annotations; BAS page also lists .phonetic"
+clips_mt_manual_bas_v1_1,Praat annotations,TextGrid,,pending_distribution_access,prohibited_to_third_parties,BAS CLIPS_MT_MANUAL v1.1,"manual phonetic segmentation"
+clips_mt_manual_bas_v1_1,speaker/session protocol,SpeechDat,,pending_distribution_access,prohibited_to_third_parties,BAS CLIPS_MT_MANUAL v1.1,"metadata"
