@@ -1,0 +1,4 @@
+source_id,object_name,object_type,size_bytes,checksum_type,checksum,access,status,scope,notes
+RESCUESPEECH_ZENODO_8077622,Readme.md,documentation,6400,md5,5b6bf9922c78e37aef96199f0eb34b4d,public,processed,documentation,"v2 source metadata"
+RESCUESPEECH_ZENODO_8077622,Task_ASR.tar.gz,archive,643200000,md5,c5b9f7857c1970bfe34eae0805c6987b,public,pending_parse,"primary clean audio + annotations; synthetic noisy pairs also present","Must isolate primary clean recordings/annotations and exclude synthetic noisy derivatives"
+RESCUESPEECH_ZENODO_8077622,Task_enhancement.tar.gz,archive,3300000000,md5,0a933817af7ccd56982225ae46c3722c,public,excluded_from_core,synthetic_derivatives,"Multiple synthetic noisy variants derived from clean utterances; inventory retained but not core production observations"
