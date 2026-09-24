@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-23T16:09:00-07:00",
-  "total_sources": 265,
-  "accepted_sources": 73,
+  "last_updated": "2026-09-23T17:12:00-07:00",
+  "total_sources": 266,
+  "accepted_sources": 74,
   "excluded_sources": 36,
   "review_sources": 156,
-  "ingested_sources": 50,
-  "parsed_rows_total": 1364949,
-  "parsed_logical_tables_total": 240,
-  "inventory_file_records": 1311,
-  "variable_dictionary_records": 1378,
-  "notes": "Discovery plus backlog-ingestion pass. Added TunSwitch as accepted primary manually annotated Tunisian Arabic/code-switched production, explicitly isolating annotated TO/CS/test/language-annotation objects from weakly labeled audio and text-only material. Manifested six public archive-level objects and seeded four source-faithful variable concepts without inventing IPA or unverified coding. Added MultiFocus to review: 70 speakers, 2447 manually annotated Catalan/German productions, 16.5 h, with strong inter-rater evidence, but machine-readable TextGrid/EAF public availability still requires verification. Parsed row counts unchanged because archive members were not falsely counted before extraction. All writes confined to manual_phonetic_production/."
+  "ingested_sources": 51,
+  "parsed_rows_total": 1364990,
+  "parsed_logical_tables_total": 241,
+  "inventory_file_records": 1319,
+  "variable_dictionary_records": 1387,
+  "notes": "Discovery plus observation-level ingestion pass. Added PAVOQUE as accepted primary German expressive spoken production: public YAML files contain utterance text/style/start/end and manually corrected SAMPA phone segmentation. Manifested all six YAML annotation objects plus README/license with exact Git blob SHAs and sizes; seeded nine source-faithful variables. Ingested 41 directly verified phone-boundary rows from the accessible angry YAML excerpt without inventing IPA or extrapolating counts. Full YAML materialization remains pending because connector responses truncate multi-MB files and the execution container has no outbound GitHub DNS. Backlog attempts therefore preserve exact pending state rather than falsely counting unparsed objects. All writes confined to manual_phonetic_production/."
 }
