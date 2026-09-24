@@ -1,0 +1,6 @@
+source_id,object_class,eligibility,processing_status,count_or_extent,authoritative_reference,checksum,notes
+bas_phondat2_manual,primary_audio,eligible,pending_access,"3200 utterances / 16 speakers",https://www.bas.uni-muenchen.de/forschung/Bas/BasKorporaeng.html,,Do not commit bulk audio to GitHub
+bas_phondat2_manual,manual_segment_annotations,eligible,pending_access,"64 sentences per speaker; 1024 expected if complete",https://www.bas.uni-muenchen.de/forschung/publikationen/BASReport1995-2000.pdf,,Manual SAM-PA segmentation/labels; exact distributed file inventory pending access
+bas_phondat2_manual,prosodic_annotations,eligible,pending_access,"8 speakers / 8000 utterances stated in BAS historical report; reconcile apparent count/version mismatch before row ingest",https://www.bas.uni-muenchen.de/forschung/publikationen/BASReport1995-2000.pdf,,Preserve as version/release ambiguity; do not force into current 3200-utterance edition
+bas_phondat2_manual,automatic_MAUS_segmentation,excluded,do_not_ingest,"remainder/whole corpus automatic layer",https://www.bas.uni-muenchen.de/forschung/Bas/BasKorporaeng.html,,Explicitly outside manual core except lineage reference
+bas_phondat2_manual,documentation,eligible,indexed,"BAS catalogue + historical BAS report",https://www.bas.uni-muenchen.de/forschung/Bas/BasKorporaeng.html,,Authoritative source reference
