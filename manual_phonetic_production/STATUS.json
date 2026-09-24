@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-23T17:12:00-07:00",
-  "total_sources": 266,
+  "last_updated": "2026-09-23T18:11:00-07:00",
+  "total_sources": 267,
   "accepted_sources": 74,
   "excluded_sources": 36,
-  "review_sources": 156,
+  "review_sources": 157,
   "ingested_sources": 51,
   "parsed_rows_total": 1364990,
   "parsed_logical_tables_total": 241,
   "inventory_file_records": 1319,
   "variable_dictionary_records": 1387,
-  "notes": "Discovery plus observation-level ingestion pass. Added PAVOQUE as accepted primary German expressive spoken production: public YAML files contain utterance text/style/start/end and manually corrected SAMPA phone segmentation. Manifested all six YAML annotation objects plus README/license with exact Git blob SHAs and sizes; seeded nine source-faithful variables. Ingested 41 directly verified phone-boundary rows from the accessible angry YAML excerpt without inventing IPA or extrapolating counts. Full YAML materialization remains pending because connector responses truncate multi-MB files and the execution container has no outbound GitHub DNS. Backlog attempts therefore preserve exact pending state rather than falsely counting unparsed objects. All writes confined to manual_phonetic_production/."
+  "notes": "Discovery plus backlog-verification pass. Added IFCASL to high-priority review: primary French/German L1/L2 read speech with word/phone segmentation and >50% manually corrected data, but authoritative public machine-readable deposit and isolatable corrected tiers were not established, so no premature core admission. Reopened upstream PAVOQUE angry YAML and directly verified complete manually corrected segment sequences through spike0008; parsed totals intentionally unchanged because the connector response remains truncated and newly inspected rows were not fully materialized into warehouse tables. MRPL2 access restriction, HAMATAC annotation scope, ROG lineage, and UrduSpeech benchmark eligibility were also screened conservatively. All writes confined to manual_phonetic_production/."
 }
