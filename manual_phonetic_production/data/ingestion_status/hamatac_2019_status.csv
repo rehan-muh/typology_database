@@ -1,0 +1,2 @@
+source_id,status,files_processed,files_pending,speakers,recordings,utterances_trials,tokens_segments,measurement_rows,variables_documented,next_action
+hamatac_2019,accepted_restricted_manual_layers,0,"restricted corpus objects",26,24,,,0,8,"Obtain authorized corpus files; enumerate EXMARaLDA objects; ingest manual transcription/disfluency/pho tiers source-faithfully; isolate automatic POS/lemma; derive namespaced speaker/recording/annotation IDs; preserve v0.3/v1.0.0 lineage."
