@@ -1,0 +1,19 @@
+source_id,upstream_path,git_blob_sha,size_bytes,object_role,lineage_note
+vot_marathi_2025,Audio files/original recordings/F1.opus,198eee33aaf3b5c677bef466b344f4647a131319,69549,original_audio,primary recording
+vot_marathi_2025,Audio files/original recordings/F2.opus,e9f18a62c3adb89c92e27cad9347a2b9677b91fd,76231,original_audio,primary recording
+vot_marathi_2025,Audio files/original recordings/F3.mp3,ce4527b7d41b1067d62802e5ae4353b13dfbc115,972707,original_audio,primary recording
+vot_marathi_2025,Audio files/original recordings/F4(Aai).mp4,ad6c274379b5ca0ae052607756199ed8b93fadef,1825811,original_audio,primary recording
+vot_marathi_2025,Audio files/original recordings/M1(Ghoda).mp3,173ff53c5a557e41627517efde33bddd872b8d58,1192268,original_audio,primary recording
+vot_marathi_2025,Audio files/original recordings/M2(Atharva).mp3,9748df9fd5f139102e46f34faecad4d1c20352cf,2082412,original_audio,primary recording
+vot_marathi_2025,Audio files/original recordings/M3(Rushikesh).opus,18164ed3a6d955c1fa2b5b87300e355cb0f22b27,89418,original_audio,primary recording
+vot_marathi_2025,Audio files/original recordings/M5(Prasad).mp4,f76af7cb4ab3b1c015598e206a66dab7c410b910,1173586,original_audio,primary recording
+vot_marathi_2025,Audio files/original recordings/M6(Papa).mp4,c6b9b5a8402ff7bfc613c9ab345959b4623b11ac,1429162,original_audio,primary recording
+vot_marathi_2025,Audio files/wav files/F1.wav,3e753a4a5283ef5ea6cab291c937c862af6799f4,7804670,wav_derivative,converted from primary recording
+vot_marathi_2025,Audio files/wav files/F2.wav,cc3322ef5fa864b5efb8332a998d90e45646ddb8,7981310,wav_derivative,converted from primary recording
+vot_marathi_2025,Audio files/wav files/F3.wav,f610f0556a0fe95bf4a9c9a72740462bc6995703,5359182,wav_derivative,converted from primary recording
+vot_marathi_2025,Audio files/wav files/mono/F1_mono.TextGrid,5e8227b6b16a40f725c17b25be7c7b2f373cd362,18578,manual_annotation,TextGrid
+vot_marathi_2025,Audio files/wav files/mono/F2_mono.TextGrid,d9500e488bf4599c93f43681dc51391b5a481eae,41438,manual_annotation,TextGrid
+vot_marathi_2025,Audio files/wav files/mono/F3_mono.TextGrid,c94f0d75a627ba16fae2163d0ac9a35fd141ca76,17112,manual_annotation,TextGrid
+vot_marathi_2025,Audio files/wav files/mono/M1_Ghoda__mono.TextGrid,6db9d06d6733a2224f0bb7eeeb1e6d7513ef577b,5638,manual_annotation,TextGrid
+vot_marathi_2025,Audio files/wav files/mono/M1_Kshitij__mono.TextGrid,1f355643462f174fb2979c5891573eec025d33c8,32494,manual_annotation,TextGrid
+vot_marathi_2025,Audio files/wav files/mono/M2_Atharva__mono.TextGrid,ac1f87f9fe1778cbe05e4fa4c8a6d90535180294,32157,manual_annotation,TextGrid
