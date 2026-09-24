@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-24T01:10:00-07:00",
-  "total_sources": 273,
-  "accepted_sources": 80,
+  "last_updated": "2026-09-24T02:13:00-07:00",
+  "total_sources": 274,
+  "accepted_sources": 81,
   "excluded_sources": 36,
   "review_sources": 157,
   "ingested_sources": 55,
   "parsed_rows_total": 1365086,
   "parsed_logical_tables_total": 245,
-  "inventory_file_records": 1353,
-  "variable_dictionary_records": 1443,
-  "notes": "Discovery plus backlog pass. Added CLIPS_MT_MANUAL v1.1 at corrected manual-layer scope: 30 Italian speakers / 30 map-task dialogues, 3,228 inspected/repaired recordings and annotation sets, 104,056 manually segmented phonetic segments, including partial closure+burst segmentation for plosives. Added six manifest object classes, eight dictionary concepts, and component-level ingestion status. Scientific distribution is controlled and prohibits third-party redistribution, so inaccessible binaries were not copied and observation rows were not fabricated. Underlying CLIPS recordings flagged for lineage deduplication. All writes confined to manual_phonetic_production/."
+  "inventory_file_records": 1358,
+  "variable_dictionary_records": 1449,
+  "notes": "Discovery plus backlog pass. Added PhonDat 2 (PD2) at manual-layer scope: BAS current catalogue gives 16 speakers / 3,200 read-speech utterances; historical BAS report states 64 sentences per speaker manually segmented and SAM-PA-labelled, while the corpus also has an automatic MAUS layer that is explicitly excluded. Added 5 manifest object classes and 6 dictionary concepts. Historical prosody count (8 speakers / 8,000 utterances) conflicts with current edition totals and is preserved as a release/version ambiguity pending file-level reconciliation. No inaccessible observation rows fabricated. All writes confined to manual_phonetic_production/."
 }
