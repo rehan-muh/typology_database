@@ -1,0 +1,25 @@
+source_id,source_utterance_id,text,style,utterance_start_s,utterance_end_s,segment_index,original_segment_label,segment_end_relative_s,segment_start_relative_s,segment_start_absolute_s,segment_end_absolute_s,provenance
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,1,_,0.5,0.0,0.0,0.5,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,2,?,0.560901,0.5,0.5,0.560901,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,3,a:,0.631346,0.560901,0.560901,0.631346,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,4,R,0.715,0.631346,0.631346,0.715,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,5,m,0.79,0.715,0.715,0.79,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,6,o~,1.048699,0.79,0.79,1.048699,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,7,h,1.134429,1.048699,1.048699,1.134429,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,8,a,1.207532,1.134429,1.134429,1.207532,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,9,t,1.292598,1.207532,1.207532,1.292598,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,10,@,1.335,1.292598,1.292598,1.335,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,11,n,1.39,1.335,1.335,1.39,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,12,O,1.445,1.39,1.39,1.445,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,13,x,1.513901,1.445,1.445,1.513901,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,14,ts,1.64,1.513901,1.513901,1.64,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,15,v,1.67938,1.64,1.64,1.67938,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,16,aI,1.81,1.67938,1.67938,1.81,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,17,S,1.965812,1.81,1.81,1.965812,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,18,v,2.018978,1.965812,1.965812,2.018978,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,19,E,2.075,2.018978,2.018978,2.075,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,20,s,2.205,2.075,2.075,2.205,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,21,t,2.262877,2.205,2.205,2.262877,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,22,6,2.341296,2.262877,2.262877,2.341296,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,23,n,2.385158,2.341296,2.341296,2.385158,marytts/pavoque-data:pavoque-neutral.yaml
+PAVOQUE,pavoque::a0001,"Armand hatte noch zwei Schwestern.",neutral,0.0,4.04,24,_,4.035,2.385158,2.385158,4.035,marytts/pavoque-data:pavoque-neutral.yaml
