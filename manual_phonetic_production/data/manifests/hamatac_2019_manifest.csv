@@ -1,0 +1,8 @@
+source_id,object_class,authoritative_reference,access,eligibility,processed_status,notes
+hamatac_2019,audio recordings,https://www.fdr.uni-hamburg.de/record/1481,restricted,primary production,pending access,"24 recordings; 198 minutes"
+hamatac_2019,manual orthographic transcription,https://www.fdr.uni-hamburg.de/record/1481,restricted,core eligible,pending access,"simplified HIAT"
+hamatac_2019,manual disfluency annotation,https://www.fdr.uni-hamburg.de/record/1481,restricted,core eligible,pending access,"manual production annotation"
+hamatac_2019,manual pho annotation,https://www.fdr.uni-hamburg.de/record/1481,restricted,core eligible,pending access,"manual annotation of phonetic phenomena"
+hamatac_2019,POS annotation,https://www.fdr.uni-hamburg.de/record/1481,restricted,excluded automatic,pending access,"TreeTagger/STTS; not evidence for manual core"
+hamatac_2019,lemma annotation,https://www.fdr.uni-hamburg.de/record/1481,restricted,excluded automatic,pending access,"TreeTagger; not evidence for manual core"
+hamatac_2019,maps/task materials,https://www.fdr.uni-hamburg.de/record/1481,restricted,experimental metadata,pending access,"Map-task elicitation materials"
