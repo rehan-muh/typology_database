@@ -1,0 +1,7 @@
+source_id,object,format,access,eligibility,manual_status,provenance,notes
+kec_southern_german,audio recordings,WAV,BAS ACA,eligible_primary,primary recording,BAS Repository,"Individual-channel spontaneous dialogue audio; 40 dialogues / 79 speakers in current corpus description."
+kec_southern_german,annotation files,Praat TextGrid,BAS ACA,partially_eligible,mixed,BAS Repository,"WORD boundaries manually corrected; SEGMENT boundaries automatically forced-aligned and excluded from core unless separately human-verified."
+kec_southern_german,articulography,EMA trajectories,BAS ACA,eligible_primary,primary measurement,BAS Repository,"Half-hour articulography sessions for 20 speakers in current description; earlier 2016 release reported 13 speakers. Preserve release/version provenance."
+kec_southern_german,participant questionnaire,text/metadata,BAS ACA,eligible_metadata,human supplied,BAS Repository,"Demographics and language/media-use metadata; skipped responses explicitly possible."
+kec_southern_german,processing scripts,R scripts,BAS ACA,derived_support,not annotation,BAS Repository,"Scripts for reading TextGrids/articulography and tagging articulography; inventory but do not count as observations."
+kec_southern_german,reduced-form lexicon,text,BAS ACA,eligible_context,curated,BAS Repository,"Frequently reduced forms and canonical equivalents; retain as lexical/context table when materialized."
