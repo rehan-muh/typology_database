@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-23T22:07:00-07:00",
-  "total_sources": 271,
-  "accepted_sources": 78,
+  "last_updated": "2026-09-23T23:13:00-07:00",
+  "total_sources": 272,
+  "accepted_sources": 79,
   "excluded_sources": 36,
   "review_sources": 157,
-  "ingested_sources": 54,
-  "parsed_rows_total": 1365062,
-  "parsed_logical_tables_total": 244,
-  "inventory_file_records": 1340,
-  "variable_dictionary_records": 1425,
-  "notes": "Discovery plus backlog pass. Added VOT Analysis of Marathi as accepted primary manually annotated production: 6 native speakers, 36-word list targeting 12 plosives, public audio/TextGrids, manual Praat marking of burst and voicing onset. Manifested 7 visible TextGrids plus XLSX and stimulus PDF with exact Git blob SHAs/sizes; added 7 dictionary records; ingested 36 exact non-empty F1 word intervals with namespaced IDs. No IPA inferred and blank inspected phoneme tier not promoted. All writes confined to manual_phonetic_production/."
+  "ingested_sources": 55,
+  "parsed_rows_total": 1365086,
+  "parsed_logical_tables_total": 245,
+  "inventory_file_records": 1347,
+  "variable_dictionary_records": 1435,
+  "notes": "Discovery plus backlog pass. Added L2-ARCTIC v5 at manual-layer scope: 24 L2 English speakers, 26,867 read utterances / 27.1 h, 3,599 manually examined read utterances; v5 suitcase adds manually annotated spontaneous speech from 22 speakers. Ingested complete 24-speaker source summary, added 10 dictionary and 7 manifest records. Forced-aligned bulk TextGrids explicitly excluded unless represented by the manual annotation layer. Access-gated archives not falsely counted as parsed observations. All writes confined to manual_phonetic_production/."
 }
