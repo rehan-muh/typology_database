@@ -1,0 +1,11 @@
+source_id,source_speaker_id,speaker_id_namespaced,age,gender,native_language
+spire_vcv_2021,F1,spire_vcv_2021::F1,22,Female,Bengali
+spire_vcv_2021,M1,spire_vcv_2021::M1,21,Male,Tulu
+spire_vcv_2021,F2,spire_vcv_2021::F2,27,Female,Bengali
+spire_vcv_2021,M2,spire_vcv_2021::M2,20,Male,Bengali
+spire_vcv_2021,F3,spire_vcv_2021::F3,23,Female,Tamil
+spire_vcv_2021,M3,spire_vcv_2021::M3,21,Male,Tamil
+spire_vcv_2021,F4,spire_vcv_2021::F4,20,Female,Kannada
+spire_vcv_2021,M4,spire_vcv_2021::M4,23,Male,Tamil
+spire_vcv_2021,F5,spire_vcv_2021::F5,21,Female,Malayalam
+spire_vcv_2021,M5,spire_vcv_2021::M5,20,Male,Hindi
