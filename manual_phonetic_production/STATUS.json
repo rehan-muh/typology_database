@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-24T07:09:00-07:00",
-  "total_sources": 276,
+  "last_updated": "2026-09-24T08:09:00-07:00",
+  "total_sources": 278,
   "accepted_sources": 84,
   "excluded_sources": 36,
-  "review_sources": 156,
+  "review_sources": 158,
   "ingested_sources": 56,
   "parsed_rows_total": 1365170,
   "parsed_logical_tables_total": 247,
-  "inventory_file_records": 1373,
-  "variable_dictionary_records": 1472,
-  "notes": "Discovery plus backlog pass. Added IFA Spoken Language Corpus as accepted primary hand-segmented Dutch speech from 8 speakers, with lineage guard against duplicate archival mirrors. Added source-faithful seed dictionary and explicit object-parse backlog without fabricating unavailable file-level details. Screened BeDiaCo as high-priority review pending verification of manual provenance; excluded automatic/secondary/singing/synthetic candidates encountered. Also reconciled the 24 PAVOQUE neutral segment rows committed in the immediately preceding pass into parsed_rows_total. All writes confined to manual_phonetic_production/."
+  "inventory_file_records": 1380,
+  "variable_dictionary_records": 1481,
+  "notes": "Discovery plus backlog pass. Added SAIT-EMA and IFCASL as high-priority review candidates without over-admitting automatic layers. SAIT-EMA contributes primary 250-Hz EMA + synchronized 48-kHz audio from 18 speakers with manual token-level screening/re-recording provenance, but supplied MFA TextGrids are explicitly excluded pending manual verification. IFCASL reports >50% manually corrected word/phone segmentation and remains review pending isolation of corrected objects. Re-audited PAVOQUE upstream annotation tree and recorded exact blob SHAs/sizes for all six YAML objects. No new observation rows were falsely claimed because connector truncation prevented exhaustive YAML parsing. All writes confined to manual_phonetic_production/."
 }
