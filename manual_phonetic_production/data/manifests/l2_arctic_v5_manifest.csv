@@ -1,0 +1,8 @@
+source_id,object_class,path_pattern,format,eligibility,processed,status,authoritative_reference,notes
+l2_arctic_v5,audio,<speaker>/wav/*.wav,WAV,eligible primary recordings,no,remote_access,https://psi.engr.tamu.edu/l2-arctic-corpus/,"44.1 kHz; do not commit bulk audio"
+l2_arctic_v5,orthographic_transcript,<speaker>/transcript/*.txt,TXT,eligible,no,remote_access,https://psi.engr.tamu.edu/l2-arctic-corpus-docs/,"source transcript"
+l2_arctic_v5,automatic_alignment,<speaker>/textgrid/*.TextGrid,TextGrid,excluded unless corresponding manually examined layer can be isolated,no,remote_access,https://psi.engr.tamu.edu/l2-arctic-corpus-docs/,"forced-aligned phoneme transcription"
+l2_arctic_v5,manual_annotation,<speaker>/annotation/*.TextGrid,TextGrid,eligible,no,remote_access,https://psi.engr.tamu.edu/l2-arctic-corpus-docs/,"3599 read utterances manually examined; words/phones plus optional comments"
+l2_arctic_v5,suitcase_audio,suitcase_corpus/*/wav or corpus-defined WAV paths,WAV,eligible primary recordings,no,remote_access,https://psi.engr.tamu.edu/l2-arctic-corpus-docs/,"22 speakers; 26.1 minutes"
+l2_arctic_v5,suitcase_manual_annotation,suitcase_corpus/*/annotation or corpus-defined TextGrid paths,TextGrid,eligible,no,remote_access,https://psi.engr.tamu.edu/l2-arctic-corpus-docs/,"manual annotations; no forced-aligned TextGrids included"
+l2_arctic_v5,documentation,README.md/README.pdf/LICENSE/PROMPTS,mixed,provenance,partial,documented,https://psi.engr.tamu.edu/l2-arctic-corpus-docs/,"access requires license form"
