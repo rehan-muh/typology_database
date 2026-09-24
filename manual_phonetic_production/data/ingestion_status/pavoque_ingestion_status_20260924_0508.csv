@@ -1,0 +1,8 @@
+source_id,object,eligibility,status,rows_ingested,remaining,priority,notes
+pavoque_2014,pavoque-happy.yaml,eligible,partial,60,yes,high,"3 utterance rows + 57 manually corrected segment rows ingested; continue file to exhaustion"
+pavoque_2014,pavoque-angry.yaml,eligible,pending,0,yes,high,Parse all utterances and corrected segments
+pavoque_2014,pavoque-neutral.yaml,eligible,pending,0,yes,high,Largest YAML; parse all utterances and corrected segments
+pavoque_2014,pavoque-poker.yaml,eligible,pending,0,yes,high,Parse all spoken utterances and corrected segments
+pavoque_2014,pavoque-sad.yaml,eligible,pending,0,yes,high,Parse all spoken utterances and corrected segments
+pavoque_2014,pavoque-outtakes.yaml,review,pending,0,yes,medium,Review whether each item is usable primary production before admission
+pavoque_2014,FLAC audio,eligible,reference_only,0,yes,medium,Do not commit large raw audio; retain authoritative upstream reference and add per-object checksums if exposed
