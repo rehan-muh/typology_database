@@ -1,0 +1,9 @@
+source_id,file_path,file_type,bytes,git_blob_sha,eligibility,processing_status,notes
+pavoque_2014,pavoque-angry.yaml,YAML,641141,bff79d978f740f6c2b09bc595ade03b6bdf33423,eligible,pending_full_parse,Public utterance metadata and optionally manually corrected segments
+pavoque_2014,pavoque-happy.yaml,YAML,611136,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,eligible,partial_parse,First three utterances and all visible segment observations ingested this pass
+pavoque_2014,pavoque-neutral.yaml,YAML,4968933,29deb5aa1b75b1aaa98d51896f9d849e12bc7bc0,eligible,pending_full_parse,Public utterance metadata and optionally manually corrected segments
+pavoque_2014,pavoque-outtakes.yaml,YAML,286310,a72da519c13068f8c05b6fd038cd8ecac540b80c,review,pending,Outtakes require confirmation as valid intended productions before core observation admission
+pavoque_2014,pavoque-poker.yaml,YAML,630189,20a8bdc3cee75f3e19517dfeeda1a2230cb033c9,eligible,pending_full_parse,Public spoken expressive style
+pavoque_2014,pavoque-sad.yaml,YAML,604376,199a4dde1e3a50576a1a691664473aa9f35f41ed,eligible,pending_full_parse,Public spoken expressive style
+pavoque_2014,README.md,documentation,3574,3b10a17eaeba6ee0843dc68147c3b5d3e7b5ba6d,metadata,processed,Manual-correction and format evidence
+pavoque_2014,LICENSE.md,license,19124,b82befc65e04152ae5575586fb20c0095a62a91c,metadata,processed,Upstream license object retained by immutable blob identity
