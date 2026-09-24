@@ -1,0 +1,6 @@
+source_id,component,status,rows_ingested,files_ingested,files_pending,next_action,notes
+clips_mt_manual_bas_v1_1,registry,complete,1,1,0,,accepted at corrected manual-layer scope
+clips_mt_manual_bas_v1_1,source_files,blocked_access,0,0,3228+,obtain BAS/ELRA scientific distribution,"distribution usable without restrictions except redistribution to third parties; current public page is metadata/documentation, not bulk downloadable files"
+clips_mt_manual_bas_v1_1,manual_segments,pending,0,0,3228+,parse .phn/.TextGrid/.vot/.hlb after access,"expected 104056 phonetic segments"
+clips_mt_manual_bas_v1_1,speaker_metadata,pending,0,0,,parse SpeechDat protocols after access,"30 speakers"
+clips_mt_manual_bas_v1_1,lineage,reviewed,0,0,0,,corrected edition of CLIPS map-task recordings; deduplicate underlying audio against any CLIPS registry source
