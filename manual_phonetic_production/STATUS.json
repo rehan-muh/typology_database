@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-24T04:11:00-07:00",
-  "total_sources": 274,
-  "accepted_sources": 82,
+  "last_updated": "2026-09-24T05:08:00-07:00",
+  "total_sources": 275,
+  "accepted_sources": 83,
   "excluded_sources": 36,
   "review_sources": 156,
-  "ingested_sources": 55,
-  "parsed_rows_total": 1365086,
-  "parsed_logical_tables_total": 245,
-  "inventory_file_records": 1365,
-  "variable_dictionary_records": 1457,
-  "notes": "Discovery plus backlog pass. Promoted HAMATAC v1.0.0 from review to accepted at manual-layer scope after repository metadata explicitly confirmed manual `pho` annotation of phonetic phenomena, manual simplified-HIAT transcription, and manual disfluency annotation. Automatic TreeTagger POS/lemma are excluded from the manual core. Added 7 manifest object classes, 8 dictionary concepts, and explicit restricted-access ingestion backlog. Current metadata: 26 speakers, 24 recordings, 198 minutes, 21,433 words. v0.3/v1.0.0 treated as one recording lineage. No inaccessible observation rows or labels fabricated; parsed totals unchanged. All writes confined to manual_phonetic_production/."
+  "ingested_sources": 56,
+  "parsed_rows_total": 1365146,
+  "parsed_logical_tables_total": 247,
+  "inventory_file_records": 1373,
+  "variable_dictionary_records": 1467,
+  "notes": "Discovery plus backlog pass. Added PAVOQUE as accepted primary non-singing expressive German speech because upstream documentation explicitly identifies phonetic segments as manually corrected. Inventoried all six public style YAMLs plus README/license with immutable Git blob SHAs. Materially parsed 3 source-faithful utterances and all 57 segment observations visible for those utterances from pavoque-happy.yaml, retaining original SAMPA-based labels and raw endpoints plus separate defensibly derived starts/absolute times. Full remaining YAML parse is tracked as backlog; outtakes remain review. No IPA invented and no raw audio committed. All writes confined to manual_phonetic_production/."
 }
