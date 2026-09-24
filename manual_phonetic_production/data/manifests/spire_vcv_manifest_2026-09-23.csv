@@ -1,0 +1,4 @@
+source_id,object_id,object_type,authoritative_url,access_status,redistribution,license,checksum,processed_status,eligibility,notes
+spire_vcv_2021,spire_web_description,web_metadata,https://spire.ee.iisc.ac.in/src/spire-vcv.php,public,reference_only,CC-BY-4.0,,processed,eligible,"Authoritative design annotation speaker and equipment metadata"
+spire_vcv_2021,spire_distribution,corpus_distribution,https://spiredatasets.ee.iisc.ac.in/spirevcvcorpus,form_gated,per_license,CC-BY-4.0,,pending_access,eligible,"Dataset access form; corpus files not exposed to crawler in this run; do not invent file inventory/checksums"
+spire_vcv_2021,spire_paper,paper,https://doi.org/10.1109/O-COCOSDA202152914.2021.9660422,metadata_public,reference_only,,,processed,provenance,"Corpus publication"
