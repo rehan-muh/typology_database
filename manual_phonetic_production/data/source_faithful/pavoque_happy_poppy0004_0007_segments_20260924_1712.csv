@@ -1,0 +1,120 @@
+source_id,source_file,source_blob_sha,prompt,text,style,utterance_start_s,utterance_end_s,segment_index,original_label,segment_end_rel_s,segment_start_rel_s,segment_start_abs_s,segment_end_abs_s
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,1,"_",0.683385,0,5.34,6.023385
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,2,"n",0.736673,0.683385,6.023385,6.0766729999999995
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,3,"u:",0.824316,0.736673,6.0766729999999995,6.1643159999999995
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,4,"n",0.91,0.824316,6.1643159999999995,6.25
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,5,"d",0.934351,0.91,6.25,6.274351
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,6,"a",1,0.934351,6.274351,6.34
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,7,"n",1.06,1,6.34,6.4
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,8,"v",1.101542,1.06,6.4,6.441542
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,9,"e:",1.170679,1.101542,6.441542,6.510679
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,10,"6",1.177327,1.170679,6.510679,6.517327
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,11,"d",1.205248,1.177327,6.517327,6.545248
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,12,"@",1.206729,1.205248,6.545248,6.546729
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,13,"?",1.208084,1.206729,6.546729,6.548083999999999
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,14,"I",1.265644,1.208084,6.548083999999999,6.605644
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,15,"C",1.356386,1.265644,6.605644,6.696386
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,16,"m",1.402095,1.356386,6.696386,6.742095
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,17,"I",1.425458,1.402095,6.742095,6.765458
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,18,"C",1.48,1.425458,6.765458,6.82
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,19,"f",1.571728,1.48,6.82,6.911728
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,20,"o:",1.62,1.571728,6.911728,6.96
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,21,"6",1.67,1.62,6.96,7.01
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,22,"S",1.765327,1.67,7.01,7.105327
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,23,"t",1.806339,1.765327,7.105327,7.146338999999999
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,24,"E",1.907292,1.806339,7.146338999999999,7.247292
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,25,"l",1.965,1.907292,7.247292,7.305
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,26,"@",1.968585,1.965,7.305,7.308585
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,27,"n",2.039342,1.968585,7.308585,7.379341999999999
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0004,"Nun dann werde ich mich vorstellen.",happy,5.34,8.94,28,"_",3.595,2.039342,7.379341999999999,8.935
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,1,"_",0.6,0,8.94,9.54
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,2,"n",0.644295,0.6,9.54,9.584295
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,3,"u:",0.73857,0.644295,9.584295,9.678569999999999
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,4,"n",0.83,0.73857,9.678569999999999,9.77
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,5,"d",0.959336,0.83,9.77,9.899336
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,6,"a",1.02,0.959336,9.899336,9.959999999999999
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,7,"n",1.069245,1.02,9.959999999999999,10.009245
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,8,"v",1.12,1.069245,10.009245,10.059999999999999
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,9,"aI",1.24,1.12,10.059999999999999,10.18
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,10,"s",1.31275,1.24,10.18,10.252749999999999
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,11,"t",1.365,1.31275,10.252749999999999,10.305
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,12,"d",1.400394,1.365,10.305,10.340394
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,13,"u:",1.412711,1.400394,10.340394,10.352711
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,14,"j",1.470982,1.412711,10.352711,10.410981999999999
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,15,"a:",1.525,1.470982,10.410981999999999,10.465
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,16,"d",1.54536,1.525,10.465,10.48536
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,17,"a",1.61,1.54536,10.48536,10.549999999999999
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,18,"s",1.68,1.61,10.549999999999999,10.62
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,19,"?",1.695,1.68,10.62,10.635
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,20,"I",1.727251,1.695,10.635,10.667251
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,21,"C",1.785,1.727251,10.667251,10.725
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,22,"?",1.82,1.785,10.725,10.76
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,23,"I",1.85883,1.82,10.76,10.798829999999999
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,24,"m",1.92,1.85883,10.798829999999999,10.86
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,25,"6",1.986079,1.92,10.86,10.926079
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,26,"d",2.025,1.986079,10.926079,10.965
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,27,"i:",2.11153,2.025,10.965,11.05153
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,28,"g",2.182124,2.11153,11.05153,11.122124
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,29,"u:",2.285,2.182124,11.122124,11.225
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,30,"t",2.34,2.285,11.225,11.28
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,31,"@",2.406047,2.34,11.28,11.346046999999999
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,32,"z",2.49,2.406047,11.346046999999999,11.43
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,33,"aI",2.626822,2.49,11.43,11.566822
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,34,"t",2.695,2.626822,11.566822,11.635
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,35,"@",2.736535,2.695,11.635,11.676535
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,36,"d",2.76,2.736535,11.676535,11.7
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,37,"@",2.835457,2.76,11.7,11.775457
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,38,"s",2.915944,2.835457,11.775457,11.855944
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,39,"l",2.977545,2.915944,11.855944,11.917545
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,40,"e:",3.067474,2.977545,11.917545,12.007473999999998
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,41,"b",3.127276,3.067474,12.007473999999998,12.067276
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,42,"@",3.13,3.127276,12.067276,12.07
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,43,"n",3.171791,3.13,12.07,12.111791
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,44,"s",3.237439,3.171791,12.111791,12.177439
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,45,"b",3.31,3.237439,12.177439,12.25
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,46,"@",3.349401,3.31,12.25,12.289401
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,47,"t",3.441578,3.349401,12.289401,12.381578
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,48,"R",3.49,3.441578,12.381578,12.43
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,49,"a",3.57,3.49,12.43,12.51
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,50,"x",3.665,3.57,12.51,12.605
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,51,"t",3.747786,3.665,12.605,12.687786
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,52,"@",3.855251,3.747786,12.687786,12.795251
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0006,"Nun dann weißt du ja, dass ich immer die gute Seite des Lebens betrachte.",happy,8.94,14.82,53,"_",5.875,3.855251,12.795251,14.815
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,1,"_",0.495,0,14.82,15.315
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,2,"?",0.526034,0.495,15.315,15.346034
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,3,"a",0.569633,0.526034,15.346034,15.389633
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,4,"l",0.604228,0.569633,15.389633,15.424228
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,5,"z",0.648301,0.604228,15.424228,15.468301
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,6,"o:",0.695,0.648301,15.468301,15.515
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,7,"s",0.76,0.695,15.515,15.58
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,8,"a",0.875,0.76,15.58,15.695
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,9,"g",0.975295,0.875,15.695,15.795295
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,10,"_",1.33,0.975295,15.795295,16.15
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,11,"v",1.362001,1.33,16.15,16.182001
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,12,"i:",1.433087,1.362001,16.182001,16.253087
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,13,"g",1.487586,1.433087,16.253087,16.307586
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,14,"e:",1.554407,1.487586,16.307586,16.374407
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,15,"t",1.602745,1.554407,16.374407,16.422745
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,16,"?",1.603812,1.602745,16.422745,16.423812
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,17,"E",1.636562,1.603812,16.423812,16.456562
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,18,"s",1.69407,1.636562,16.456562,16.51407
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,19,"d",1.757654,1.69407,16.51407,16.577654
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,20,"i:",1.798153,1.757654,16.577654,16.618153
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,21,"6",1.850396,1.798153,16.618153,16.670396
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,22,"h",1.899805,1.850396,16.670396,16.719805
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,23,"OY",2.014417,1.899805,16.719805,16.834417000000002
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,24,"t",2.08043,2.014417,16.834417000000002,16.90043
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,25,"@",2.178843,2.08043,16.90043,16.998843
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0007,"Also sag, wie geht es dir heute?",happy,14.82,18.24,26,"_",3.415,2.178843,16.998843,18.235
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0008,"Ah – erzähl mir davon!",happy,18.24,21.06,1,"_",0.215,0,18.24,18.455
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0008,"Ah – erzähl mir davon!",happy,18.24,21.06,2,"?",0.379471,0.215,18.455,18.619470999999997
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0008,"Ah – erzähl mir davon!",happy,18.24,21.06,3,"a:",0.66384,0.379471,18.619470999999997,18.90384
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0008,"Ah – erzähl mir davon!",happy,18.24,21.06,4,"_",1.021867,0.66384,18.90384,19.261867
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0008,"Ah – erzähl mir davon!",happy,18.24,21.06,5,"?",1.1,1.021867,19.261867,19.34
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0008,"Ah – erzähl mir davon!",happy,18.24,21.06,6,"E",1.145,1.1,19.34,19.384999999999998
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0008,"Ah – erzähl mir davon!",happy,18.24,21.06,7,"6",1.163586,1.145,19.384999999999998,19.403585999999997
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0008,"Ah – erzähl mir davon!",happy,18.24,21.06,8,"ts",1.300643,1.163586,19.403585999999997,19.540643
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0008,"Ah – erzähl mir davon!",happy,18.24,21.06,9,"E:",1.391465,1.300643,19.540643,19.631465
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0008,"Ah – erzähl mir davon!",happy,18.24,21.06,10,"l",1.427382,1.391465,19.631465,19.667382
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0008,"Ah – erzähl mir davon!",happy,18.24,21.06,11,"m",1.483254,1.427382,19.667382,19.723253999999997
+PAVOQUE,pavoque-happy.yaml,9ed4b66625a6c6df746730b6bf45ae35b9baaa38,poppy0008,"Ah – erzähl mir davon!",happy,18.24,21.06,12,"i:",1.522912,1.483254,19.723253999999997,19.762912
