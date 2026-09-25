@@ -1,0 +1,8 @@
+source_id,source_speaker_id,namespaced_speaker_id,utterance_id,namespaced_utterance_id,source_path,source_blob_sha,tier,tier_index,interval_index,xmin_s,xmax_s,label_original
+L2_ARCTIC_V5,ABA,L2_ARCTIC_V5::ABA,arctic_a0003,L2_ARCTIC_V5::ABA::arctic_a0003,ABA/annotation/arctic_a0003.TextGrid,aa3914c4e424864f51726ef2c90871fcd09d2357,phones,2,29,3.0911764973319493,3.14,"sil,K,a"
+L2_ARCTIC_V5,ABA,L2_ARCTIC_V5::ABA,arctic_a0003,L2_ARCTIC_V5::ABA::arctic_a0003,ABA/annotation/arctic_a0003.TextGrid,aa3914c4e424864f51726ef2c90871fcd09d2357,phones,2,45,4.65,4.71,"D,S,s"
+L2_ARCTIC_V5,ABA,L2_ARCTIC_V5::ABA,arctic_a0003,L2_ARCTIC_V5::ABA::arctic_a0003,ABA/annotation/arctic_a0003.TextGrid,aa3914c4e424864f51726ef2c90871fcd09d2357,phones,2,46,4.71,4.87,"Z,S,s "
+L2_ARCTIC_V5,ABA,L2_ARCTIC_V5::ABA,arctic_a0005,L2_ARCTIC_V5::ABA::arctic_a0005,ABA/annotation/arctic_a0005.TextGrid,666b524c0b636a096c831375e2b672fa3535fada,phones,2,10,0.9,1.07,"ER0,AH0,s"
+L2_ARCTIC_V5,ABA,L2_ARCTIC_V5::ABA,arctic_a0005,L2_ARCTIC_V5::ABA::arctic_a0005,ABA/annotation/arctic_a0005.TextGrid,666b524c0b636a096c831375e2b672fa3535fada,phones,2,19,1.99,2.09,"IH0,EH,s"
+L2_ARCTIC_V5,ABA,L2_ARCTIC_V5::ABA,arctic_a0006,L2_ARCTIC_V5::ABA::arctic_a0006,ABA/annotation/arctic_a0006.TextGrid,8a8518344b16cb28edeade0c51d6198da54c9c4a,phones,2,9,0.93,1.0127483250638591,"sil,DH,a"
+L2_ARCTIC_V5,ABA,L2_ARCTIC_V5::ABA,arctic_a0006,L2_ARCTIC_V5::ABA::arctic_a0006,ABA/annotation/arctic_a0006.TextGrid,8a8518344b16cb28edeade0c51d6198da54c9c4a,phones,2,37,4.57,4.66,"ER0,AH0,s"
