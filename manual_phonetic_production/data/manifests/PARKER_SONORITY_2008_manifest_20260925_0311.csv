@@ -1,0 +1,4 @@
+source_id,repository_version,file_class,publicly_accessible,ingested,checksum,format,content,provenance,notes
+PARKER_SONORITY_2008,6,raw_recordings,true,false,,WAV,"English and Spanish speech recordings","Mendeley Data DOI 10.17632/5jcwt7rffw.6","44.1 kHz; recorded in Ukarumpa PNG and Lima Peru; bulk file enumeration not exposed by indexed landing page"
+PARKER_SONORITY_2008,6,manual_annotations,unknown,false,,Praat,"manual segment boundaries","deposit description","Deposit explicitly says WAV files were manually segmented and analyzed in Praat 4.3.17, but annotation objects are not exposed on the public landing page"
+PARKER_SONORITY_2008,6,derived_measurements,unknown,false,,unknown,"sound-level/sonority measurements","related Journal of Phonetics article","Do not reconstruct values from figures or prose; ingest only if public source objects are located"
