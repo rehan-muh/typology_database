@@ -1,0 +1,10 @@
+source_id,dataset,file_name,role,manual_core_status,md5,size,provenance_notes
+IFADV_2008,IFA Dialog Video corpus,Annotations.zip,annotation_archive,PARTIAL_CORE,2d960d28b266e13e64f5db1d96cb4fe4,12.5 MB,"Manual: orthographic transcription; functional dialogue annotation; gaze. Automatic: awd word/phoneme alignment, POS, ainton. Do not ingest automatic tiers into manual core."
+IFADV_2008,IFA Dialog Video corpus,AudioFLAC.zip,primary_audio_reference,CORE_LINEAGE,bf8d757eb21b114177a4af2d1b30d7d7,3.2 GB,"Primary spontaneous Dutch dialogue audio; keep URL/checksum rather than GitHub audio."
+IFADV_2008,IFA Dialog Video corpus,AudioWAV.zip,primary_audio_reference_duplicate_encoding,CORE_LINEAGE,098f78ad5bd5f07b641df8ba53474d2a,5.8 GB,"Same underlying recordings as FLAC; encoding duplicate, not additional recordings."
+IFADV_2008,IFA Dialog Video corpus,tables.zip,tabular_annotation_export,PARTIAL_CORE,27977e186d058d3d379e2d5ef1fbb67e,15.6 MB,"Contains NextChunk.txt; ProperTurnSwitches.txt; RandomTurnSwitches.txt; ackawd.txt; ainton.txt; awd.txt; fct.txt; fon.txt; gaze.txt; ort.txt; recordings.txt; seg.txt; subjects.txt. Admit only rows traceable to manual layers."
+IFADV_2008,IFA Dialog Video corpus,Documents.zip,documentation,REFERENCE,79324df8b1f54e6e28243e09bbad4e23,1.5 MB,"Forms papers and annotation documentation."
+IFADV_2008,IFA Dialog Video corpus,scripts.zip,processing_scripts,REFERENCE,47f4c6914d207098fab92ceef29d5303,15.8 kB,"Processing scripts."
+IFADV_2008,IFA Dialog Video corpus,SMILoverlays.zip,synchronization_metadata,REFERENCE,b010b68bf38f0f1ade3e49006d71b2c0,17.8 kB,"Dropped-frame synchronization corrections."
+IFADV_2008,IFA Dialog Video corpus,VideoAnnotatie.zip,annotation_manual,REFERENCE,7cac54cd33b6067e1ec3dab73404229f,23.7 kB,"Video annotation instructions/manuals."
+IFADV_2008,IFA Dialog Video corpus,VideoOGV.zip,primary_video_reference,CORE_LINEAGE,2a7a251a876a1dcaa48c25af884edecd,8.7 GB,"Primary synchronized video; conversation 21 missing from this encoding."
