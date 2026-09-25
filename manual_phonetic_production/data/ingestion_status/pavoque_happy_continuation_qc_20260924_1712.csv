@@ -1,0 +1,5 @@
+source_id,file,prompt,status,reason
+PAVOQUE,pavoque_happy_poppy0004_0007_segments_20260924_1712.csv,poppy0004,complete,complete utterance parsed from upstream lines
+PAVOQUE,pavoque_happy_poppy0004_0007_segments_20260924_1712.csv,poppy0006,complete,complete utterance parsed from upstream lines
+PAVOQUE,pavoque_happy_poppy0004_0007_segments_20260924_1712.csv,poppy0007,complete,complete utterance parsed from upstream lines
+PAVOQUE,pavoque_happy_poppy0004_0007_segments_20260924_1712.csv,poppy0008,PARTIAL_EXCLUDE,upstream ranged fetch ended mid-utterance; rows must not enter harmonized core until full utterance is fetched
