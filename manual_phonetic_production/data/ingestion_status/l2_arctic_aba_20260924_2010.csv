@@ -1,0 +1,4 @@
+source_id,file_path,source_blob_sha,bytes,annotation_provenance,processed_scope,rows_ingested,notes
+L2_ARCTIC_V5,ABA/annotation/arctic_a0003.TextGrid,aa3914c4e424864f51726ef2c90871fcd09d2357,7473,manual_annotation_corrected_boundaries_and_error_tags,full_file_inspected_error_tag_rows_ingested,3,"3 tiers; words 18 intervals; phones 48; IPA 4. Full source retained upstream; this increment ingests error-bearing phone intervals only while complete interval parse remains backlog."
+L2_ARCTIC_V5,ABA/annotation/arctic_a0005.TextGrid,666b524c0b636a096c831375e2b672fa3535fada,4164,manual_annotation_corrected_boundaries_and_error_tags,full_file_inspected_error_tag_rows_ingested,2,"3 tiers; words 10; phones 22; IPA 5."
+L2_ARCTIC_V5,ABA/annotation/arctic_a0006.TextGrid,8a8518344b16cb28edeade0c51d6198da54c9c4a,6503,manual_annotation_corrected_boundaries_and_error_tags,full_file_inspected_error_tag_rows_ingested,2,"3 tiers; words 17; phones 39; IPA 3."
