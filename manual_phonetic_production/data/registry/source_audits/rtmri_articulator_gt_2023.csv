@@ -1,0 +1,2 @@
+source_id,title,status,speakers,frames,manual_annotation,doi,source_url
+rtmri_articulator_gt_2023,"Real-time speech MRI with articulator ground-truth segmentations",accepted,5,392,"Manual pixel segmentation of six anatomical classes plus expert velopharyngeal contact labels","10.5281/zenodo.10046815","https://zenodo.org/records/10046815"
